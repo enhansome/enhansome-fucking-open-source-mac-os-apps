@@ -7,7 +7,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "43143⭐ 2129🍴 LosslessCut",
+              "title": "43196⭐ 2136🍴 LosslessCut",
               "description": ") - The swiss army knife of lossless video/audio editing without re-encoding.",
               "children": [],
               "repo_info": {
@@ -17,27 +17,27 @@
                 "last_commit": "2026-08-21T09:03:12Z",
                 "owner": "mifi",
                 "repo": "lossless-cut",
-                "stars": 43181
+                "stars": 43206
               }
             },
             {
               "node_type": "item",
-              "title": "36648⭐ 3488🍴 MPV",
+              "title": "36681⭐ 3494🍴 MPV",
               "description": ") - Lightweight, highly configurable media player.",
               "children": [],
               "repo_info": {
                 "archived": false,
                 "id": 6201092,
                 "language": "C",
-                "last_commit": "2026-08-23T16:09:02Z",
+                "last_commit": "2026-08-25T23:47:41Z",
                 "owner": "mpv-player",
                 "repo": "mpv",
-                "stars": 36673
+                "stars": 36683
               }
             },
             {
               "node_type": "item",
-              "title": "34020⭐ 989🍴 MonitorControl",
+              "title": "34031⭐ 989🍴 MonitorControl",
               "description": ") - Control your external monitor brightness, contrast or volume directly from a menulet or with keyboard native keys.",
               "children": [],
               "repo_info": {
@@ -47,12 +47,12 @@
                 "last_commit": "2026-08-11T12:43:28Z",
                 "owner": "MonitorControl",
                 "repo": "MonitorControl",
-                "stars": 34027
+                "stars": 34036
               }
             },
             {
               "node_type": "item",
-              "title": "19614⭐ 831🍴 BlackHole",
+              "title": "19626⭐ 833🍴 BlackHole",
               "description": ") - BlackHole is a modern macOS virtual audio driver that allows applications to pass audio to other applications with zero additional latency.",
               "children": [],
               "repo_info": {
@@ -62,12 +62,12 @@
                 "last_commit": "2026-08-11T23:33:14Z",
                 "owner": "ExistentialAudio",
                 "repo": "BlackHole",
-                "stars": 19622
+                "stars": 19627
               }
             },
             {
               "node_type": "item",
-              "title": "19245⭐ 775🍴 Background Music",
+              "title": "19250⭐ 775🍴 Background Music",
               "description": ") - Background Music, a macOS audio utility: automatically pause your music, set individual apps' volumes and record system audio.",
               "children": [],
               "repo_info": {
@@ -77,12 +77,12 @@
                 "last_commit": "2026-06-10T08:58:49Z",
                 "owner": "kyleneideck",
                 "repo": "BackgroundMusic",
-                "stars": 19249
+                "stars": 19251
               }
             },
             {
               "node_type": "item",
-              "title": "17615⭐ 2614🍴 Audacity",
+              "title": "17623⭐ 2614🍴 Audacity",
               "description": ") - Free, open source, cross-platform audio software",
               "children": [],
               "repo_info": {
@@ -92,7 +92,7 @@
                 "last_commit": "2026-08-24T12:27:02Z",
                 "owner": "audacity",
                 "repo": "audacity",
-                "stars": 17618
+                "stars": 17628
               }
             },
             {
@@ -104,7 +104,7 @@
                 "archived": false,
                 "id": 19316865,
                 "language": "C",
-                "last_commit": "2026-08-25T08:02:31Z",
+                "last_commit": "2026-08-26T09:55:09Z",
                 "owner": "mikebrady",
                 "repo": "shairport-sync",
                 "stars": 8825
@@ -112,7 +112,7 @@
             },
             {
               "node_type": "item",
-              "title": "6755⭐ 364🍴 eqMac2",
+              "title": "6760⭐ 364🍴 eqMac2",
               "description": ") - System-Wide Equalizer for the Mac.",
               "children": [],
               "repo_info": {
@@ -122,12 +122,12 @@
                 "last_commit": "2026-04-24T14:53:15Z",
                 "owner": "bitgapp",
                 "repo": "eqMac",
-                "stars": 6759
+                "stars": 6761
               }
             },
             {
               "node_type": "item",
-              "title": "5206⭐ 457🍴 LyricsX",
+              "title": "5207⭐ 458🍴 LyricsX",
               "description": ") - Lyrics for iTunes, Spotify and Vox.",
               "children": [],
               "repo_info": {
@@ -149,7 +149,7 @@
                 "archived": false,
                 "id": 14979312,
                 "language": "C++",
-                "last_commit": "2026-08-25T09:12:49Z",
+                "last_commit": "2026-08-26T09:31:47Z",
                 "owner": "clementine-player",
                 "repo": "Clementine",
                 "stars": 4241
@@ -172,7 +172,7 @@
             },
             {
               "node_type": "item",
-              "title": "1946⭐ 94🍴 fre:ac",
+              "title": "1947⭐ 94🍴 fre:ac",
               "description": ") - The fre:ac audio converter project.",
               "children": [],
               "repo_info": {
@@ -182,7 +182,7 @@
                 "last_commit": "2026-08-22T16:05:45Z",
                 "owner": "enzo1982",
                 "repo": "freac",
-                "stars": 1948
+                "stars": 1946
               }
             },
             {
@@ -232,7 +232,7 @@
             },
             {
               "node_type": "item",
-              "title": "892⭐ 119🍴 Karaoke Forever",
+              "title": "892⭐ 120🍴 Karaoke Forever",
               "description": ") - Host awesome karaoke parties where everyone can queue songs from their phone's browser. Plays MP3+G and MP4 with WebGL visualizations.",
               "children": [],
               "repo_info": {
@@ -257,7 +257,7 @@
                 "last_commit": "2025-04-21T17:51:22Z",
                 "owner": "stargatedaw",
                 "repo": "stargate",
-                "stars": 872
+                "stars": 873
               }
             },
             {
@@ -584,7 +584,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "15312⭐ 945🍴 Mackup",
+              "title": "15314⭐ 944🍴 Mackup",
               "description": ") - Keep your application settings in sync (macOS/Linux).",
               "children": [],
               "repo_info": {
@@ -599,7 +599,7 @@
             },
             {
               "node_type": "item",
-              "title": "1335⭐ 267🍴 shallow-backup",
+              "title": "1336⭐ 267🍴 shallow-backup",
               "description": ") - Easily create lightweight documentation of installed applications, dotfiles, and more.",
               "children": [],
               "repo_info": {
@@ -609,12 +609,12 @@
                 "last_commit": "2026-03-21T11:43:30Z",
                 "owner": "alichtman",
                 "repo": "shallow-backup",
-                "stars": 1335
+                "stars": 1336
               }
             },
             {
               "node_type": "item",
-              "title": "896⭐ 167🍴 UrBackup",
+              "title": "897⭐ 167🍴 UrBackup",
               "description": ") - UrBackup is Client/Server network backup for Windows, macOS and Linux.",
               "children": [],
               "repo_info": {
@@ -624,7 +624,7 @@
                 "last_commit": "2026-08-23T20:52:58Z",
                 "owner": "uroni",
                 "repo": "urbackup_backend",
-                "stars": 896
+                "stars": 897
               }
             },
             {
@@ -666,17 +666,17 @@
           "children": [
             {
               "node_type": "item",
-              "title": "23423⭐ 3202🍴 Brave Browser",
+              "title": "23445⭐ 3203🍴 Brave Browser",
               "description": ") - Brave browser for Desktop and Laptop computers running Windows, macOS, and Linux.",
               "children": [],
               "repo_info": {
                 "archived": false,
                 "id": 110178895,
                 "language": null,
-                "last_commit": "2026-08-25T04:03:20Z",
+                "last_commit": "2026-08-26T06:51:50Z",
                 "owner": "brave",
                 "repo": "brave-browser",
-                "stars": 23438
+                "stars": 23443
               }
             },
             {
@@ -691,7 +691,7 @@
                 "last_commit": "2026-08-23T21:28:01Z",
                 "owner": "minbrowser",
                 "repo": "min",
-                "stars": 9156
+                "stars": 9153
               }
             },
             {
@@ -711,7 +711,7 @@
             },
             {
               "node_type": "item",
-              "title": "5037⭐ 203🍴 Finicky",
+              "title": "5041⭐ 203🍴 Finicky",
               "description": ") - Always opens the right browser.",
               "children": [],
               "repo_info": {
@@ -721,7 +721,7 @@
                 "last_commit": "2026-07-01T21:45:31Z",
                 "owner": "johnste",
                 "repo": "finicky",
-                "stars": 5041
+                "stars": 5042
               }
             },
             {
@@ -741,7 +741,7 @@
             },
             {
               "node_type": "item",
-              "title": "3865⭐ 225🍴 Pennywise",
+              "title": "3865⭐ 226🍴 Pennywise",
               "description": ") - Pennywise opens any website or media in a small floating window that remains on top of all other applications. It's a great alternative to Helium.",
               "children": [],
               "repo_info": {
@@ -793,7 +793,7 @@
                 "archived": false,
                 "id": 10487363,
                 "language": "C++",
-                "last_commit": "2026-08-24T20:05:41Z",
+                "last_commit": "2026-08-25T21:39:37Z",
                 "owner": "OtterBrowser",
                 "repo": "otter-browser",
                 "stars": 1983
@@ -811,7 +811,7 @@
                 "last_commit": "2023-08-26T17:38:12Z",
                 "owner": "smmr-software",
                 "repo": "privacy-redirect-safari",
-                "stars": 182
+                "stars": 183
               }
             },
             {
@@ -838,22 +838,22 @@
           "children": [
             {
               "node_type": "item",
-              "title": "32707⭐ 7124🍴 Telegram Desktop",
+              "title": "32737⭐ 7128🍴 Telegram Desktop",
               "description": ") - Telegram Desktop messaging app.",
               "children": [],
               "repo_info": {
                 "archived": false,
                 "id": 19374812,
                 "language": "C++",
-                "last_commit": "2026-08-25T07:22:30Z",
+                "last_commit": "2026-08-26T09:27:23Z",
                 "owner": "telegramdesktop",
                 "repo": "tdesktop",
-                "stars": 32725
+                "stars": 32738
               }
             },
             {
               "node_type": "item",
-              "title": "16491⭐ 3100🍴 Signal Desktop",
+              "title": "16496⭐ 3103🍴 Signal Desktop",
               "description": ") - Electron app that links with your Signal Android or Signal iOS app.",
               "children": [],
               "repo_info": {
@@ -863,12 +863,12 @@
                 "last_commit": "2026-08-24T02:16:01Z",
                 "owner": "signalapp",
                 "repo": "Signal-Desktop",
-                "stars": 16494
+                "stars": 16497
               }
             },
             {
               "node_type": "item",
-              "title": "13838⭐ 2658🍴 Electronic WeChat",
+              "title": "13837⭐ 2658🍴 Electronic WeChat",
               "description": ") - Better WeChat on macOS and Linux.",
               "children": [],
               "repo_info": {
@@ -883,14 +883,14 @@
             },
             {
               "node_type": "item",
-              "title": "13402⭐ 2737🍴 Element",
+              "title": "13408⭐ 2737🍴 Element",
               "description": ") - Element is a collaboration app (currently Electron) for the 🌎 Matrix protocol.",
               "children": [],
               "repo_info": {
                 "archived": false,
                 "id": 39487546,
                 "language": "TypeScript",
-                "last_commit": "2026-08-25T09:27:51Z",
+                "last_commit": "2026-08-26T10:00:33Z",
                 "owner": "element-hq",
                 "repo": "element-web",
                 "stars": 13407
@@ -898,7 +898,7 @@
             },
             {
               "node_type": "item",
-              "title": "5746⭐ 1024🍴 Telegram",
+              "title": "5745⭐ 1024🍴 Telegram",
               "description": ") - Source code of Telegram for macOS on Swift.",
               "children": [],
               "repo_info": {
@@ -913,7 +913,7 @@
             },
             {
               "node_type": "item",
-              "title": "4710⭐ 578🍴 Franz",
+              "title": "4710⭐ 579🍴 Franz",
               "description": ") - Franz is messaging application for services like WhatsApp, Slack, Messenger and many more.",
               "children": [],
               "repo_info": {
@@ -928,7 +928,7 @@
             },
             {
               "node_type": "item",
-              "title": "2649⭐ 99🍴 Swiftcord",
+              "title": "2662⭐ 99🍴 Swiftcord",
               "description": ") - Native Discord client built in Swift & SwiftUI. Light on your RAM and CPU.",
               "children": [],
               "repo_info": {
@@ -938,12 +938,12 @@
                 "last_commit": "2026-06-20T10:38:53Z",
                 "owner": "SwiftcordApp",
                 "repo": "Swiftcord",
-                "stars": 2658
+                "stars": 2663
               }
             },
             {
               "node_type": "item",
-              "title": "1909⭐ 277🍴 Textual",
+              "title": "1909⭐ 276🍴 Textual",
               "description": ") - Textual is an IRC client for macOS.",
               "children": [],
               "repo_info": {
@@ -973,14 +973,14 @@
             },
             {
               "node_type": "item",
-              "title": "1697⭐ 830🍴 RocketChat",
+              "title": "1696⭐ 830🍴 RocketChat",
               "description": ") - Free open source chat system for teams. An alternative to Slack that can also be self hosted.",
               "children": [],
               "repo_info": {
                 "archived": false,
                 "id": 38767563,
                 "language": "TypeScript",
-                "last_commit": "2026-08-24T17:51:23Z",
+                "last_commit": "2026-08-25T22:09:12Z",
                 "owner": "RocketChat",
                 "repo": "Rocket.Chat.Electron",
                 "stars": 1696
@@ -995,7 +995,7 @@
                 "archived": false,
                 "id": 64225407,
                 "language": "TypeScript",
-                "last_commit": "2026-08-25T08:16:35Z",
+                "last_commit": "2026-08-26T08:16:11Z",
                 "owner": "wireapp",
                 "repo": "wire-desktop",
                 "stars": 1128
@@ -1018,7 +1018,7 @@
             },
             {
               "node_type": "item",
-              "title": "391⭐ 44🍴 Adium",
+              "title": "392⭐ 45🍴 Adium",
               "description": ") - Instant messaging application that can connect to XMPP (Jabber), IRC and more.",
               "children": [],
               "repo_info": {
@@ -1115,17 +1115,17 @@
           "children": [
             {
               "node_type": "item",
-              "title": "89989⭐ 39325🍴 Bitcoin Core",
+              "title": "90011⭐ 39335🍴 Bitcoin Core",
               "description": ") - Official Bitcoin Core software for running a full Bitcoin node.",
               "children": [],
               "repo_info": {
                 "archived": false,
                 "id": 1181927,
                 "language": "C++",
-                "last_commit": "2026-08-25T09:42:06Z",
+                "last_commit": "2026-08-25T21:53:17Z",
                 "owner": "bitcoin",
                 "repo": "bitcoin",
-                "stars": 90003
+                "stars": 90013
               }
             },
             {
@@ -1155,7 +1155,7 @@
                 "last_commit": "2024-07-13T05:06:49Z",
                 "owner": "bitpay",
                 "repo": "copay",
-                "stars": 209
+                "stars": 210
               }
             },
             {
@@ -1182,22 +1182,22 @@
           "children": [
             {
               "node_type": "item",
-              "title": "51516⭐ 4349🍴 DBeaver",
+              "title": "51538⭐ 4353🍴 DBeaver",
               "description": ") - Universal database tool and SQL client.",
               "children": [],
               "repo_info": {
                 "archived": false,
                 "id": 44662669,
                 "language": "Java",
-                "last_commit": "2026-08-25T09:40:07Z",
+                "last_commit": "2026-08-26T09:50:43Z",
                 "owner": "dbeaver",
                 "repo": "dbeaver",
-                "stars": 51532
+                "stars": 51545
               }
             },
             {
               "node_type": "item",
-              "title": "24512⭐ 2364🍴 DB Browser for SQLite",
+              "title": "24520⭐ 2365🍴 DB Browser for SQLite",
               "description": ") - SQLite database management GUI.",
               "children": [],
               "repo_info": {
@@ -1207,27 +1207,27 @@
                 "last_commit": "2026-08-22T22:43:31Z",
                 "owner": "sqlitebrowser",
                 "repo": "sqlitebrowser",
-                "stars": 24517
+                "stars": 24524
               }
             },
             {
               "node_type": "item",
-              "title": "23500⭐ 1615🍴 Beekeeper Studio",
+              "title": "23508⭐ 1615🍴 Beekeeper Studio",
               "description": ") - SQL editor and manager with support for SQLite, MySQL, MariaDB, Postgres, CockroachDB, SQL Server, and Amazon Redshift.",
               "children": [],
               "repo_info": {
                 "archived": false,
                 "id": 198484780,
                 "language": "TypeScript",
-                "last_commit": "2026-08-24T23:40:05Z",
+                "last_commit": "2026-08-25T20:29:37Z",
                 "owner": "beekeeper-studio",
                 "repo": "beekeeper-studio",
-                "stars": 23507
+                "stars": 23509
               }
             },
             {
               "node_type": "item",
-              "title": "23230⭐ 3235🍴 Redis Desktop Manager",
+              "title": "23231⭐ 3235🍴 Redis Desktop Manager",
               "description": ") - Cross-platform open source database management tool for Redis ®",
               "children": [],
               "repo_info": {
@@ -1252,12 +1252,12 @@
                 "last_commit": "2024-02-21T05:21:54Z",
                 "owner": "luin",
                 "repo": "medis",
-                "stars": 11725
+                "stars": 11726
               }
             },
             {
               "node_type": "item",
-              "title": "9366⭐ 824🍴 Robo 3T",
+              "title": "9365⭐ 824🍴 Robo 3T",
               "description": ") - Robo 3T (formerly Robomongo) is the free lightweight GUI for MongoDB enthusiasts.",
               "children": [],
               "repo_info": {
@@ -1282,19 +1282,19 @@
                 "last_commit": "2023-02-25T08:11:30Z",
                 "owner": "sequelpro",
                 "repo": "sequelpro",
-                "stars": 9195
+                "stars": 9196
               }
             },
             {
               "node_type": "item",
-              "title": "7771⭐ 401🍴 Postgres.app",
+              "title": "7769⭐ 402🍴 Postgres.app",
               "description": ") - The easiest way to get started with PostgreSQL on the Mac.",
               "children": [],
               "repo_info": {
                 "archived": false,
                 "id": 3946572,
                 "language": "Makefile",
-                "last_commit": "2026-08-25T08:05:41Z",
+                "last_commit": "2026-08-26T08:55:34Z",
                 "owner": "PostgresApp",
                 "repo": "PostgresApp",
                 "stars": 7769
@@ -1302,22 +1302,22 @@
             },
             {
               "node_type": "item",
-              "title": "7512⭐ 330🍴 Sequel Ace",
+              "title": "7514⭐ 330🍴 Sequel Ace",
               "description": ") - Sequel Ace is a fast, easy-to-use Mac database management application for working with MySQL & MariaDB databases.",
               "children": [],
               "repo_info": {
                 "archived": false,
                 "id": 271553915,
                 "language": "Objective-C",
-                "last_commit": "2026-08-25T05:37:31Z",
+                "last_commit": "2026-08-25T21:37:24Z",
                 "owner": "Sequel-Ace",
                 "repo": "Sequel-Ace",
-                "stars": 7513
+                "stars": 7514
               }
             },
             {
               "node_type": "item",
-              "title": "7275⭐ 467🍴 DbGate",
+              "title": "7277⭐ 468🍴 DbGate",
               "description": ") - Database manager for MySQL, PostgreSQL, SQL Server, MongoDB, SQLite and others. Runs under Windows, Linux, Mac or as web application.",
               "children": [],
               "repo_info": {
@@ -1327,12 +1327,12 @@
                 "last_commit": "2026-08-24T12:08:28Z",
                 "owner": "dbgate",
                 "repo": "dbgate",
-                "stars": 7276
+                "stars": 7280
               }
             },
             {
               "node_type": "item",
-              "title": "4759⭐ 529🍴 sqlectron",
+              "title": "4758⭐ 529🍴 sqlectron",
               "description": ") - A simple and lightweight SQL client desktop/terminal with cross database and platform support.",
               "children": [],
               "repo_info": {
@@ -1342,7 +1342,7 @@
                 "last_commit": "2026-06-22T07:20:05Z",
                 "owner": "sqlectron",
                 "repo": "sqlectron",
-                "stars": 4759
+                "stars": 4758
               }
             },
             {
@@ -1459,7 +1459,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "5884⭐ 176🍴 Clipboard",
+              "title": "5889⭐ 176🍴 Clipboard",
               "description": ") - An easy-to-use clipboard manager with time saving features that work across all terminals.",
               "children": [],
               "repo_info": {
@@ -1469,12 +1469,12 @@
                 "last_commit": "2026-05-06T17:53:52Z",
                 "owner": "Slackadays",
                 "repo": "Clipboard",
-                "stars": 5888
+                "stars": 5891
               }
             },
             {
               "node_type": "item",
-              "title": "3098⭐ 236🍴 LocationSimulator",
+              "title": "3096⭐ 238🍴 LocationSimulator",
               "description": ") - Application to spoof your iOS or iPhoneSimulator location.",
               "children": [],
               "repo_info": {
@@ -1484,7 +1484,7 @@
                 "last_commit": "2026-08-18T00:15:50Z",
                 "owner": "Schlaubischlump",
                 "repo": "LocationSimulator",
-                "stars": 3097
+                "stars": 3098
               }
             },
             {
@@ -1496,10 +1496,10 @@
                 "archived": false,
                 "id": 102083576,
                 "language": "Java",
-                "last_commit": "2026-08-22T06:46:44Z",
+                "last_commit": "2026-08-25T18:32:50Z",
                 "owner": "apache",
                 "repo": "netbeans",
-                "stars": 3096
+                "stars": 3095
               }
             },
             {
@@ -1514,7 +1514,7 @@
                 "last_commit": "2023-04-02T09:42:58Z",
                 "owner": "amirdew",
                 "repo": "CollectionViewPagingLayout",
-                "stars": 2798
+                "stars": 2799
               }
             },
             {
@@ -1574,7 +1574,7 @@
                 "last_commit": "2026-03-30T18:29:06Z",
                 "owner": "sindresorhus",
                 "repo": "Pasteboard-Viewer",
-                "stars": 848
+                "stars": 849
               }
             },
             {
@@ -1589,7 +1589,7 @@
                 "last_commit": "2026-07-09T09:34:44Z",
                 "owner": "DigiDNA",
                 "repo": "ColorSet",
-                "stars": 246
+                "stars": 247
               }
             },
             {
@@ -1601,7 +1601,7 @@
                 "archived": false,
                 "id": 470955049,
                 "language": "Java",
-                "last_commit": "2026-08-24T23:03:57Z",
+                "last_commit": "2026-08-25T23:03:12Z",
                 "owner": "eclipse-platform",
                 "repo": "eclipse.platform",
                 "stars": 166
@@ -1671,7 +1671,7 @@
               "children": [
                 {
                   "node_type": "item",
-                  "title": "21779⭐ 10511🍴 GitHub Desktop",
+                  "title": "21787⭐ 10515🍴 GitHub Desktop",
                   "description": ") - Simple collaboration from your desktop.",
                   "children": [],
                   "repo_info": {
@@ -1681,12 +1681,12 @@
                     "last_commit": "2026-08-20T17:11:27Z",
                     "owner": "desktop",
                     "repo": "desktop",
-                    "stars": 21788
+                    "stars": 21790
                   }
                 },
                 {
                   "node_type": "item",
-                  "title": "12107⭐ 1490🍴 GitUp",
+                  "title": "12108⭐ 1491🍴 GitUp",
                   "description": ") - The Git interface you've been missing all your life has finally arrived.",
                   "children": [],
                   "repo_info": {
@@ -1701,17 +1701,17 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "5325⭐ 289🍴 Gitify",
+                  "title": "5330⭐ 290🍴 Gitify",
                   "description": ") - Your GitHub notifications on your menu bar.",
                   "children": [],
                   "repo_info": {
                     "archived": false,
                     "id": 36029706,
                     "language": "TypeScript",
-                    "last_commit": "2026-08-24T19:45:32Z",
+                    "last_commit": "2026-08-26T01:34:42Z",
                     "owner": "gitify-app",
                     "repo": "gitify",
-                    "stars": 5329
+                    "stars": 5330
                   }
                 },
                 {
@@ -1741,12 +1741,12 @@
                     "last_commit": "2026-04-14T03:27:00Z",
                     "owner": "MitMaro",
                     "repo": "git-interactive-rebase-tool",
-                    "stars": 1884
+                    "stars": 1883
                   }
                 },
                 {
                   "node_type": "item",
-                  "title": "1212⭐ 74🍴 Trailer",
+                  "title": "1212⭐ 75🍴 Trailer",
                   "description": ") - Managing Pull Requests and Issues For GitHub & GitHub Enterprise.",
                   "children": [],
                   "repo_info": {
@@ -1791,7 +1791,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "907⭐ 91🍴 GitX",
+                  "title": "907⭐ 92🍴 GitX",
                   "description": ") - Graphical client for the git version control system.",
                   "children": [],
                   "repo_info": {
@@ -1816,7 +1816,7 @@
                     "last_commit": "2026-07-13T23:50:25Z",
                     "owner": "maoyama",
                     "repo": "Changes",
-                    "stars": 311
+                    "stars": 313
                   }
                 },
                 {
@@ -2055,12 +2055,12 @@
                     "last_commit": "2026-08-17T05:45:43Z",
                     "owner": "emqx",
                     "repo": "MQTTX",
-                    "stars": 5031
+                    "stars": 5032
                   }
                 },
                 {
                   "node_type": "item",
-                  "title": "4179⭐ 388🍴 Boop",
+                  "title": "4178⭐ 388🍴 Boop",
                   "description": ") - A scriptable scratchpad for developers.",
                   "children": [],
                   "repo_info": {
@@ -2070,7 +2070,7 @@
                     "last_commit": "2024-06-30T22:16:41Z",
                     "owner": "IvanMathy",
                     "repo": "Boop",
-                    "stars": 4179
+                    "stars": 4178
                   }
                 },
                 {
@@ -2127,37 +2127,37 @@
               "children": [
                 {
                   "node_type": "item",
-                  "title": "39956⭐ 2362🍴 Insomnia",
+                  "title": "39957⭐ 2363🍴 Insomnia",
                   "description": ") - Insomnia is a cross-platform REST client, built on top of Electron.",
                   "children": [],
                   "repo_info": {
                     "archived": false,
                     "id": 56899284,
                     "language": "TypeScript",
-                    "last_commit": "2026-08-25T09:53:53Z",
+                    "last_commit": "2026-08-26T09:56:20Z",
                     "owner": "Kong",
                     "repo": "insomnia",
-                    "stars": 39961
+                    "stars": 39956
                   }
                 },
                 {
                   "node_type": "item",
-                  "title": "6749⭐ 700🍴 Requestly",
+                  "title": "6749⭐ 699🍴 Requestly",
                   "description": ") - A lightweight open-source API Development, Testing & Mocking platform",
                   "children": [],
                   "repo_info": {
                     "archived": false,
                     "id": 75255555,
                     "language": null,
-                    "last_commit": "2026-08-25T05:39:29Z",
+                    "last_commit": "2026-08-26T05:30:16Z",
                     "owner": "requestly",
                     "repo": "requestly",
-                    "stars": 6749
+                    "stars": 6750
                   }
                 },
                 {
                   "node_type": "item",
-                  "title": "722⭐ 109🍴 HTTP Toolkit",
+                  "title": "724⭐ 109🍴 HTTP Toolkit",
                   "description": ") - HTTP Toolkit is a cross-platform tool to intercept, debug & mock HTTP.",
                   "children": [],
                   "repo_info": {
@@ -2167,7 +2167,7 @@
                     "last_commit": "2026-08-21T13:58:02Z",
                     "owner": "httptoolkit",
                     "repo": "httptoolkit-desktop",
-                    "stars": 724
+                    "stars": 725
                   }
                 },
                 {
@@ -2359,7 +2359,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "8496⭐ 379🍴 Xcodes.app",
+                  "title": "8497⭐ 379🍴 Xcodes.app",
                   "description": ") - The easiest way to install and switch between multiple versions of Xcode.",
                   "children": [],
                   "repo_info": {
@@ -2369,7 +2369,7 @@
                     "last_commit": "2026-07-08T03:51:59Z",
                     "owner": "XcodesOrg",
                     "repo": "XcodesApp",
-                    "stars": 8495
+                    "stars": 8497
                   }
                 },
                 {
@@ -2389,7 +2389,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "4639⭐ 348🍴 InjectionIII",
+                  "title": "4640⭐ 348🍴 InjectionIII",
                   "description": ") - overdue Swift rewrite of Injection.",
                   "children": [],
                   "repo_info": {
@@ -2414,12 +2414,12 @@
                     "last_commit": "2026-08-08T18:01:09Z",
                     "owner": "runjuu",
                     "repo": "InputSourcePro",
-                    "stars": 3472
+                    "stars": 3473
                   }
                 },
                 {
                   "node_type": "item",
-                  "title": "3098⭐ 236🍴 LocationSimulator",
+                  "title": "3096⭐ 238🍴 LocationSimulator",
                   "description": ") - Application to spoof your iOS or iPhoneSimulator location.",
                   "children": [],
                   "repo_info": {
@@ -2429,12 +2429,12 @@
                     "last_commit": "2026-08-18T00:15:50Z",
                     "owner": "Schlaubischlump",
                     "repo": "LocationSimulator",
-                    "stars": 3097
+                    "stars": 3098
                   }
                 },
                 {
                   "node_type": "item",
-                  "title": "2873⭐ 173🍴 Asset Catalog Tinkerer",
+                  "title": "2874⭐ 173🍴 Asset Catalog Tinkerer",
                   "description": ") - App that lets you open .car files and browse/extract their images.",
                   "children": [],
                   "repo_info": {
@@ -2474,7 +2474,7 @@
                     "last_commit": "2023-10-05T18:49:30Z",
                     "owner": "onmyway133",
                     "repo": "PushNotifications",
-                    "stars": 2316
+                    "stars": 2317
                   }
                 },
                 {
@@ -2494,7 +2494,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "1993⭐ 387🍴 iOS Images Extractor",
+                  "title": "1992⭐ 387🍴 iOS Images Extractor",
                   "description": ") - iOS Images Extractor is a Mac app to normalize, decode, and extract images from iOS apps.",
                   "children": [],
                   "repo_info": {
@@ -2554,7 +2554,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "1429⭐ 84🍴 IconGenerator",
+                  "title": "1430⭐ 84🍴 IconGenerator",
                   "description": ") - macOS app to generate app icons.",
                   "children": [],
                   "repo_info": {
@@ -2569,7 +2569,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "1274⭐ 45🍴 Attabench",
+                  "title": "1273⭐ 45🍴 Attabench",
                   "description": ") - Attabench is a microbenchmarking app for macOS, designed to measure and visualize the performance of Swift code.",
                   "children": [],
                   "repo_info": {
@@ -2579,7 +2579,7 @@
                     "last_commit": "2022-02-23T10:16:55Z",
                     "owner": "attaswift",
                     "repo": "Attabench",
-                    "stars": 1274
+                    "stars": 1273
                   }
                 },
                 {
@@ -2779,7 +2779,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "189⭐ 14🍴 Menubar Colors",
+                  "title": "188⭐ 14🍴 Menubar Colors",
                   "description": ") - macOS app for convenient access to the system color panel.",
                   "children": [],
                   "repo_info": {
@@ -2789,7 +2789,7 @@
                     "last_commit": "2022-03-22T15:41:31Z",
                     "owner": "nvzqz",
                     "repo": "Menubar-Colors",
-                    "stars": 189
+                    "stars": 188
                   }
                 },
                 {
@@ -3016,22 +3016,22 @@
           "children": [
             {
               "node_type": "item",
-              "title": "54408⭐ 4987🍴 Motrix",
+              "title": "54557⭐ 4996🍴 Motrix",
               "description": ") - A full-featured download manager.",
               "children": [],
               "repo_info": {
                 "archived": false,
                 "id": 162279822,
                 "language": "TypeScript",
-                "last_commit": "2026-08-25T07:18:05Z",
+                "last_commit": "2026-08-26T07:19:28Z",
                 "owner": "agalwood",
                 "repo": "Motrix",
-                "stars": 54522
+                "stars": 54584
               }
             },
             {
               "node_type": "item",
-              "title": "7883⭐ 1182🍴 Extream Download Manager",
+              "title": "7887⭐ 1183🍴 Extream Download Manager",
               "description": ") - a powerful tool to increase download speeds up to 500%",
               "children": [],
               "repo_info": {
@@ -3041,12 +3041,12 @@
                 "last_commit": "2024-01-23T01:08:10Z",
                 "owner": "subhra74",
                 "repo": "xdm",
-                "stars": 7888
+                "stars": 7887
               }
             },
             {
               "node_type": "item",
-              "title": "6956⭐ 176🍴 Applite",
+              "title": "6961⭐ 176🍴 Applite",
               "description": ") - User-friendly GUI app for Homebrew Casks. Install, update, and uninstall apps with a single click.",
               "children": [],
               "repo_info": {
@@ -3056,12 +3056,12 @@
                 "last_commit": "2026-08-07T12:31:50Z",
                 "owner": "milanvarady",
                 "repo": "Applite",
-                "stars": 6961
+                "stars": 6962
               }
             },
             {
               "node_type": "item",
-              "title": "6320⭐ 1996🍴 udemy-downloader-gui",
+              "title": "6319⭐ 1996🍴 udemy-downloader-gui",
               "description": ") - desktop application for downloading Udemy Courses.",
               "children": [],
               "repo_info": {
@@ -3071,7 +3071,7 @@
                 "last_commit": "2024-04-06T16:06:13Z",
                 "owner": "FaisalUmair",
                 "repo": "udemy-downloader-gui",
-                "stars": 6320
+                "stars": 6319
               }
             },
             {
@@ -3158,22 +3158,22 @@
           "children": [
             {
               "node_type": "item",
-              "title": "89106⭐ 10212🍴 Zed",
+              "title": "89209⭐ 10249🍴 Zed",
               "description": ") - Zed is an open source, high-performance, and multiplayer code editor",
               "children": [],
               "repo_info": {
                 "archived": false,
                 "id": 340547520,
                 "language": "Rust",
-                "last_commit": "2026-08-25T09:49:36Z",
+                "last_commit": "2026-08-26T09:54:40Z",
                 "owner": "zed-industries",
                 "repo": "zed",
-                "stars": 89178
+                "stars": 89239
               }
             },
             {
               "node_type": "item",
-              "title": "22995⭐ 1183🍴 CodeEdit",
+              "title": "22995⭐ 1185🍴 CodeEdit",
               "description": ") - CodeEdit App for macOS – Elevate your code editing experience. Open source, free forever.",
               "children": [],
               "repo_info": {
@@ -3188,7 +3188,7 @@
             },
             {
               "node_type": "item",
-              "title": "3696⭐ 668🍴 Geany",
+              "title": "3700⭐ 669🍴 Geany",
               "description": ") - Geany is a powerful, stable and lightweight programmer's text editor that provides tons of useful features without bogging down your workflow.",
               "children": [],
               "repo_info": {
@@ -3198,12 +3198,12 @@
                 "last_commit": "2026-08-03T21:34:14Z",
                 "owner": "geany",
                 "repo": "geany",
-                "stars": 3698
+                "stars": 3700
               }
             },
             {
               "node_type": "item",
-              "title": "1335⭐ 97🍴 AuroraEditor",
+              "title": "1335⭐ 98🍴 AuroraEditor",
               "description": ") - Lightweight Code Editor (IDE) for macOS.",
               "children": [],
               "repo_info": {
@@ -3334,42 +3334,42 @@
                     "last_commit": "2026-07-27T03:16:54Z",
                     "owner": "marktext",
                     "repo": "marktext",
-                    "stars": 60559
+                    "stars": 60611
                   }
                 },
                 {
                   "node_type": "item",
-                  "title": "21012⭐ 7641🍴 Obsidian plugins & themes",
+                  "title": "21063⭐ 7654🍴 Obsidian plugins & themes",
                   "description": ") - Community plugins list, theme list, and releases of Obsidian.",
                   "children": [],
                   "repo_info": {
                     "archived": false,
                     "id": 262342594,
                     "language": null,
-                    "last_commit": "2026-08-25T08:29:28Z",
+                    "last_commit": "2026-08-26T08:29:43Z",
                     "owner": "obsidianmd",
                     "repo": "obsidian-releases",
-                    "stars": 21046
+                    "stars": 21072
                   }
                 },
                 {
                   "node_type": "item",
-                  "title": "13424⭐ 832🍴 Zettlr",
+                  "title": "13432⭐ 833🍴 Zettlr",
                   "description": ") - A Markdown Editor for the 21st century.",
                   "children": [],
                   "repo_info": {
                     "archived": false,
                     "id": 115446081,
                     "language": "TypeScript",
-                    "last_commit": "2026-08-25T09:37:04Z",
+                    "last_commit": "2026-08-26T04:06:03Z",
                     "owner": "Zettlr",
                     "repo": "Zettlr",
-                    "stars": 13432
+                    "stars": 13434
                   }
                 },
                 {
                   "node_type": "item",
-                  "title": "9819⭐ 1169🍴 MacDown",
+                  "title": "9820⭐ 1170🍴 MacDown",
                   "description": ") - Markdown editor for macOS.",
                   "children": [],
                   "repo_info": {
@@ -3379,19 +3379,19 @@
                     "last_commit": "2023-07-10T22:19:38Z",
                     "owner": "MacDownApp",
                     "repo": "macdown",
-                    "stars": 9819
+                    "stars": 9818
                   }
                 },
                 {
                   "node_type": "item",
-                  "title": "5843⭐ 500🍴 QOwnNotes",
+                  "title": "5849⭐ 500🍴 QOwnNotes",
                   "description": ") - Plain-text file notepad and todo-list manager with markdown support and ownCloud / Nextcloud integration.",
                   "children": [],
                   "repo_info": {
                     "archived": false,
                     "id": 27436491,
                     "language": "C++",
-                    "last_commit": "2026-08-25T09:11:40Z",
+                    "last_commit": "2026-08-25T20:59:15Z",
                     "owner": "pbek",
                     "repo": "QOwnNotes",
                     "stars": 5849
@@ -3399,17 +3399,17 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "5504⭐ 240🍴 MarkEdit",
+                  "title": "5521⭐ 242🍴 MarkEdit",
                   "description": ") - MarkEdit is a free and open-source Markdown editor, for macOS. It's just like TextEdit on Mac but dedicated to Markdown.",
                   "children": [],
                   "repo_info": {
                     "archived": false,
                     "id": 597609111,
                     "language": "Swift",
-                    "last_commit": "2026-08-25T09:32:48Z",
+                    "last_commit": "2026-08-26T09:24:04Z",
                     "owner": "MarkEdit-app",
                     "repo": "MarkEdit",
-                    "stars": 5515
+                    "stars": 5527
                   }
                 },
                 {
@@ -3429,7 +3429,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "1016⭐ 75🍴 linked",
+                  "title": "1016⭐ 76🍴 linked",
                   "description": ") - 🧾 Your daily journal app, diary or anything else to unclutter your mind. Let linked help you get focused by writing down what is in your mind on a daily basis.",
                   "children": [],
                   "repo_info": {
@@ -3444,7 +3444,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "412⭐ 57🍴 Gingko",
+                  "title": "412⭐ 58🍴 Gingko",
                   "description": ") - Tree-structured markdown editor for macOS, Windows, and Linux.",
                   "children": [],
                   "repo_info": {
@@ -3518,17 +3518,17 @@
               "children": [
                 {
                   "node_type": "item",
-                  "title": "29430⭐ 1347🍴 micro",
+                  "title": "29437⭐ 1349🍴 micro",
                   "description": ") - A terminal-based text editor that aims to be easy to use and intuitive, while also taking advantage of the capabilities of modern terminals.",
                   "children": [],
                   "repo_info": {
                     "archived": false,
                     "id": 53632140,
                     "language": "Go",
-                    "last_commit": "2026-08-25T00:17:54Z",
+                    "last_commit": "2026-08-26T00:17:30Z",
                     "owner": "micro-editor",
                     "repo": "micro",
-                    "stars": 29434
+                    "stars": 29437
                   }
                 },
                 {
@@ -3543,42 +3543,42 @@
                     "last_commit": "2024-05-18T11:00:21Z",
                     "owner": "textmate",
                     "repo": "textmate",
-                    "stars": 14569
+                    "stars": 14568
                   }
                 },
                 {
                   "node_type": "item",
-                  "title": "14459⭐ 985🍴 Notesnook",
+                  "title": "14469⭐ 989🍴 Notesnook",
                   "description": ") - A fully open source and end-to-end encrypted note taking alternative to Evernote.",
                   "children": [],
                   "repo_info": {
                     "archived": false,
                     "id": 353775942,
                     "language": "TypeScript",
-                    "last_commit": "2026-08-25T09:20:29Z",
+                    "last_commit": "2026-08-25T14:22:07Z",
                     "owner": "streetwriters",
                     "repo": "notesnook",
-                    "stars": 14467
+                    "stars": 14471
                   }
                 },
                 {
                   "node_type": "item",
-                  "title": "8400⭐ 530🍴 CotEditor",
+                  "title": "8411⭐ 531🍴 CotEditor",
                   "description": ") - Lightweight Plain-Text Editor for macOS.",
                   "children": [],
                   "repo_info": {
                     "archived": false,
                     "id": 9243402,
                     "language": "Swift",
-                    "last_commit": "2026-08-20T22:57:35Z",
+                    "last_commit": "2026-08-26T00:06:06Z",
                     "owner": "coteditor",
                     "repo": "CotEditor",
-                    "stars": 8409
+                    "stars": 8412
                   }
                 },
                 {
                   "node_type": "item",
-                  "title": "7878⭐ 694🍴 MacVim",
+                  "title": "7879⭐ 694🍴 MacVim",
                   "description": ") - Text editor for macOS.",
                   "children": [],
                   "repo_info": {
@@ -3588,12 +3588,12 @@
                     "last_commit": "2026-07-30T16:55:46Z",
                     "owner": "macvim-dev",
                     "repo": "macvim",
-                    "stars": 7879
+                    "stars": 7880
                   }
                 },
                 {
                   "node_type": "item",
-                  "title": "6986⭐ 231🍴 VimR",
+                  "title": "6988⭐ 232🍴 VimR",
                   "description": ") - Refined Neovim experience for macOS.",
                   "children": [],
                   "repo_info": {
@@ -3608,7 +3608,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "3696⭐ 668🍴 Geany",
+                  "title": "3700⭐ 669🍴 Geany",
                   "description": ") - Geany is a powerful, stable and lightweight programmer's text editor that provides tons of useful features without bogging down your workflow.",
                   "children": [],
                   "repo_info": {
@@ -3618,7 +3618,7 @@
                     "last_commit": "2026-08-03T21:34:14Z",
                     "owner": "geany",
                     "repo": "geany",
-                    "stars": 3698
+                    "stars": 3700
                   }
                 },
                 {
@@ -3638,7 +3638,7 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "1335⭐ 97🍴 AuroraEditor",
+                  "title": "1335⭐ 98🍴 AuroraEditor",
                   "description": ") - Lightweight Code Editor (IDE) for macOS.",
                   "children": [],
                   "repo_info": {
@@ -3725,7 +3725,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "2899⭐ 124🍴 Middleclick",
+              "title": "2900⭐ 124🍴 Middleclick",
               "description": ") - Emulate a scroll wheel click with three finger Click or Tap on MacBook trackpad and Magic Mouse",
               "children": [],
               "repo_info": {
@@ -3735,12 +3735,12 @@
                 "last_commit": "2026-08-24T15:28:23Z",
                 "owner": "artginzburg",
                 "repo": "MiddleClick",
-                "stars": 2900
+                "stars": 2901
               }
             },
             {
               "node_type": "item",
-              "title": "1632⭐ 90🍴 Swimat",
+              "title": "1631⭐ 90🍴 Swimat",
               "description": ") - Swimat is an Xcode plug-in to format your Swift code.",
               "children": [],
               "repo_info": {
@@ -3762,10 +3762,10 @@
                 "archived": false,
                 "id": 149273112,
                 "language": "Swift",
-                "last_commit": "2026-08-24T13:06:54Z",
+                "last_commit": "2026-08-25T17:28:10Z",
                 "owner": "AdguardTeam",
                 "repo": "AdGuardMiniForMac",
-                "stars": 1178
+                "stars": 1179
               }
             },
             {
@@ -3840,7 +3840,7 @@
                 "last_commit": "2023-08-26T17:38:12Z",
                 "owner": "smmr-software",
                 "repo": "privacy-redirect-safari",
-                "stars": 182
+                "stars": 183
               }
             },
             {
@@ -3942,7 +3942,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "38794⭐ 870🍴 zoxide",
+              "title": "38836⭐ 871🍴 zoxide",
               "description": ") - zoxide is a smarter cd command for your terminal.",
               "children": [],
               "repo_info": {
@@ -3952,12 +3952,12 @@
                 "last_commit": "2026-08-24T18:44:27Z",
                 "owner": "ajeetdsouza",
                 "repo": "zoxide",
-                "stars": 38823
+                "stars": 38866
               }
             },
             {
               "node_type": "item",
-              "title": "18745⭐ 548🍴 Quick Look plugins",
+              "title": "18751⭐ 548🍴 Quick Look plugins",
               "description": ") - List of useful Quick Look plugins for developers.",
               "children": [],
               "repo_info": {
@@ -3967,12 +3967,12 @@
                 "last_commit": "2026-07-25T15:31:05Z",
                 "owner": "sindresorhus",
                 "repo": "quick-look-plugins",
-                "stars": 18749
+                "stars": 18751
               }
             },
             {
               "node_type": "item",
-              "title": "12161⭐ 585🍴 CopyQ",
+              "title": "12173⭐ 585🍴 CopyQ",
               "description": ") - Clipboard manager with advanced features",
               "children": [],
               "repo_info": {
@@ -3982,12 +3982,12 @@
                 "last_commit": "2026-08-23T23:51:38Z",
                 "owner": "hluk",
                 "repo": "CopyQ",
-                "stars": 12169
+                "stars": 12177
               }
             },
             {
               "node_type": "item",
-              "title": "8828⭐ 822🍴 Clipy",
+              "title": "8829⭐ 822🍴 Clipy",
               "description": ") - Clipy is a Clipboard extension app for macOS.",
               "children": [],
               "repo_info": {
@@ -3997,7 +3997,7 @@
                 "last_commit": "2026-08-25T04:51:10Z",
                 "owner": "Clipy",
                 "repo": "Clipy",
-                "stars": 8829
+                "stars": 8830
               }
             },
             {
@@ -4012,12 +4012,12 @@
                 "last_commit": "2026-01-06T18:34:01Z",
                 "owner": "arsenetar",
                 "repo": "dupeguru",
-                "stars": 7783
+                "stars": 7785
               }
             },
             {
               "node_type": "item",
-              "title": "6969⭐ 299🍴 OpenInTerminal",
+              "title": "6971⭐ 300🍴 OpenInTerminal",
               "description": ") - Finder Toolbar app for macOS to open the current directory in Terminal, iTerm, Hyper or Alacritty.",
               "children": [],
               "repo_info": {
@@ -4042,7 +4042,7 @@
                 "last_commit": "2025-08-08T12:46:54Z",
                 "owner": "jbtule",
                 "repo": "cdto",
-                "stars": 2430
+                "stars": 2429
               }
             },
             {
@@ -4054,7 +4054,7 @@
                 "archived": false,
                 "id": 16462032,
                 "language": "Java",
-                "last_commit": "2026-08-25T09:16:29Z",
+                "last_commit": "2026-08-26T00:58:51Z",
                 "owner": "mucommander",
                 "repo": "mucommander",
                 "stars": 1264
@@ -4144,7 +4144,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "17721⭐ 1352🍴 OpenEmu",
+              "title": "17726⭐ 1354🍴 OpenEmu",
               "description": ") - Retro video game emulation for macOS.",
               "children": [],
               "repo_info": {
@@ -4154,52 +4154,52 @@
                 "last_commit": "2025-10-22T21:39:10Z",
                 "owner": "OpenEmu",
                 "repo": "OpenEmu",
-                "stars": 17723
+                "stars": 17725
               }
             },
             {
               "node_type": "item",
-              "title": "16111⭐ 1881🍴 OpenRCT2",
+              "title": "16128⭐ 1882🍴 OpenRCT2",
               "description": ") - Re-implementation of RollerCoaster Tycoon 2.",
               "children": [],
               "repo_info": {
                 "archived": false,
                 "id": 18348651,
                 "language": "C++",
-                "last_commit": "2026-08-24T19:53:35Z",
+                "last_commit": "2026-08-26T08:54:04Z",
                 "owner": "OpenRCT2",
                 "repo": "OpenRCT2",
-                "stars": 16122
+                "stars": 16135
               }
             },
             {
               "node_type": "item",
-              "title": "15430⭐ 3224🍴 Dolphin",
+              "title": "15439⭐ 3227🍴 Dolphin",
               "description": ") - Powerful emulator for Nintendo GameCube and Wii games.",
               "children": [],
               "repo_info": {
                 "archived": false,
                 "id": 11577304,
                 "language": "C++",
-                "last_commit": "2026-08-23T16:58:47Z",
+                "last_commit": "2026-08-25T19:24:09Z",
                 "owner": "dolphin-emu",
                 "repo": "dolphin",
-                "stars": 15435
+                "stars": 15440
               }
             },
             {
               "node_type": "item",
-              "title": "6842⭐ 1230🍴 Battle for Wesnoth",
+              "title": "6843⭐ 1231🍴 Battle for Wesnoth",
               "description": ") - Turn-based tactical strategy game, featuring both single-player and online multiplayer combat.",
               "children": [],
               "repo_info": {
                 "archived": false,
                 "id": 9432220,
                 "language": "C++",
-                "last_commit": "2026-08-25T02:38:46Z",
+                "last_commit": "2026-08-25T15:26:40Z",
                 "owner": "wesnoth",
                 "repo": "wesnoth",
-                "stars": 6842
+                "stars": 6844
               }
             },
             {
@@ -4219,7 +4219,7 @@
             },
             {
               "node_type": "item",
-              "title": "2760⭐ 411🍴 Sabaki",
+              "title": "2761⭐ 411🍴 Sabaki",
               "description": ") - An elegant Go/Baduk/Weiqi board and SGF editor for a more civilized age.",
               "children": [],
               "repo_info": {
@@ -4229,7 +4229,7 @@
                 "last_commit": "2026-08-17T06:03:24Z",
                 "owner": "SabakiHQ",
                 "repo": "Sabaki",
-                "stars": 2760
+                "stars": 2761
               }
             },
             {
@@ -4316,37 +4316,37 @@
           "children": [
             {
               "node_type": "item",
-              "title": "38928⭐ 8737🍴 Aseprite",
+              "title": "38985⭐ 8755🍴 Aseprite",
               "description": ") - Animated sprite editor & pixel art tool (Windows, macOS, Linux).",
               "children": [],
               "repo_info": {
                 "archived": false,
                 "id": 23129458,
                 "language": "C++",
-                "last_commit": "2026-08-24T20:54:24Z",
+                "last_commit": "2026-08-25T12:37:45Z",
                 "owner": "aseprite",
                 "repo": "aseprite",
-                "stars": 38964
+                "stars": 38999
               }
             },
             {
               "node_type": "item",
-              "title": "33035⭐ 5929🍴 FreeCAD",
+              "title": "33069⭐ 5937🍴 FreeCAD",
               "description": ") - FreeCAD is an open-source 3D parametric modeler",
               "children": [],
               "repo_info": {
                 "archived": false,
                 "id": 5736080,
                 "language": "C++",
-                "last_commit": "2026-08-24T23:19:16Z",
+                "last_commit": "2026-08-26T01:46:26Z",
                 "owner": "FreeCAD",
                 "repo": "FreeCAD",
-                "stars": 33063
+                "stars": 33071
               }
             },
             {
               "node_type": "item",
-              "title": "8533⭐ 322🍴 Gifski",
+              "title": "8537⭐ 322🍴 Gifski",
               "description": ") - Convert videos to high-quality GIFs.",
               "children": [],
               "repo_info": {
@@ -4361,37 +4361,37 @@
             },
             {
               "node_type": "item",
-              "title": "6273⭐ 1431🍴 LibreCAD",
+              "title": "6278⭐ 1429🍴 LibreCAD",
               "description": ") - LibreCAD is a free Open Source CAD application for Windows, Apple and Linux. Support and documentation are free from our large, dedicated community of users, contributors and developers.",
               "children": [],
               "repo_info": {
                 "archived": false,
                 "id": 1596580,
                 "language": "C++",
-                "last_commit": "2026-08-24T20:31:14Z",
+                "last_commit": "2026-08-25T17:19:00Z",
                 "owner": "LibreCAD",
                 "repo": "LibreCAD",
-                "stars": 6278
+                "stars": 6279
               }
             },
             {
               "node_type": "item",
-              "title": "2266⭐ 240🍴 Gaphor",
+              "title": "2265⭐ 240🍴 Gaphor",
               "description": ") - Gaphor is the simple modeling tool for UML and SysML.",
               "children": [],
               "repo_info": {
                 "archived": false,
                 "id": 235448,
                 "language": "Python",
-                "last_commit": "2026-08-24T22:39:01Z",
+                "last_commit": "2026-08-26T05:39:46Z",
                 "owner": "gaphor",
                 "repo": "gaphor",
-                "stars": 2266
+                "stars": 2265
               }
             },
             {
               "node_type": "item",
-              "title": "1788⭐ 311🍴 Pencil2D Animation",
+              "title": "1790⭐ 311🍴 Pencil2D Animation",
               "description": ") - Pencil2D is an animation/drawing software for macOS, Windows, and Linux. It lets you create traditional hand-drawn animation (cartoon) using both bitmap and vector graphics.",
               "children": [],
               "repo_info": {
@@ -4401,7 +4401,7 @@
                 "last_commit": "2026-08-05T08:31:25Z",
                 "owner": "pencil2d",
                 "repo": "pencil",
-                "stars": 1790
+                "stars": 1791
               }
             },
             {
@@ -4421,7 +4421,7 @@
             },
             {
               "node_type": "item",
-              "title": "1290⭐ 83🍴 macSVG",
+              "title": "1289⭐ 83🍴 macSVG",
               "description": ") - macOS application for designing HTML5 SVG (Scalable Vector Graphics) art and animation with a WebKit web view.",
               "children": [],
               "repo_info": {
@@ -4431,7 +4431,7 @@
                 "last_commit": "2022-07-17T04:46:15Z",
                 "owner": "dsward2",
                 "repo": "macSVG",
-                "stars": 1290
+                "stars": 1289
               }
             },
             {
@@ -4451,14 +4451,14 @@
             },
             {
               "node_type": "item",
-              "title": "588⭐ 59🍴 Nugget",
+              "title": "589⭐ 59🍴 Nugget",
               "description": ") - Video editing software designed for motion effects and versatility.",
               "children": [],
               "repo_info": {
                 "archived": false,
                 "id": 529433810,
                 "language": "TypeScript",
-                "last_commit": "2026-08-25T08:58:23Z",
+                "last_commit": "2026-08-26T08:43:45Z",
                 "owner": "cartesiancs",
                 "repo": "cartcut",
                 "stars": 589
@@ -4491,7 +4491,7 @@
                 "last_commit": "2026-07-09T09:34:44Z",
                 "owner": "DigiDNA",
                 "repo": "ColorSet",
-                "stars": 246
+                "stars": 247
               }
             },
             {
@@ -4533,52 +4533,52 @@
           "children": [
             {
               "node_type": "item",
-              "title": "189348⭐ 41778🍴 Visual Studio Code",
+              "title": "189605⭐ 41824🍴 Visual Studio Code",
               "description": ") - Code editor developed by Microsoft.",
               "children": [],
               "repo_info": {
                 "archived": false,
                 "id": 41881900,
                 "language": "TypeScript",
-                "last_commit": "2026-08-25T09:49:02Z",
+                "last_commit": "2026-08-26T10:00:10Z",
                 "owner": "microsoft",
                 "repo": "vscode",
-                "stars": 189583
+                "stars": 189615
               }
             },
             {
               "node_type": "item",
-              "title": "89106⭐ 10212🍴 Zed",
+              "title": "89209⭐ 10249🍴 Zed",
               "description": ") - Zed is an open source, high-performance, and multiplayer code editor",
               "children": [],
               "repo_info": {
                 "archived": false,
                 "id": 340547520,
                 "language": "Rust",
-                "last_commit": "2026-08-25T09:49:36Z",
+                "last_commit": "2026-08-26T09:54:40Z",
                 "owner": "zed-industries",
                 "repo": "zed",
-                "stars": 89178
+                "stars": 89239
               }
             },
             {
               "node_type": "item",
-              "title": "40787⭐ 6124🍴 Vim",
+              "title": "40799⭐ 6124🍴 Vim",
               "description": ") - ubiquitous text editor",
               "children": [],
               "repo_info": {
                 "archived": false,
                 "id": 40997482,
                 "language": "Vim Script",
-                "last_commit": "2026-08-23T20:02:08Z",
+                "last_commit": "2026-08-26T06:23:34Z",
                 "owner": "vim",
                 "repo": "vim",
-                "stars": 40793
+                "stars": 40801
               }
             },
             {
               "node_type": "item",
-              "title": "32953⭐ 1852🍴 VSCodium",
+              "title": "32982⭐ 1853🍴 VSCodium",
               "description": ") - VSCodium is a community-driven, freely-licensed binary distribution of Microsoft's VS Code with all telemetry removed.",
               "children": [],
               "repo_info": {
@@ -4588,12 +4588,12 @@
                 "last_commit": "2026-08-12T12:43:33Z",
                 "owner": "VSCodium",
                 "repo": "vscodium",
-                "stars": 32971
+                "stars": 32985
               }
             },
             {
               "node_type": "item",
-              "title": "22995⭐ 1183🍴 CodeEdit",
+              "title": "22995⭐ 1185🍴 CodeEdit",
               "description": ") - CodeEdit App for macOS – Elevate your code editing experience. Open source, free forever.",
               "children": [],
               "repo_info": {
@@ -4608,22 +4608,22 @@
             },
             {
               "node_type": "item",
-              "title": "20478⭐ 6026🍴 IntelliJ IDEA Community Edition",
+              "title": "20484⭐ 6033🍴 IntelliJ IDEA Community Edition",
               "description": ") - IntelliJ IDEA is an integrated development environment written in Java for developing computer software",
               "children": [],
               "repo_info": {
                 "archived": false,
                 "id": 2489216,
                 "language": "Java",
-                "last_commit": "2026-08-25T09:03:13Z",
+                "last_commit": "2026-08-26T09:53:50Z",
                 "owner": "JetBrains",
                 "repo": "intellij-community",
-                "stars": 20485
+                "stars": 20487
               }
             },
             {
               "node_type": "item",
-              "title": "11247⭐ 297🍴 Oni",
+              "title": "11245⭐ 297🍴 Oni",
               "description": ") - Oni is a modern take on modal editing code editor focused on developer productivity.",
               "children": [],
               "repo_info": {
@@ -4638,7 +4638,7 @@
             },
             {
               "node_type": "item",
-              "title": "3696⭐ 668🍴 Geany",
+              "title": "3700⭐ 669🍴 Geany",
               "description": ") - Geany is a powerful, stable and lightweight programmer's text editor that provides tons of useful features without bogging down your workflow.",
               "children": [],
               "repo_info": {
@@ -4648,7 +4648,7 @@
                 "last_commit": "2026-08-03T21:34:14Z",
                 "owner": "geany",
                 "repo": "geany",
-                "stars": 3698
+                "stars": 3700
               }
             },
             {
@@ -4660,10 +4660,10 @@
                 "archived": false,
                 "id": 102083576,
                 "language": "Java",
-                "last_commit": "2026-08-22T06:46:44Z",
+                "last_commit": "2026-08-25T18:32:50Z",
                 "owner": "apache",
                 "repo": "netbeans",
-                "stars": 3096
+                "stars": 3095
               }
             },
             {
@@ -4698,7 +4698,7 @@
             },
             {
               "node_type": "item",
-              "title": "1335⭐ 97🍴 AuroraEditor",
+              "title": "1335⭐ 98🍴 AuroraEditor",
               "description": ") - Lightweight Code Editor (IDE) for macOS.",
               "children": [],
               "repo_info": {
@@ -4735,7 +4735,7 @@
                 "archived": false,
                 "id": 470955049,
                 "language": "Java",
-                "last_commit": "2026-08-24T23:03:57Z",
+                "last_commit": "2026-08-25T23:03:12Z",
                 "owner": "eclipse-platform",
                 "repo": "eclipse.platform",
                 "stars": 166
@@ -4750,7 +4750,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "30678⭐ 1998🍴 Flameshot",
+              "title": "30692⭐ 1999🍴 Flameshot",
               "description": ") - Powerful yet simple to use screenshot software.",
               "children": [],
               "repo_info": {
@@ -4760,27 +4760,27 @@
                 "last_commit": "2026-08-25T06:21:27Z",
                 "owner": "flameshot-org",
                 "repo": "flameshot",
-                "stars": 30687
+                "stars": 30698
               }
             },
             {
               "node_type": "item",
-              "title": "6374⭐ 884🍴 Gimp",
+              "title": "6376⭐ 885🍴 Gimp",
               "description": ") - Gimp is GNU Image Manipulation Program.",
               "children": [],
               "repo_info": {
                 "archived": false,
                 "id": 4537508,
                 "language": "C",
-                "last_commit": "2026-08-24T23:15:52Z",
+                "last_commit": "2026-08-26T04:15:02Z",
                 "owner": "GNOME",
                 "repo": "gimp",
-                "stars": 6375
+                "stars": 6376
               }
             },
             {
               "node_type": "item",
-              "title": "4405⭐ 319🍴 Imagine",
+              "title": "4404⭐ 319🍴 Imagine",
               "description": ") - Imagine is a desktop app for compression of PNG and JPEG, with a modern and friendly UI.",
               "children": [],
               "repo_info": {
@@ -4790,7 +4790,7 @@
                 "last_commit": "2023-08-07T20:11:29Z",
                 "owner": "meowtec",
                 "repo": "Imagine",
-                "stars": 4404
+                "stars": 4405
               }
             },
             {
@@ -4810,7 +4810,7 @@
             },
             {
               "node_type": "item",
-              "title": "2634⭐ 167🍴 ExifCleaner",
+              "title": "2643⭐ 168🍴 ExifCleaner",
               "description": ") - Remove image metadata with drag and drop, multi-core batch processing, and dark mode.",
               "children": [],
               "repo_info": {
@@ -4820,7 +4820,7 @@
                 "last_commit": "2026-08-24T13:03:41Z",
                 "owner": "szTheory",
                 "repo": "exifcleaner",
-                "stars": 2640
+                "stars": 2643
               }
             },
             {
@@ -4832,10 +4832,10 @@
                 "archived": false,
                 "id": 6472554,
                 "language": "Python",
-                "last_commit": "2026-08-25T02:10:21Z",
+                "last_commit": "2026-08-26T02:11:09Z",
                 "owner": "invesalius",
                 "repo": "invesalius3",
-                "stars": 801
+                "stars": 802
               }
             },
             {
@@ -4982,32 +4982,32 @@
           "children": [
             {
               "node_type": "item",
-              "title": "22659⭐ 929🍴 Karabiner-Elements",
+              "title": "22671⭐ 932🍴 Karabiner-Elements",
               "description": ") - Karabiner-Elements is a powerful utility for keyboard customization on macOS Sierra (10.12) or later.",
               "children": [],
               "repo_info": {
                 "archived": false,
                 "id": 63037806,
                 "language": "C++",
-                "last_commit": "2026-08-24T23:22:00Z",
+                "last_commit": "2026-08-25T14:06:38Z",
                 "owner": "pqrs-org",
                 "repo": "Karabiner-Elements",
-                "stars": 22666
+                "stars": 22677
               }
             },
             {
               "node_type": "item",
-              "title": "15056⭐ 575🍴 Keycastr",
+              "title": "15066⭐ 575🍴 Keycastr",
               "description": ") - Keystroke visualizer.",
               "children": [],
               "repo_info": {
                 "archived": false,
                 "id": 132914,
                 "language": "Objective-C",
-                "last_commit": "2026-08-19T01:27:15Z",
+                "last_commit": "2026-08-25T15:18:43Z",
                 "owner": "keycastr",
                 "repo": "keycastr",
-                "stars": 15063
+                "stars": 15067
               }
             },
             {
@@ -5037,7 +5037,7 @@
                 "last_commit": "2026-08-08T18:01:09Z",
                 "owner": "runjuu",
                 "repo": "InputSourcePro",
-                "stars": 3472
+                "stars": 3473
               }
             },
             {
@@ -5057,7 +5057,7 @@
             },
             {
               "node_type": "item",
-              "title": "2173⭐ 128🍴 Fluor",
+              "title": "2174⭐ 128🍴 Fluor",
               "description": ") - Handy tool for macOS allowing you to switch Fn keys' mode based on active application.",
               "children": [],
               "repo_info": {
@@ -5067,12 +5067,12 @@
                 "last_commit": "2024-05-31T22:05:39Z",
                 "owner": "Pyroh",
                 "repo": "Fluor",
-                "stars": 2174
+                "stars": 2175
               }
             },
             {
               "node_type": "item",
-              "title": "1541⭐ 110🍴 Kawa",
+              "title": "1542⭐ 110🍴 Kawa",
               "description": ") - Better input source switcher for macOS.",
               "children": [],
               "repo_info": {
@@ -5082,7 +5082,7 @@
                 "last_commit": "2022-08-20T18:41:17Z",
                 "owner": "hatashiro",
                 "repo": "kawa",
-                "stars": 1541
+                "stars": 1542
               }
             },
             {
@@ -5102,7 +5102,7 @@
             },
             {
               "node_type": "item",
-              "title": "1322⭐ 80🍴 Thor",
+              "title": "1323⭐ 80🍴 Thor",
               "description": ") - Switch the right application ASAP.",
               "children": [],
               "repo_info": {
@@ -5112,7 +5112,7 @@
                 "last_commit": "2024-09-21T02:37:56Z",
                 "owner": "gbammc",
                 "repo": "Thor",
-                "stars": 1322
+                "stars": 1323
               }
             },
             {
@@ -5139,22 +5139,22 @@
           "children": [
             {
               "node_type": "item",
-              "title": "17752⭐ 1022🍴 Mailspring",
+              "title": "17756⭐ 1022🍴 Mailspring",
               "description": ") - 💌 A beautiful, fast and maintained fork of @nylas Mail by one of the original authors",
               "children": [],
               "repo_info": {
                 "archived": false,
                 "id": 70777180,
                 "language": "JavaScript",
-                "last_commit": "2026-08-24T15:20:59Z",
+                "last_commit": "2026-08-26T02:38:49Z",
                 "owner": "Foundry376",
                 "repo": "Mailspring",
-                "stars": 17753
+                "stars": 17760
               }
             },
             {
               "node_type": "item",
-              "title": "6382⭐ 777🍴 Rambox",
+              "title": "6382⭐ 778🍴 Rambox",
               "description": ") - Cross Platform messaging and emailing app that combines common web applications into one.",
               "children": [],
               "repo_info": {
@@ -5179,7 +5179,7 @@
                 "last_commit": "2026-07-14T06:05:22Z",
                 "owner": "vladimiry",
                 "repo": "ElectronMail",
-                "stars": 1680
+                "stars": 1682
               }
             },
             {
@@ -5243,10 +5243,10 @@
                 "archived": false,
                 "id": 6472554,
                 "language": "Python",
-                "last_commit": "2026-08-25T02:10:21Z",
+                "last_commit": "2026-08-26T02:11:09Z",
                 "owner": "invesalius",
                 "repo": "invesalius3",
-                "stars": 801
+                "stars": 802
               }
             }
           ],
@@ -5258,7 +5258,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "41387⭐ 1491🍴 Stats",
+              "title": "41436⭐ 1499🍴 Stats",
               "description": ") - macOS system monitor in your menu bar",
               "children": [],
               "repo_info": {
@@ -5268,12 +5268,12 @@
                 "last_commit": "2026-08-23T21:33:57Z",
                 "owner": "exelban",
                 "repo": "stats",
-                "stars": 41414
+                "stars": 41444
               }
             },
             {
               "node_type": "item",
-              "title": "29370⭐ 846🍴 Ice",
+              "title": "29392⭐ 851🍴 Ice",
               "description": ") - Powerful menu bar manager for macOS",
               "children": [],
               "repo_info": {
@@ -5283,7 +5283,7 @@
                 "last_commit": "2025-09-20T20:28:17Z",
                 "owner": "jordanbaird",
                 "repo": "Ice",
-                "stars": 29379
+                "stars": 29397
               }
             },
             {
@@ -5303,7 +5303,7 @@
             },
             {
               "node_type": "item",
-              "title": "14612⭐ 455🍴 Hidden Bar",
+              "title": "14626⭐ 456🍴 Hidden Bar",
               "description": ") - An ultra-light MacOS utility that helps hide menu bar icons",
               "children": [],
               "repo_info": {
@@ -5313,12 +5313,12 @@
                 "last_commit": "2026-06-15T19:25:30Z",
                 "owner": "dwarvesf",
                 "repo": "hidden",
-                "stars": 14620
+                "stars": 14627
               }
             },
             {
               "node_type": "item",
-              "title": "9940⭐ 377🍴 eul",
+              "title": "9941⭐ 377🍴 eul",
               "description": ") - macOS status monitoring app written in SwiftUI.",
               "children": [],
               "repo_info": {
@@ -5328,12 +5328,12 @@
                 "last_commit": "2024-05-25T22:59:12Z",
                 "owner": "gao-sun",
                 "repo": "eul",
-                "stars": 9940
+                "stars": 9941
               }
             },
             {
               "node_type": "item",
-              "title": "8712⭐ 300🍴 Dozer",
+              "title": "8713⭐ 300🍴 Dozer",
               "description": ") - Hide MacOS menubar items.",
               "children": [],
               "repo_info": {
@@ -5343,7 +5343,7 @@
                 "last_commit": "2023-11-30T13:45:27Z",
                 "owner": "Mortennn",
                 "repo": "Dozer",
-                "stars": 8711
+                "stars": 8713
               }
             },
             {
@@ -5363,7 +5363,7 @@
             },
             {
               "node_type": "item",
-              "title": "5895⭐ 239🍴 OnlySwitch",
+              "title": "5894⭐ 240🍴 OnlySwitch",
               "description": ") - All-in-One status bar button, hide MacBook Pro's notch, dark mode, AirPods, Shortcuts",
               "children": [],
               "repo_info": {
@@ -5373,12 +5373,12 @@
                 "last_commit": "2026-08-21T19:03:11Z",
                 "owner": "jacklandrin",
                 "repo": "OnlySwitch",
-                "stars": 5894
+                "stars": 5896
               }
             },
             {
               "node_type": "item",
-              "title": "5311⭐ 290🍴 MeetingBar",
+              "title": "5316⭐ 292🍴 MeetingBar",
               "description": ") - Menu bar app for your calendar meetings",
               "children": [],
               "repo_info": {
@@ -5393,7 +5393,7 @@
             },
             {
               "node_type": "item",
-              "title": "4447⭐ 134🍴 SwiftBar",
+              "title": "4463⭐ 134🍴 SwiftBar",
               "description": ") - Powerful macOS menu bar customization tool.",
               "children": [],
               "repo_info": {
@@ -5403,12 +5403,12 @@
                 "last_commit": "2026-08-15T19:09:01Z",
                 "owner": "swiftbar",
                 "repo": "SwiftBar",
-                "stars": 4454
+                "stars": 4465
               }
             },
             {
               "node_type": "item",
-              "title": "3982⭐ 268🍴 Itsycal",
+              "title": "3985⭐ 270🍴 Itsycal",
               "description": ") - A tiny calendar for that lives in the Mac menu bar.",
               "children": [],
               "repo_info": {
@@ -5418,12 +5418,12 @@
                 "last_commit": "2026-04-05T05:43:53Z",
                 "owner": "sfsam",
                 "repo": "Itsycal",
-                "stars": 3984
+                "stars": 3988
               }
             },
             {
               "node_type": "item",
-              "title": "3143⭐ 104🍴 MiniSim",
+              "title": "3145⭐ 104🍴 MiniSim",
               "description": ") - MacOS menu bar app for launching iOS  and Android 🤖 emulators.",
               "children": [],
               "repo_info": {
@@ -5433,7 +5433,7 @@
                 "last_commit": "2026-02-27T12:50:34Z",
                 "owner": "okwasniewski",
                 "repo": "MiniSim",
-                "stars": 3144
+                "stars": 3145
               }
             },
             {
@@ -5453,7 +5453,7 @@
             },
             {
               "node_type": "item",
-              "title": "2545⭐ 82🍴 Pika",
+              "title": "2547⭐ 81🍴 Pika",
               "description": ") - Is an easy to use, open-source, native colour picker for macOS.",
               "children": [],
               "repo_info": {
@@ -5463,12 +5463,12 @@
                 "last_commit": "2026-08-24T17:50:44Z",
                 "owner": "superhighfives",
                 "repo": "pika",
-                "stars": 2547
+                "stars": 2549
               }
             },
             {
               "node_type": "item",
-              "title": "2490⭐ 126🍴 iGlance",
+              "title": "2489⭐ 126🍴 iGlance",
               "description": ") - macOS System Monitor (cpu, memory, network, fan and battery) for the Status Bar.",
               "children": [],
               "repo_info": {
@@ -5483,7 +5483,7 @@
             },
             {
               "node_type": "item",
-              "title": "2107⭐ 157🍴 SensibleSideButtons",
+              "title": "2108⭐ 157🍴 SensibleSideButtons",
               "description": ") - Small menu bar utility that lets you use your third-party mouse's side buttons for navigation across a variety of apps.",
               "children": [],
               "repo_info": {
@@ -5493,7 +5493,7 @@
                 "last_commit": "2024-02-17T11:53:20Z",
                 "owner": "archagon",
                 "repo": "sensible-side-buttons",
-                "stars": 2107
+                "stars": 2108
               }
             },
             {
@@ -5528,7 +5528,7 @@
             },
             {
               "node_type": "item",
-              "title": "1040⭐ 61🍴 RustCast",
+              "title": "1049⭐ 63🍴 RustCast",
               "description": ") - Blazingly fast, customisable multi tool, application launcher",
               "children": [],
               "repo_info": {
@@ -5538,7 +5538,7 @@
                 "last_commit": "2026-08-08T03:12:03Z",
                 "owner": "MystikoLab",
                 "repo": "rustcast",
-                "stars": 1046
+                "stars": 1048
               }
             },
             {
@@ -5558,7 +5558,7 @@
             },
             {
               "node_type": "item",
-              "title": "887⭐ 82🍴 TimeScribe",
+              "title": "888⭐ 82🍴 TimeScribe",
               "description": ") - Simple and free working time recording.",
               "children": [],
               "repo_info": {
@@ -5568,12 +5568,12 @@
                 "last_commit": "2026-06-02T13:28:40Z",
                 "owner": "WINBIGFOX",
                 "repo": "TimeScribe",
-                "stars": 887
+                "stars": 888
               }
             },
             {
               "node_type": "item",
-              "title": "887⭐ 82🍴 TimeScribe",
+              "title": "888⭐ 82🍴 TimeScribe",
               "description": ") - Simple and free working time recording.",
               "children": [],
               "repo_info": {
@@ -5583,7 +5583,7 @@
                 "last_commit": "2026-06-02T13:28:40Z",
                 "owner": "WINBIGFOX",
                 "repo": "TimeScribe",
-                "stars": 887
+                "stars": 888
               }
             },
             {
@@ -5673,7 +5673,7 @@
                 "last_commit": "2026-06-01T16:41:32Z",
                 "owner": "AlexPerathoner",
                 "repo": "SlimHUD",
-                "stars": 466
+                "stars": 467
               }
             },
             {
@@ -5738,7 +5738,7 @@
             },
             {
               "node_type": "item",
-              "title": "278⭐ 16🍴 SaneBar",
+              "title": "281⭐ 16🍴 SaneBar",
               "description": ") - Privacy-first menu bar manager with Touch ID lock, Always-Hidden Zone, and automation triggers.",
               "children": [],
               "repo_info": {
@@ -5748,7 +5748,7 @@
                 "last_commit": "2026-08-22T23:17:04Z",
                 "owner": "sane-apps",
                 "repo": "SaneBar",
-                "stars": 280
+                "stars": 281
               }
             },
             {
@@ -5798,17 +5798,17 @@
             },
             {
               "node_type": "item",
-              "title": "109⭐ 7🍴 VPN Bypass",
+              "title": "113⭐ 8🍴 VPN Bypass",
               "description": ") - Route specific domains and services around your corporate VPN while keeping the rest of your traffic protected.",
               "children": [],
               "repo_info": {
                 "archived": false,
                 "id": 1134420390,
                 "language": "Swift",
-                "last_commit": "2026-08-24T20:44:29Z",
+                "last_commit": "2026-08-25T10:56:37Z",
                 "owner": "GeiserX",
                 "repo": "VPN-Bypass",
-                "stars": 112
+                "stars": 114
               }
             },
             {
@@ -6045,32 +6045,32 @@
           "children": [
             {
               "node_type": "item",
-              "title": "36648⭐ 3488🍴 MPV",
+              "title": "36681⭐ 3494🍴 MPV",
               "description": ") - Lightweight, highly configurable media player.",
               "children": [],
               "repo_info": {
                 "archived": false,
                 "id": 6201092,
                 "language": "C",
-                "last_commit": "2026-08-23T16:09:02Z",
+                "last_commit": "2026-08-25T23:47:41Z",
                 "owner": "mpv-player",
                 "repo": "mpv",
-                "stars": 36673
+                "stars": 36683
               }
             },
             {
               "node_type": "item",
-              "title": "24170⭐ 919🍴 spicetify-cli",
+              "title": "24194⭐ 918🍴 spicetify-cli",
               "description": ") - Command-line tool to customize the official Spotify client. Supports Windows, MacOS and Linux.",
               "children": [],
               "repo_info": {
                 "archived": false,
                 "id": 159981830,
                 "language": "JavaScript",
-                "last_commit": "2026-08-24T14:04:25Z",
+                "last_commit": "2026-08-26T02:09:36Z",
                 "owner": "spicetify",
                 "repo": "cli",
-                "stars": 24184
+                "stars": 24199
               }
             },
             {
@@ -6105,7 +6105,7 @@
             },
             {
               "node_type": "item",
-              "title": "892⭐ 119🍴 Karaoke Forever",
+              "title": "892⭐ 120🍴 Karaoke Forever",
               "description": ") - Host awesome karaoke parties where everyone can queue songs from their phone's browser. Plays MP3+G and MP4 with WebGL visualizations.",
               "children": [],
               "repo_info": {
@@ -6130,7 +6130,7 @@
                 "last_commit": "2025-04-21T17:51:22Z",
                 "owner": "stargatedaw",
                 "repo": "stargate",
-                "stars": 872
+                "stars": 873
               }
             },
             {
@@ -6292,22 +6292,22 @@
           "children": [
             {
               "node_type": "item",
-              "title": "10308⭐ 745🍴 NetNewsWire",
+              "title": "10316⭐ 745🍴 NetNewsWire",
               "description": ") - Feed reader for macOS.",
               "children": [],
               "repo_info": {
                 "archived": false,
                 "id": 91977145,
                 "language": "Swift",
-                "last_commit": "2026-08-22T18:00:48Z",
+                "last_commit": "2026-08-25T20:06:07Z",
                 "owner": "Ranchero-Software",
                 "repo": "NetNewsWire",
-                "stars": 10311
+                "stars": 10316
               }
             },
             {
               "node_type": "item",
-              "title": "9100⭐ 629🍴 Winds",
+              "title": "9101⭐ 628🍴 Winds",
               "description": ") - A Beautiful Open Source RSS & Podcast App Powered by Getstream.io",
               "children": [],
               "repo_info": {
@@ -6317,7 +6317,7 @@
                 "last_commit": "2021-10-11T20:32:23Z",
                 "owner": "GetStream",
                 "repo": "Winds",
-                "stars": 9100
+                "stars": 9101
               }
             },
             {
@@ -6389,17 +6389,17 @@
           "children": [
             {
               "node_type": "item",
-              "title": "56068⭐ 6245🍴 joplin",
+              "title": "56110⭐ 6245🍴 joplin",
               "description": ") - Note taking and to-do application with synchronization capabilities for Windows, macOS, Linux, Android and iOS.",
               "children": [],
               "repo_info": {
                 "archived": false,
                 "id": 79162682,
                 "language": "TypeScript",
-                "last_commit": "2026-08-24T18:44:47Z",
+                "last_commit": "2026-08-26T08:21:19Z",
                 "owner": "laurent22",
                 "repo": "joplin",
-                "stars": 56092
+                "stars": 56116
               }
             },
             {
@@ -6414,27 +6414,27 @@
                 "last_commit": "2023-04-19T08:46:06Z",
                 "owner": "BoostIO",
                 "repo": "BoostNote-Legacy",
-                "stars": 16899
+                "stars": 16898
               }
             },
             {
               "node_type": "item",
-              "title": "14459⭐ 985🍴 Notesnook",
+              "title": "14469⭐ 989🍴 Notesnook",
               "description": ") - A fully open source and end-to-end encrypted note taking alternative to Evernote.",
               "children": [],
               "repo_info": {
                 "archived": false,
                 "id": 353775942,
                 "language": "TypeScript",
-                "last_commit": "2026-08-25T09:20:29Z",
+                "last_commit": "2026-08-25T14:22:07Z",
                 "owner": "streetwriters",
                 "repo": "notesnook",
-                "stars": 14467
+                "stars": 14471
               }
             },
             {
               "node_type": "item",
-              "title": "7452⭐ 574🍴 FSNotes",
+              "title": "7456⭐ 574🍴 FSNotes",
               "description": ") - Notes manager for macOS/iOS: modern notational velocity (nvALT) on steroids.",
               "children": [],
               "repo_info": {
@@ -6449,29 +6449,29 @@
             },
             {
               "node_type": "item",
-              "title": "6598⭐ 547🍴 Standard Notes",
+              "title": "6601⭐ 547🍴 Standard Notes",
               "description": ") - Safe place for your notes, thoughts, and life's work.",
               "children": [],
               "repo_info": {
                 "archived": false,
                 "id": 75675698,
                 "language": "TypeScript",
-                "last_commit": "2026-08-18T19:16:45Z",
+                "last_commit": "2026-08-25T23:24:10Z",
                 "owner": "standardnotes",
                 "repo": "app",
-                "stars": 6603
+                "stars": 6601
               }
             },
             {
               "node_type": "item",
-              "title": "5843⭐ 500🍴 QOwnNotes",
+              "title": "5849⭐ 500🍴 QOwnNotes",
               "description": ") - Plain-text file notepad and todo-list manager with markdown support and ownCloud / Nextcloud integration.",
               "children": [],
               "repo_info": {
                 "archived": false,
                 "id": 27436491,
                 "language": "C++",
-                "last_commit": "2026-08-25T09:11:40Z",
+                "last_commit": "2026-08-25T20:59:15Z",
                 "owner": "pbek",
                 "repo": "QOwnNotes",
                 "stars": 5849
@@ -6494,7 +6494,7 @@
             },
             {
               "node_type": "item",
-              "title": "3066⭐ 123🍴 Dnote",
+              "title": "3070⭐ 123🍴 Dnote",
               "description": ") - A simple command line notebook with multi-device sync and web interface.",
               "children": [],
               "repo_info": {
@@ -6504,7 +6504,7 @@
                 "last_commit": "2026-07-25T04:25:52Z",
                 "owner": "dnote",
                 "repo": "dnote",
-                "stars": 3069
+                "stars": 3071
               }
             },
             {
@@ -6516,7 +6516,7 @@
                 "archived": false,
                 "id": 65415630,
                 "language": "Swift",
-                "last_commit": "2026-08-18T02:37:17Z",
+                "last_commit": "2026-08-26T00:44:31Z",
                 "owner": "Automattic",
                 "repo": "simplenote-macos",
                 "stars": 1555
@@ -6524,7 +6524,7 @@
             },
             {
               "node_type": "item",
-              "title": "1016⭐ 75🍴 linked",
+              "title": "1016⭐ 76🍴 linked",
               "description": ") - 🧾 Your daily journal app, diary or anything else to unclutter your mind. Let linked help you get focused by writing down what is in your mind on a daily basis.",
               "children": [],
               "repo_info": {
@@ -6569,7 +6569,7 @@
             },
             {
               "node_type": "item",
-              "title": "245⭐ 15🍴 Stik",
+              "title": "246⭐ 15🍴 Stik",
               "description": ") - Instant thought capture for macOS. Global hotkey summons a post-it note, type and close. Notes stored as plain markdown files.",
               "children": [],
               "repo_info": {
@@ -6579,7 +6579,7 @@
                 "last_commit": "2026-08-02T18:22:45Z",
                 "owner": "0xMassi",
                 "repo": "stik_app",
-                "stars": 245
+                "stars": 246
               }
             },
             {
@@ -6676,7 +6676,7 @@
                 "last_commit": "2026-08-13T22:50:44Z",
                 "owner": "infinitered",
                 "repo": "reactotron",
-                "stars": 15581
+                "stars": 15582
               }
             },
             {
@@ -6691,12 +6691,12 @@
                 "last_commit": "2023-10-21T02:55:24Z",
                 "owner": "jhen0409",
                 "repo": "react-native-debugger",
-                "stars": 10448
+                "stars": 10447
               }
             },
             {
               "node_type": "item",
-              "title": "10339⭐ 477🍴 Lepton",
+              "title": "10338⭐ 477🍴 Lepton",
               "description": ") - Democratizing Code Snippets Management (macOS/Win/Linux).",
               "children": [],
               "repo_info": {
@@ -6706,12 +6706,12 @@
                 "last_commit": "2026-08-09T20:06:02Z",
                 "owner": "hackjutsu",
                 "repo": "Lepton",
-                "stars": 10339
+                "stars": 10338
               }
             },
             {
               "node_type": "item",
-              "title": "9968⭐ 476🍴 ImageOptim",
+              "title": "9969⭐ 476🍴 ImageOptim",
               "description": ") - GUI image optimizer for Mac.",
               "children": [],
               "repo_info": {
@@ -6766,7 +6766,7 @@
                 "last_commit": "2024-01-07T13:10:07Z",
                 "owner": "brunophilipe",
                 "repo": "Cakebrew",
-                "stars": 5020
+                "stars": 5019
               }
             },
             {
@@ -6786,7 +6786,7 @@
             },
             {
               "node_type": "item",
-              "title": "3884⭐ 200🍴 syncthing-macosx",
+              "title": "3888⭐ 200🍴 syncthing-macosx",
               "description": ") - Frugal nativemacOS macOS Syncthing application bundle.",
               "children": [],
               "repo_info": {
@@ -6796,7 +6796,7 @@
                 "last_commit": "2026-07-12T16:55:04Z",
                 "owner": "syncthing",
                 "repo": "syncthing-macos",
-                "stars": 3887
+                "stars": 3888
               }
             },
             {
@@ -6816,7 +6816,7 @@
             },
             {
               "node_type": "item",
-              "title": "3438⭐ 197🍴 Platypus",
+              "title": "3439⭐ 197🍴 Platypus",
               "description": ") - Mac developer tool that creates application bundles from command line scripts.",
               "children": [],
               "repo_info": {
@@ -6826,27 +6826,27 @@
                 "last_commit": "2026-05-13T22:44:55Z",
                 "owner": "sveinbjornt",
                 "repo": "Platypus",
-                "stars": 3438
+                "stars": 3439
               }
             },
             {
               "node_type": "item",
-              "title": "3289⭐ 1125🍴 Betaflight Configurator",
+              "title": "3291⭐ 1126🍴 Betaflight Configurator",
               "description": ") - Cross platform configuration tool for the Betaflight firmware.",
               "children": [],
               "repo_info": {
                 "archived": false,
                 "id": 60735171,
                 "language": "JavaScript",
-                "last_commit": "2026-08-24T20:11:04Z",
+                "last_commit": "2026-08-26T01:19:12Z",
                 "owner": "betaflight",
                 "repo": "betaflight-configurator",
-                "stars": 3289
+                "stars": 3292
               }
             },
             {
               "node_type": "item",
-              "title": "3071⭐ 524🍴 Gramps",
+              "title": "3075⭐ 524🍴 Gramps",
               "description": ") - A genealogy program that is both intuitive for hobbyists and feature-complete for professional genealogists.",
               "children": [],
               "repo_info": {
@@ -6856,7 +6856,7 @@
                 "last_commit": "2026-08-23T22:25:48Z",
                 "owner": "gramps-project",
                 "repo": "gramps",
-                "stars": 3073
+                "stars": 3075
               }
             },
             {
@@ -6876,7 +6876,7 @@
             },
             {
               "node_type": "item",
-              "title": "1633⭐ 122🍴 Hosts",
+              "title": "1632⭐ 122🍴 Hosts",
               "description": ") - Cocoa GUI for /etc/hosts.",
               "children": [],
               "repo_info": {
@@ -6906,7 +6906,7 @@
             },
             {
               "node_type": "item",
-              "title": "850⭐ 49🍴 ChipMunk",
+              "title": "851⭐ 50🍴 ChipMunk",
               "description": ") - Log analysis tool.",
               "children": [],
               "repo_info": {
@@ -6916,7 +6916,7 @@
                 "last_commit": "2026-08-17T16:36:37Z",
                 "owner": "esrlabs",
                 "repo": "chipmunk",
-                "stars": 850
+                "stars": 852
               }
             },
             {
@@ -7048,32 +7048,32 @@
           "children": [
             {
               "node_type": "item",
-              "title": "46063⭐ 2899🍴 IINA",
+              "title": "46087⭐ 2903🍴 IINA",
               "description": ") - The modern video player for macOS.",
               "children": [],
               "repo_info": {
                 "archived": false,
                 "id": 76838017,
                 "language": "Swift",
-                "last_commit": "2026-08-25T09:51:29Z",
+                "last_commit": "2026-08-26T06:47:34Z",
                 "owner": "iina",
                 "repo": "iina",
-                "stars": 46077
+                "stars": 46090
               }
             },
             {
               "node_type": "item",
-              "title": "36648⭐ 3488🍴 MPV",
+              "title": "36681⭐ 3494🍴 MPV",
               "description": ") - Lightweight, highly configurable media player.",
               "children": [],
               "repo_info": {
                 "archived": false,
                 "id": 6201092,
                 "language": "C",
-                "last_commit": "2026-08-23T16:09:02Z",
+                "last_commit": "2026-08-25T23:47:41Z",
                 "owner": "mpv-player",
                 "repo": "mpv",
-                "stars": 36673
+                "stars": 36683
               }
             },
             {
@@ -7093,7 +7093,7 @@
             },
             {
               "node_type": "item",
-              "title": "436⭐ 28🍴 Movie Monad",
+              "title": "435⭐ 28🍴 Movie Monad",
               "description": ") - Desktop video player built with Haskell that uses GStreamer and GTK+.",
               "children": [],
               "repo_info": {
@@ -7103,7 +7103,7 @@
                 "last_commit": "2020-03-07T14:36:03Z",
                 "owner": "lettier",
                 "repo": "movie-monad",
-                "stars": 436
+                "stars": 435
               }
             },
             {
@@ -7145,7 +7145,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "9100⭐ 629🍴 Winds",
+              "title": "9101⭐ 628🍴 Winds",
               "description": ") - A Beautiful Open Source RSS & Podcast App Powered by Getstream.io",
               "children": [],
               "repo_info": {
@@ -7155,7 +7155,7 @@
                 "last_commit": "2021-10-11T20:32:23Z",
                 "owner": "GetStream",
                 "repo": "Winds",
-                "stars": 9100
+                "stars": 9101
               }
             },
             {
@@ -7257,7 +7257,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "29370⭐ 846🍴 Ice",
+              "title": "29392⭐ 851🍴 Ice",
               "description": ") - Ice is a versatile menu bar manager that goes beyond hiding and showing items to offer a rich set of productivity features.",
               "children": [],
               "repo_info": {
@@ -7267,42 +7267,42 @@
                 "last_commit": "2025-09-20T20:28:17Z",
                 "owner": "jordanbaird",
                 "repo": "Ice",
-                "stars": 29379
+                "stars": 29397
               }
             },
             {
               "node_type": "item",
-              "title": "23672⭐ 1499🍴 Readest",
+              "title": "23719⭐ 1508🍴 Readest",
               "description": ") - Readest is a modern, feature-rich ebook reader designed for avid readers.",
               "children": [],
               "repo_info": {
                 "archived": false,
                 "id": 871781831,
                 "language": "TypeScript",
-                "last_commit": "2026-08-25T07:18:45Z",
+                "last_commit": "2026-08-25T16:48:02Z",
                 "owner": "readest",
                 "repo": "readest",
-                "stars": 23703
+                "stars": 23735
               }
             },
             {
               "node_type": "item",
-              "title": "21536⭐ 1977🍴 Super Productivity",
+              "title": "21595⭐ 1984🍴 Super Productivity",
               "description": ") - Free to do list & time tracker for programmers & designers with Jira integration.",
               "children": [],
               "repo_info": {
                 "archived": false,
                 "id": 78243781,
                 "language": "TypeScript",
-                "last_commit": "2026-08-24T15:43:25Z",
+                "last_commit": "2026-08-25T15:55:56Z",
                 "owner": "super-productivity",
                 "repo": "super-productivity",
-                "stars": 21579
+                "stars": 21608
               }
             },
             {
               "node_type": "item",
-              "title": "21308⭐ 1113🍴 Maccy",
+              "title": "21331⭐ 1119🍴 Maccy",
               "description": ") - Lightweight search-as-you-type clipboard manager.",
               "children": [],
               "repo_info": {
@@ -7312,27 +7312,27 @@
                 "last_commit": "2026-08-13T00:05:03Z",
                 "owner": "p0deje",
                 "repo": "Maccy",
-                "stars": 21326
+                "stars": 21343
               }
             },
             {
               "node_type": "item",
-              "title": "21190⭐ 2125🍴 Screenpipe",
+              "title": "21229⭐ 2133🍴 Screenpipe",
               "description": ") - 24/7 screen and audio recording with AI-powered search. Local-first, privacy-focused rewind alternative.",
               "children": [],
               "repo_info": {
                 "archived": false,
                 "id": 817326197,
                 "language": "Rust",
-                "last_commit": "2026-08-25T02:14:18Z",
+                "last_commit": "2026-08-26T09:28:44Z",
                 "owner": "screenpipe",
                 "repo": "screenpipe",
-                "stars": 21213
+                "stars": 21235
               }
             },
             {
               "node_type": "item",
-              "title": "18688⭐ 989🍴 ActivityWatch",
+              "title": "18712⭐ 990🍴 ActivityWatch",
               "description": ") - Open-source automated time tracker that tracks how you spend time on your devices.",
               "children": [],
               "repo_info": {
@@ -7342,7 +7342,7 @@
                 "last_commit": "2026-08-23T10:00:01Z",
                 "owner": "ActivityWatch",
                 "repo": "activitywatch",
-                "stars": 18702
+                "stars": 18717
               }
             },
             {
@@ -7357,12 +7357,12 @@
                 "last_commit": "2026-08-23T04:28:34Z",
                 "owner": "xournalpp",
                 "repo": "xournalpp",
-                "stars": 15284
+                "stars": 15287
               }
             },
             {
               "node_type": "item",
-              "title": "14339⭐ 457🍴 espanso",
+              "title": "14353⭐ 457🍴 espanso",
               "description": ") - Cross-platform Text Expander, a powerful replacement for Alfred Snippets",
               "children": [],
               "repo_info": {
@@ -7372,7 +7372,7 @@
                 "last_commit": "2026-08-24T12:40:34Z",
                 "owner": "espanso",
                 "repo": "espanso",
-                "stars": 14350
+                "stars": 14359
               }
             },
             {
@@ -7387,12 +7387,12 @@
                 "last_commit": "2026-08-11T18:24:52Z",
                 "owner": "cerebroapp",
                 "repo": "cerebro",
-                "stars": 8558
+                "stars": 8559
               }
             },
             {
               "node_type": "item",
-              "title": "6496⭐ 552🍴 stretchly",
+              "title": "6497⭐ 553🍴 stretchly",
               "description": ") - Cross-platform electron app that reminds you to take breaks when working with computer.",
               "children": [],
               "repo_info": {
@@ -7402,7 +7402,7 @@
                 "last_commit": "2026-08-14T08:51:57Z",
                 "owner": "hovancik",
                 "repo": "stretchly",
-                "stars": 6496
+                "stars": 6500
               }
             },
             {
@@ -7422,7 +7422,7 @@
             },
             {
               "node_type": "item",
-              "title": "5884⭐ 176🍴 Clipboard",
+              "title": "5889⭐ 176🍴 Clipboard",
               "description": ") - An easy-to-use clipboard manager with time saving features that work across all terminals.",
               "children": [],
               "repo_info": {
@@ -7432,19 +7432,19 @@
                 "last_commit": "2026-05-06T17:53:52Z",
                 "owner": "Slackadays",
                 "repo": "Clipboard",
-                "stars": 5888
+                "stars": 5891
               }
             },
             {
               "node_type": "item",
-              "title": "5843⭐ 500🍴 QOwnNotes",
+              "title": "5849⭐ 500🍴 QOwnNotes",
               "description": ") - Plain-text file notepad and todo-list manager with markdown support and ownCloud / Nextcloud integration.",
               "children": [],
               "repo_info": {
                 "archived": false,
                 "id": 27436491,
                 "language": "C++",
-                "last_commit": "2026-08-25T09:11:40Z",
+                "last_commit": "2026-08-25T20:59:15Z",
                 "owner": "pbek",
                 "repo": "QOwnNotes",
                 "stars": 5849
@@ -7452,7 +7452,7 @@
             },
             {
               "node_type": "item",
-              "title": "5482⭐ 483🍴 Manta",
+              "title": "5483⭐ 484🍴 Manta",
               "description": ") - Flexible invoicing desktop app with beautiful & customizable templates.",
               "children": [],
               "repo_info": {
@@ -7462,12 +7462,12 @@
                 "last_commit": "2025-02-02T23:27:16Z",
                 "owner": "hql287",
                 "repo": "Manta",
-                "stars": 5482
+                "stars": 5483
               }
             },
             {
               "node_type": "item",
-              "title": "5311⭐ 290🍴 MeetingBar",
+              "title": "5316⭐ 292🍴 MeetingBar",
               "description": ") - Menu bar app for your calendar meetings",
               "children": [],
               "repo_info": {
@@ -7482,7 +7482,7 @@
             },
             {
               "node_type": "item",
-              "title": "4759⭐ 529🍴 sqlectron",
+              "title": "4758⭐ 529🍴 sqlectron",
               "description": ") - A simple and lightweight SQL client desktop/terminal with cross database and platform support.",
               "children": [],
               "repo_info": {
@@ -7492,7 +7492,7 @@
                 "last_commit": "2026-06-22T07:20:05Z",
                 "owner": "sqlectron",
                 "repo": "sqlectron",
-                "stars": 4759
+                "stars": 4758
               }
             },
             {
@@ -7512,7 +7512,7 @@
             },
             {
               "node_type": "item",
-              "title": "4385⭐ 459🍴 SelfControl",
+              "title": "4387⭐ 459🍴 SelfControl",
               "description": ") - macOS app to block your own access to distracting websites etc for a predetermined period of time. It can not be undone by the app or by a restart – you must wait for the timer to run out.",
               "children": [],
               "repo_info": {
@@ -7522,12 +7522,12 @@
                 "last_commit": "2026-06-26T17:11:53Z",
                 "owner": "SelfControlApp",
                 "repo": "selfcontrol",
-                "stars": 4386
+                "stars": 4388
               }
             },
             {
               "node_type": "item",
-              "title": "3982⭐ 268🍴 Itsycal",
+              "title": "3985⭐ 270🍴 Itsycal",
               "description": ") - A tiny calendar for that lives in the Mac menu bar.",
               "children": [],
               "repo_info": {
@@ -7537,12 +7537,12 @@
                 "last_commit": "2026-04-05T05:43:53Z",
                 "owner": "sfsam",
                 "repo": "Itsycal",
-                "stars": 3984
+                "stars": 3988
               }
             },
             {
               "node_type": "item",
-              "title": "3865⭐ 225🍴 Pennywise",
+              "title": "3865⭐ 226🍴 Pennywise",
               "description": ") - Pennywise opens any website or media in a small floating window that remains on top of all other applications. It's a great alternative to Helium.",
               "children": [],
               "repo_info": {
@@ -7557,7 +7557,7 @@
             },
             {
               "node_type": "item",
-              "title": "3487⭐ 204🍴 TomatoBar",
+              "title": "3493⭐ 204🍴 TomatoBar",
               "description": ") - Pomodoro Technique Timer for macOS with Touch Bar support.",
               "children": [],
               "repo_info": {
@@ -7567,12 +7567,12 @@
                 "last_commit": "2026-05-29T06:40:50Z",
                 "owner": "ivoronin",
                 "repo": "TomatoBar",
-                "stars": 3493
+                "stars": 3496
               }
             },
             {
               "node_type": "item",
-              "title": "2924⭐ 291🍴 Quicksilver",
+              "title": "2923⭐ 291🍴 Quicksilver",
               "description": ") - Quicksilver is a fast macOS productivity application that gives you the power to control your Mac quickly and elegantly.",
               "children": [],
               "repo_info": {
@@ -7587,7 +7587,7 @@
             },
             {
               "node_type": "item",
-              "title": "2899⭐ 124🍴 Middleclick",
+              "title": "2900⭐ 124🍴 Middleclick",
               "description": ") - Emulate a scroll wheel click with three finger Click or Tap on MacBook trackpad and Magic Mouse",
               "children": [],
               "repo_info": {
@@ -7597,7 +7597,7 @@
                 "last_commit": "2026-08-24T15:28:23Z",
                 "owner": "artginzburg",
                 "repo": "MiddleClick",
-                "stars": 2900
+                "stars": 2901
               }
             },
             {
@@ -7612,7 +7612,7 @@
                 "last_commit": "2023-04-02T09:42:58Z",
                 "owner": "amirdew",
                 "repo": "CollectionViewPagingLayout",
-                "stars": 2798
+                "stars": 2799
               }
             },
             {
@@ -7669,7 +7669,7 @@
                 "archived": false,
                 "id": 65415224,
                 "language": "C++",
-                "last_commit": "2026-08-24T06:42:48Z",
+                "last_commit": "2026-08-26T06:58:32Z",
                 "owner": "elfmz",
                 "repo": "far2l",
                 "stars": 2210
@@ -7687,12 +7687,12 @@
                 "last_commit": "2025-11-03T14:48:17Z",
                 "owner": "klaudiosinani",
                 "repo": "ao",
-                "stars": 2190
+                "stars": 2189
               }
             },
             {
               "node_type": "item",
-              "title": "1870⭐ 283🍴 Toggl Desktop",
+              "title": "1869⭐ 283🍴 Toggl Desktop",
               "description": ") - Toggl Desktop app for Windows, Mac and Linux.",
               "children": [],
               "repo_info": {
@@ -7702,12 +7702,12 @@
                 "last_commit": "2023-06-22T11:56:54Z",
                 "owner": "toggl-open-source",
                 "repo": "toggldesktop",
-                "stars": 1870
+                "stars": 1869
               }
             },
             {
               "node_type": "item",
-              "title": "1810⭐ 181🍴 ControlPlane",
+              "title": "1811⭐ 181🍴 ControlPlane",
               "description": ") - Automate running tasks based on where you are or what you do.",
               "children": [],
               "repo_info": {
@@ -7722,7 +7722,7 @@
             },
             {
               "node_type": "item",
-              "title": "1091⭐ 70🍴 DropPoint",
+              "title": "1093⭐ 70🍴 DropPoint",
               "description": ") - Make drag-and-drop easier using DropPoint. Helps to drag content without having to open side-by-side windows.",
               "children": [],
               "repo_info": {
@@ -7732,12 +7732,12 @@
                 "last_commit": "2026-08-04T15:33:46Z",
                 "owner": "GameGodS3",
                 "repo": "DropPoint",
-                "stars": 1092
+                "stars": 1093
               }
             },
             {
               "node_type": "item",
-              "title": "1040⭐ 61🍴 RustCast",
+              "title": "1049⭐ 63🍴 RustCast",
               "description": ") - Blazingly fast, customisable multi tool, application launcher",
               "children": [],
               "repo_info": {
@@ -7747,7 +7747,7 @@
                 "last_commit": "2026-08-08T03:12:03Z",
                 "owner": "MystikoLab",
                 "repo": "rustcast",
-                "stars": 1046
+                "stars": 1048
               }
             },
             {
@@ -7767,7 +7767,7 @@
             },
             {
               "node_type": "item",
-              "title": "1016⭐ 75🍴 linked",
+              "title": "1016⭐ 76🍴 linked",
               "description": ") - 🧾 Your daily journal app, diary or anything else to unclutter your mind. Let linked help you get focused by writing down what is in your mind on a daily basis.",
               "children": [],
               "repo_info": {
@@ -7797,7 +7797,7 @@
             },
             {
               "node_type": "item",
-              "title": "887⭐ 82🍴 TimeScribe",
+              "title": "888⭐ 82🍴 TimeScribe",
               "description": ") - Simple and free working time recording.",
               "children": [],
               "repo_info": {
@@ -7807,12 +7807,12 @@
                 "last_commit": "2026-06-02T13:28:40Z",
                 "owner": "WINBIGFOX",
                 "repo": "TimeScribe",
-                "stars": 887
+                "stars": 888
               }
             },
             {
               "node_type": "item",
-              "title": "887⭐ 82🍴 TimeScribe",
+              "title": "888⭐ 82🍴 TimeScribe",
               "description": ") - Simple and free working time recording.",
               "children": [],
               "repo_info": {
@@ -7822,12 +7822,12 @@
                 "last_commit": "2026-06-02T13:28:40Z",
                 "owner": "WINBIGFOX",
                 "repo": "TimeScribe",
-                "stars": 887
+                "stars": 888
               }
             },
             {
               "node_type": "item",
-              "title": "772⭐ 112🍴 Kiwix",
+              "title": "774⭐ 112🍴 Kiwix",
               "description": ") - Kiwix for iOS and macOS, build on Swift.",
               "children": [],
               "repo_info": {
@@ -7837,7 +7837,7 @@
                 "last_commit": "2026-08-24T12:56:12Z",
                 "owner": "kiwix",
                 "repo": "kiwix-apple",
-                "stars": 773
+                "stars": 774
               }
             },
             {
@@ -7887,7 +7887,7 @@
             },
             {
               "node_type": "item",
-              "title": "617⭐ 54🍴 Clocker",
+              "title": "618⭐ 54🍴 Clocker",
               "description": ") - macOS app to plan and organize through timezones.",
               "children": [],
               "repo_info": {
@@ -7947,7 +7947,7 @@
             },
             {
               "node_type": "item",
-              "title": "397⭐ 39🍴 Yippy",
+              "title": "398⭐ 39🍴 Yippy",
               "description": ") - macOS open source clipboard manager",
               "children": [],
               "repo_info": {
@@ -7992,7 +7992,7 @@
             },
             {
               "node_type": "item",
-              "title": "339⭐ 27🍴 PDF Archiver",
+              "title": "340⭐ 27🍴 PDF Archiver",
               "description": ") - Nice tool for tagging and archiving tasks.",
               "children": [],
               "repo_info": {
@@ -8404,7 +8404,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "20969⭐ 1034🍴 Aerial",
+              "title": "20966⭐ 1034🍴 Aerial",
               "description": ") - Apple TV Aerial Screensaver for macOS.",
               "children": [],
               "repo_info": {
@@ -8414,7 +8414,7 @@
                 "last_commit": "2026-05-16T13:55:52Z",
                 "owner": "JohnCoates",
                 "repo": "Aerial",
-                "stars": 20966
+                "stars": 20965
               }
             },
             {
@@ -8434,7 +8434,7 @@
             },
             {
               "node_type": "item",
-              "title": "590⭐ 372🍴 The GitHub Matrix Screensaver",
+              "title": "590⭐ 373🍴 The GitHub Matrix Screensaver",
               "description": ") - The GitHub Matrix Screensaver for macOS.",
               "children": [],
               "repo_info": {
@@ -8561,22 +8561,22 @@
           "children": [
             {
               "node_type": "item",
-              "title": "15984⭐ 1529🍴 Cryptomator",
+              "title": "16006⭐ 1526🍴 Cryptomator",
               "description": ") - Multi-platform transparent client-side encryption of your files in the cloud.",
               "children": [],
               "repo_info": {
                 "archived": false,
                 "id": 16446099,
                 "language": "Java",
-                "last_commit": "2026-08-24T09:14:43Z",
+                "last_commit": "2026-08-25T15:32:11Z",
                 "owner": "cryptomator",
                 "repo": "cryptomator",
-                "stars": 16007
+                "stars": 16017
               }
             },
             {
               "node_type": "item",
-              "title": "13092⭐ 595🍴 LuLu",
+              "title": "13098⭐ 596🍴 LuLu",
               "description": ") - LuLu is macOS firewall application that aims to block unauthorized (outgoing) network traffic.",
               "children": [],
               "repo_info": {
@@ -8586,12 +8586,12 @@
                 "last_commit": "2026-08-05T16:19:32Z",
                 "owner": "objective-see",
                 "repo": "LuLu",
-                "stars": 13096
+                "stars": 13100
               }
             },
             {
               "node_type": "item",
-              "title": "11346⭐ 1316🍴 VeraCrypt",
+              "title": "11363⭐ 1316🍴 VeraCrypt",
               "description": ") - Disk encryption with strong security based on TrueCrypt.",
               "children": [],
               "repo_info": {
@@ -8601,7 +8601,7 @@
                 "last_commit": "2026-07-15T13:49:22Z",
                 "owner": "veracrypt",
                 "repo": "VeraCrypt",
-                "stars": 11355
+                "stars": 11367
               }
             },
             {
@@ -8621,7 +8621,7 @@
             },
             {
               "node_type": "item",
-              "title": "944⭐ 79🍴 Swifty",
+              "title": "943⭐ 79🍴 Swifty",
               "description": ") - Free and offline password manager.",
               "children": [],
               "repo_info": {
@@ -8631,7 +8631,7 @@
                 "last_commit": "2026-01-23T11:27:48Z",
                 "owner": "swiftyapp",
                 "repo": "swifty",
-                "stars": 944
+                "stars": 943
               }
             },
             {
@@ -8651,7 +8651,7 @@
             },
             {
               "node_type": "item",
-              "title": "434⭐ 39🍴 Cloaker",
+              "title": "435⭐ 39🍴 Cloaker",
               "description": ") - simple drag-and-drop, password-based file encryption.",
               "children": [],
               "repo_info": {
@@ -8691,7 +8691,7 @@
                 "last_commit": "2023-08-26T17:38:12Z",
                 "owner": "smmr-software",
                 "repo": "privacy-redirect-safari",
-                "stars": 182
+                "stars": 183
               }
             },
             {
@@ -8733,7 +8733,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "39659⭐ 4832🍴 qBittorrent",
+              "title": "39706⭐ 4840🍴 qBittorrent",
               "description": ") - BitTorrent client in Qt.",
               "children": [],
               "repo_info": {
@@ -8743,12 +8743,12 @@
                 "last_commit": "2026-08-24T11:11:44Z",
                 "owner": "qbittorrent",
                 "repo": "qBittorrent",
-                "stars": 39689
+                "stars": 39709
               }
             },
             {
               "node_type": "item",
-              "title": "15130⭐ 1432🍴 Transmission",
+              "title": "15137⭐ 1433🍴 Transmission",
               "description": ") - Official Transmission BitTorrent client repository.",
               "children": [],
               "repo_info": {
@@ -8758,12 +8758,12 @@
                 "last_commit": "2026-08-24T13:16:35Z",
                 "owner": "transmission",
                 "repo": "transmission",
-                "stars": 15136
+                "stars": 15138
               }
             },
             {
               "node_type": "item",
-              "title": "5301⭐ 472🍴 Tribler",
+              "title": "5302⭐ 472🍴 Tribler",
               "description": ") - Privacy enhanced BitTorrent client with P2P content discovery.",
               "children": [],
               "repo_info": {
@@ -8778,17 +8778,17 @@
             },
             {
               "node_type": "item",
-              "title": "4705⭐ 363🍴 Cyberduck",
+              "title": "4713⭐ 363🍴 Cyberduck",
               "description": ") - Cyberduck is a libre server and cloud storage browser for Mac and Windows with support for FTP, SFTP, WebDAV, Amazon S3, OpenStack Swift, Backblaze B2, Microsoft Azure & OneDrive, Google Drive and Dropbox.",
               "children": [],
               "repo_info": {
                 "archived": false,
                 "id": 79564911,
                 "language": "Java",
-                "last_commit": "2026-08-24T16:24:30Z",
+                "last_commit": "2026-08-26T09:53:45Z",
                 "owner": "iterate-ch",
                 "repo": "cyberduck",
-                "stars": 4712
+                "stars": 4714
               }
             },
             {
@@ -8808,7 +8808,7 @@
             },
             {
               "node_type": "item",
-              "title": "1667⭐ 233🍴 NitroShare",
+              "title": "1666⭐ 233🍴 NitroShare",
               "description": ") - Transferring files from one device to another",
               "children": [],
               "repo_info": {
@@ -8838,7 +8838,7 @@
             },
             {
               "node_type": "item",
-              "title": "426⭐ 59🍴 Soduto",
+              "title": "427⭐ 59🍴 Soduto",
               "description": ") - Soduto is a KDEConnect compatible application for macOS. It gives AirDrop like integration and allows file and clipboard sharing between your phones, desktops and tablets.",
               "children": [],
               "repo_info": {
@@ -8848,7 +8848,7 @@
                 "last_commit": "2026-02-27T18:05:23Z",
                 "owner": "soduto",
                 "repo": "Soduto",
-                "stars": 427
+                "stars": 428
               }
             },
             {
@@ -8890,7 +8890,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "7386⭐ 617🍴 Caprine",
+              "title": "7387⭐ 618🍴 Caprine",
               "description": ") - Elegant Facebook Messenger desktop app.",
               "children": [],
               "repo_info": {
@@ -8905,7 +8905,7 @@
             },
             {
               "node_type": "item",
-              "title": "4028⭐ 198🍴 RedditOS",
+              "title": "4027⭐ 197🍴 RedditOS",
               "description": ") - A SwiftUI Reddit client for macOS.",
               "children": [],
               "repo_info": {
@@ -8915,7 +8915,7 @@
                 "last_commit": "2023-10-23T16:52:36Z",
                 "owner": "Dimillian",
                 "repo": "RedditOS",
-                "stars": 4028
+                "stars": 4027
               }
             },
             {
@@ -9032,7 +9032,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "75355⭐ 9845🍴 OBS Studio",
+              "title": "75445⭐ 9882🍴 OBS Studio",
               "description": ") - Free and open source software for live streaming and screen recording.",
               "children": [],
               "repo_info": {
@@ -9042,7 +9042,7 @@
                 "last_commit": "2026-08-25T00:33:55Z",
                 "owner": "obsproject",
                 "repo": "obs-studio",
-                "stars": 75430
+                "stars": 75467
               }
             },
             {
@@ -9084,7 +9084,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "41387⭐ 1491🍴 Stats",
+              "title": "41436⭐ 1499🍴 Stats",
               "description": ") - macOS system monitor in your menu bar",
               "children": [],
               "repo_info": {
@@ -9094,12 +9094,12 @@
                 "last_commit": "2026-08-23T21:33:57Z",
                 "owner": "exelban",
                 "repo": "stats",
-                "stars": 41414
+                "stars": 41444
               }
             },
             {
               "node_type": "item",
-              "title": "9940⭐ 377🍴 eul",
+              "title": "9941⭐ 377🍴 eul",
               "description": ") - macOS status monitoring app written in SwiftUI.",
               "children": [],
               "repo_info": {
@@ -9109,12 +9109,12 @@
                 "last_commit": "2024-05-25T22:59:12Z",
                 "owner": "gao-sun",
                 "repo": "eul",
-                "stars": 9940
+                "stars": 9941
               }
             },
             {
               "node_type": "item",
-              "title": "8943⭐ 174🍴 Sloth",
+              "title": "8944⭐ 174🍴 Sloth",
               "description": ") - Sloth is an macOS application that displays a list of all open files and sockets in use by all running applications on your system.",
               "children": [],
               "repo_info": {
@@ -9129,7 +9129,7 @@
             },
             {
               "node_type": "item",
-              "title": "6860⭐ 264🍴 KeepingYouAwake",
+              "title": "6859⭐ 264🍴 KeepingYouAwake",
               "description": ") - Prevents your Mac from going to sleep.",
               "children": [],
               "repo_info": {
@@ -9144,7 +9144,7 @@
             },
             {
               "node_type": "item",
-              "title": "4746⭐ 143🍴 Latest",
+              "title": "4747⭐ 142🍴 Latest",
               "description": ") - Small utility app for macOS that makes sure you know about all the latest updates to the apps you use.",
               "children": [],
               "repo_info": {
@@ -9154,7 +9154,7 @@
                 "last_commit": "2026-07-18T07:25:39Z",
                 "owner": "mangerlahn",
                 "repo": "Latest",
-                "stars": 4746
+                "stars": 4749
               }
             },
             {
@@ -9184,7 +9184,7 @@
                 "last_commit": "2021-02-05T15:03:02Z",
                 "owner": "Kevin-De-Koninck",
                 "repo": "Clean-Me",
-                "stars": 1851
+                "stars": 1850
               }
             },
             {
@@ -9214,7 +9214,7 @@
                 "last_commit": "2025-01-11T21:49:01Z",
                 "owner": "ProfileCreator",
                 "repo": "ProfileCreator",
-                "stars": 1504
+                "stars": 1505
               }
             },
             {
@@ -9349,7 +9349,7 @@
                 "last_commit": "2026-06-01T16:41:32Z",
                 "owner": "AlexPerathoner",
                 "repo": "SlimHUD",
-                "stars": 466
+                "stars": 467
               }
             },
             {
@@ -9436,7 +9436,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "74086⭐ 4219🍴 Tabby",
+              "title": "74133⭐ 4221🍴 Tabby",
               "description": ") - Powerful cross-platform terminal emulator, featuring a modern GUI, and offering SSH, serial, Telnet, and SCP client support.",
               "children": [],
               "repo_info": {
@@ -9446,27 +9446,27 @@
                 "last_commit": "2026-08-24T04:03:30Z",
                 "owner": "Eugeny",
                 "repo": "tabby",
-                "stars": 74122
+                "stars": 74143
               }
             },
             {
               "node_type": "item",
-              "title": "65474⭐ 3582🍴 Alacritty",
+              "title": "65510⭐ 3588🍴 Alacritty",
               "description": ") - Cross-platform, GPU-accelerated terminal emulator.",
               "children": [],
               "repo_info": {
                 "archived": false,
                 "id": 51980455,
                 "language": "Rust",
-                "last_commit": "2026-08-17T19:36:06Z",
+                "last_commit": "2026-08-26T04:17:18Z",
                 "owner": "alacritty",
                 "repo": "alacritty",
-                "stars": 65499
+                "stars": 65512
               }
             },
             {
               "node_type": "item",
-              "title": "44701⭐ 3578🍴 Hyper",
+              "title": "44703⭐ 3580🍴 Hyper",
               "description": ") - Terminal built on web technologies.",
               "children": [],
               "repo_info": {
@@ -9476,12 +9476,12 @@
                 "last_commit": "2026-08-21T20:44:39Z",
                 "owner": "vercel",
                 "repo": "hyper",
-                "stars": 44703
+                "stars": 44705
               }
             },
             {
               "node_type": "item",
-              "title": "38794⭐ 870🍴 zoxide",
+              "title": "38836⭐ 871🍴 zoxide",
               "description": ") - zoxide is a smarter cd command for your terminal.",
               "children": [],
               "repo_info": {
@@ -9491,42 +9491,42 @@
                 "last_commit": "2026-08-24T18:44:27Z",
                 "owner": "ajeetdsouza",
                 "repo": "zoxide",
-                "stars": 38823
+                "stars": 38866
               }
             },
             {
               "node_type": "item",
-              "title": "34565⭐ 1481🍴 Kitty",
+              "title": "34597⭐ 1485🍴 Kitty",
               "description": ") - Cross-platform, fast, feature full, GPU based terminal emulator.",
               "children": [],
               "repo_info": {
                 "archived": false,
                 "id": 71056775,
                 "language": "Python",
-                "last_commit": "2026-08-25T04:44:46Z",
+                "last_commit": "2026-08-26T06:56:41Z",
                 "owner": "kovidgoyal",
                 "repo": "kitty",
-                "stars": 34589
+                "stars": 34606
               }
             },
             {
               "node_type": "item",
-              "title": "17958⭐ 1463🍴 iTerm 2",
+              "title": "17962⭐ 1467🍴 iTerm 2",
               "description": ") - Terminal emulator for macOS that does amazing things.",
               "children": [],
               "repo_info": {
                 "archived": false,
                 "id": 1580036,
                 "language": "Objective-C",
-                "last_commit": "2026-08-25T07:08:51Z",
+                "last_commit": "2026-08-26T05:18:01Z",
                 "owner": "gnachman",
                 "repo": "iTerm2",
-                "stars": 17963
+                "stars": 17966
               }
             },
             {
               "node_type": "item",
-              "title": "6969⭐ 299🍴 OpenInTerminal",
+              "title": "6971⭐ 300🍴 OpenInTerminal",
               "description": ") - Finder Toolbar app for macOS to open the current directory in Terminal, iTerm, Hyper or Alacritty.",
               "children": [],
               "repo_info": {
@@ -9541,7 +9541,7 @@
             },
             {
               "node_type": "item",
-              "title": "5884⭐ 176🍴 Clipboard",
+              "title": "5889⭐ 176🍴 Clipboard",
               "description": ") - An easy-to-use clipboard manager with time saving features that work across all terminals.",
               "children": [],
               "repo_info": {
@@ -9551,7 +9551,7 @@
                 "last_commit": "2026-05-06T17:53:52Z",
                 "owner": "Slackadays",
                 "repo": "Clipboard",
-                "stars": 5888
+                "stars": 5891
               }
             },
             {
@@ -9581,7 +9581,7 @@
                 "last_commit": "2025-08-08T12:46:54Z",
                 "owner": "jbtule",
                 "repo": "cdto",
-                "stars": 2430
+                "stars": 2429
               }
             },
             {
@@ -9611,7 +9611,7 @@
                 "last_commit": "2021-08-02T22:38:56Z",
                 "owner": "macmade",
                 "repo": "Console",
-                "stars": 427
+                "stars": 428
               }
             },
             {
@@ -9668,7 +9668,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "10146⭐ 375🍴 Pock",
+              "title": "10145⭐ 375🍴 Pock",
               "description": ") - Display macOS Dock in Touch Bar.",
               "children": [],
               "repo_info": {
@@ -9765,7 +9765,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "94700⭐ 10392🍴 NVM",
+              "title": "94738⭐ 10402🍴 NVM",
               "description": ") - Node Version Manager.",
               "children": [],
               "repo_info": {
@@ -9775,42 +9775,42 @@
                 "last_commit": "2026-08-18T06:42:47Z",
                 "owner": "nvm-sh",
                 "repo": "nvm",
-                "stars": 94731
+                "stars": 94746
               }
             },
             {
               "node_type": "item",
-              "title": "90229⭐ 8167🍴 Stirling-PDF",
+              "title": "90421⭐ 8197🍴 Stirling-PDF",
               "description": ") - Locally hosted web application that allows you to perform various operations on PDF files",
               "children": [],
               "repo_info": {
                 "archived": false,
                 "id": 594155488,
                 "language": "Java",
-                "last_commit": "2026-08-25T09:50:57Z",
+                "last_commit": "2026-08-26T09:38:28Z",
                 "owner": "Stirling-Tools",
                 "repo": "Stirling-PDF",
-                "stars": 90370
+                "stars": 90451
               }
             },
             {
               "node_type": "item",
-              "title": "55078⭐ 8434🍴 PowerShell",
+              "title": "55123⭐ 8436🍴 PowerShell",
               "description": ") - PowerShell is a cross-platform automation and configuration tool/framework that works well with your existing tools.",
               "children": [],
               "repo_info": {
                 "archived": false,
                 "id": 49609581,
                 "language": "C#",
-                "last_commit": "2026-08-24T23:22:51Z",
+                "last_commit": "2026-08-25T20:51:08Z",
                 "owner": "PowerShell",
                 "repo": "PowerShell",
-                "stars": 55114
+                "stars": 55129
               }
             },
             {
               "node_type": "item",
-              "title": "41387⭐ 1491🍴 Stats",
+              "title": "41436⭐ 1499🍴 Stats",
               "description": ") - macOS system monitor in your menu bar",
               "children": [],
               "repo_info": {
@@ -9820,12 +9820,12 @@
                 "last_commit": "2026-08-23T21:33:57Z",
                 "owner": "exelban",
                 "repo": "stats",
-                "stars": 41414
+                "stars": 41444
               }
             },
             {
               "node_type": "item",
-              "title": "38794⭐ 870🍴 zoxide",
+              "title": "38836⭐ 871🍴 zoxide",
               "description": ") - zoxide is a smarter cd command for your terminal.",
               "children": [],
               "repo_info": {
@@ -9835,12 +9835,12 @@
                 "last_commit": "2026-08-24T18:44:27Z",
                 "owner": "ajeetdsouza",
                 "repo": "zoxide",
-                "stars": 38823
+                "stars": 38866
               }
             },
             {
               "node_type": "item",
-              "title": "34217⭐ 2410🍴 Balena Etcher",
+              "title": "34228⭐ 2409🍴 Balena Etcher",
               "description": ") - Flash OS images to SD cards & USB drives, safely and easily.",
               "children": [],
               "repo_info": {
@@ -9850,12 +9850,12 @@
                 "last_commit": "2026-06-02T09:25:23Z",
                 "owner": "balena-io",
                 "repo": "etcher",
-                "stars": 34227
+                "stars": 34231
               }
             },
             {
               "node_type": "item",
-              "title": "34020⭐ 989🍴 MonitorControl",
+              "title": "34031⭐ 989🍴 MonitorControl",
               "description": ") - Control your external monitor brightness, contrast or volume directly from a menulet or with keyboard native keys.",
               "children": [],
               "repo_info": {
@@ -9865,12 +9865,12 @@
                 "last_commit": "2026-08-11T12:43:28Z",
                 "owner": "MonitorControl",
                 "repo": "MonitorControl",
-                "stars": 34027
+                "stars": 34036
               }
             },
             {
               "node_type": "item",
-              "title": "29370⭐ 846🍴 Ice",
+              "title": "29392⭐ 851🍴 Ice",
               "description": ") - Ice is a versatile menu bar manager that goes beyond hiding and showing items to offer a rich set of productivity features.",
               "children": [],
               "repo_info": {
@@ -9880,12 +9880,12 @@
                 "last_commit": "2025-09-20T20:28:17Z",
                 "owner": "jordanbaird",
                 "repo": "Ice",
-                "stars": 29379
+                "stars": 29397
               }
             },
             {
               "node_type": "item",
-              "title": "28511⭐ 1884🍴 KeePassXC",
+              "title": "28535⭐ 1888🍴 KeePassXC",
               "description": ") - Cross-platform community-driven port of the Windows application \"Keepass Password Safe\"",
               "children": [],
               "repo_info": {
@@ -9895,57 +9895,57 @@
                 "last_commit": "2026-08-24T16:37:46Z",
                 "owner": "keepassxreboot",
                 "repo": "keepassxc",
-                "stars": 28534
+                "stars": 28541
               }
             },
             {
               "node_type": "item",
-              "title": "25713⭐ 2659🍴 calibre",
+              "title": "25725⭐ 2657🍴 calibre",
               "description": ") - cross platform e-book manager.",
               "children": [],
               "repo_info": {
                 "archived": false,
                 "id": 10332822,
                 "language": "Python",
-                "last_commit": "2026-08-24T16:28:40Z",
+                "last_commit": "2026-08-26T09:41:52Z",
                 "owner": "kovidgoyal",
                 "repo": "calibre",
-                "stars": 25723
+                "stars": 25728
               }
             },
             {
               "node_type": "item",
-              "title": "22171⭐ 11844🍴 homebrew-cask",
+              "title": "22174⭐ 11849🍴 homebrew-cask",
               "description": ") - A CLI workflow for the administration of macOS applications distributed as binaries",
               "children": [],
               "repo_info": {
                 "archived": false,
                 "id": 3623050,
                 "language": "Ruby",
-                "last_commit": "2026-08-25T09:52:32Z",
+                "last_commit": "2026-08-26T10:01:48Z",
                 "owner": "Homebrew",
                 "repo": "homebrew-cask",
-                "stars": 22172
+                "stars": 22174
               }
             },
             {
               "node_type": "item",
-              "title": "21536⭐ 1977🍴 Super Productivity",
+              "title": "21595⭐ 1984🍴 Super Productivity",
               "description": ") - Free to do list & time tracker for programmers & designers with Jira integration.",
               "children": [],
               "repo_info": {
                 "archived": false,
                 "id": 78243781,
                 "language": "TypeScript",
-                "last_commit": "2026-08-24T15:43:25Z",
+                "last_commit": "2026-08-25T15:55:56Z",
                 "owner": "super-productivity",
                 "repo": "super-productivity",
-                "stars": 21579
+                "stars": 21608
               }
             },
             {
               "node_type": "item",
-              "title": "21226⭐ 678🍴 Mos",
+              "title": "21248⭐ 679🍴 Mos",
               "description": ") - Smooth your mouse's scrolling and reverse the mouse scroll direction",
               "children": [],
               "repo_info": {
@@ -9955,27 +9955,27 @@
                 "last_commit": "2026-08-20T16:42:32Z",
                 "owner": "Caldis",
                 "repo": "Mos",
-                "stars": 21243
+                "stars": 21254
               }
             },
             {
               "node_type": "item",
-              "title": "21190⭐ 2125🍴 Screenpipe",
+              "title": "21229⭐ 2133🍴 Screenpipe",
               "description": ") - 24/7 screen and audio recording with AI-powered search. Local-first, privacy-focused rewind alternative.",
               "children": [],
               "repo_info": {
                 "archived": false,
                 "id": 817326197,
                 "language": "Rust",
-                "last_commit": "2026-08-25T02:14:18Z",
+                "last_commit": "2026-08-26T09:28:44Z",
                 "owner": "screenpipe",
                 "repo": "screenpipe",
-                "stars": 21213
+                "stars": 21235
               }
             },
             {
               "node_type": "item",
-              "title": "19334⭐ 889🍴 Kap",
+              "title": "19335⭐ 890🍴 Kap",
               "description": ") - Screen recorder application built with web technology.",
               "children": [],
               "repo_info": {
@@ -9985,12 +9985,12 @@
                 "last_commit": "2024-11-12T15:32:40Z",
                 "owner": "wulkano",
                 "repo": "Kap",
-                "stars": 19333
+                "stars": 19336
               }
             },
             {
               "node_type": "item",
-              "title": "18688⭐ 989🍴 ActivityWatch",
+              "title": "18712⭐ 990🍴 ActivityWatch",
               "description": ") - Open-source automated time tracker that tracks how you spend time on your devices.",
               "children": [],
               "repo_info": {
@@ -10000,12 +10000,12 @@
                 "last_commit": "2026-08-23T10:00:01Z",
                 "owner": "ActivityWatch",
                 "repo": "activitywatch",
-                "stars": 18702
+                "stars": 18717
               }
             },
             {
               "node_type": "item",
-              "title": "18067⭐ 1968🍴 OpenCore Legacy Patcher",
+              "title": "18087⭐ 1974🍴 OpenCore Legacy Patcher",
               "description": ") - OpenCore Legacy Patcher is a tool for installing new MacOS versions on legacy macs.",
               "children": [],
               "repo_info": {
@@ -10015,22 +10015,22 @@
                 "last_commit": "2026-08-23T23:32:27Z",
                 "owner": "dortania",
                 "repo": "OpenCore-Legacy-Patcher",
-                "stars": 18085
+                "stars": 18087
               }
             },
             {
               "node_type": "item",
-              "title": "17556⭐ 1985🍴 nix-package-manager",
+              "title": "17567⭐ 1987🍴 nix-package-manager",
               "description": ") - Nix is a reproducible package manager alternative to Homebrew, with over 80,000 packages.",
               "children": [],
               "repo_info": {
                 "archived": false,
                 "id": 3386088,
                 "language": "C++",
-                "last_commit": "2026-08-25T05:48:20Z",
+                "last_commit": "2026-08-25T17:34:29Z",
                 "owner": "NixOS",
                 "repo": "nix",
-                "stars": 17562
+                "stars": 17568
               }
             },
             {
@@ -10045,12 +10045,12 @@
                 "last_commit": "2026-08-23T04:28:34Z",
                 "owner": "xournalpp",
                 "repo": "xournalpp",
-                "stars": 15284
+                "stars": 15287
               }
             },
             {
               "node_type": "item",
-              "title": "13428⭐ 2889🍴 Nmap",
+              "title": "13454⭐ 2890🍴 Nmap",
               "description": ") - Nmap - the Network Mapper.",
               "children": [],
               "repo_info": {
@@ -10060,12 +10060,12 @@
                 "last_commit": "2026-08-24T03:00:06Z",
                 "owner": "nmap",
                 "repo": "nmap",
-                "stars": 13447
+                "stars": 13459
               }
             },
             {
               "node_type": "item",
-              "title": "12985⭐ 1158🍴 KeeWeb",
+              "title": "12986⭐ 1158🍴 KeeWeb",
               "description": ") - Cross-platform password manager compatible with KeePass.",
               "children": [],
               "repo_info": {
@@ -10075,12 +10075,12 @@
                 "last_commit": "2026-05-08T03:29:03Z",
                 "owner": "keeweb",
                 "repo": "keeweb",
-                "stars": 12988
+                "stars": 12986
               }
             },
             {
               "node_type": "item",
-              "title": "9940⭐ 377🍴 eul",
+              "title": "9941⭐ 377🍴 eul",
               "description": ") - macOS status monitoring app written in SwiftUI.",
               "children": [],
               "repo_info": {
@@ -10090,37 +10090,37 @@
                 "last_commit": "2024-05-25T22:59:12Z",
                 "owner": "gao-sun",
                 "repo": "eul",
-                "stars": 9940
+                "stars": 9941
               }
             },
             {
               "node_type": "item",
-              "title": "9766⭐ 2197🍴 Wireshark",
+              "title": "9779⭐ 2198🍴 Wireshark",
               "description": ") - Wireshark is the world’s foremost and widely-used network protocol analyzer. It lets you see what’s happening on your network at a microscopic level and is the de facto (and often de jure) standard across many commercial and non-profit enterprises, government agencies, and educational institutions.",
               "children": [],
               "repo_info": {
                 "archived": false,
                 "id": 21329550,
                 "language": "C",
-                "last_commit": "2026-08-25T04:39:28Z",
+                "last_commit": "2026-08-26T02:10:40Z",
                 "owner": "wireshark",
                 "repo": "wireshark",
-                "stars": 9777
+                "stars": 9780
               }
             },
             {
               "node_type": "item",
-              "title": "7784⭐ 399🍴 PeaZip",
+              "title": "7789⭐ 399🍴 PeaZip",
               "description": ") - Free file archiver utility and open source file compression and encryption tool supporting 200+ formats.",
               "children": [],
               "repo_info": {
                 "archived": false,
                 "id": 1076980,
                 "language": "Pascal",
-                "last_commit": "2026-08-16T13:01:57Z",
+                "last_commit": "2026-08-26T06:36:54Z",
                 "owner": "peazip",
                 "repo": "PeaZip",
-                "stars": 7788
+                "stars": 7791
               }
             },
             {
@@ -10135,12 +10135,12 @@
                 "last_commit": "2026-01-06T18:34:01Z",
                 "owner": "arsenetar",
                 "repo": "dupeguru",
-                "stars": 7783
+                "stars": 7785
               }
             },
             {
               "node_type": "item",
-              "title": "7243⭐ 294🍴 Keka",
+              "title": "7261⭐ 295🍴 Keka",
               "description": ") - Keka is a full featured file archiver, as easy as it can be.",
               "children": [],
               "repo_info": {
@@ -10150,12 +10150,12 @@
                 "last_commit": "2026-06-30T12:53:54Z",
                 "owner": "aonez",
                 "repo": "Keka",
-                "stars": 7259
+                "stars": 7263
               }
             },
             {
               "node_type": "item",
-              "title": "6856⭐ 469🍴 MacPass",
+              "title": "6854⭐ 469🍴 MacPass",
               "description": ") - Native macOS KeePass client.",
               "children": [],
               "repo_info": {
@@ -10185,7 +10185,7 @@
             },
             {
               "node_type": "item",
-              "title": "5895⭐ 239🍴 OnlySwitch",
+              "title": "5894⭐ 240🍴 OnlySwitch",
               "description": ") - All-in-One status bar button, hide MacBook Pro's notch, dark mode, AirPods, Shortcuts",
               "children": [],
               "repo_info": {
@@ -10195,12 +10195,12 @@
                 "last_commit": "2026-08-21T19:03:11Z",
                 "owner": "jacklandrin",
                 "repo": "OnlySwitch",
-                "stars": 5894
+                "stars": 5896
               }
             },
             {
               "node_type": "item",
-              "title": "5663⭐ 144🍴 Lunar",
+              "title": "5664⭐ 144🍴 Lunar",
               "description": ") - Intelligent adaptive brightness for your external displays.",
               "children": [],
               "repo_info": {
@@ -10210,7 +10210,7 @@
                 "last_commit": "2026-07-14T14:28:31Z",
                 "owner": "alin23",
                 "repo": "Lunar",
-                "stars": 5664
+                "stars": 5665
               }
             },
             {
@@ -10230,7 +10230,7 @@
             },
             {
               "node_type": "item",
-              "title": "5311⭐ 290🍴 MeetingBar",
+              "title": "5316⭐ 292🍴 MeetingBar",
               "description": ") - Menu bar app for your calendar meetings",
               "children": [],
               "repo_info": {
@@ -10245,7 +10245,7 @@
             },
             {
               "node_type": "item",
-              "title": "5310⭐ 256🍴 Flying Carpet",
+              "title": "5311⭐ 256🍴 Flying Carpet",
               "description": ") - cross-platform file transfer over ad-hoc wifi, like AirDrop but for Mac/Windows/Linux.",
               "children": [],
               "repo_info": {
@@ -10255,7 +10255,7 @@
                 "last_commit": "2026-08-12T04:23:56Z",
                 "owner": "spieglt",
                 "repo": "FlyingCarpet",
-                "stars": 5310
+                "stars": 5312
               }
             },
             {
@@ -10270,12 +10270,12 @@
                 "last_commit": "2026-08-17T05:45:43Z",
                 "owner": "emqx",
                 "repo": "MQTTX",
-                "stars": 5031
+                "stars": 5032
               }
             },
             {
               "node_type": "item",
-              "title": "4976⭐ 185🍴 Übersicht",
+              "title": "4978⭐ 185🍴 Übersicht",
               "description": ") - Keep an eye on what's happening on your machine and in the world.",
               "children": [],
               "repo_info": {
@@ -10320,7 +10320,7 @@
             },
             {
               "node_type": "item",
-              "title": "4179⭐ 388🍴 Boop",
+              "title": "4178⭐ 388🍴 Boop",
               "description": ") - A scriptable scratchpad for developers.",
               "children": [],
               "repo_info": {
@@ -10330,12 +10330,12 @@
                 "last_commit": "2024-06-30T22:16:41Z",
                 "owner": "IvanMathy",
                 "repo": "Boop",
-                "stars": 4179
+                "stars": 4178
               }
             },
             {
               "node_type": "item",
-              "title": "3540⭐ 392🍴 Bitwarden",
+              "title": "3541⭐ 392🍴 Bitwarden",
               "description": ") - Cross-platform password management solutions for individuals, teams, and business organizations.",
               "children": [],
               "repo_info": {
@@ -10345,7 +10345,7 @@
                 "last_commit": "2022-07-22T16:59:56Z",
                 "owner": "bitwarden",
                 "repo": "desktop",
-                "stars": 3540
+                "stars": 3541
               }
             },
             {
@@ -10360,27 +10360,27 @@
                 "last_commit": "2026-08-08T18:01:09Z",
                 "owner": "runjuu",
                 "repo": "InputSourcePro",
-                "stars": 3472
+                "stars": 3473
               }
             },
             {
               "node_type": "item",
-              "title": "3289⭐ 1125🍴 Betaflight Configurator",
+              "title": "3291⭐ 1126🍴 Betaflight Configurator",
               "description": ") - Cross platform configuration tool for the Betaflight firmware.",
               "children": [],
               "repo_info": {
                 "archived": false,
                 "id": 60735171,
                 "language": "JavaScript",
-                "last_commit": "2026-08-24T20:11:04Z",
+                "last_commit": "2026-08-26T01:19:12Z",
                 "owner": "betaflight",
                 "repo": "betaflight-configurator",
-                "stars": 3289
+                "stars": 3292
               }
             },
             {
               "node_type": "item",
-              "title": "3098⭐ 236🍴 LocationSimulator",
+              "title": "3096⭐ 238🍴 LocationSimulator",
               "description": ") - Application to spoof your iOS or iPhoneSimulator location.",
               "children": [],
               "repo_info": {
@@ -10390,22 +10390,22 @@
                 "last_commit": "2026-08-18T00:15:50Z",
                 "owner": "Schlaubischlump",
                 "repo": "LocationSimulator",
-                "stars": 3097
+                "stars": 3098
               }
             },
             {
               "node_type": "item",
-              "title": "3055⭐ 692🍴 OpenRocket",
+              "title": "3060⭐ 691🍴 OpenRocket",
               "description": ") - OpenRocket is a cross-platform utility tool to model and simulate model rockets and their flight characteristics.",
               "children": [],
               "repo_info": {
                 "archived": false,
                 "id": 6010939,
                 "language": "Java",
-                "last_commit": "2026-08-24T23:11:48Z",
+                "last_commit": "2026-08-25T19:08:28Z",
                 "owner": "openrocket",
                 "repo": "openrocket",
-                "stars": 3057
+                "stars": 3063
               }
             },
             {
@@ -10425,7 +10425,7 @@
             },
             {
               "node_type": "item",
-              "title": "2922⭐ 267🍴 Padlock",
+              "title": "2922⭐ 268🍴 Padlock",
               "description": ") - A minimal, open source password manager for macOS.",
               "children": [],
               "repo_info": {
@@ -10435,12 +10435,12 @@
                 "last_commit": "2025-03-29T04:40:17Z",
                 "owner": "padloc",
                 "repo": "padloc",
-                "stars": 2922
+                "stars": 2923
               }
             },
             {
               "node_type": "item",
-              "title": "2899⭐ 124🍴 Middleclick",
+              "title": "2901⭐ 124🍴 Middleclick",
               "description": ") - Emulate a scroll wheel click with three finger Click or Tap on MacBook trackpad and Magic Mouse",
               "children": [],
               "repo_info": {
@@ -10450,12 +10450,12 @@
                 "last_commit": "2026-08-24T15:28:23Z",
                 "owner": "artginzburg",
                 "repo": "MiddleClick",
-                "stars": 2900
+                "stars": 2901
               }
             },
             {
               "node_type": "item",
-              "title": "2844⭐ 267🍴 BeardedSpice",
+              "title": "2843⭐ 267🍴 BeardedSpice",
               "description": ") - Control web based media players with the media keys found on Mac keyboards.",
               "children": [],
               "repo_info": {
@@ -10480,12 +10480,12 @@
                 "last_commit": "2023-04-02T09:42:58Z",
                 "owner": "amirdew",
                 "repo": "CollectionViewPagingLayout",
-                "stars": 2798
+                "stars": 2799
               }
             },
             {
               "node_type": "item",
-              "title": "2545⭐ 82🍴 Pika",
+              "title": "2547⭐ 81🍴 Pika",
               "description": ") - Is an easy to use, open-source, native colour picker for macOS.",
               "children": [],
               "repo_info": {
@@ -10495,7 +10495,7 @@
                 "last_commit": "2026-08-24T17:50:44Z",
                 "owner": "superhighfives",
                 "repo": "pika",
-                "stars": 2547
+                "stars": 2549
               }
             },
             {
@@ -10507,7 +10507,7 @@
                 "archived": false,
                 "id": 65415224,
                 "language": "C++",
-                "last_commit": "2026-08-24T06:42:48Z",
+                "last_commit": "2026-08-26T06:58:32Z",
                 "owner": "elfmz",
                 "repo": "far2l",
                 "stars": 2210
@@ -10515,7 +10515,7 @@
             },
             {
               "node_type": "item",
-              "title": "1893⭐ 64🍴 TRex",
+              "title": "1894⭐ 64🍴 TRex",
               "description": ") - TRex is the easiest way to copy the uncopyable text from images, YouTube videos, Zoom calls and more. If you can see it - you can copy it. TRex captures any text right into your Clipboard with magic of OCR.",
               "children": [],
               "repo_info": {
@@ -10560,7 +10560,7 @@
             },
             {
               "node_type": "item",
-              "title": "1162⭐ 233🍴 Telephone",
+              "title": "1164⭐ 233🍴 Telephone",
               "description": ") - SIP softphone for macOS.",
               "children": [],
               "repo_info": {
@@ -10570,7 +10570,7 @@
                 "last_commit": "2026-07-12T14:12:10Z",
                 "owner": "64characters",
                 "repo": "Telephone",
-                "stars": 1162
+                "stars": 1164
               }
             },
             {
@@ -10590,7 +10590,7 @@
             },
             {
               "node_type": "item",
-              "title": "1040⭐ 61🍴 RustCast",
+              "title": "1049⭐ 63🍴 RustCast",
               "description": ") - Blazingly fast, customisable multi tool, application launcher",
               "children": [],
               "repo_info": {
@@ -10600,7 +10600,7 @@
                 "last_commit": "2026-08-08T03:12:03Z",
                 "owner": "MystikoLab",
                 "repo": "rustcast",
-                "stars": 1046
+                "stars": 1048
               }
             },
             {
@@ -10705,7 +10705,7 @@
                 "last_commit": "2026-08-24T23:40:57Z",
                 "owner": "sarensw",
                 "repo": "MacPacker",
-                "stars": 606
+                "stars": 611
               }
             },
             {
@@ -10740,21 +10740,6 @@
             },
             {
               "node_type": "item",
-              "title": "466⭐ 75🍴 Crypter",
-              "description": ") - Crypter is an innovative, convenient and secure cross-platform crypto app that simplifies secure password generation and management by requiring you to only remember one bit, the MasterPass.",
-              "children": [],
-              "repo_info": {
-                "archived": true,
-                "id": 56356468,
-                "language": "JavaScript",
-                "last_commit": "2021-02-19T13:47:51Z",
-                "owner": "HR",
-                "repo": "Crypter",
-                "stars": 466
-              }
-            },
-            {
-              "node_type": "item",
               "title": "467⭐ 11🍴 SlimHUD - Cyanocitta",
               "description": ") - Replacement for MacOS' volume, brightness and keyboard backlight HUDs.",
               "children": [],
@@ -10765,6 +10750,21 @@
                 "last_commit": "2026-06-01T16:41:32Z",
                 "owner": "AlexPerathoner",
                 "repo": "SlimHUD",
+                "stars": 467
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "466⭐ 75🍴 Crypter",
+              "description": ") - Crypter is an innovative, convenient and secure cross-platform crypto app that simplifies secure password generation and management by requiring you to only remember one bit, the MasterPass.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 56356468,
+                "language": "JavaScript",
+                "last_commit": "2021-02-19T13:47:51Z",
+                "owner": "HR",
+                "repo": "Crypter",
                 "stars": 466
               }
             },
@@ -10815,7 +10815,7 @@
             },
             {
               "node_type": "item",
-              "title": "278⭐ 16🍴 SaneBar",
+              "title": "281⭐ 16🍴 SaneBar",
               "description": ") - Privacy-first menu bar manager with Touch ID lock, Always-Hidden Zone, and automation triggers.",
               "children": [],
               "repo_info": {
@@ -10825,7 +10825,7 @@
                 "last_commit": "2026-08-22T23:17:04Z",
                 "owner": "sane-apps",
                 "repo": "SaneBar",
-                "stars": 280
+                "stars": 281
               }
             },
             {
@@ -10900,7 +10900,7 @@
                 "last_commit": "2026-04-22T01:19:21Z",
                 "owner": "NullPointerDepressiveDisorder",
                 "repo": "MiddleDrag",
-                "stars": 232
+                "stars": 231
               }
             },
             {
@@ -10965,17 +10965,17 @@
             },
             {
               "node_type": "item",
-              "title": "109⭐ 7🍴 VPN Bypass",
+              "title": "113⭐ 8🍴 VPN Bypass",
               "description": ") - Route specific domains and services around your corporate VPN while keeping the rest of your traffic protected.",
               "children": [],
               "repo_info": {
                 "archived": false,
                 "id": 1134420390,
                 "language": "Swift",
-                "last_commit": "2026-08-24T20:44:29Z",
+                "last_commit": "2026-08-25T10:56:37Z",
                 "owner": "GeiserX",
                 "repo": "VPN-Bypass",
-                "stars": 112
+                "stars": 114
               }
             },
             {
@@ -11422,7 +11422,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "32883⭐ 7761🍴 ShadowsocksX-NG",
+              "title": "32885⭐ 7760🍴 ShadowsocksX-NG",
               "description": ") - Next Generation of ShadowsocksX.",
               "children": [],
               "repo_info": {
@@ -11432,22 +11432,22 @@
                 "last_commit": "2024-10-29T12:19:30Z",
                 "owner": "shadowsocks",
                 "repo": "ShadowsocksX-NG",
-                "stars": 32884
+                "stars": 32885
               }
             },
             {
               "node_type": "item",
-              "title": "3275⭐ 367🍴 Tunnelblick",
+              "title": "3273⭐ 367🍴 Tunnelblick",
               "description": ") - Tunnelblick is a graphic user interface for OpenVPN on macOS.",
               "children": [],
               "repo_info": {
                 "archived": false,
                 "id": 39261898,
                 "language": "Objective-C",
-                "last_commit": "2026-08-24T19:48:54Z",
+                "last_commit": "2026-08-25T12:36:10Z",
                 "owner": "Tunnelblick",
                 "repo": "Tunnelblick",
-                "stars": 3274
+                "stars": 3273
               }
             },
             {
@@ -11482,17 +11482,17 @@
             },
             {
               "node_type": "item",
-              "title": "109⭐ 7🍴 VPN Bypass",
+              "title": "113⭐ 8🍴 VPN Bypass",
               "description": ") - Route specific domains and services around your corporate VPN while keeping the rest of your traffic protected.",
               "children": [],
               "repo_info": {
                 "archived": false,
                 "id": 1134420390,
                 "language": "Swift",
-                "last_commit": "2026-08-24T20:44:29Z",
+                "last_commit": "2026-08-25T10:56:37Z",
                 "owner": "GeiserX",
                 "repo": "VPN-Bypass",
-                "stars": 112
+                "stars": 114
               }
             },
             {
@@ -11519,7 +11519,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "43143⭐ 2129🍴 LosslessCut",
+              "title": "43196⭐ 2136🍴 LosslessCut",
               "description": ") - The swiss army knife of lossless video/audio editing without re-encoding.",
               "children": [],
               "repo_info": {
@@ -11529,27 +11529,27 @@
                 "last_commit": "2026-08-21T09:03:12Z",
                 "owner": "mifi",
                 "repo": "lossless-cut",
-                "stars": 43181
+                "stars": 43206
               }
             },
             {
               "node_type": "item",
-              "title": "36648⭐ 3488🍴 MPV",
+              "title": "36681⭐ 3494🍴 MPV",
               "description": ") - Lightweight, highly configurable media player.",
               "children": [],
               "repo_info": {
                 "archived": false,
                 "id": 6201092,
                 "language": "C",
-                "last_commit": "2026-08-23T16:09:02Z",
+                "last_commit": "2026-08-25T23:47:41Z",
                 "owner": "mpv-player",
                 "repo": "mpv",
-                "stars": 36673
+                "stars": 36683
               }
             },
             {
               "node_type": "item",
-              "title": "24127⭐ 1682🍴 HandBrake",
+              "title": "24160⭐ 1684🍴 HandBrake",
               "description": ") - HandBrake is a video transcoder available for Linux, Mac, and Windows.",
               "children": [],
               "repo_info": {
@@ -11559,22 +11559,22 @@
                 "last_commit": "2026-08-22T19:33:18Z",
                 "owner": "HandBrake",
                 "repo": "HandBrake",
-                "stars": 24157
+                "stars": 24171
               }
             },
             {
               "node_type": "item",
-              "title": "19422⭐ 6164🍴 VLC",
+              "title": "19428⭐ 6168🍴 VLC",
               "description": ") - VLC is a free and open source cross-platform multimedia player",
               "children": [],
               "repo_info": {
                 "archived": false,
                 "id": 3299208,
                 "language": "C",
-                "last_commit": "2026-08-25T09:02:45Z",
+                "last_commit": "2026-08-26T07:48:04Z",
                 "owner": "videolan",
                 "repo": "vlc",
-                "stars": 19429
+                "stars": 19435
               }
             },
             {
@@ -11594,32 +11594,32 @@
             },
             {
               "node_type": "item",
-              "title": "6192⭐ 758🍴 OpenShot",
+              "title": "6197⭐ 761🍴 OpenShot",
               "description": ") - Easy to use, quick to learn, and surprisingly powerful video editor.",
               "children": [],
               "repo_info": {
                 "archived": false,
                 "id": 36648301,
                 "language": "Python",
-                "last_commit": "2026-08-23T04:28:01Z",
+                "last_commit": "2026-08-25T20:07:38Z",
                 "owner": "OpenShot",
                 "repo": "openshot-qt",
-                "stars": 6194
+                "stars": 6200
               }
             },
             {
               "node_type": "item",
-              "title": "3542⭐ 123🍴 QuickLook Video",
+              "title": "3543⭐ 123🍴 QuickLook Video",
               "description": ") - This package allows macOS Finder to display thumbnails, static QuickLook previews, cover art and metadata for most types of video files.",
               "children": [],
               "repo_info": {
                 "archived": false,
                 "id": 21910366,
                 "language": "Swift",
-                "last_commit": "2026-08-19T13:24:38Z",
+                "last_commit": "2026-08-25T17:26:45Z",
                 "owner": "Marginal",
                 "repo": "QuickLookVideo",
-                "stars": 3543
+                "stars": 3544
               }
             },
             {
@@ -11721,7 +11721,7 @@
                 "archived": false,
                 "id": 106320713,
                 "language": "C++",
-                "last_commit": "2026-08-11T15:47:38Z",
+                "last_commit": "2026-08-25T11:40:39Z",
                 "owner": "willamowius",
                 "repo": "gnugk",
                 "stars": 89
@@ -11826,7 +11826,7 @@
             },
             {
               "node_type": "item",
-              "title": "2052⭐ 73🍴 Equinox",
+              "title": "2053⭐ 73🍴 Equinox",
               "description": ") - Equinox is an application that allows you to create macOS dynamic wallpapers.",
               "children": [],
               "repo_info": {
@@ -11836,7 +11836,7 @@
                 "last_commit": "2026-06-11T22:35:25Z",
                 "owner": "rlxone",
                 "repo": "Equinox",
-                "stars": 2053
+                "stars": 2054
               }
             },
             {
@@ -11998,22 +11998,22 @@
           "children": [
             {
               "node_type": "item",
-              "title": "29725⭐ 977🍴 Rectangle",
+              "title": "29741⭐ 978🍴 Rectangle",
               "description": ") - Rectangle is a window manager heavily based on Spectacle, written in Swift.",
               "children": [],
               "repo_info": {
                 "archived": false,
                 "id": 193162629,
                 "language": "Swift",
-                "last_commit": "2026-08-21T10:45:52Z",
+                "last_commit": "2026-08-26T01:04:17Z",
                 "owner": "rxhanson",
                 "repo": "Rectangle",
-                "stars": 29737
+                "stars": 29746
               }
             },
             {
               "node_type": "item",
-              "title": "29502⭐ 744🍴 Yabai",
+              "title": "29509⭐ 744🍴 Yabai",
               "description": ") - A tiling window manager for macOS based on binary space partitioning.",
               "children": [],
               "repo_info": {
@@ -12023,12 +12023,12 @@
                 "last_commit": "2026-06-14T12:40:07Z",
                 "owner": "asmvik",
                 "repo": "yabai",
-                "stars": 29507
+                "stars": 29509
               }
             },
             {
               "node_type": "item",
-              "title": "29370⭐ 846🍴 Ice",
+              "title": "29392⭐ 851🍴 Ice",
               "description": ") - Ice is a versatile menu bar manager that goes beyond hiding and showing items to offer a rich set of productivity features.",
               "children": [],
               "repo_info": {
@@ -12038,12 +12038,12 @@
                 "last_commit": "2025-09-20T20:28:17Z",
                 "owner": "jordanbaird",
                 "repo": "Ice",
-                "stars": 29379
+                "stars": 29397
               }
             },
             {
               "node_type": "item",
-              "title": "16231⭐ 530🍴 Amethyst",
+              "title": "16235⭐ 530🍴 Amethyst",
               "description": ") - Automatic tiling window manager for macOS.",
               "children": [],
               "repo_info": {
@@ -12053,12 +12053,12 @@
                 "last_commit": "2026-08-19T13:38:37Z",
                 "owner": "ianyh",
                 "repo": "Amethyst",
-                "stars": 16236
+                "stars": 16235
               }
             },
             {
               "node_type": "item",
-              "title": "16203⭐ 846🍴 AltTab",
+              "title": "16212⭐ 849🍴 AltTab",
               "description": ") - AltTab brings the power of Windows alt-tab to macOS.",
               "children": [],
               "repo_info": {
@@ -12068,12 +12068,12 @@
                 "last_commit": "2026-08-19T09:20:08Z",
                 "owner": "lwouis",
                 "repo": "alt-tab-macos",
-                "stars": 16207
+                "stars": 16212
               }
             },
             {
               "node_type": "item",
-              "title": "16203⭐ 846🍴 AltTab",
+              "title": "16212⭐ 849🍴 AltTab",
               "description": ") - Switch between open applications on macOS with a Windows-like Alt+Tab experience.",
               "children": [],
               "repo_info": {
@@ -12083,12 +12083,12 @@
                 "last_commit": "2026-08-19T09:20:08Z",
                 "owner": "lwouis",
                 "repo": "alt-tab-macos",
-                "stars": 16207
+                "stars": 16212
               }
             },
             {
               "node_type": "item",
-              "title": "15975⭐ 712🍴 Hammerspoon",
+              "title": "15989⭐ 712🍴 Hammerspoon",
               "description": ") - Staggeringly powerful macOS desktop automation with Lua.",
               "children": [],
               "repo_info": {
@@ -12098,12 +12098,12 @@
                 "last_commit": "2026-07-08T21:13:24Z",
                 "owner": "Hammerspoon",
                 "repo": "hammerspoon",
-                "stars": 15989
+                "stars": 15994
               }
             },
             {
               "node_type": "item",
-              "title": "13637⭐ 852🍴 Spectacle",
+              "title": "13636⭐ 852🍴 Spectacle",
               "description": ") - Spectacle allows you to organize your windows without using a mouse.",
               "children": [],
               "repo_info": {
@@ -12113,12 +12113,12 @@
                 "last_commit": "2022-01-15T17:32:42Z",
                 "owner": "eczarny",
                 "repo": "spectacle",
-                "stars": 13637
+                "stars": 13636
               }
             },
             {
               "node_type": "item",
-              "title": "11430⭐ 263🍴 Loop",
+              "title": "11439⭐ 265🍴 Loop",
               "description": ") - Window management made elegant.",
               "children": [],
               "repo_info": {
@@ -12128,7 +12128,7 @@
                 "last_commit": "2026-08-09T16:22:23Z",
                 "owner": "mrkai77",
                 "repo": "Loop",
-                "stars": 11434
+                "stars": 11439
               }
             },
             {
@@ -12163,7 +12163,7 @@
             },
             {
               "node_type": "item",
-              "title": "4541⭐ 126🍴 Phoenix",
+              "title": "4542⭐ 125🍴 Phoenix",
               "description": ") - Lightweight macOS window and app manager scriptable with JavaScript.",
               "children": [],
               "repo_info": {
@@ -12246,10 +12246,10 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T09:56:14.212Z",
+    "last_updated": "2026-08-26T10:02:00.341Z",
     "original_repository": "Correia-jpv/fucking-open-source-mac-os-apps",
     "original_repository_id": 453998908,
-    "original_repository_sha": "50e96173a249076214f7f804b92b63ee5e99188e",
+    "original_repository_sha": "ad8cda88e0997f8fcaeeef1e310c45b4528e5f6e",
     "enhanced_repository": "enhansome/enhansome-fucking-open-source-mac-os-apps",
     "enhanced_repository_description": null,
     "title": "Awesome fucking open source mac os apps with stars"
