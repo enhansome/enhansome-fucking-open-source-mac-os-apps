@@ -131,7 +131,7 @@ You can see in which language an app is written. Currently there are following l
 
 ### 🎵 Audio (72)
 
-* <b><code> 45803⭐</code></b> <b><code>  2312🍴</code></b> [LosslessCut](https://github.com/mifi/lossless-cut) ⭐ 45,819 | 🐛 163 | 🌐 TypeScript | 📅 2026-11-03) - The swiss army knife of lossless video/audio editing without re-encoding.
+* <b><code> 45803⭐</code></b> <b><code>  2312🍴</code></b> [LosslessCut](https://github.com/mifi/lossless-cut) ⭐ 45,865 | 🐛 164 | 🌐 TypeScript | 📅 2026-11-09) - The swiss army knife of lossless video/audio editing without re-encoding.
 
   **Languages:** <img src='./icons/javascript-64.png' alt='JavaScript icon' title='JavaScript' height='16'/> JavaScript
 
@@ -146,7 +146,7 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-* <b><code> 37983⭐</code></b> <b><code>  3641🍴</code></b> [MPV](https://github.com/mpv-player/mpv) ⭐ 37,996 | 🐛 1,162 | 🌐 C | 📅 2026-11-08) - Lightweight, highly configurable media player.
+* <b><code> 37983⭐</code></b> <b><code>  3641🍴</code></b> [MPV](https://github.com/mpv-player/mpv) ⭐ 38,023 | 🐛 1,165 | 🌐 C | 📅 2026-11-09) - Lightweight, highly configurable media player.
 
   **Languages:** <img src='./icons/c-64.png' alt='C icon' title='C' height='16'/> C
 
@@ -161,7 +161,7 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-* <b><code> 34663⭐</code></b> <b><code>  1038🍴</code></b> [MonitorControl](https://github.com/MonitorControl/MonitorControl) ⭐ 34,666 | 🐛 30 | 🌐 Swift | 📅 2026-10-14) - Control your external monitor brightness, contrast or volume directly from a menulet or with keyboard native keys.
+* <b><code> 34663⭐</code></b> <b><code>  1038🍴</code></b> [MonitorControl](https://github.com/MonitorControl/MonitorControl) ⭐ 34,673 | 🐛 30 | 🌐 Swift | 📅 2026-10-14) - Control your external monitor brightness, contrast or volume directly from a menulet or with keyboard native keys.
 
   **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift <img src='./icons/objective-c-64.png' alt='Objective-C icon' title='Objective-C' height='16'/> Objective-C
 
@@ -174,11 +174,11 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-* <b><code> 20022⭐</code></b> <b><code>   855🍴</code></b> [BlackHole](https://github.com/ExistentialAudio/BlackHole) ⭐ 20,023 | 🐛 8 | 🌐 C | 📅 2026-11-07) - BlackHole is a modern macOS virtual audio driver that allows applications to pass audio to other applications with zero additional latency.
+* <b><code> 20022⭐</code></b> <b><code>   855🍴</code></b> [BlackHole](https://github.com/ExistentialAudio/BlackHole) ⭐ 20,028 | 🐛 8 | 🌐 C | 📅 2026-11-07) - BlackHole is a modern macOS virtual audio driver that allows applications to pass audio to other applications with zero additional latency.
 
   **Languages:** <img src='./icons/c-64.png' alt='C icon' title='C' height='16'/> C
 
-* <b><code> 19380⭐</code></b> <b><code>   785🍴</code></b> [Background Music](https://github.com/kyleneideck/BackgroundMusic) ⭐ 19,379 | 🐛 543 | 🌐 C++ | 📅 2026-06-10) - Background Music, a macOS audio utility: automatically pause your music, set individual apps' volumes and record system audio.
+* <b><code> 19380⭐</code></b> <b><code>   785🍴</code></b> [Background Music](https://github.com/kyleneideck/BackgroundMusic) ⭐ 19,380 | 🐛 543 | 🌐 C++ | 📅 2026-06-10) - Background Music, a macOS audio utility: automatically pause your music, set individual apps' volumes and record system audio.
 
   **Languages:** <img src='./icons/cpp-64.png' alt='C++ icon' title='C++' height='16'/> C++
 
@@ -191,7 +191,7 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-* <b><code> 18988⭐</code></b> <b><code>  2720🍴</code></b> [Audacity](https://github.com/audacity/audacity) ⭐ 18,994 | 🐛 1,910 | 🌐 C++ | 📅 2026-11-06) - Free, open source, cross-platform audio software
+* <b><code> 18988⭐</code></b> <b><code>  2720🍴</code></b> [Audacity](https://github.com/audacity/audacity) ⭐ 19,004 | 🐛 1,912 | 🌐 C++ | 📅 2026-11-09) - Free, open source, cross-platform audio software
 
   **Languages:** <img src='./icons/c-64.png' alt='C icon' title='C' height='16'/> C
 
@@ -206,11 +206,11 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-* <b><code>  9010⭐</code></b> <b><code>   697🍴</code></b> [shairport-sync](https://github.com/mikebrady/shairport-sync) ⭐ 9,013 | 🐛 14 | 🌐 C | 📅 2026-11-08) - macOS/Linux/FreeBSD/OpenBSD Airplay audio receiver.
+* <b><code>  9010⭐</code></b> <b><code>   697🍴</code></b> [shairport-sync](https://github.com/mikebrady/shairport-sync) ⭐ 9,016 | 🐛 14 | 🌐 C | 📅 2026-11-09) - macOS/Linux/FreeBSD/OpenBSD Airplay audio receiver.
 
   **Languages:** <img src='./icons/c-64.png' alt='C icon' title='C' height='16'/> C <img src='./icons/cpp-64.png' alt='C++ icon' title='C++' height='16'/> C++
 
-* <b><code>  6827⭐</code></b> <b><code>   366🍴</code></b> [eqMac2](https://github.com/bitgapp/eqMac) ⭐ 6,829 | 🐛 86 | 🌐 Swift | 📅 2026-09-19) - System-Wide Equalizer for the Mac.
+* <b><code>  6827⭐</code></b> <b><code>   366🍴</code></b> [eqMac2](https://github.com/bitgapp/eqMac) ⭐ 6,830 | 🐛 86 | 🌐 Swift | 📅 2026-09-19) - System-Wide Equalizer for the Mac.
 
   **Languages:** <img src='./icons/cpp-64.png' alt='C++ icon' title='C++' height='16'/> C++
 
@@ -225,7 +225,7 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-* <b><code>  5251⭐</code></b> <b><code>   470🍴</code></b> [LyricsX](https://github.com/ddddxxx/LyricsX) ⭐ 5,252 | 🐛 308 | 🌐 Swift | 📅 2026-07-22) - Lyrics for iTunes, Spotify and Vox.
+* <b><code>  5251⭐</code></b> <b><code>   470🍴</code></b> [LyricsX](https://github.com/ddddxxx/LyricsX) ⭐ 5,254 | 🐛 308 | 🌐 Swift | 📅 2026-07-22) - Lyrics for iTunes, Spotify and Vox.
 
   **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
 
@@ -244,7 +244,7 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-* <b><code>  4276⭐</code></b> <b><code>   731🍴</code></b> [Clementine](https://github.com/clementine-player/Clementine) ⭐ 4,276 | 🐛 2,429 | 🌐 C++ | 📅 2026-11-08) - Clementine is a modern music player and library organizer for Windows, Linux and macOS.
+* <b><code>  4276⭐</code></b> <b><code>   731🍴</code></b> [Clementine](https://github.com/clementine-player/Clementine) ⭐ 4,276 | 🐛 2,428 | 🌐 C++ | 📅 2026-11-09) - Clementine is a modern music player and library organizer for Windows, Linux and macOS.
 
   **Languages:** <img src='./icons/cpp-64.png' alt='C++ icon' title='C++' height='16'/> C++
 
@@ -265,11 +265,11 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-* <b><code>  3163⭐</code></b> <b><code>   337🍴</code></b> [qwen-audio-agent](https://github.com/QwenAudio/qwen-audio-agent) ⭐ 3,170 | 🐛 23 | 🌐 JavaScript | 📅 2026-11-07) - Full-duplex voice interface for AI coding agents. Talk to Claude Code, Codex, OpenCode and other ACP agents hands-free, with barge-in, spoken permission prompts, async task results read back, and a fully local wake word.
+* <b><code>  3163⭐</code></b> <b><code>   337🍴</code></b> [qwen-audio-agent](https://github.com/QwenAudio/qwen-audio-agent) ⭐ 3,191 | 🐛 23 | 🌐 JavaScript | 📅 2026-11-07) - Full-duplex voice interface for AI coding agents. Talk to Claude Code, Codex, OpenCode and other ACP agents hands-free, with barge-in, spoken permission prompts, async task results read back, and a fully local wake word.
 
   **Languages:** <img src='./icons/javascript-64.png' alt='JavaScript icon' title='JavaScript' height='16'/> JavaScript
 
-  **Website:** <b><code>  3163⭐</code></b> <b><code>   337🍴</code></b> <https://github.com/QwenAudio/qwen-audio-agent> ⭐ 3,170 | 🐛 23 | 🌐 JavaScript | 📅 2026-11-07)
+  **Website:** <b><code>  3163⭐</code></b> <b><code>   337🍴</code></b> <https://github.com/QwenAudio/qwen-audio-agent> ⭐ 3,191 | 🐛 23 | 🌐 JavaScript | 📅 2026-11-07)
 
   <details>
   <summary>Screenshots</summary>
@@ -306,7 +306,7 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-* <b><code>  1760⭐</code></b> <b><code>    77🍴</code></b> [Petrichor](https://github.com/kushalpandya/Petrichor) ⭐ 1,761 | 🐛 31 | 🌐 Swift | 📅 2026-11-01) - Offline music player for macOS with library management, smart playlists, synced lyrics and an equalizer.
+* <b><code>  1760⭐</code></b> <b><code>    77🍴</code></b> [Petrichor](https://github.com/kushalpandya/Petrichor) ⭐ 1,765 | 🐛 32 | 🌐 Swift | 📅 2026-11-09) - Offline music player for macOS with library management, smart playlists, synced lyrics and an equalizer.
 
   **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
 
@@ -455,7 +455,7 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-* <b><code>   342⭐</code></b> <b><code>    19🍴</code></b> [Lyrimuse](https://github.com/Yudaotor/lyrimuse) ⭐ 347 | 🐛 8 | 🌐 Swift | 📅 2026-11-08) - Word-synced desktop lyrics for Apple Music, Spotify, QQ Music, NetEase Cloud Music, Kugou and YouTube Music / Spotify Web in the browser, with translation, romanization and Last.fm scrobbling.
+* <b><code>   342⭐</code></b> <b><code>    19🍴</code></b> [Lyrimuse](https://github.com/Yudaotor/lyrimuse) ⭐ 350 | 🐛 10 | 🌐 Swift | 📅 2026-11-09) - Word-synced desktop lyrics for Apple Music, Spotify, QQ Music, NetEase Cloud Music, Kugou and YouTube Music / Spotify Web in the browser, with translation, romanization and Last.fm scrobbling.
 
   **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift <img src='./icons/golang-64.png' alt='Go icon' title='Go' height='16'/> Go
 
@@ -549,13 +549,13 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-* <b><code>   217⭐</code></b> <b><code>    18🍴</code></b> [EnviousWispr](https://github.com/saurabhav88/EnviousWispr) ⭐ 218 | 🐛 178 | 🌐 Swift | 📅 2026-11-08) - Free on-device AI dictation for macOS with Whisper and Parakeet speech models on Apple Silicon.
+* <b><code>   217⭐</code></b> <b><code>    18🍴</code></b> [EnviousWispr](https://github.com/saurabhav88/EnviousWispr) ⭐ 218 | 🐛 118 | 🌐 Swift | 📅 2026-11-09) - Free on-device AI dictation for macOS with Whisper and Parakeet speech models on Apple Silicon.
 
   **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
 
   **Website:** 🌎 [https://enviouswispr.com/](enviouswispr.com/)
 
-* <b><code>   198⭐</code></b> <b><code>     8🍴</code></b> [PlayStatus](https://github.com/nbolar/PlayStatus) ⭐ 198 | 🐛 2 | 🌐 Swift | 📅 2026-10-01) - PlayStatus is a macOS app that allows the control of Spotify and iTunes music playback from the menu bar.
+* <b><code>   198⭐</code></b> <b><code>     8🍴</code></b> [PlayStatus](https://github.com/nbolar/PlayStatus) ⭐ 199 | 🐛 2 | 🌐 Swift | 📅 2026-10-01) - PlayStatus is a macOS app that allows the control of Spotify and iTunes music playback from the menu bar.
 
   **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
 
@@ -733,7 +733,7 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-* <b><code>    69⭐</code></b> <b><code>    11🍴</code></b> [Blurt](https://github.com/AssemblyAI/blurt) ⭐ 69 | 🐛 11 | 🌐 Swift | 📅 2026-11-06) - Free, open-source dictation for macOS: hold a key, talk, and polished text lands in whatever app you're typing in. Powered by AssemblyAI speech-to-text (bring your own API key).
+* <b><code>    69⭐</code></b> <b><code>    11🍴</code></b> [Blurt](https://github.com/AssemblyAI/blurt) ⭐ 70 | 🐛 12 | 🌐 Swift | 📅 2026-11-09) - Free, open-source dictation for macOS: hold a key, talk, and polished text lands in whatever app you're typing in. Powered by AssemblyAI speech-to-text (bring your own API key).
 
   **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
 
@@ -801,17 +801,11 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-* <b><code>    49⭐</code></b> <b><code>     8🍴</code></b> [NarrateClaude](https://github.com/nicedreamzapp/NarrateClaude) ⭐ 49 | 🐛 4 | 🌐 Python | 📅 2026-11-07) - Hands-free, on-device voice loop for talking to Claude Code: Apple speech recognition in, cloned-voice text-to-speech out, no cloud.
-
-  **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift <img src='./icons/python-64.png' alt='Python icon' title='Python' height='16'/> Python <img src='./icons/shell-64.png' alt='Shell icon' title='Shell' height='16'/> Shell
-
-  **Website:** <b><code>    49⭐</code></b> <b><code>     8🍴</code></b> <https://github.com/nicedreamzapp/NarrateClaude> ⭐ 49 | 🐛 4 | 🌐 Python | 📅 2026-11-07)
-
-* <b><code>    48⭐</code></b> <b><code>     3🍴</code></b> [Audio Priority Bar](https://github.com/camguillory/Audio-Priority-Bar) ⭐ 48 | 🐛 1 | 🌐 Swift | 📅 2026-11-03) - Native macOS menu bar app that automatically switches to your highest-priority connected headphones, speakers, and microphone.
+* <b><code>    48⭐</code></b> <b><code>     3🍴</code></b> [Audio Priority Bar](https://github.com/camguillory/Audio-Priority-Bar) ⭐ 50 | 🐛 1 | 🌐 Swift | 📅 2026-11-09) - Native macOS menu bar app that automatically switches to your highest-priority connected headphones, speakers, and microphone.
 
   **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
 
-  **Website:** <b><code>    48⭐</code></b> <b><code>     3🍴</code></b> <https://github.com/camguillory/Audio-Priority-Bar> ⭐ 48 | 🐛 1 | 🌐 Swift | 📅 2026-11-03)
+  **Website:** <b><code>    48⭐</code></b> <b><code>     3🍴</code></b> <https://github.com/camguillory/Audio-Priority-Bar> ⭐ 50 | 🐛 1 | 🌐 Swift | 📅 2026-11-09)
 
   <details>
   <summary>Screenshots</summary>
@@ -823,6 +817,12 @@ You can see in which language an app is written. Currently there are following l
 
   </p>
   </details>
+
+* <b><code>    49⭐</code></b> <b><code>     8🍴</code></b> [NarrateClaude](https://github.com/nicedreamzapp/NarrateClaude) ⭐ 49 | 🐛 4 | 🌐 Python | 📅 2026-11-07) - Hands-free, on-device voice loop for talking to Claude Code: Apple speech recognition in, cloned-voice text-to-speech out, no cloud.
+
+  **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift <img src='./icons/python-64.png' alt='Python icon' title='Python' height='16'/> Python <img src='./icons/shell-64.png' alt='Shell icon' title='Shell' height='16'/> Shell
+
+  **Website:** <b><code>    49⭐</code></b> <b><code>     8🍴</code></b> <https://github.com/nicedreamzapp/NarrateClaude> ⭐ 49 | 🐛 4 | 🌐 Python | 📅 2026-11-07)
 
 * <b><code>    44⭐</code></b> <b><code>     5🍴</code></b> [LyricGlow](https://github.com/ateymoori/lyricglow) ⭐ 44 | 🐛 5 | 🌐 TypeScript | 📅 2026-08-10) - macOS application displaying synchronized lyrics with animated word-by-word glow effects for Spotify, Apple Music, and YouTube Music.
 
@@ -871,7 +871,7 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-* <b><code>    22⭐</code></b> <b><code>     1🍴</code></b> [OpenVoiceFlow](https://github.com/shimoverse/openvoiceflow) ⭐ 22 | 🐛 1 | 🌐 Swift | 📅 2026-11-06) - On-device voice dictation for macOS with local transcription and optional text cleanup.
+* <b><code>    22⭐</code></b> <b><code>     1🍴</code></b> [OpenVoiceFlow](https://github.com/shimoverse/openvoiceflow) ⭐ 22 | 🐛 1 | 🌐 Swift | 📅 2026-11-09) - On-device voice dictation for macOS with local transcription and optional text cleanup.
 
   **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift <img src='./icons/objective-c-64.png' alt='Objective-C icon' title='Objective-C' height='16'/> Objective-C <img src='./icons/python-64.png' alt='Python icon' title='Python' height='16'/> Python <img src='./icons/shell-64.png' alt='Shell icon' title='Shell' height='16'/> Shell
 
@@ -920,7 +920,7 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-* <b><code>    18⭐</code></b> <b><code>     6🍴</code></b> [ParrotFlow](https://github.com/znat/parrotflow) ⭐ 18 | 🐛 8 | 🌐 Swift | 📅 2026-11-08) - Scriptable local dictation that uses the text on your screen to fix names, and your rules to format numbers, dates, and links.
+* <b><code>    18⭐</code></b> <b><code>     6🍴</code></b> [ParrotFlow](https://github.com/znat/parrotflow) ⭐ 18 | 🐛 1 | 🌐 Swift | 📅 2026-11-09) - Scriptable local dictation that uses the text on your screen to fix names, and your rules to format numbers, dates, and links.
 
   **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift <img src='./icons/python-64.png' alt='Python icon' title='Python' height='16'/> Python
 
@@ -943,7 +943,7 @@ You can see in which language an app is written. Currently there are following l
 
   **Website:** 🌎 [https://plainsay.app/](plainsay.app/)
 
-* <b><code>    13⭐</code></b> <b><code>     1🍴</code></b> [Earshot](https://github.com/Bouliw/earshot) ⭐ 13 | 🐛 0 | 🌐 Swift | 📅 2026-11-03) - Live on-device transcription of any app you pick, with speaker names in Microsoft Teams.
+* <b><code>    13⭐</code></b> <b><code>     1🍴</code></b> [Earshot](https://github.com/Bouliw/earshot) ⭐ 13 | 🐛 0 | 🌐 Swift | 📅 2026-11-09) - Live on-device transcription of any app you pick, with speaker names in Microsoft Teams.
 
   **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
 
@@ -960,7 +960,7 @@ You can see in which language an app is written. Currently there are following l
 
   **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
 
-* <b><code>    12⭐</code></b> <b><code>     1🍴</code></b> [Vespertine](https://github.com/szeremeta1/Vespertine) ⭐ 12 | 🐛 1 | 🌐 Swift | 📅 2026-11-08) - Bit-perfect music player that switches the DAC to each track's native format, plays DSD, Dolby Atmos, TrueHD and DTS, and detects fake hi-res files.
+* <b><code>    12⭐</code></b> <b><code>     1🍴</code></b> [Vespertine](https://github.com/szeremeta1/Vespertine) ⭐ 13 | 🐛 4 | 🌐 Swift | 📅 2026-11-09) - Bit-perfect music player that switches the DAC to each track's native format, plays DSD, Dolby Atmos, TrueHD and DTS, and detects fake hi-res files.
 
   **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift <img src='./icons/c-64.png' alt='C icon' title='C' height='16'/> C
 
@@ -996,7 +996,7 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-* <b><code>    11⭐</code></b> <b><code>     2🍴</code></b> [Lurar](https://github.com/lsjoberg/lurar) ⭐ 11 | 🐛 3 | 🌐 Swift | 📅 2026-11-02) - Menu-bar parametric EQ for headphones. Loads the AutoEq catalog and applies it system-wide via Apple's Core Audio Process Tap — no virtual audio driver.
+* <b><code>    11⭐</code></b> <b><code>     2🍴</code></b> [Lurar](https://github.com/lsjoberg/lurar) ⭐ 11 | 🐛 3 | 🌐 Swift | 📅 2026-11-09) - Menu-bar parametric EQ for headphones. Loads the AutoEq catalog and applies it system-wide via Apple's Core Audio Process Tap — no virtual audio driver.
 
   **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
 
@@ -1072,7 +1072,7 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-* <b><code>     7⭐</code></b> <b><code>     1🍴</code></b> [Vauta](https://github.com/MaquinaTech/Vauta) ⭐ 7 | 🐛 1 | 🌐 Swift | 📅 2026-11-05) - Meeting notes that stay on your Mac: transcribes any call on device and writes cited minutes, decisions and tasks.
+* <b><code>     7⭐</code></b> <b><code>     1🍴</code></b> [Vauta](https://github.com/MaquinaTech/Vauta) ⭐ 8 | 🐛 1 | 🌐 Swift | 📅 2026-11-05) - Meeting notes that stay on your Mac: transcribes any call on device and writes cited minutes, decisions and tasks.
 
   **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
 
@@ -1106,7 +1106,7 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-* <b><code>     5⭐</code></b> <b><code>     1🍴</code></b> [Reprise](https://github.com/nikiomori/reprise) ⭐ 5 | 🐛 0 | 🌐 Swift | 📅 2026-11-06) - Call recorder that notices calls in Zoom, Meet, Teams, FaceTime and more, and records both sides, and the screen if you want, to plain files.
+* <b><code>     5⭐</code></b> <b><code>     1🍴</code></b> [Reprise](https://github.com/nikiomori/reprise) ⭐ 5 | 🐛 1 | 🌐 Swift | 📅 2026-11-06) - Call recorder that notices calls in Zoom, Meet, Teams, FaceTime and more, and records both sides, and the screen if you want, to plain files.
 
   **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
 
@@ -1121,7 +1121,7 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-* <b><code>     0⭐</code></b> <b><code>     0🍴</code></b> [QuietSpeech](https://github.com/harshtomar6/quietspeech) ⭐ 0 | 🐛 0 | 🌐 Swift | 📅 2026-10-28) - Push-to-talk dictation for Apple silicon that types into any app using Apple's on-device speech recognition and Apple Intelligence, with no API key. Paid app; source under GPLv3 (macOS 26+).
+* <b><code>     0⭐</code></b> <b><code>     0🍴</code></b> [QuietSpeech](https://github.com/harshtomar6/quietspeech) ⭐ 0 | 🐛 0 | 🌐 Swift | 📅 2026-11-09) - Push-to-talk dictation for Apple silicon that types into any app using Apple's on-device speech recognition and Apple Intelligence, with no API key. Paid app; source under GPLv3 (macOS 26+).
 
   **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
 
@@ -1135,7 +1135,7 @@ You can see in which language an app is written. Currently there are following l
 
 ### 💾 Backup (8)
 
-* <b><code> 15358⭐</code></b> <b><code>   939🍴</code></b> [Mackup](https://github.com/lra/mackup) ⭐ 15,357 | 🐛 292 | 🌐 Python | 📅 2026-09-09) - Keep your application settings in sync (macOS/Linux).
+* <b><code> 15358⭐</code></b> <b><code>   939🍴</code></b> [Mackup](https://github.com/lra/mackup) ⭐ 15,359 | 🐛 292 | 🌐 Python | 📅 2026-09-09) - Keep your application settings in sync (macOS/Linux).
 
   **Languages:** <img src='./icons/python-64.png' alt='Python icon' title='Python' height='16'/> Python
 
@@ -1152,7 +1152,7 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-* <b><code>   943⭐</code></b> <b><code>   178🍴</code></b> [UrBackup](https://github.com/uroni/urbackup_backend) ⭐ 943 | 🐛 58 | 🌐 C | 📅 2026-11-01) - UrBackup is Client/Server network backup for Windows, macOS and Linux.
+* <b><code>   943⭐</code></b> <b><code>   178🍴</code></b> [UrBackup](https://github.com/uroni/urbackup_backend) ⭐ 944 | 🐛 58 | 🌐 C | 📅 2026-11-08) - UrBackup is Client/Server network backup for Windows, macOS and Linux.
 
   **Languages:** <img src='./icons/cpp-64.png' alt='C++ icon' title='C++' height='16'/> C++ <img src='./icons/c-64.png' alt='C icon' title='C' height='16'/> C
 
@@ -1164,7 +1164,7 @@ You can see in which language an app is written. Currently there are following l
 
   **Languages:** <img src='./icons/golang-64.png' alt='Go icon' title='Go' height='16'/> Go
 
-* <b><code>    15⭐</code></b> <b><code>     4🍴</code></b> [BitMatch](https://github.com/BitmatchApp/Bitmatch) ⭐ 15 | 🐛 1 | 🌐 Swift | 📅 2026-10-22) - Offloads camera cards to several drives and verifies every copy with SHA-256 before the card is erased.
+* <b><code>    15⭐</code></b> <b><code>     4🍴</code></b> [BitMatch](https://github.com/BitmatchApp/Bitmatch) ⭐ 15 | 🐛 1 | 🌐 Swift | 📅 2026-11-09) - Offloads camera cards to several drives and verifies every copy with SHA-256 before the card is erased.
 
   **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
 
@@ -1202,11 +1202,11 @@ You can see in which language an app is written. Currently there are following l
 
 ### 🌐 Browser (18)
 
-* <b><code> 24138⭐</code></b> <b><code>  3276🍴</code></b> [Brave Browser](https://github.com/brave/brave-browser) ⭐ 24,150 | 🐛 12,278 | 📅 2026-11-06) - Brave browser for Desktop and Laptop computers running Windows, macOS, and Linux.
+* <b><code> 24138⭐</code></b> <b><code>  3276🍴</code></b> [Brave Browser](https://github.com/brave/brave-browser) ⭐ 24,163 | 🐛 12,270 | 📅 2026-11-09) - Brave browser for Desktop and Laptop computers running Windows, macOS, and Linux.
 
   **Languages:** <img src='./icons/javascript-64.png' alt='JavaScript icon' title='JavaScript' height='16'/> JavaScript
 
-* <b><code>  9242⭐</code></b> <b><code>   873🍴</code></b> [Min Browser](https://github.com/minbrowser/min) ⭐ 9,244 | 🐛 612 | 🌐 JavaScript | 📅 2026-11-08) - A fast and efficient minimal web browser.
+* <b><code>  9242⭐</code></b> <b><code>   873🍴</code></b> [Min Browser](https://github.com/minbrowser/min) ⭐ 9,245 | 🐛 611 | 🌐 JavaScript | 📅 2026-11-08) - A fast and efficient minimal web browser.
 
   **Languages:** <img src='./icons/javascript-64.png' alt='JavaScript icon' title='JavaScript' height='16'/> JavaScript
 
@@ -1227,11 +1227,11 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-* <b><code>  5255⭐</code></b> <b><code>   228🍴</code></b> [Finicky](https://github.com/johnste/finicky) ⭐ 5,255 | 🐛 67 | 🌐 Go | 📅 2026-10-28) - Always opens the right browser.
+* <b><code>  5255⭐</code></b> <b><code>   228🍴</code></b> [Finicky](https://github.com/johnste/finicky) ⭐ 5,264 | 🐛 67 | 🌐 Go | 📅 2026-10-28) - Always opens the right browser.
 
   **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
 
-* <b><code>  3867⭐</code></b> <b><code>   225🍴</code></b> [Pennywise](https://github.com/kamranahmedse/pennywise) ⭐ 3,867 | 🐛 56 | 🌐 JavaScript | 📅 2025-12-22) - Pennywise opens any website or media in a small floating window that remains on top of all other applications. It's a great alternative to Helium.
+* <b><code>  3867⭐</code></b> <b><code>   225🍴</code></b> [Pennywise](https://github.com/kamranahmedse/pennywise) ⭐ 3,868 | 🐛 56 | 🌐 JavaScript | 📅 2025-12-22) - Pennywise opens any website or media in a small floating window that remains on top of all other applications. It's a great alternative to Helium.
 
   **Languages:** <img src='./icons/javascript-64.png' alt='JavaScript icon' title='JavaScript' height='16'/> JavaScript
 
@@ -1258,7 +1258,7 @@ You can see in which language an app is written. Currently there are following l
 
   **Languages:** <img src='./icons/javascript-64.png' alt='JavaScript icon' title='JavaScript' height='16'/> JavaScript
 
-* <b><code>  1991⭐</code></b> <b><code>   283🍴</code></b> [otter-browser](https://github.com/OtterBrowser/otter-browser) ⭐ 1,990 | 🐛 276 | 🌐 C++ | 📅 2026-11-07) - Otter Browser aims to recreate the best aspects of the classic Opera (12.x) UI using Qt5.
+* <b><code>  1991⭐</code></b> <b><code>   283🍴</code></b> [otter-browser](https://github.com/OtterBrowser/otter-browser) ⭐ 1,992 | 🐛 276 | 🌐 C++ | 📅 2026-11-08) - Otter Browser aims to recreate the best aspects of the classic Opera (12.x) UI using Qt5.
 
   **Languages:** <img src='./icons/cpp-64.png' alt='C++ icon' title='C++' height='16'/> C++
 
@@ -1271,7 +1271,7 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-* <b><code>   239⭐</code></b> <b><code>    35🍴</code></b> [Safari MCP](https://github.com/achiya-automation/safari-mcp) ⭐ 239 | 🐛 26 | 🌐 JavaScript | 📅 2026-11-03) - Native Safari browser automation for AI agents on macOS, exposing 98 tools via AppleScript and JavaScript.
+* <b><code>   239⭐</code></b> <b><code>    35🍴</code></b> [Safari MCP](https://github.com/achiya-automation/safari-mcp) ⭐ 239 | 🐛 28 | 🌐 JavaScript | 📅 2026-11-09) - Native Safari browser automation for AI agents on macOS, exposing 98 tools via AppleScript and JavaScript.
 
   **Languages:** <img src='./icons/javascript-64.png' alt='JavaScript icon' title='JavaScript' height='16'/> JavaScript
 
@@ -1279,11 +1279,11 @@ You can see in which language an app is written. Currently there are following l
 
   **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
 
-* <b><code>   149⭐</code></b> <b><code>    69🍴</code></b> [seb-mac](https://github.com/SafeExamBrowser/seb-mac) ⭐ 149 | 🐛 107 | 🌐 C | 📅 2026-11-06) - Safe Exam Browser for macOS and iOS.
+* <b><code>   149⭐</code></b> <b><code>    69🍴</code></b> [seb-mac](https://github.com/SafeExamBrowser/seb-mac) ⭐ 149 | 🐛 104 | 🌐 C | 📅 2026-11-09) - Safe Exam Browser for macOS and iOS.
 
   **Languages:** <img src='./icons/c-64.png' alt='C icon' title='C' height='16'/> C
 
-* <b><code>    36⭐</code></b> <b><code>     4🍴</code></b> [Yalqen](https://github.com/YSamed/yalqen) ⭐ 37 | 🐛 7 | 🌐 TypeScript | 📅 2026-11-08) - Chromium-based developer browser with vertical tabs, a keyboard-first command bar and built-in ad blocking.
+* <b><code>    36⭐</code></b> <b><code>     4🍴</code></b> [Yalqen](https://github.com/YSamed/yalqen) ⭐ 38 | 🐛 8 | 🌐 TypeScript | 📅 2026-11-09) - Chromium-based developer browser with vertical tabs, a keyboard-first command bar and built-in ad blocking.
 
   **Languages:** <img src='./icons/typescript-64.png' alt='TypeScript icon' title='TypeScript' height='16'/> TypeScript
 
@@ -1298,7 +1298,7 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-* <b><code>    21⭐</code></b> <b><code>     5🍴</code></b> [Vane](https://github.com/notnaki/vane) ⭐ 21 | 🐛 4 | 🌐 Swift | 📅 2026-11-08) - Native WebKit browser with sidebar tabs, Spaces, and Split View, in early development for macOS 26 or later.
+* <b><code>    21⭐</code></b> <b><code>     5🍴</code></b> [Vane](https://github.com/notnaki/vane) ⭐ 22 | 🐛 5 | 🌐 Swift | 📅 2026-11-09) - Native WebKit browser with sidebar tabs, Spaces, and Split View, in early development for macOS 26 or later.
 
   **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
 
@@ -1315,7 +1315,7 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-* <b><code>    18⭐</code></b> <b><code>     3🍴</code></b> [BrowBro](https://github.com/tiagomoraes/browbro) ⭐ 19 | 🐛 11 | 🌐 Swift | 📅 2026-11-03) - Keyboard-first macOS menu bar app to open clicked links in the right browser or profile.
+* <b><code>    18⭐</code></b> <b><code>     3🍴</code></b> [BrowBro](https://github.com/tiagomoraes/browbro) ⭐ 20 | 🐛 11 | 🌐 Swift | 📅 2026-11-03) - Keyboard-first macOS menu bar app to open clicked links in the right browser or profile.
 
   **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
 
@@ -1374,7 +1374,7 @@ You can see in which language an app is written. Currently there are following l
 
 ### 💬 Chat (27)
 
-* <b><code> 33496⭐</code></b> <b><code>  7569🍴</code></b> [Telegram Desktop](https://github.com/telegramdesktop/tdesktop) ⭐ 33,500 | 🐛 1,024 | 🌐 C++ | 📅 2026-11-08) - Telegram Desktop messaging app.
+* <b><code> 33496⭐</code></b> <b><code>  7569🍴</code></b> [Telegram Desktop](https://github.com/telegramdesktop/tdesktop) ⭐ 33,517 | 🐛 1,026 | 🌐 C++ | 📅 2026-11-09) - Telegram Desktop messaging app.
 
   **Languages:** <img src='./icons/cpp-64.png' alt='C++ icon' title='C++' height='16'/> C++
 
@@ -1387,7 +1387,7 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-* <b><code> 16655⭐</code></b> <b><code>  3162🍴</code></b> [Signal Desktop](https://github.com/signalapp/Signal-Desktop) ⭐ 16,656 | 🐛 897 | 🌐 TypeScript | 📅 2026-11-05) - Electron app that links with your Signal Android or Signal iOS app.
+* <b><code> 16655⭐</code></b> <b><code>  3162🍴</code></b> [Signal Desktop](https://github.com/signalapp/Signal-Desktop) ⭐ 16,658 | 🐛 897 | 🌐 TypeScript | 📅 2026-11-09) - Electron app that links with your Signal Android or Signal iOS app.
 
   **Languages:** <img src='./icons/javascript-64.png' alt='JavaScript icon' title='JavaScript' height='16'/> JavaScript
 
@@ -1404,11 +1404,11 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-* <b><code> 13640⭐</code></b> <b><code>  2818🍴</code></b> [Element](https://github.com/vector-im/element-web) ⭐ 13,640 | 🐛 3,679 | 🌐 TypeScript | 📅 2026-11-06) - Element is a collaboration app (currently Electron) for the 🌎 [Matrix](matrix.org/) protocol.
+* <b><code> 13640⭐</code></b> <b><code>  2818🍴</code></b> [Element](https://github.com/vector-im/element-web) ⭐ 13,642 | 🐛 3,682 | 🌐 TypeScript | 📅 2026-11-09) - Element is a collaboration app (currently Electron) for the 🌎 [Matrix](matrix.org/) protocol.
 
   **Languages:** <img src='./icons/javascript-64.png' alt='JavaScript icon' title='JavaScript' height='16'/> JavaScript
 
-* <b><code>  9094⭐</code></b> <b><code>   525🍴</code></b> [Orkas](https://github.com/Orkas-AI/Orkas) ⭐ 9,105 | 🐛 16 | 🌐 JavaScript | 📅 2026-11-08) - Local-first multi-agent desktop application where a Commander coordinates specialist agents for research, coding, data analysis, documents, and media.
+* <b><code>  9094⭐</code></b> <b><code>   525🍴</code></b> [Orkas](https://github.com/Orkas-AI/Orkas) ⭐ 9,142 | 🐛 16 | 🌐 JavaScript | 📅 2026-11-09) - Local-first multi-agent desktop application where a Commander coordinates specialist agents for research, coding, data analysis, documents, and media.
 
   **Languages:** <img src='./icons/typescript-64.png' alt='TypeScript icon' title='TypeScript' height='16'/> TypeScript <img src='./icons/javascript-64.png' alt='JavaScript icon' title='JavaScript' height='16'/> JavaScript <img src='./icons/css-64.png' alt='CSS icon' title='CSS' height='16'/> CSS <img src='./icons/python-64.png' alt='Python icon' title='Python' height='16'/> Python
 
@@ -1425,7 +1425,7 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-* <b><code>  7216⭐</code></b> <b><code>   740🍴</code></b> [OnionShare](https://github.com/onionshare/onionshare) ⭐ 7,216 | 🐛 58 | 🌐 Python | 📅 2026-11-07) - Securely and anonymously share files, host websites, and chat with friends using the Tor network.
+* <b><code>  7216⭐</code></b> <b><code>   740🍴</code></b> [OnionShare](https://github.com/onionshare/onionshare) ⭐ 7,218 | 🐛 58 | 🌐 Python | 📅 2026-11-07) - Securely and anonymously share files, host websites, and chat with friends using the Tor network.
 
   **Languages:** <img src='./icons/python-64.png' alt='Python icon' title='Python' height='16'/> Python <img src='./icons/javascript-64.png' alt='JavaScript icon' title='JavaScript' height='16'/> JavaScript
 
@@ -1444,7 +1444,7 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-* <b><code>  2760⭐</code></b> <b><code>   103🍴</code></b> [Swiftcord](https://github.com/SwiftcordApp/Swiftcord) ⭐ 2,759 | 🐛 33 | 📅 2026-10-02) - Native Discord client built in Swift & SwiftUI. Light on your RAM and CPU.
+* <b><code>  2760⭐</code></b> <b><code>   103🍴</code></b> [Swiftcord](https://github.com/SwiftcordApp/Swiftcord) ⭐ 2,762 | 🐛 33 | 📅 2026-10-02) - Native Discord client built in Swift & SwiftUI. Light on your RAM and CPU.
 
   **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
 
@@ -1457,7 +1457,7 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-* <b><code>  1926⭐</code></b> <b><code>   279🍴</code></b> [Textual](https://github.com/Codeux-Software/Textual) ⭐ 1,926 | 🐛 0 | 🌐 Objective-C | 📅 2026-11-08) - Textual is an IRC client for macOS.
+* <b><code>  1926⭐</code></b> <b><code>   279🍴</code></b> [Textual](https://github.com/Codeux-Software/Textual) ⭐ 1,927 | 🐛 0 | 🌐 Objective-C | 📅 2026-11-09) - Textual is an IRC client for macOS.
 
   **Languages:** <img src='./icons/objective-c-64.png' alt='Objective-C icon' title='Objective-C' height='16'/> Objective-C
 
@@ -1489,7 +1489,7 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-* <b><code>  1705⭐</code></b> <b><code>   846🍴</code></b> [RocketChat](https://github.com/RocketChat/Rocket.Chat.Electron) ⭐ 1,706 | 🐛 197 | 🌐 TypeScript | 📅 2026-11-05) - Free open source chat system for teams. An alternative to Slack that can also be self hosted.
+* <b><code>  1705⭐</code></b> <b><code>   846🍴</code></b> [RocketChat](https://github.com/RocketChat/Rocket.Chat.Electron) ⭐ 1,706 | 🐛 198 | 🌐 TypeScript | 📅 2026-11-09) - Free open source chat system for teams. An alternative to Slack that can also be self hosted.
 
   **Languages:** <img src='./icons/javascript-64.png' alt='JavaScript icon' title='JavaScript' height='16'/> JavaScript
 
@@ -1542,7 +1542,7 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-* <b><code>   144⭐</code></b> <b><code>    28🍴</code></b> [Off Grid AI Desktop](https://github.com/off-grid-ai/OGAD) ⭐ 144 | 🐛 17 | 🌐 TypeScript | 📅 2026-11-08) - Private on-device AI suite for Apple Silicon Macs: local LLM chat via llama.cpp, RAG search over your own data, MCP connectors, and Stable Diffusion image generation, with no account, no telemetry, and no cloud.
+* <b><code>   144⭐</code></b> <b><code>    28🍴</code></b> [Off Grid AI Desktop](https://github.com/off-grid-ai/OGAD) ⭐ 144 | 🐛 18 | 🌐 TypeScript | 📅 2026-11-09) - Private on-device AI suite for Apple Silicon Macs: local LLM chat via llama.cpp, RAG search over your own data, MCP connectors, and Stable Diffusion image generation, with no account, no telemetry, and no cloud.
 
   **Languages:** <img src='./icons/typescript-64.png' alt='TypeScript icon' title='TypeScript' height='16'/> TypeScript
 
@@ -1570,7 +1570,7 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-* <b><code>   115⭐</code></b> <b><code>    13🍴</code></b> [FutureOS](https://github.com/futuregene/future-os) ⭐ 115 | 🐛 0 | 🌐 Rust | 📅 2026-11-08) - One AI agent everywhere you work - terminal, desktop, mobile, and IM bots driven by a single Rust backend.
+* <b><code>   115⭐</code></b> <b><code>    13🍴</code></b> [FutureOS](https://github.com/futuregene/future-os) ⭐ 115 | 🐛 1 | 🌐 Rust | 📅 2026-11-09) - One AI agent everywhere you work - terminal, desktop, mobile, and IM bots driven by a single Rust backend.
 
   **Languages:** <img src='./icons/rust-64.png' alt='Rust icon' title='Rust' height='16'/> Rust <img src='./icons/typescript-64.png' alt='TypeScript icon' title='TypeScript' height='16'/> TypeScript
 
@@ -1589,7 +1589,7 @@ You can see in which language an app is written. Currently there are following l
 
   **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
 
-* <b><code>    94⭐</code></b> <b><code>    15🍴</code></b> [JoeBro](https://github.com/joexk1/JoeBro) ⭐ 94 | 🐛 0 | 🌐 Python | 📅 2026-11-03) - Native AI workspace with a local Python backend. Chat, documents, memory, MCP tools and deep research, using local models or any API.
+* <b><code>    94⭐</code></b> <b><code>    15🍴</code></b> [JoeBro](https://github.com/joexk1/JoeBro) ⭐ 94 | 🐛 0 | 🌐 Python | 📅 2026-11-08) - Native AI workspace with a local Python backend. Chat, documents, memory, MCP tools and deep research, using local models or any API.
 
   **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift <img src='./icons/python-64.png' alt='Python icon' title='Python' height='16'/> Python
 
@@ -1651,7 +1651,7 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-* <b><code>    38⭐</code></b> <b><code>     4🍴</code></b> [Conduck](https://github.com/GigaDuckAI/conduck) ⭐ 38 | 🐛 1 | 🌐 Swift | 📅 2026-10-05) - Native voice and text client for your self-hosted or BYO-key AI, with a menu bar companion, global hotkey and Screenshot & Ask. Same conversation on iPhone, iPad, Apple Watch and CarPlay.
+* <b><code>    38⭐</code></b> <b><code>     4🍴</code></b> [Conduck](https://github.com/GigaDuckAI/conduck) ⭐ 39 | 🐛 1 | 🌐 Swift | 📅 2026-10-05) - Native voice and text client for your self-hosted or BYO-key AI, with a menu bar companion, global hotkey and Screenshot & Ask. Same conversation on iPhone, iPad, Apple Watch and CarPlay.
 
   **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
 
@@ -1686,7 +1686,7 @@ You can see in which language an app is written. Currently there are following l
 
 ### 💰 Cryptocurrency (6)
 
-* <b><code> 90621⭐</code></b> <b><code> 39448🍴</code></b> [Bitcoin Core](https://github.com/bitcoin/bitcoin) ⭐ 90,629 | 🐛 762 | 🌐 C++ | 📅 2026-11-08) - Official Bitcoin Core software for running a full Bitcoin node.
+* <b><code> 90621⭐</code></b> <b><code> 39448🍴</code></b> [Bitcoin Core](https://github.com/bitcoin/bitcoin) ⭐ 90,640 | 🐛 776 | 🌐 C++ | 📅 2026-11-09) - Official Bitcoin Core software for running a full Bitcoin node.
 
   **Languages:** <code>C++</code> <img src='./icons/python-64.png' alt='Python icon' title='Python' height='16'/> Python <img src='./icons/shell-64.png' alt='Shell icon' title='Shell' height='16'/> Shell
 
@@ -1705,7 +1705,7 @@ You can see in which language an app is written. Currently there are following l
 
   **Languages:** <img src='./icons/javascript-64.png' alt='JavaScript icon' title='JavaScript' height='16'/> JavaScript
 
-* <b><code>   323⭐</code></b> <b><code>    34🍴</code></b> [Blave Agent](https://github.com/Blave-TW/blave-agent) ⭐ 327 | 🐛 0 | 🌐 Python | 📅 2026-11-08) - Desktop workspace where your own Claude Code or Codex writes trading strategies, backtests them and runs them live on crypto exchanges.
+* <b><code>   323⭐</code></b> <b><code>    34🍴</code></b> [Blave Agent](https://github.com/Blave-TW/blave-agent) ⭐ 333 | 🐛 0 | 🌐 Python | 📅 2026-11-09) - Desktop workspace where your own Claude Code or Codex writes trading strategies, backtests them and runs them live on crypto exchanges.
 
   **Languages:** <img src='./icons/python-64.png' alt='Python icon' title='Python' height='16'/> Python <img src='./icons/javascript-64.png' alt='JavaScript icon' title='JavaScript' height='16'/> JavaScript
 
@@ -1758,7 +1758,7 @@ You can see in which language an app is written. Currently there are following l
 
 ### 🗄️ Database (20)
 
-* <b><code> 52333⭐</code></b> <b><code>  4451🍴</code></b> [DBeaver](https://github.com/dbeaver/dbeaver) ⭐ 52,350 | 🐛 3,349 | 🌐 Java | 📅 2026-11-08) - Universal database tool and SQL client.
+* <b><code> 52333⭐</code></b> <b><code>  4451🍴</code></b> [DBeaver](https://github.com/dbeaver/dbeaver) ⭐ 52,369 | 🐛 3,347 | 🌐 Java | 📅 2026-11-09) - Universal database tool and SQL client.
 
   **Languages:** <img src='./icons/java-64.png' alt='Java icon' title='Java' height='16'/> Java
 
@@ -1777,7 +1777,7 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-* <b><code> 24763⭐</code></b> <b><code>  2379🍴</code></b> [DB Browser for SQLite](https://github.com/sqlitebrowser/sqlitebrowser) ⭐ 24,763 | 🐛 815 | 🌐 C++ | 📅 2026-11-08) - SQLite database management GUI.
+* <b><code> 24763⭐</code></b> <b><code>  2379🍴</code></b> [DB Browser for SQLite](https://github.com/sqlitebrowser/sqlitebrowser) ⭐ 24,767 | 🐛 816 | 🌐 C++ | 📅 2026-11-09) - SQLite database management GUI.
 
   **Languages:** <img src='./icons/cpp-64.png' alt='C++ icon' title='C++' height='16'/> C++
 
@@ -1790,7 +1790,7 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-* <b><code> 23861⭐</code></b> <b><code>  1669🍴</code></b> [Beekeeper Studio](https://github.com/beekeeper-studio/beekeeper-studio) ⭐ 23,861 | 🐛 1,239 | 🌐 TypeScript | 📅 2026-11-06) - SQL editor and manager with support for SQLite, MySQL, MariaDB, Postgres, CockroachDB, SQL Server, and Amazon Redshift.
+* <b><code> 23861⭐</code></b> <b><code>  1669🍴</code></b> [Beekeeper Studio](https://github.com/beekeeper-studio/beekeeper-studio) ⭐ 23,865 | 🐛 1,233 | 🌐 TypeScript | 📅 2026-11-09) - SQL editor and manager with support for SQLite, MySQL, MariaDB, Postgres, CockroachDB, SQL Server, and Amazon Redshift.
 
   **Languages:** <img src='./icons/javascript-64.png' alt='JavaScript icon' title='JavaScript' height='16'/> JavaScript
 
@@ -1807,7 +1807,7 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-* <b><code> 23215⭐</code></b> <b><code>  3228🍴</code></b> [Redis Desktop Manager](https://github.com/uglide/RedisDesktopManager) ⭐ 23,215 | 🐛 69 | 🌐 C++ | 📅 2024-07-10) - Cross-platform open source database management tool for Redis ®
+* <b><code> 23215⭐</code></b> <b><code>  3228🍴</code></b> [Redis Desktop Manager](https://github.com/uglide/RedisDesktopManager) ⭐ 23,218 | 🐛 69 | 🌐 C++ | 📅 2024-07-10) - Cross-platform open source database management tool for Redis ®
 
   **Languages:** <img src='./icons/cpp-64.png' alt='C++ icon' title='C++' height='16'/> C++
 
@@ -1820,7 +1820,7 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-* <b><code> 11714⭐</code></b> <b><code>   773🍴</code></b> [Medis](https://github.com/luin/medis) ⭐ 11,714 | 🐛 72 | 🌐 JavaScript | 📅 2024-02-21) - 💻 Medis is a beautiful, easy-to-use Mac database management application for Redis.
+* <b><code> 11714⭐</code></b> <b><code>   773🍴</code></b> [Medis](https://github.com/luin/medis) ⭐ 11,713 | 🐛 72 | 🌐 JavaScript | 📅 2024-02-21) - 💻 Medis is a beautiful, easy-to-use Mac database management application for Redis.
 
   **Languages:** <img src='./icons/javascript-64.png' alt='JavaScript icon' title='JavaScript' height='16'/> JavaScript
 
@@ -1861,17 +1861,17 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-* <b><code>  7787⭐</code></b> <b><code>   406🍴</code></b> [Postgres.app](https://github.com/PostgresApp/PostgresApp) ⭐ 7,787 | 🐛 153 | 🌐 Makefile | 📅 2026-11-05) - The easiest way to get started with PostgreSQL on the Mac.
+* <b><code>  7787⭐</code></b> <b><code>   406🍴</code></b> [Postgres.app](https://github.com/PostgresApp/PostgresApp) ⭐ 7,786 | 🐛 153 | 🌐 Makefile | 📅 2026-11-09) - The easiest way to get started with PostgreSQL on the Mac.
 
   **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
 
-* <b><code>  7560⭐</code></b> <b><code>   341🍴</code></b> [Sequel Ace](https://github.com/Sequel-Ace/Sequel-Ace) ⭐ 7,560 | 🐛 194 | 🌐 Objective-C | 📅 2026-11-02) - Sequel Ace is a fast, easy-to-use Mac database management application for working with MySQL & MariaDB databases.
+* <b><code>  7560⭐</code></b> <b><code>   341🍴</code></b> [Sequel Ace](https://github.com/Sequel-Ace/Sequel-Ace) ⭐ 7,561 | 🐛 199 | 🌐 Objective-C | 📅 2026-11-09) - Sequel Ace is a fast, easy-to-use Mac database management application for working with MySQL & MariaDB databases.
 
   **Languages:** <img src='./icons/objective-c-64.png' alt='Objective-C icon' title='Objective-C' height='16'/> Objective-C
 
   **Website:** 🌎 [https://sequel-ace.com/](sequel-ace.com/)
 
-* <b><code>  7375⭐</code></b> <b><code>   491🍴</code></b> [DbGate](https://github.com/dbgate/dbgate) ⭐ 7,376 | 🐛 463 | 🌐 JavaScript | 📅 2026-11-04) - Database manager for MySQL, PostgreSQL, SQL Server, MongoDB, SQLite and others. Runs under Windows, Linux, Mac or as web application.
+* <b><code>  7375⭐</code></b> <b><code>   491🍴</code></b> [DbGate](https://github.com/dbgate/dbgate) ⭐ 7,376 | 🐛 464 | 🌐 JavaScript | 📅 2026-11-04) - Database manager for MySQL, PostgreSQL, SQL Server, MongoDB, SQLite and others. Runs under Windows, Linux, Mac or as web application.
 
   **Languages:** <img src='./icons/javascript-64.png' alt='JavaScript icon' title='JavaScript' height='16'/> JavaScript <img src='./icons/typescript-64.png' alt='TypeScript icon' title='TypeScript' height='16'/> TypeScript
 
@@ -1892,7 +1892,7 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-* <b><code>  6408⭐</code></b> <b><code>   433🍴</code></b> [TablePro](https://github.com/TableProApp/TablePro) ⭐ 6,424 | 🐛 71 | 🌐 Swift | 📅 2026-11-08) - Native macOS database client for MySQL, PostgreSQL, SQLite, MongoDB, Redis, and 15+ more.
+* <b><code>  6408⭐</code></b> <b><code>   433🍴</code></b> [TablePro](https://github.com/TableProApp/TablePro) ⭐ 6,432 | 🐛 70 | 🌐 Swift | 📅 2026-11-09) - Native macOS database client for MySQL, PostgreSQL, SQLite, MongoDB, Redis, and 15+ more.
 
   **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
 
@@ -2001,7 +2001,7 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-* <b><code>    47⭐</code></b> <b><code>     6🍴</code></b> [gadak](https://github.com/midagedev/gadak) ⭐ 47 | 🐛 1 | 🌐 Go | 📅 2026-11-03) - Keeps Jira, Linear and Confluence in one local SQLite file you query with SQL, and is a tracker of its own with no account.
+* <b><code>    47⭐</code></b> <b><code>     6🍴</code></b> [gadak](https://github.com/midagedev/gadak) ⭐ 47 | 🐛 1 | 🌐 Go | 📅 2026-11-09) - Keeps Jira, Linear and Confluence in one local SQLite file you query with SQL, and is a tracker of its own with no account.
 
   **Languages:** <img src='./icons/golang-64.png' alt='Go icon' title='Go' height='16'/> Go <img src='./icons/typescript-64.png' alt='TypeScript icon' title='TypeScript' height='16'/> TypeScript
 
@@ -2020,7 +2020,7 @@ You can see in which language an app is written. Currently there are following l
 
 ### 👨‍💻 Development (62)
 
-* <b><code>152608⭐</code></b> <b><code> 10031🍴</code></b> [CC Switch](https://github.com/farion1231/cc-switch) ⭐ 152,722 | 🐛 942 | 🌐 Rust | 📅 2026-11-08) - Cross-platform desktop assistant for switching API providers in one click and managing MCP servers, skills and prompts for Claude Code, Codex, Gemini CLI, OpenCode and other AI coding agents.
+* <b><code>152608⭐</code></b> <b><code> 10031🍴</code></b> [CC Switch](https://github.com/farion1231/cc-switch) ⭐ 153,048 | 🐛 952 | 🌐 Rust | 📅 2026-11-09) - Cross-platform desktop assistant for switching API providers in one click and managing MCP servers, skills and prompts for Claude Code, Codex, Gemini CLI, OpenCode and other AI coding agents.
 
   **Languages:** <img src='./icons/rust-64.png' alt='Rust icon' title='Rust' height='16'/> Rust <img src='./icons/typescript-64.png' alt='TypeScript icon' title='TypeScript' height='16'/> TypeScript
 
@@ -2037,7 +2037,7 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-* <b><code> 11724⭐</code></b> <b><code>   908🍴</code></b> [CodeBurn](https://github.com/getagentseal/codeburn) ⭐ 11,731 | 🐛 27 | 🌐 TypeScript | 📅 2026-11-08) - Menu bar app that shows what your AI coding tools cost, by project, model and task, across Claude Code, Codex, Cursor and 38 more.
+* <b><code> 11724⭐</code></b> <b><code>   908🍴</code></b> [CodeBurn](https://github.com/getagentseal/codeburn) ⭐ 11,745 | 🐛 27 | 🌐 TypeScript | 📅 2026-11-09) - Menu bar app that shows what your AI coding tools cost, by project, model and task, across Claude Code, Codex, Cursor and 38 more.
 
   **Languages:** <img src='./icons/typescript-64.png' alt='TypeScript icon' title='TypeScript' height='16'/> TypeScript
 
@@ -2052,7 +2052,7 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-* <b><code>  9094⭐</code></b> <b><code>   525🍴</code></b> [Orkas](https://github.com/Orkas-AI/Orkas) ⭐ 9,105 | 🐛 16 | 🌐 JavaScript | 📅 2026-11-08) - Local-first multi-agent desktop application where a Commander coordinates specialist agents for research, coding, data analysis, documents, and media.
+* <b><code>  9094⭐</code></b> <b><code>   525🍴</code></b> [Orkas](https://github.com/Orkas-AI/Orkas) ⭐ 9,142 | 🐛 16 | 🌐 JavaScript | 📅 2026-11-09) - Local-first multi-agent desktop application where a Commander coordinates specialist agents for research, coding, data analysis, documents, and media.
 
   **Languages:** <img src='./icons/typescript-64.png' alt='TypeScript icon' title='TypeScript' height='16'/> TypeScript <img src='./icons/javascript-64.png' alt='JavaScript icon' title='JavaScript' height='16'/> JavaScript <img src='./icons/css-64.png' alt='CSS icon' title='CSS' height='16'/> CSS <img src='./icons/python-64.png' alt='Python icon' title='Python' height='16'/> Python
 
@@ -2069,7 +2069,7 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-* <b><code>  5944⭐</code></b> <b><code>   179🍴</code></b> [Clipboard](https://github.com/Slackadays/Clipboard) ⭐ 5,944 | 🐛 27 | 🌐 C++ | 📅 2026-05-06) - An easy-to-use clipboard manager with time saving features that work across all terminals.
+* <b><code>  5944⭐</code></b> <b><code>   179🍴</code></b> [Clipboard](https://github.com/Slackadays/Clipboard) ⭐ 5,945 | 🐛 27 | 🌐 C++ | 📅 2026-05-06) - An easy-to-use clipboard manager with time saving features that work across all terminals.
 
   **Languages:** <img src='./icons/cpp-64.png' alt='C++ icon' title='C++' height='16'/> C++
 
@@ -2086,7 +2086,22 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-* <b><code>  3170⭐</code></b> <b><code>   245🍴</code></b> [LocationSimulator](https://github.com/Schlaubischlump/LocationSimulator) ⭐ 3,170 | 🐛 16 | 🌐 Swift | 📅 2026-11-05) - Application to spoof your iOS or iPhoneSimulator location.
+* <b><code>  3163⭐</code></b> <b><code>   337🍴</code></b> [qwen-audio-agent](https://github.com/QwenAudio/qwen-audio-agent) ⭐ 3,191 | 🐛 23 | 🌐 JavaScript | 📅 2026-11-07) - Full-duplex voice interface for AI coding agents. Talk to Claude Code, Codex, OpenCode and other ACP agents hands-free, with barge-in, spoken permission prompts, async task results read back, and a fully local wake word.
+
+  **Languages:** <img src='./icons/javascript-64.png' alt='JavaScript icon' title='JavaScript' height='16'/> JavaScript
+
+  **Website:** <b><code>  3163⭐</code></b> <b><code>   337🍴</code></b> <https://github.com/QwenAudio/qwen-audio-agent> ⭐ 3,191 | 🐛 23 | 🌐 JavaScript | 📅 2026-11-07)
+
+  <details>
+  <summary>Screenshots</summary>
+  <p>
+
+  <img src='https://raw.githubusercontent.com/QwenAudio/qwen-audio-agent/main/docs/desktop-fluid-orb-thinking.gif' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
+
+  </p>
+  </details>
+
+* <b><code>  3170⭐</code></b> <b><code>   245🍴</code></b> [LocationSimulator](https://github.com/Schlaubischlump/LocationSimulator) ⭐ 3,171 | 🐛 16 | 🌐 Swift | 📅 2026-11-05) - Application to spoof your iOS or iPhoneSimulator location.
 
   **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
 
@@ -2101,22 +2116,7 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-* <b><code>  3163⭐</code></b> <b><code>   337🍴</code></b> [qwen-audio-agent](https://github.com/QwenAudio/qwen-audio-agent) ⭐ 3,170 | 🐛 23 | 🌐 JavaScript | 📅 2026-11-07) - Full-duplex voice interface for AI coding agents. Talk to Claude Code, Codex, OpenCode and other ACP agents hands-free, with barge-in, spoken permission prompts, async task results read back, and a fully local wake word.
-
-  **Languages:** <img src='./icons/javascript-64.png' alt='JavaScript icon' title='JavaScript' height='16'/> JavaScript
-
-  **Website:** <b><code>  3163⭐</code></b> <b><code>   337🍴</code></b> <https://github.com/QwenAudio/qwen-audio-agent> ⭐ 3,170 | 🐛 23 | 🌐 JavaScript | 📅 2026-11-07)
-
-  <details>
-  <summary>Screenshots</summary>
-  <p>
-
-  <img src='https://raw.githubusercontent.com/QwenAudio/qwen-audio-agent/main/docs/desktop-fluid-orb-thinking.gif' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
-
-  </p>
-  </details>
-
-* <b><code>  3150⭐</code></b> <b><code>   944🍴</code></b> [Apache Netbeans](https://github.com/apache/netbeans) ⭐ 3,150 | 🐛 1,109 | 🌐 Java | 📅 2026-11-06) - Apache NetBeans is an IDE, Tooling Platform and Application Framework suitable for development in Java, JavaScript, PHP, HTML5, CSS, and more.
+* <b><code>  3150⭐</code></b> <b><code>   944🍴</code></b> [Apache Netbeans](https://github.com/apache/netbeans) ⭐ 3,149 | 🐛 1,109 | 🌐 Java | 📅 2026-11-06) - Apache NetBeans is an IDE, Tooling Platform and Application Framework suitable for development in Java, JavaScript, PHP, HTML5, CSS, and more.
 
   **Languages:** <img src='./icons/java-64.png' alt='Java icon' title='Java' height='16'/> Java
 
@@ -2148,7 +2148,7 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-* <b><code>  2438⭐</code></b> <b><code>   397🍴</code></b> [Agent Teams AI](https://github.com/777genius/agent-teams-ai) ⭐ 2,447 | 🐛 51 | 🌐 TypeScript | 📅 2026-11-08) - Desktop control center for coordinating autonomous AI coding agent teams across multiple providers.
+* <b><code>  2438⭐</code></b> <b><code>   397🍴</code></b> [Agent Teams AI](https://github.com/777genius/agent-teams-ai) ⭐ 2,450 | 🐛 53 | 🌐 TypeScript | 📅 2026-11-09) - Desktop control center for coordinating autonomous AI coding agent teams across multiple providers.
 
   **Languages:** <img src='./icons/typescript-64.png' alt='TypeScript icon' title='TypeScript' height='16'/> TypeScript
 
@@ -2163,7 +2163,7 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-* <b><code>  2207⭐</code></b> <b><code>   229🍴</code></b> [TokenTracker](https://github.com/xiufengsun/TokenTracker) ⭐ 2,209 | 🐛 33 | 🌐 JavaScript | 📅 2026-11-08) - Local-first menu bar app and CLI that tracks AI token usage and estimated cost across Claude Code, Codex, Cursor, Gemini, Copilot and more without reading prompts.
+* <b><code>  2207⭐</code></b> <b><code>   229🍴</code></b> [TokenTracker](https://github.com/xiufengsun/TokenTracker) ⭐ 2,212 | 🐛 43 | 🌐 JavaScript | 📅 2026-11-09) - Local-first menu bar app and CLI that tracks AI token usage and estimated cost across Claude Code, Codex, Cursor, Gemini, Copilot and more without reading prompts.
 
   **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift <img src='./icons/typescript-64.png' alt='TypeScript icon' title='TypeScript' height='16'/> TypeScript
 
@@ -2180,7 +2180,7 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-* <b><code>     ?⭐</code></b> <b><code>     ?🍴</code></b> [GitAhead](https://github.com/gitahead/gitahead/) ⭐ 1,959 | 🐛 296 | 🌐 C++ | 📅 2026-10-12) - A graphical Git client designed to help you understand and manage your source code history.
+* <b><code>     ?⭐</code></b> <b><code>     ?🍴</code></b> [GitAhead](https://github.com/gitahead/gitahead/) ⭐ 1,959 | 🐛 295 | 🌐 C++ | 📅 2026-10-12) - A graphical Git client designed to help you understand and manage your source code history.
 
   **Languages:** <img src='./icons/cpp-64.png' alt='C++ icon' title='C++' height='16'/> C++ <img src='./icons/c-64.png' alt='C icon' title='C' height='16'/> C
 
@@ -2201,7 +2201,7 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-* <b><code>  1433⭐</code></b> <b><code>   111🍴</code></b> [Notepad++ for Mac](https://github.com/nextpad-plus-plus/nextpad-plus-plus-macos) ⭐ 1,433 | 🐛 40 | 🌐 C++ | 📅 2026-11-03) - Native macOS port of the Notepad++ code editor — no Wine, no emulation; runs natively on Apple Silicon and Intel Macs.
+* <b><code>  1433⭐</code></b> <b><code>   111🍴</code></b> [Notepad++ for Mac](https://github.com/nextpad-plus-plus/nextpad-plus-plus-macos) ⭐ 1,433 | 🐛 41 | 🌐 C++ | 📅 2026-11-03) - Native macOS port of the Notepad++ code editor — no Wine, no emulation; runs natively on Apple Silicon and Intel Macs.
 
   **Languages:** <img src='./icons/cpp-64.png' alt='C++ icon' title='C++' height='16'/> C++ <img src='./icons/objective-c-64.png' alt='Objective-C icon' title='Objective-C' height='16'/> Objective-C
 
@@ -2273,7 +2273,7 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-* <b><code>   345⭐</code></b> <b><code>    66🍴</code></b> [usage](https://github.com/aqua5230/usage) ⭐ 345 | 🐛 0 | 🌐 Python | 📅 2026-11-07) - macOS menu bar app that pins Claude Code, Codex, and Antigravity CLI quota and burn rate to the screen, read from local session files.
+* <b><code>   345⭐</code></b> <b><code>    66🍴</code></b> [usage](https://github.com/aqua5230/usage) ⭐ 346 | 🐛 0 | 🌐 Python | 📅 2026-11-07) - macOS menu bar app that pins Claude Code, Codex, and Antigravity CLI quota and burn rate to the screen, read from local session files.
 
   **Languages:** <img src='./icons/python-64.png' alt='Python icon' title='Python' height='16'/> Python
 
@@ -2288,7 +2288,7 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-* <b><code>   323⭐</code></b> <b><code>    34🍴</code></b> [Blave Agent](https://github.com/Blave-TW/blave-agent) ⭐ 327 | 🐛 0 | 🌐 Python | 📅 2026-11-08) - Desktop workspace where your own Claude Code or Codex writes trading strategies, backtests them and runs them live on crypto exchanges.
+* <b><code>   323⭐</code></b> <b><code>    34🍴</code></b> [Blave Agent](https://github.com/Blave-TW/blave-agent) ⭐ 333 | 🐛 0 | 🌐 Python | 📅 2026-11-09) - Desktop workspace where your own Claude Code or Codex writes trading strategies, backtests them and runs them live on crypto exchanges.
 
   **Languages:** <img src='./icons/python-64.png' alt='Python icon' title='Python' height='16'/> Python <img src='./icons/javascript-64.png' alt='JavaScript icon' title='JavaScript' height='16'/> JavaScript
 
@@ -2318,7 +2318,7 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-* <b><code>   215⭐</code></b> <b><code>    18🍴</code></b> [Starcat](https://github.com/starcat-app/Starcat) ⭐ 216 | 🐛 30 | 🌐 Swift | 📅 2026-11-08) - Native, local-first GitHub Stars manager that turns saved repositories into a searchable, AI-assisted knowledge base.
+* <b><code>   215⭐</code></b> <b><code>    18🍴</code></b> [Starcat](https://github.com/starcat-app/Starcat) ⭐ 216 | 🐛 27 | 🌐 Swift | 📅 2026-11-09) - Native, local-first GitHub Stars manager that turns saved repositories into a searchable, AI-assisted knowledge base.
 
   **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
 
@@ -2354,17 +2354,11 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-* <b><code>   172⭐</code></b> <b><code>   181🍴</code></b> [Eclipse](https://github.com/eclipse-platform/eclipse.platform) ⭐ 172 | 🐛 264 | 🌐 Java | 📅 2026-11-08) - Eclipse is an open-source integrated development environment (IDE) used in computer programming, featuring a base workspace and an extensible plug-in system for customizing the environment.
-
-  **Languages:** <img src='./icons/java-64.png' alt='Java icon' title='Java' height='16'/> Java
-
-  **Website:** 🌎 [https://www.eclipse.org](www.eclipse.org)
-
-* <b><code>   171⭐</code></b> <b><code>    17🍴</code></b> [Device Hub Pro](https://github.com/gitemre/device-hub-pro) ⭐ 171 | 🐛 0 | 🌐 Swift | 📅 2026-10-22) - Mirror, control and test Android emulators and phones, iOS simulators and iPhones side by side.
+* <b><code>   171⭐</code></b> <b><code>    17🍴</code></b> [Device Hub Pro](https://github.com/gitemre/device-hub-pro) ⭐ 172 | 🐛 0 | 🌐 Swift | 📅 2026-10-22) - Mirror, control and test Android emulators and phones, iOS simulators and iPhones side by side.
 
   **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
 
-  **Website:** <b><code>   171⭐</code></b> <b><code>    17🍴</code></b> <https://github.com/gitemre/device-hub-pro> ⭐ 171 | 🐛 0 | 🌐 Swift | 📅 2026-10-22)
+  **Website:** <b><code>   171⭐</code></b> <b><code>    17🍴</code></b> <https://github.com/gitemre/device-hub-pro> ⭐ 172 | 🐛 0 | 🌐 Swift | 📅 2026-10-22)
 
   <details>
   <summary>Screenshots</summary>
@@ -2375,7 +2369,13 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-* <b><code>   144⭐</code></b> <b><code>    28🍴</code></b> [Off Grid AI Desktop](https://github.com/off-grid-ai/OGAD) ⭐ 144 | 🐛 17 | 🌐 TypeScript | 📅 2026-11-08) - Private on-device AI suite for Apple Silicon Macs: local LLM chat via llama.cpp, RAG search over your own data, MCP connectors, and Stable Diffusion image generation, with no account, no telemetry, and no cloud.
+* <b><code>   172⭐</code></b> <b><code>   181🍴</code></b> [Eclipse](https://github.com/eclipse-platform/eclipse.platform) ⭐ 172 | 🐛 264 | 🌐 Java | 📅 2026-11-09) - Eclipse is an open-source integrated development environment (IDE) used in computer programming, featuring a base workspace and an extensible plug-in system for customizing the environment.
+
+  **Languages:** <img src='./icons/java-64.png' alt='Java icon' title='Java' height='16'/> Java
+
+  **Website:** 🌎 [https://www.eclipse.org](www.eclipse.org)
+
+* <b><code>   144⭐</code></b> <b><code>    28🍴</code></b> [Off Grid AI Desktop](https://github.com/off-grid-ai/OGAD) ⭐ 144 | 🐛 18 | 🌐 TypeScript | 📅 2026-11-09) - Private on-device AI suite for Apple Silicon Macs: local LLM chat via llama.cpp, RAG search over your own data, MCP connectors, and Stable Diffusion image generation, with no account, no telemetry, and no cloud.
 
   **Languages:** <img src='./icons/typescript-64.png' alt='TypeScript icon' title='TypeScript' height='16'/> TypeScript
 
@@ -2390,7 +2390,7 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-* <b><code>   131⭐</code></b> <b><code>    22🍴</code></b> [Codex Account Switcher](https://github.com/liuzhao1225/codex-account-switcher) ⭐ 131 | 🐛 11 | 🌐 Swift | 📅 2026-11-02) - Native macOS menu bar app for switching multiple Codex Desktop and CLI accounts and monitoring weekly usage.
+* <b><code>   131⭐</code></b> <b><code>    22🍴</code></b> [Codex Account Switcher](https://github.com/liuzhao1225/codex-account-switcher) ⭐ 133 | 🐛 12 | 🌐 Swift | 📅 2026-11-02) - Native macOS menu bar app for switching multiple Codex Desktop and CLI accounts and monitoring weekly usage.
 
   **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
 
@@ -2401,6 +2401,25 @@ You can see in which language an app is written. Currently there are following l
   <p>
 
   <img src='https://raw.githubusercontent.com/liuzhao1225/codex-account-switcher/main/assets/codex-account-switcher-hero.png' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
+
+  </p>
+  </details>
+
+* <b><code>    95⭐</code></b> <b><code>     7🍴</code></b> [Oh My Android](https://github.com/ateymoori/oh-my-android) ⭐ 125 | 🐛 3 | 🌐 Swift | 📅 2026-11-09) - Native control panel for the Android Emulator on macOS with \~48 one-click actions, Layout Inspector in dp, and TalkBack audit.
+
+  **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
+
+  **Website:** <b><code>    95⭐</code></b> <b><code>     7🍴</code></b> <https://github.com/ateymoori/oh-my-android> ⭐ 125 | 🐛 3 | 🌐 Swift | 📅 2026-11-09)
+
+  <details>
+  <summary>Screenshots</summary>
+  <p>
+
+  <img src='https://raw.githubusercontent.com/ateymoori/oh-my-android/main/docs/panel.jpg' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
+
+  <img src='https://raw.githubusercontent.com/ateymoori/oh-my-android/main/docs/layout-inspector-talkback.jpg' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
+
+  <img src='https://raw.githubusercontent.com/ateymoori/oh-my-android/main/docs/ai-agents.jpg' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
 
   </p>
   </details>
@@ -2422,7 +2441,7 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-* <b><code>   112⭐</code></b> <b><code>     2🍴</code></b> [ghostty-designer](https://github.com/reemus-dev/ghostty-designer) ⭐ 112 | 🐛 0 | 🌐 TypeScript | 📅 2026-10-28) - Visual editor for Ghostty terminal themes, colours, fonts and window settings, with every change previewed live in your open terminals.
+* <b><code>   112⭐</code></b> <b><code>     2🍴</code></b> [ghostty-designer](https://github.com/reemus-dev/ghostty-designer) ⭐ 115 | 🐛 0 | 🌐 TypeScript | 📅 2026-10-28) - Visual editor for Ghostty terminal themes, colours, fonts and window settings, with every change previewed live in your open terminals.
 
   **Languages:** <img src='./icons/rust-64.png' alt='Rust icon' title='Rust' height='16'/> Rust <img src='./icons/typescript-64.png' alt='TypeScript icon' title='TypeScript' height='16'/> TypeScript
 
@@ -2435,26 +2454,7 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-* <b><code>    95⭐</code></b> <b><code>     7🍴</code></b> [Oh My Android](https://github.com/ateymoori/oh-my-android) ⭐ 108 | 🐛 3 | 🌐 Swift | 📅 2026-11-08) - Native control panel for the Android Emulator on macOS with \~48 one-click actions, Layout Inspector in dp, and TalkBack audit.
-
-  **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
-
-  **Website:** <b><code>    95⭐</code></b> <b><code>     7🍴</code></b> <https://github.com/ateymoori/oh-my-android> ⭐ 108 | 🐛 3 | 🌐 Swift | 📅 2026-11-08)
-
-  <details>
-  <summary>Screenshots</summary>
-  <p>
-
-  <img src='https://raw.githubusercontent.com/ateymoori/oh-my-android/main/docs/panel.jpg' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
-
-  <img src='https://raw.githubusercontent.com/ateymoori/oh-my-android/main/docs/layout-inspector-talkback.jpg' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
-
-  <img src='https://raw.githubusercontent.com/ateymoori/oh-my-android/main/docs/ai-agents.jpg' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
-
-  </p>
-  </details>
-
-* <b><code>   103⭐</code></b> <b><code>     6🍴</code></b> [Loadout](https://github.com/migsilva89/loadout) ⭐ 103 | 🐛 0 | 🌐 Swift | 📅 2026-11-05) - Inspects and manages the skills, slash commands, subagents, plugins and MCP servers that coding assistants load, with usage counts read from session logs.
+* <b><code>   103⭐</code></b> <b><code>     6🍴</code></b> [Loadout](https://github.com/migsilva89/loadout) ⭐ 104 | 🐛 0 | 🌐 Swift | 📅 2026-11-05) - Inspects and manages the skills, slash commands, subagents, plugins and MCP servers that coding assistants load, with usage counts read from session logs.
 
   **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
 
@@ -2509,7 +2509,7 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-* <b><code>    52⭐</code></b> <b><code>     7🍴</code></b> [PR Cockpit](https://github.com/theolundqvist/pr-cockpit) ⭐ 52 | 🐛 51 | 🌐 TypeScript | 📅 2026-11-08) - An extremely fast GitHub for reviewing pull requests: PRs open in about 20 ms. Keyboard-first, with a CLI for coding agents.
+* <b><code>    52⭐</code></b> <b><code>     7🍴</code></b> [PR Cockpit](https://github.com/theolundqvist/pr-cockpit) ⭐ 52 | 🐛 52 | 🌐 TypeScript | 📅 2026-11-08) - An extremely fast GitHub for reviewing pull requests: PRs open in about 20 ms. Keyboard-first, with a CLI for coding agents.
 
   **Languages:** <img src='./icons/typescript-64.png' alt='TypeScript icon' title='TypeScript' height='16'/> TypeScript
 
@@ -2524,11 +2524,11 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-* <b><code>    51⭐</code></b> <b><code>    10🍴</code></b> [Clave](https://github.com/antasphere/clave) ⭐ 51 | 🐛 42 | 🌐 TypeScript | 📅 2026-11-08) - macOS app for managing multiple Claude Code sessions in parallel, with split/grid layouts, session groups, SSH remote sessions, a git panel, and usage analytics.
+* <b><code>    51⭐</code></b> <b><code>    10🍴</code></b> [Clave](https://github.com/antasphere/clave) ⭐ 51 | 🐛 45 | 🌐 TypeScript | 📅 2026-11-09) - macOS app for managing multiple Claude Code sessions in parallel, with split/grid layouts, session groups, SSH remote sessions, a git panel, and usage analytics.
 
   **Languages:** <img src='./icons/typescript-64.png' alt='TypeScript icon' title='TypeScript' height='16'/> TypeScript
 
-  **Website:** <b><code>    51⭐</code></b> <b><code>    10🍴</code></b> <https://github.com/antasphere/clave> ⭐ 51 | 🐛 42 | 🌐 TypeScript | 📅 2026-11-08)
+  **Website:** <b><code>    51⭐</code></b> <b><code>    10🍴</code></b> <https://github.com/antasphere/clave> ⭐ 51 | 🐛 45 | 🌐 TypeScript | 📅 2026-11-09)
 
 * <b><code>    48⭐</code></b> <b><code>     6🍴</code></b> [Claude Statistics](https://github.com/sj719045032/claude-statistics) ⭐ 48 | 🐛 5 | 🌐 Swift | 📅 2026-09-14) - Native macOS menu bar app for monitoring Claude Code session usage, token costs, and Anthropic subscription limits in real time.
 
@@ -2536,7 +2536,7 @@ You can see in which language an app is written. Currently there are following l
 
   **Website:** 🌎 [https://claudestatistics.vercel.app/](claudestatistics.vercel.app/)
 
-* <b><code>    47⭐</code></b> <b><code>     6🍴</code></b> [gadak](https://github.com/midagedev/gadak) ⭐ 47 | 🐛 1 | 🌐 Go | 📅 2026-11-03) - Keeps Jira, Linear and Confluence in one local SQLite file you query with SQL, and is a tracker of its own with no account.
+* <b><code>    47⭐</code></b> <b><code>     6🍴</code></b> [gadak](https://github.com/midagedev/gadak) ⭐ 47 | 🐛 1 | 🌐 Go | 📅 2026-11-09) - Keeps Jira, Linear and Confluence in one local SQLite file you query with SQL, and is a tracker of its own with no account.
 
   **Languages:** <img src='./icons/golang-64.png' alt='Go icon' title='Go' height='16'/> Go <img src='./icons/typescript-64.png' alt='TypeScript icon' title='TypeScript' height='16'/> TypeScript
 
@@ -2552,6 +2552,12 @@ You can see in which language an app is written. Currently there are following l
 
   </p>
   </details>
+
+* <b><code>    39⭐</code></b> <b><code>     8🍴</code></b> [DevProjex](https://github.com/Avazbek22/DevProjex) ⭐ 41 | 🐛 12 | 🌐 C# | 📅 2026-11-09) - Cross-platform macOS codebase-context app for Intel and Apple Silicon, with GUI, TUI, CLI, live preview, redaction, and a built-in read-only MCP server.
+
+  **Languages:** <img src='./icons/csharp-64.png' alt='C# icon' title='C#' height='16'/> C#
+
+  **Website:** <b><code>    39⭐</code></b> <b><code>     8🍴</code></b> <https://github.com/Avazbek22/DevProjex> ⭐ 41 | 🐛 12 | 🌐 C# | 📅 2026-11-09)
 
 * <b><code>    41⭐</code></b> <b><code>     3🍴</code></b> [Lunavect](https://github.com/lovach/Lunavect) ⭐ 41 | 🐛 0 | 🌐 Swift | 📅 2026-10-07) - Menu bar app for Claude Code and Codex: live status of every session, weekly and five-hour usage limits, desktop widgets and activity statistics.
 
@@ -2572,12 +2578,6 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-* <b><code>    39⭐</code></b> <b><code>     8🍴</code></b> [DevProjex](https://github.com/Avazbek22/DevProjex) ⭐ 40 | 🐛 21 | 🌐 C# | 📅 2026-11-08) - Cross-platform macOS codebase-context app for Intel and Apple Silicon, with GUI, TUI, CLI, live preview, redaction, and a built-in read-only MCP server.
-
-  **Languages:** <img src='./icons/csharp-64.png' alt='C# icon' title='C#' height='16'/> C#
-
-  **Website:** <b><code>    39⭐</code></b> <b><code>     8🍴</code></b> <https://github.com/Avazbek22/DevProjex> ⭐ 40 | 🐛 21 | 🌐 C# | 📅 2026-11-08)
-
 * <b><code>    37⭐</code></b> <b><code>     1🍴</code></b> [Gridfy](https://github.com/Slllava/gridfy) ⭐ 37 | 🐛 0 | 🌐 Swift | 📅 2025-05-09) - Quickly calculate column widths and get correct results for your grid.
 
   **Languages:** <img src='./icons/javascript-64.png' alt='JavaScript icon' title='JavaScript' height='16'/> JavaScript <img src='./icons/typescript-64.png' alt='TypeScript icon' title='TypeScript' height='16'/> TypeScript
@@ -2597,7 +2597,7 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-* <b><code>    36⭐</code></b> <b><code>     6🍴</code></b> [Superagent](https://github.com/pungme/superagent-desktop) ⭐ 36 | 🐛 0 | 🌐 TypeScript | 📅 2026-11-07) - Desktop app that gives coding agents like Claude Code and Codex a real browser to drive, an iOS Simulator to install and screenshot apps in, and a phone companion app for remote monitoring.
+* <b><code>    36⭐</code></b> <b><code>     6🍴</code></b> [Superagent](https://github.com/pungme/superagent-desktop) ⭐ 36 | 🐛 0 | 🌐 TypeScript | 📅 2026-11-09) - Desktop app that gives coding agents like Claude Code and Codex a real browser to drive, an iOS Simulator to install and screenshot apps in, and a phone companion app for remote monitoring.
 
   **Languages:** <img src='./icons/typescript-64.png' alt='TypeScript icon' title='TypeScript' height='16'/> TypeScript <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
 
@@ -2683,17 +2683,17 @@ You can see in which language an app is written. Currently there are following l
 
   **Website:** 🌎 [https://tintpad.com](tintpad.com)
 
-* <b><code>    13⭐</code></b> <b><code>     3🍴</code></b> [KinetAios](https://github.com/phinn/KinetAios) ⭐ 13 | 🐛 5 | 🌐 TypeScript | 📅 2026-11-08) - Local-first multi-engine AI agent dashboard: run Claude Code, Codex, and a built-in ReAct engine side by side with shared cross-engine memory, MCP, and 40+ tools.
+* <b><code>    13⭐</code></b> <b><code>     3🍴</code></b> [KinetAios](https://github.com/phinn/KinetAios) ⭐ 13 | 🐛 5 | 🌐 TypeScript | 📅 2026-11-09) - Local-first multi-engine AI agent dashboard: run Claude Code, Codex, and a built-in ReAct engine side by side with shared cross-engine memory, MCP, and 40+ tools.
 
   **Languages:** <img src='./icons/typescript-64.png' alt='TypeScript icon' title='TypeScript' height='16'/> TypeScript
 
   **Website:** 🌎 [https://phinn.github.io/KinetAios/](phinn.github.io/KinetAios/)
 
-* <b><code>    12⭐</code></b> <b><code>     0🍴</code></b> [Orchestrator](https://github.com/zachealy1/orchestrator) ⭐ 12 | 🐛 0 | 🌐 TypeScript | 📅 2026-11-08) - macOS workspace for Codex with repository browsing, Kanban tasks, subagent inspection and local code review.
+* <b><code>    12⭐</code></b> <b><code>     0🍴</code></b> [Orchestrator](https://github.com/zachealy1/orchestrator) ⭐ 12 | 🐛 0 | 🌐 TypeScript | 📅 2026-11-09) - macOS workspace for Codex with repository browsing, Kanban tasks, subagent inspection and local code review.
 
   **Languages:** <img src='./icons/typescript-64.png' alt='TypeScript icon' title='TypeScript' height='16'/> TypeScript <img src='./icons/rust-64.png' alt='Rust icon' title='Rust' height='16'/> Rust
 
-  **Website:** <b><code>    12⭐</code></b> <b><code>     0🍴</code></b> <https://github.com/zachealy1/orchestrator> ⭐ 12 | 🐛 0 | 🌐 TypeScript | 📅 2026-11-08)
+  **Website:** <b><code>    12⭐</code></b> <b><code>     0🍴</code></b> <https://github.com/zachealy1/orchestrator> ⭐ 12 | 🐛 0 | 🌐 TypeScript | 📅 2026-11-09)
 
   <details>
   <summary>Screenshots</summary>
@@ -2725,7 +2725,7 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-* <b><code>    10⭐</code></b> <b><code>     3🍴</code></b> [KyttoMCP](https://github.com/heyitsjakub/KyttoMCP) ⭐ 10 | 🐛 3 | 🌐 C# | 📅 2026-11-07) - Manage MCP servers across Claude Desktop, Claude Code, Cursor, VS Code and Codex in one matrix, with health checks, a tool safety scan and local config backups.
+* <b><code>    10⭐</code></b> <b><code>     3🍴</code></b> [KyttoMCP](https://github.com/heyitsjakub/KyttoMCP) ⭐ 11 | 🐛 3 | 🌐 C# | 📅 2026-11-07) - Manage MCP servers across Claude Desktop, Claude Code, Cursor, VS Code and Codex in one matrix, with health checks, a tool safety scan and local config backups.
 
   **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
 
@@ -2795,11 +2795,11 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-* <b><code>     5⭐</code></b> <b><code>     0🍴</code></b> [Lumilo](https://github.com/kotuke/lumilo) ⭐ 5 | 🐛 1 | 🌐 Go | 📅 2026-10-31) - Menu bar app that runs Splash or llama.cpp servers, shows memory and token speed, and downloads models from Hugging Face.
+* <b><code>     5⭐</code></b> <b><code>     0🍴</code></b> [Lumilo](https://github.com/kotuke/lumilo) ⭐ 6 | 🐛 1 | 🌐 Go | 📅 2026-11-09) - Menu bar app that runs Splash or llama.cpp servers, shows memory and token speed, and downloads models from Hugging Face.
 
   **Languages:** <img src='./icons/golang-64.png' alt='Go icon' title='Go' height='16'/> Go
 
-  **Website:** <b><code>     5⭐</code></b> <b><code>     0🍴</code></b> <https://github.com/kotuke/lumilo> ⭐ 5 | 🐛 1 | 🌐 Go | 📅 2026-10-31)
+  **Website:** <b><code>     5⭐</code></b> <b><code>     0🍴</code></b> <https://github.com/kotuke/lumilo> ⭐ 6 | 🐛 1 | 🌐 Go | 📅 2026-11-09)
 
   <details>
   <summary>Screenshots</summary>
@@ -2812,7 +2812,7 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-* <b><code>     5⭐</code></b> <b><code>     1🍴</code></b> [QuotaBar](https://github.com/RoketrP/QuotaBar) ⭐ 5 | 🐛 0 | 🌐 Swift | 📅 2026-08-02) - Local-first macOS menu bar app for tracking OpenAI Codex usage limits, reset countdowns, and optional alerts.
+* <b><code>     5⭐</code></b> <b><code>     1🍴</code></b> [QuotaBar](https://github.com/RoketrP/QuotaBar) ⭐ 5 | 🐛 0 | 🌐 Swift | 📅 2026-11-09) - Local-first macOS menu bar app for tracking OpenAI Codex usage limits, reset countdowns, and optional alerts.
 
   **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
 
@@ -2903,7 +2903,7 @@ You can see in which language an app is written. Currently there are following l
 
 #### 📦 Git (25)
 
-* <b><code> 22064⭐</code></b> <b><code> 10713🍴</code></b> [GitHub Desktop](https://github.com/desktop/desktop) ⭐ 22,067 | 🐛 1,078 | 🌐 TypeScript | 📅 2026-11-06) - Simple collaboration from your desktop.
+* <b><code> 22064⭐</code></b> <b><code> 10713🍴</code></b> [GitHub Desktop](https://github.com/desktop/desktop) ⭐ 22,072 | 🐛 1,076 | 🌐 TypeScript | 📅 2026-11-09) - Simple collaboration from your desktop.
 
   **Languages:** <img src='./icons/typescript-64.png' alt='TypeScript icon' title='TypeScript' height='16'/> TypeScript
 
@@ -2935,7 +2935,7 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-* <b><code>  5395⭐</code></b> <b><code>   299🍴</code></b> [Gitify](https://github.com/manosim/gitify) ⭐ 5,395 | 🐛 23 | 🌐 TypeScript | 📅 2026-11-07) - Your GitHub notifications on your menu bar.
+* <b><code>  5395⭐</code></b> <b><code>   299🍴</code></b> [Gitify](https://github.com/manosim/gitify) ⭐ 5,396 | 🐛 24 | 🌐 TypeScript | 📅 2026-11-09) - Your GitHub notifications on your menu bar.
 
   **Languages:** <img src='./icons/javascript-64.png' alt='JavaScript icon' title='JavaScript' height='16'/> JavaScript
 
@@ -2950,7 +2950,7 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-* <b><code>  3825⭐</code></b> <b><code>   197🍴</code></b> [GithubStarsManager](https://github.com/AmintaCCCP/GithubStarsManager) ⭐ 3,827 | 🐛 0 | 🌐 TypeScript | 📅 2026-11-08) - AI-powered, local-first app to organize your GitHub stars with auto-summaries, tags, semantic search, and release tracking.
+* <b><code>  3825⭐</code></b> <b><code>   197🍴</code></b> [GithubStarsManager](https://github.com/AmintaCCCP/GithubStarsManager) ⭐ 3,841 | 🐛 1 | 🌐 TypeScript | 📅 2026-11-09) - AI-powered, local-first app to organize your GitHub stars with auto-summaries, tags, semantic search, and release tracking.
 
   **Languages:** <img src='./icons/typescript-64.png' alt='TypeScript icon' title='TypeScript' height='16'/> TypeScript
 
@@ -2967,7 +2967,7 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-* <b><code>     ?⭐</code></b> <b><code>     ?🍴</code></b> [GitAhead](https://github.com/gitahead/gitahead/) ⭐ 1,959 | 🐛 296 | 🌐 C++ | 📅 2026-10-12) - A graphical Git client designed to help you understand and manage your source code history.
+* <b><code>     ?⭐</code></b> <b><code>     ?🍴</code></b> [GitAhead](https://github.com/gitahead/gitahead/) ⭐ 1,959 | 🐛 295 | 🌐 C++ | 📅 2026-10-12) - A graphical Git client designed to help you understand and manage your source code history.
 
   **Languages:** <img src='./icons/cpp-64.png' alt='C++ icon' title='C++' height='16'/> C++ <img src='./icons/c-64.png' alt='C icon' title='C' height='16'/> C
 
@@ -2988,7 +2988,7 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-* <b><code>  1216⭐</code></b> <b><code>    78🍴</code></b> [Trailer](https://github.com/ptsochantaris/trailer) ⭐ 1,216 | 🐛 23 | 🌐 Swift | 📅 2026-09-18) - Managing Pull Requests and Issues For GitHub & GitHub Enterprise.
+* <b><code>  1216⭐</code></b> <b><code>    78🍴</code></b> [Trailer](https://github.com/ptsochantaris/trailer) ⭐ 1,215 | 🐛 23 | 🌐 Swift | 📅 2026-09-18) - Managing Pull Requests and Issues For GitHub & GitHub Enterprise.
 
   **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
 
@@ -3091,7 +3091,7 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-* <b><code>    52⭐</code></b> <b><code>     7🍴</code></b> [PR Cockpit](https://github.com/theolundqvist/pr-cockpit) ⭐ 52 | 🐛 51 | 🌐 TypeScript | 📅 2026-11-08) - An extremely fast GitHub for reviewing pull requests: PRs open in about 20 ms. Keyboard-first, with a CLI for coding agents.
+* <b><code>    52⭐</code></b> <b><code>     7🍴</code></b> [PR Cockpit](https://github.com/theolundqvist/pr-cockpit) ⭐ 52 | 🐛 52 | 🌐 TypeScript | 📅 2026-11-08) - An extremely fast GitHub for reviewing pull requests: PRs open in about 20 ms. Keyboard-first, with a CLI for coding agents.
 
   **Languages:** <img src='./icons/typescript-64.png' alt='TypeScript icon' title='TypeScript' height='16'/> TypeScript
 
@@ -3188,7 +3188,7 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-* <b><code>     4⭐</code></b> <b><code>     0🍴</code></b> [PullBull](https://github.com/rustycamper/pullbull) ⭐ 4 | 🐛 0 | 🌐 Swift | 📅 2026-11-08) - GitHub pull requests, issues and Projects boards in the menu bar.
+* <b><code>     4⭐</code></b> <b><code>     0🍴</code></b> [PullBull](https://github.com/rustycamper/pullbull) ⭐ 4 | 🐛 0 | 🌐 Swift | 📅 2026-11-09) - GitHub pull requests, issues and Projects boards in the menu bar.
 
   **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
 
@@ -3239,7 +3239,7 @@ You can see in which language an app is written. Currently there are following l
 
 #### 🔧 Other Development (9)
 
-* <b><code>  5095⭐</code></b> <b><code>   556🍴</code></b> [MQTTX](https://github.com/emqx/MQTTX) ⭐ 5,095 | 🐛 100 | 🌐 TypeScript | 📅 2026-11-08) - An elegant Cross-platform MQTT 5.0 desktop client.
+* <b><code>  5095⭐</code></b> <b><code>   556🍴</code></b> [MQTTX](https://github.com/emqx/MQTTX) ⭐ 5,096 | 🐛 100 | 🌐 TypeScript | 📅 2026-11-09) - An elegant Cross-platform MQTT 5.0 desktop client.
 
   **Languages:** <img src='./icons/javascript-64.png' alt='JavaScript icon' title='JavaScript' height='16'/> JavaScript <img src='./icons/typescript-64.png' alt='TypeScript icon' title='TypeScript' height='16'/> TypeScript
 
@@ -3311,7 +3311,7 @@ You can see in which language an app is written. Currently there are following l
 
   **Languages:** <img src='./icons/objective-c-64.png' alt='Objective-C icon' title='Objective-C' height='16'/> Objective-C
 
-* <b><code>   103⭐</code></b> <b><code>     6🍴</code></b> [Loadout](https://github.com/migsilva89/loadout) ⭐ 103 | 🐛 0 | 🌐 Swift | 📅 2026-11-05) - Inspects and manages the skills, slash commands, subagents, plugins and MCP servers that coding assistants load, with usage counts read from session logs.
+* <b><code>   103⭐</code></b> <b><code>     6🍴</code></b> [Loadout](https://github.com/migsilva89/loadout) ⭐ 104 | 🐛 0 | 🌐 Swift | 📅 2026-11-05) - Inspects and manages the skills, slash commands, subagents, plugins and MCP servers that coding assistants load, with usage counts read from session logs.
 
   **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
 
@@ -3379,7 +3379,7 @@ You can see in which language an app is written. Currently there are following l
 
 #### 🌍 Web Development (15)
 
-* <b><code> 40132⭐</code></b> <b><code>  2389🍴</code></b> [Insomnia](https://github.com/Kong/insomnia) ⭐ 40,132 | 🐛 932 | 🌐 TypeScript | 📅 2026-11-08) - Insomnia is a cross-platform REST client, built on top of Electron.
+* <b><code> 40132⭐</code></b> <b><code>  2389🍴</code></b> [Insomnia](https://github.com/Kong/insomnia) ⭐ 40,134 | 🐛 938 | 🌐 TypeScript | 📅 2026-11-09) - Insomnia is a cross-platform REST client, built on top of Electron.
 
   **Languages:** <img src='./icons/javascript-64.png' alt='JavaScript icon' title='JavaScript' height='16'/> JavaScript
 
@@ -3392,7 +3392,7 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-* <b><code>  6758⭐</code></b> <b><code>   684🍴</code></b> [Requestly](https://github.com/requestly/requestly) ⭐ 6,759 | 🐛 269 | 📅 2026-11-06) - A lightweight open-source API Development, Testing & Mocking platform
+* <b><code>  6758⭐</code></b> <b><code>   684🍴</code></b> [Requestly](https://github.com/requestly/requestly) ⭐ 6,760 | 🐛 269 | 📅 2026-11-06) - A lightweight open-source API Development, Testing & Mocking platform
 
   **Languages:** <img src='./icons/javascript-64.png' alt='JavaScript icon' title='JavaScript' height='16'/> JavaScript
 
@@ -3409,7 +3409,7 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-* <b><code>  1464⭐</code></b> <b><code>    84🍴</code></b> [Rockxy](https://github.com/RockxyApp/Rockxy) ⭐ 1,466 | 🐛 85 | 🌐 Swift | 📅 2026-11-06) - Open-source native macOS debugging proxy for inspecting HTTP, HTTPS, WebSocket, and GraphQL traffic.
+* <b><code>  1464⭐</code></b> <b><code>    84🍴</code></b> [Rockxy](https://github.com/RockxyApp/Rockxy) ⭐ 1,471 | 🐛 85 | 🌐 Swift | 📅 2026-11-09) - Open-source native macOS debugging proxy for inspecting HTTP, HTTPS, WebSocket, and GraphQL traffic.
 
   **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
 
@@ -3549,7 +3549,7 @@ You can see in which language an app is written. Currently there are following l
 
   **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
 
-* <b><code>  8640⭐</code></b> <b><code>   396🍴</code></b> [Xcodes.app](https://github.com/RobotsAndPencils/XcodesApp) ⭐ 8,641 | 🐛 241 | 🌐 Swift | 📅 2026-10-13) - The easiest way to install and switch between multiple versions of Xcode.
+* <b><code>  8640⭐</code></b> <b><code>   396🍴</code></b> [Xcodes.app](https://github.com/RobotsAndPencils/XcodesApp) ⭐ 8,642 | 🐛 241 | 🌐 Swift | 📅 2026-10-13) - The easiest way to install and switch between multiple versions of Xcode.
 
   **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
 
@@ -3579,13 +3579,13 @@ You can see in which language an app is written. Currently there are following l
 
   **Languages:** <img src='./icons/objective-c-64.png' alt='Objective-C icon' title='Objective-C' height='16'/> Objective-C <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
 
-* <b><code>     ?⭐</code></b> <b><code>     ?🍴</code></b> [Input Source Pro](https://github.com/runjuu/InputSourcePro/) ⭐ 3,692 | 🐛 68 | 🌐 Swift | 📅 2026-11-07) - Input Source Pro is macOS utility designed for multilingual users who frequently switch input sources.
+* <b><code>     ?⭐</code></b> <b><code>     ?🍴</code></b> [Input Source Pro](https://github.com/runjuu/InputSourcePro/) ⭐ 3,694 | 🐛 69 | 🌐 Swift | 📅 2026-11-07) - Input Source Pro is macOS utility designed for multilingual users who frequently switch input sources.
 
   **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
 
   **Website:** 🌎 [https://inputsource.pro](inputsource.pro)
 
-* <b><code>  3170⭐</code></b> <b><code>   245🍴</code></b> [LocationSimulator](https://github.com/Schlaubischlump/LocationSimulator) ⭐ 3,170 | 🐛 16 | 🌐 Swift | 📅 2026-11-05) - Application to spoof your iOS or iPhoneSimulator location.
+* <b><code>  3170⭐</code></b> <b><code>   245🍴</code></b> [LocationSimulator](https://github.com/Schlaubischlump/LocationSimulator) ⭐ 3,171 | 🐛 16 | 🌐 Swift | 📅 2026-11-05) - Application to spoof your iOS or iPhoneSimulator location.
 
   **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
 
@@ -3740,7 +3740,7 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-* <b><code>  1172⭐</code></b> <b><code>    57🍴</code></b> [iSimulator](https://github.com/wigl/iSimulator) ⭐ 1,172 | 🐛 2 | 🌐 Swift | 📅 2023-10-21) - iSimulator is a GUI utility to control the Simulator and manage the app installed on the simulator.
+* <b><code>  1172⭐</code></b> <b><code>    57🍴</code></b> [iSimulator](https://github.com/wigl/iSimulator) ⭐ 1,173 | 🐛 2 | 🌐 Swift | 📅 2023-10-21) - iSimulator is a GUI utility to control the Simulator and manage the app installed on the simulator.
 
   **Languages:** <img src='./icons/objective-c-64.png' alt='Objective-C icon' title='Objective-C' height='16'/> Objective-C
 
@@ -3909,11 +3909,11 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-* <b><code>   171⭐</code></b> <b><code>    17🍴</code></b> [Device Hub Pro](https://github.com/gitemre/device-hub-pro) ⭐ 171 | 🐛 0 | 🌐 Swift | 📅 2026-10-22) - Mirror, control and test Android emulators and phones, iOS simulators and iPhones side by side.
+* <b><code>   171⭐</code></b> <b><code>    17🍴</code></b> [Device Hub Pro](https://github.com/gitemre/device-hub-pro) ⭐ 172 | 🐛 0 | 🌐 Swift | 📅 2026-10-22) - Mirror, control and test Android emulators and phones, iOS simulators and iPhones side by side.
 
   **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
 
-  **Website:** <b><code>   171⭐</code></b> <b><code>    17🍴</code></b> <https://github.com/gitemre/device-hub-pro> ⭐ 171 | 🐛 0 | 🌐 Swift | 📅 2026-10-22)
+  **Website:** <b><code>   171⭐</code></b> <b><code>    17🍴</code></b> <https://github.com/gitemre/device-hub-pro> ⭐ 172 | 🐛 0 | 🌐 Swift | 📅 2026-10-22)
 
   <details>
   <summary>Screenshots</summary>
@@ -4080,7 +4080,7 @@ You can see in which language an app is written. Currently there are following l
 
 ### ⬇️ Downloader (11)
 
-* <b><code> 57944⭐</code></b> <b><code>  5137🍴</code></b> [Motrix](https://github.com/agalwood/Motrix) ⭐ 57,991 | 🐛 177 | 🌐 TypeScript | 📅 2026-11-08) - A full-featured download manager.
+* <b><code> 57944⭐</code></b> <b><code>  5137🍴</code></b> [Motrix](https://github.com/agalwood/Motrix) ⭐ 58,045 | 🐛 177 | 🌐 TypeScript | 📅 2026-11-09) - A full-featured download manager.
 
   **Languages:** <img src='./icons/javascript-64.png' alt='JavaScript icon' title='JavaScript' height='16'/> JavaScript
 
@@ -4101,13 +4101,13 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-* <b><code>  8345⭐</code></b> <b><code>  1219🍴</code></b> [Extream Download Manager](https://github.com/subhra74/xdm) ⭐ 8,355 | 🐛 95 | 🌐 Kotlin | 📅 2026-11-08) - a powerful tool to increase download speeds up to 500%
+* <b><code>  8345⭐</code></b> <b><code>  1219🍴</code></b> [Extream Download Manager](https://github.com/subhra74/xdm) ⭐ 8,384 | 🐛 93 | 🌐 Kotlin | 📅 2026-11-09) - a powerful tool to increase download speeds up to 500%
 
   **Languages:** <img src='./icons/java-64.png' alt='Java icon' title='Java' height='16'/> Java
 
   **Website:** 🌎 [https://subhra74.github.io/xdm/](subhra74.github.io/xdm/)
 
-* <b><code>  7127⭐</code></b> <b><code>   188🍴</code></b> [Applite](https://github.com/milanvarady/Applite) ⭐ 7,126 | 🐛 11 | 🌐 Swift | 📅 2026-09-12) - User-friendly GUI app for Homebrew Casks. Install, update, and uninstall apps with a single click.
+* <b><code>  7127⭐</code></b> <b><code>   188🍴</code></b> [Applite](https://github.com/milanvarady/Applite) ⭐ 7,132 | 🐛 11 | 🌐 Swift | 📅 2026-09-12) - User-friendly GUI app for Homebrew Casks. Install, update, and uninstall apps with a single click.
 
   **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
 
@@ -4128,7 +4128,7 @@ You can see in which language an app is written. Currently there are following l
 
   **Languages:** <img src='./icons/javascript-64.png' alt='JavaScript icon' title='JavaScript' height='16'/> JavaScript
 
-* <b><code>   842⭐</code></b> <b><code>   104🍴</code></b> [Arroxy](https://github.com/antonio-orionus/Arroxy) ⭐ 844 | 🐛 8 | 🌐 TypeScript | 📅 2026-11-07) - Video and audio downloader powered by yt-dlp, with a built-in browser, playlists, subtitles and download profiles.
+* <b><code>   842⭐</code></b> <b><code>   104🍴</code></b> [Arroxy](https://github.com/antonio-orionus/Arroxy) ⭐ 853 | 🐛 6 | 🌐 TypeScript | 📅 2026-11-09) - Video and audio downloader powered by yt-dlp, with a built-in browser, playlists, subtitles and download profiles.
 
   **Languages:** <img src='./icons/typescript-64.png' alt='TypeScript icon' title='TypeScript' height='16'/> TypeScript
 
@@ -4208,13 +4208,13 @@ You can see in which language an app is written. Currently there are following l
 
 ### 📝 Editors (12)
 
-* <b><code> 94312⭐</code></b> <b><code> 11557🍴</code></b> [Zed](https://github.com/zed-industries/zed) ⭐ 94,449 | 🐛 3,066 | 🌐 Rust | 📅 2026-11-08) - Zed is an open source, high-performance, and multiplayer code editor
+* <b><code> 94312⭐</code></b> <b><code> 11557🍴</code></b> [Zed](https://github.com/zed-industries/zed) ⭐ 94,580 | 🐛 3,056 | 🌐 Rust | 📅 2026-11-09) - Zed is an open source, high-performance, and multiplayer code editor
 
   **Languages:** <img src='./icons/rust-64.png' alt='Rust icon' title='Rust' height='16'/> Rust
 
   **Website:** 🌎 [https://zed.dev](zed.dev)
 
-* <b><code> 23102⭐</code></b> <b><code>  1195🍴</code></b> [CodeEdit](https://github.com/CodeEditApp/CodeEdit) ⭐ 23,103 | 🐛 215 | 🌐 Swift | 📅 2026-10-17) - CodeEdit App for macOS – Elevate your code editing experience. Open source, free forever.
+* <b><code> 23102⭐</code></b> <b><code>  1195🍴</code></b> [CodeEdit](https://github.com/CodeEditApp/CodeEdit) ⭐ 23,104 | 🐛 215 | 🌐 Swift | 📅 2026-10-17) - CodeEdit App for macOS – Elevate your code editing experience. Open source, free forever.
 
   **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
 
@@ -4229,7 +4229,7 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-* <b><code>  3753⭐</code></b> <b><code>   668🍴</code></b> [Geany](https://github.com/geany/geany) ⭐ 3,753 | 🐛 1,288 | 🌐 C | 📅 2026-11-01) - Geany is a powerful, stable and lightweight programmer's text editor that provides tons of useful features without bogging down your workflow.
+* <b><code>  3753⭐</code></b> <b><code>   668🍴</code></b> [Geany](https://github.com/geany/geany) ⭐ 3,754 | 🐛 1,289 | 🌐 C | 📅 2026-11-01) - Geany is a powerful, stable and lightweight programmer's text editor that provides tons of useful features without bogging down your workflow.
 
   **Languages:** <img src='./icons/c-64.png' alt='C icon' title='C' height='16'/> C <code>c++</code>
 
@@ -4244,7 +4244,7 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-* <b><code>  1462⭐</code></b> <b><code>   123🍴</code></b> [PuppyOne](https://github.com/puppyone-ai/puppyone-desktop) ⭐ 1,479 | 🐛 7 | 🌐 TypeScript | 📅 2026-11-08) - A local-first workspace where you and your AI work on the same files.
+* <b><code>  1462⭐</code></b> <b><code>   123🍴</code></b> [PuppyOne](https://github.com/puppyone-ai/puppyone-desktop) ⭐ 1,493 | 🐛 7 | 🌐 TypeScript | 📅 2026-11-09) - A local-first workspace where you and your AI work on the same files.
 
   **Languages:** <img src='./icons/typescript-64.png' alt='TypeScript icon' title='TypeScript' height='16'/> TypeScript
 
@@ -4259,7 +4259,7 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-* <b><code>  1433⭐</code></b> <b><code>   111🍴</code></b> [Notepad++ for Mac](https://github.com/nextpad-plus-plus/nextpad-plus-plus-macos) ⭐ 1,433 | 🐛 40 | 🌐 C++ | 📅 2026-11-03) - Native macOS port of the Notepad++ code editor — no Wine, no emulation; runs natively on Apple Silicon and Intel Macs.
+* <b><code>  1433⭐</code></b> <b><code>   111🍴</code></b> [Notepad++ for Mac](https://github.com/nextpad-plus-plus/nextpad-plus-plus-macos) ⭐ 1,433 | 🐛 41 | 🌐 C++ | 📅 2026-11-03) - Native macOS port of the Notepad++ code editor — no Wine, no emulation; runs natively on Apple Silicon and Intel Macs.
 
   **Languages:** <img src='./icons/cpp-64.png' alt='C++ icon' title='C++' height='16'/> C++ <img src='./icons/objective-c-64.png' alt='Objective-C icon' title='Objective-C' height='16'/> Objective-C
 
@@ -4418,17 +4418,17 @@ You can see in which language an app is written. Currently there are following l
 
 #### 📝 Markdown (23)
 
-* <b><code>     ?⭐</code></b> <b><code>     ?🍴</code></b> [Mark Text](https://github.com/marktext/marktext/) ⭐ 63,734 | 🐛 235 | 🌐 TypeScript | 📅 2026-11-06) - Realtime preview markdown editor for macOS Windows and Linux.
+* <b><code>     ?⭐</code></b> <b><code>     ?🍴</code></b> [Mark Text](https://github.com/marktext/marktext/) ⭐ 63,789 | 🐛 235 | 🌐 TypeScript | 📅 2026-11-06) - Realtime preview markdown editor for macOS Windows and Linux.
 
   **Languages:** <img src='./icons/javascript-64.png' alt='JavaScript icon' title='JavaScript' height='16'/> JavaScript
 
-* <b><code> 23101⭐</code></b> <b><code>  7941🍴</code></b> [Obsidian plugins & themes](https://github.com/obsidianmd/obsidian-releases) ⭐ 23,136 | 🐛 4 | 📅 2026-11-08) - Community plugins list, theme list, and releases of Obsidian.
+* <b><code> 23101⭐</code></b> <b><code>  7941🍴</code></b> [Obsidian plugins & themes](https://github.com/obsidianmd/obsidian-releases) ⭐ 23,196 | 🐛 4 | 📅 2026-11-09) - Community plugins list, theme list, and releases of Obsidian.
 
   **Languages:** <img src='./icons/javascript-64.png' alt='JavaScript icon' title='JavaScript' height='16'/> JavaScript
 
   **Website:** 🌎 [https://obsidian.md/](obsidian.md/)
 
-* <b><code> 13891⭐</code></b> <b><code>   872🍴</code></b> [Zettlr](https://github.com/Zettlr/Zettlr) ⭐ 13,892 | 🐛 530 | 🌐 TypeScript | 📅 2026-11-08) - A Markdown Editor for the 21st century.
+* <b><code> 13891⭐</code></b> <b><code>   872🍴</code></b> [Zettlr](https://github.com/Zettlr/Zettlr) ⭐ 13,899 | 🐛 529 | 🌐 TypeScript | 📅 2026-11-08) - A Markdown Editor for the 21st century.
 
   **Languages:** <img src='./icons/javascript-64.png' alt='JavaScript icon' title='JavaScript' height='16'/> JavaScript <img src='./icons/typescript-64.png' alt='TypeScript icon' title='TypeScript' height='16'/> TypeScript
 
@@ -4443,7 +4443,7 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-* <b><code> 12990⭐</code></b> <b><code>   984🍴</code></b> [NoteGen](https://github.com/codexu/note-gen) ⭐ 12,990 | 🐛 84 | 🌐 TypeScript | 📅 2026-11-04) - Local-first Markdown note-taking app that captures scattered information and organizes it into structured notes with AI.
+* <b><code> 12990⭐</code></b> <b><code>   984🍴</code></b> [NoteGen](https://github.com/codexu/note-gen) ⭐ 12,995 | 🐛 84 | 🌐 TypeScript | 📅 2026-11-04) - Local-first Markdown note-taking app that captures scattered information and organizes it into structured notes with AI.
 
   **Languages:** <img src='./icons/typescript-64.png' alt='TypeScript icon' title='TypeScript' height='16'/> TypeScript <img src='./icons/rust-64.png' alt='Rust icon' title='Rust' height='16'/> Rust
 
@@ -4453,7 +4453,7 @@ You can see in which language an app is written. Currently there are following l
 
   **Languages:** <img src='./icons/objective-c-64.png' alt='Objective-C icon' title='Objective-C' height='16'/> Objective-C
 
-* <b><code>  5948⭐</code></b> <b><code>   260🍴</code></b> [MarkEdit](https://github.com/MarkEdit-app/MarkEdit) ⭐ 5,952 | 🐛 0 | 🌐 Swift | 📅 2026-11-04) - MarkEdit is a free and open-source Markdown editor, for macOS. It's just like TextEdit on Mac but dedicated to Markdown.
+* <b><code>  5948⭐</code></b> <b><code>   260🍴</code></b> [MarkEdit](https://github.com/MarkEdit-app/MarkEdit) ⭐ 5,958 | 🐛 0 | 🌐 Swift | 📅 2026-11-04) - MarkEdit is a free and open-source Markdown editor, for macOS. It's just like TextEdit on Mac but dedicated to Markdown.
 
   **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift <img src='./icons/typescript-64.png' alt='TypeScript icon' title='TypeScript' height='16'/> TypeScript
 
@@ -4472,7 +4472,7 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-* <b><code>  5946⭐</code></b> <b><code>   499🍴</code></b> [QOwnNotes](https://github.com/pbek/QOwnNotes) ⭐ 5,948 | 🐛 68 | 🌐 C++ | 📅 2026-11-07) - Plain-text file notepad and todo-list manager with markdown support and ownCloud / Nextcloud integration.
+* <b><code>  5946⭐</code></b> <b><code>   499🍴</code></b> [QOwnNotes](https://github.com/pbek/QOwnNotes) ⭐ 5,952 | 🐛 69 | 🌐 C++ | 📅 2026-11-07) - Plain-text file notepad and todo-list manager with markdown support and ownCloud / Nextcloud integration.
 
   **Languages:** <img src='./icons/cpp-64.png' alt='C++ icon' title='C++' height='16'/> C++
 
@@ -4534,7 +4534,7 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-* <b><code>   295⭐</code></b> <b><code>    37🍴</code></b> [md-preview](https://github.com/vorojar/md-preview) ⭐ 295 | 🐛 13 | 🌐 Rust | 📅 2026-09-19) - Ultra-lightweight Markdown preview app (\~1MB binary) built with Rust, with offline syntax highlighting, dark mode, and cross-platform support.
+* <b><code>   295⭐</code></b> <b><code>    37🍴</code></b> [md-preview](https://github.com/vorojar/md-preview) ⭐ 294 | 🐛 13 | 🌐 Rust | 📅 2026-09-19) - Ultra-lightweight Markdown preview app (\~1MB binary) built with Rust, with offline syntax highlighting, dark mode, and cross-platform support.
 
   **Languages:** <img src='./icons/rust-64.png' alt='Rust icon' title='Rust' height='16'/> Rust
 
@@ -4546,7 +4546,7 @@ You can see in which language an app is written. Currently there are following l
 
   **Website:** 🌎 [https://edmund.md](edmund.md)
 
-* <b><code>   116⭐</code></b> <b><code>    10🍴</code></b> [Imark](https://github.com/migsilva89/imark) ⭐ 116 | 🐛 3 | 🌐 Swift | 📅 2026-11-03) - Markdown reader that keeps your comments inside the .md file, with a Quick Look extension, live reload, and a skill that lets coding agents open a document for review and wait for your notes.
+* <b><code>   116⭐</code></b> <b><code>    10🍴</code></b> [Imark](https://github.com/migsilva89/imark) ⭐ 116 | 🐛 3 | 🌐 Swift | 📅 2026-11-09) - Markdown reader that keeps your comments inside the .md file, with a Quick Look extension, live reload, and a skill that lets coding agents open a document for review and wait for your notes.
 
   **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
 
@@ -4612,9 +4612,15 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-* <b><code>    23⭐</code></b> <b><code>     2🍴</code></b> [Markup](https://github.com/oratis/Markup) ⭐ 24 | 🐛 11 | 🌐 TypeScript | 📅 2026-11-08) - Reader-first, native macOS Markdown editor: renders notes like a web page and edits on demand, with a vault, backlinks, graph view and full-text search.
+* <b><code>    23⭐</code></b> <b><code>     2🍴</code></b> [Markup](https://github.com/oratis/Markup) ⭐ 24 | 🐛 11 | 🌐 TypeScript | 📅 2026-11-09) - Reader-first, native macOS Markdown editor: renders notes like a web page and edits on demand, with a vault, backlinks, graph view and full-text search.
 
   **Languages:** <img src='./icons/rust-64.png' alt='Rust icon' title='Rust' height='16'/> Rust <img src='./icons/typescript-64.png' alt='TypeScript icon' title='TypeScript' height='16'/> TypeScript
+
+* <b><code>    12⭐</code></b> <b><code>     1🍴</code></b> [markdown-quicklook](https://github.com/ruspg/markdown-quicklook) ⭐ 13 | 🐛 0 | 🌐 Shell | 📅 2026-09-23) - Rendered Markdown Quick Look preview with syntax highlighting, YAML front matter, configurable fonts/colors, and a menu bar toggle.
+
+  **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
+
+  **Website:** <b><code>    12⭐</code></b> <b><code>     1🍴</code></b> <https://github.com/ruspg/markdown-quicklook> ⭐ 13 | 🐛 0 | 🌐 Shell | 📅 2026-09-23)
 
 * <b><code>    13⭐</code></b> <b><code>     0🍴</code></b> [Markout](https://github.com/maxmilian/markout) ⭐ 13 | 🐛 0 | 🌐 Swift | 📅 2026-09-11) - Native Markdown editor with live preview, offline KaTeX math, Mermaid diagrams, and HTML/PDF export.
 
@@ -4630,12 +4636,6 @@ You can see in which language an app is written. Currently there are following l
 
   </p>
   </details>
-
-* <b><code>    12⭐</code></b> <b><code>     1🍴</code></b> [markdown-quicklook](https://github.com/ruspg/markdown-quicklook) ⭐ 12 | 🐛 0 | 🌐 Shell | 📅 2026-09-23) - Rendered Markdown Quick Look preview with syntax highlighting, YAML front matter, configurable fonts/colors, and a menu bar toggle.
-
-  **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
-
-  **Website:** <b><code>    12⭐</code></b> <b><code>     1🍴</code></b> <https://github.com/ruspg/markdown-quicklook> ⭐ 12 | 🐛 0 | 🌐 Shell | 📅 2026-09-23)
 
 * <b><code>    11⭐</code></b> <b><code>     1🍴</code></b> [JustMD](https://github.com/yuraist/just-md) ⭐ 11 | 🐛 0 | 🌐 Swift | 📅 2026-09-12) - Native Markdown editor with hidden syntax, a rendered reading mode, and PDF export.
 
@@ -4745,7 +4745,7 @@ You can see in which language an app is written. Currently there are following l
 
 #### ✏️ Text (19)
 
-* <b><code> 29851⭐</code></b> <b><code>  1399🍴</code></b> [micro](https://github.com/zyedidia/micro) ⭐ 29,855 | 🐛 921 | 🌐 Go | 📅 2026-11-08) - A terminal-based text editor that aims to be easy to use and intuitive, while also taking advantage of the capabilities of modern terminals.
+* <b><code> 29851⭐</code></b> <b><code>  1399🍴</code></b> [micro](https://github.com/zyedidia/micro) ⭐ 29,860 | 🐛 921 | 🌐 Go | 📅 2026-11-09) - A terminal-based text editor that aims to be easy to use and intuitive, while also taking advantage of the capabilities of modern terminals.
 
   **Languages:** <img src='./icons/golang-64.png' alt='Go icon' title='Go' height='16'/> Go
 
@@ -4766,7 +4766,7 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-* <b><code> 14899⭐</code></b> <b><code>  1049🍴</code></b> [Notesnook](https://github.com/streetwriters/notesnook) ⭐ 14,898 | 🐛 1,146 | 🌐 TypeScript | 📅 2026-11-06) - A fully open source and end-to-end encrypted note taking alternative to Evernote.
+* <b><code> 14899⭐</code></b> <b><code>  1049🍴</code></b> [Notesnook](https://github.com/streetwriters/notesnook) ⭐ 14,907 | 🐛 1,146 | 🌐 TypeScript | 📅 2026-11-09) - A fully open source and end-to-end encrypted note taking alternative to Evernote.
 
   **Languages:** <img src='./icons/javascript-64.png' alt='JavaScript icon' title='JavaScript' height='16'/> JavaScript <img src='./icons/typescript-64.png' alt='TypeScript icon' title='TypeScript' height='16'/> TypeScript
 
@@ -4781,7 +4781,7 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-* <b><code> 14578⭐</code></b> <b><code>  1761🍴</code></b> [TextMate](https://github.com/textmate/textmate) ⭐ 14,578 | 🐛 23 | 🌐 Objective-C++ | 📅 2024-05-18) - TextMate is a graphical text editor for macOS.
+* <b><code> 14578⭐</code></b> <b><code>  1761🍴</code></b> [TextMate](https://github.com/textmate/textmate) ⭐ 14,579 | 🐛 23 | 🌐 Objective-C++ | 📅 2024-05-18) - TextMate is a graphical text editor for macOS.
 
   **Languages:** <img src='./icons/objective-c-64.png' alt='Objective-C icon' title='Objective-C' height='16'/> Objective-C
 
@@ -4794,7 +4794,7 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-* <b><code>  8672⭐</code></b> <b><code>   546🍴</code></b> [CotEditor](https://github.com/coteditor/CotEditor) ⭐ 8,676 | 🐛 11 | 🌐 Swift | 📅 2026-11-08) - Lightweight Plain-Text Editor for macOS.
+* <b><code>  8672⭐</code></b> <b><code>   546🍴</code></b> [CotEditor](https://github.com/coteditor/CotEditor) ⭐ 8,678 | 🐛 11 | 🌐 Swift | 📅 2026-11-09) - Lightweight Plain-Text Editor for macOS.
 
   **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
 
@@ -4811,11 +4811,11 @@ You can see in which language an app is written. Currently there are following l
 
   **Languages:** <img src='./icons/c-64.png' alt='C icon' title='C' height='16'/> C
 
-* <b><code>  7014⭐</code></b> <b><code>   234🍴</code></b> [VimR](https://github.com/qvacua/vimr) ⭐ 7,014 | 🐛 313 | 🌐 Swift | 📅 2026-10-10) - Refined Neovim experience for macOS.
+* <b><code>  7014⭐</code></b> <b><code>   234🍴</code></b> [VimR](https://github.com/qvacua/vimr) ⭐ 7,015 | 🐛 313 | 🌐 Swift | 📅 2026-10-10) - Refined Neovim experience for macOS.
 
   **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
 
-* <b><code>  3753⭐</code></b> <b><code>   668🍴</code></b> [Geany](https://github.com/geany/geany) ⭐ 3,753 | 🐛 1,288 | 🌐 C | 📅 2026-11-01) - Geany is a powerful, stable and lightweight programmer's text editor that provides tons of useful features without bogging down your workflow.
+* <b><code>  3753⭐</code></b> <b><code>   668🍴</code></b> [Geany](https://github.com/geany/geany) ⭐ 3,754 | 🐛 1,289 | 🌐 C | 📅 2026-11-01) - Geany is a powerful, stable and lightweight programmer's text editor that provides tons of useful features without bogging down your workflow.
 
   **Languages:** <img src='./icons/c-64.png' alt='C icon' title='C' height='16'/> C <code>c++</code>
 
@@ -4830,7 +4830,7 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-* <b><code>  1433⭐</code></b> <b><code>   111🍴</code></b> [Notepad++ for Mac](https://github.com/nextpad-plus-plus/nextpad-plus-plus-macos) ⭐ 1,433 | 🐛 40 | 🌐 C++ | 📅 2026-11-03) - Native macOS port of the Notepad++ code editor — no Wine, no emulation; runs natively on Apple Silicon and Intel Macs.
+* <b><code>  1433⭐</code></b> <b><code>   111🍴</code></b> [Notepad++ for Mac](https://github.com/nextpad-plus-plus/nextpad-plus-plus-macos) ⭐ 1,433 | 🐛 41 | 🌐 C++ | 📅 2026-11-03) - Native macOS port of the Notepad++ code editor — no Wine, no emulation; runs natively on Apple Silicon and Intel Macs.
 
   **Languages:** <img src='./icons/cpp-64.png' alt='C++ icon' title='C++' height='16'/> C++ <img src='./icons/objective-c-64.png' alt='Objective-C icon' title='Objective-C' height='16'/> Objective-C
 
@@ -5000,7 +5000,7 @@ You can see in which language an app is written. Currently there are following l
 
 ### 🧩 Extensions (14)
 
-* <b><code>  2952⭐</code></b> <b><code>   129🍴</code></b> [Middleclick](https://github.com/artginzburg/MiddleClick-Ventura) ⭐ 2,952 | 🐛 33 | 🌐 Swift | 📅 2026-09-02) - Emulate a scroll wheel click with three finger Click or Tap on MacBook trackpad and Magic Mouse
+* <b><code>  2952⭐</code></b> <b><code>   129🍴</code></b> [Middleclick](https://github.com/artginzburg/MiddleClick-Ventura) ⭐ 2,953 | 🐛 33 | 🌐 Swift | 📅 2026-09-02) - Emulate a scroll wheel click with three finger Click or Tap on MacBook trackpad and Magic Mouse
 
   **Languages:** <img src='./icons/c-64.png' alt='C icon' title='C' height='16'/> C
 
@@ -5028,7 +5028,7 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-* <b><code>  1189⭐</code></b> <b><code>    83🍴</code></b> [AdGuard for Safari](https://github.com/adguardteam/adguardforsafari) ⭐ 1,190 | 🐛 80 | 🌐 Swift | 📅 2026-11-05) - The most advanced ad blocking extension for Safari
+* <b><code>  1189⭐</code></b> <b><code>    83🍴</code></b> [AdGuard for Safari](https://github.com/adguardteam/adguardforsafari) ⭐ 1,190 | 🐛 78 | 🌐 Swift | 📅 2026-11-05) - The most advanced ad blocking extension for Safari
 
   **Languages:** <img src='./icons/javascript-64.png' alt='JavaScript icon' title='JavaScript' height='16'/> JavaScript
 
@@ -5182,7 +5182,7 @@ You can see in which language an app is written. Currently there are following l
 
 ### 🔍 Finder (18)
 
-* <b><code> 40500⭐</code></b> <b><code>   942🍴</code></b> [zoxide](https://github.com/ajeetdsouza/zoxide) ⭐ 40,510 | 🐛 156 | 🌐 Rust | 📅 2026-11-08) - zoxide is a smarter cd command for your terminal.
+* <b><code> 40500⭐</code></b> <b><code>   942🍴</code></b> [zoxide](https://github.com/ajeetdsouza/zoxide) ⭐ 40,532 | 🐛 156 | 🌐 Rust | 📅 2026-11-08) - zoxide is a smarter cd command for your terminal.
 
   **Languages:** <img src='./icons/rust-64.png' alt='Rust icon' title='Rust' height='16'/> Rust
 
@@ -5214,11 +5214,11 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-* <b><code> 12609⭐</code></b> <b><code>   628🍴</code></b> [CopyQ](https://github.com/hluk/CopyQ) ⭐ 12,614 | 🐛 397 | 🌐 C++ | 📅 2026-11-02) - Clipboard manager with advanced features
+* <b><code> 12609⭐</code></b> <b><code>   628🍴</code></b> [CopyQ](https://github.com/hluk/CopyQ) ⭐ 12,621 | 🐛 415 | 🌐 C++ | 📅 2026-11-02) - Clipboard manager with advanced features
 
   **Languages:** <img src='./icons/cpp-64.png' alt='C++ icon' title='C++' height='16'/> C++
 
-* <b><code>  8963⭐</code></b> <b><code>   844🍴</code></b> [Clipy](https://github.com/Clipy/Clipy) ⭐ 8,964 | 🐛 144 | 🌐 Swift | 📅 2026-11-08) - Clipy is a Clipboard extension app for macOS.
+* <b><code>  8963⭐</code></b> <b><code>   844🍴</code></b> [Clipy](https://github.com/Clipy/Clipy) ⭐ 8,965 | 🐛 133 | 🌐 Swift | 📅 2026-11-09) - Clipy is a Clipboard extension app for macOS.
 
   **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
 
@@ -5233,13 +5233,13 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-* <b><code>     ?⭐</code></b> <b><code>     ?🍴</code></b> [dupeGuru](https://github.com/arsenetar/dupeguru/) ⭐ 7,952 | 🐛 568 | 🌐 Python | 📅 2026-09-07) - dupeGuru is a tool to find duplicate files on your computer. It can scan using file names and file contents.
+* <b><code>     ?⭐</code></b> <b><code>     ?🍴</code></b> [dupeGuru](https://github.com/arsenetar/dupeguru/) ⭐ 7,954 | 🐛 568 | 🌐 Python | 📅 2026-09-07) - dupeGuru is a tool to find duplicate files on your computer. It can scan using file names and file contents.
 
   **Languages:** <img src='./icons/objective-c-64.png' alt='Objective-C icon' title='Objective-C' height='16'/> Objective-C
 
   **Website:** 🌎 [https://dupeguru.voltaicideas.net/](dupeguru.voltaicideas.net/)
 
-* <b><code>  7048⭐</code></b> <b><code>   316🍴</code></b> [OpenInTerminal](https://github.com/Ji4n1ng/OpenInTerminal) ⭐ 7,048 | 🐛 40 | 🌐 Swift | 📅 2026-10-25) - Finder Toolbar app for macOS to open the current directory in Terminal, iTerm, Hyper or Alacritty.
+* <b><code>  7048⭐</code></b> <b><code>   316🍴</code></b> [OpenInTerminal](https://github.com/Ji4n1ng/OpenInTerminal) ⭐ 7,049 | 🐛 40 | 🌐 Swift | 📅 2026-10-25) - Finder Toolbar app for macOS to open the current directory in Terminal, iTerm, Hyper or Alacritty.
 
   **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
 
@@ -5296,7 +5296,7 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-* <b><code>   237⭐</code></b> <b><code>    18🍴</code></b> [Strata Files](https://github.com/cristipufu/strata-files) ⭐ 238 | 🐛 12 | 🌐 Swift | 📅 2026-11-08) - Fast, keyboard-first file manager and Finder alternative with instant search, live folder sizes, a disk usage map and dual pane.
+* <b><code>   237⭐</code></b> <b><code>    18🍴</code></b> [Strata Files](https://github.com/cristipufu/strata-files) ⭐ 275 | 🐛 16 | 🌐 Swift | 📅 2026-11-09) - Fast, keyboard-first file manager and Finder alternative with instant search, live folder sizes, a disk usage map and dual pane.
 
   **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
 
@@ -5315,7 +5315,7 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-* <b><code>   166⭐</code></b> <b><code>     9🍴</code></b> [Shuffle](https://github.com/WizenPainter/shuffle) ⭐ 168 | 🐛 3 | 🌐 Rust | 📅 2026-10-24) - Fast, GPU-rendered file manager and Finder alternative built in Rust with GPUI, featuring dual panes, tabs, a fuzzy command palette, terminal mode, and theming.
+* <b><code>   166⭐</code></b> <b><code>     9🍴</code></b> [Shuffle](https://github.com/WizenPainter/shuffle) ⭐ 170 | 🐛 3 | 🌐 Rust | 📅 2026-10-24) - Fast, GPU-rendered file manager and Finder alternative built in Rust with GPUI, featuring dual panes, tabs, a fuzzy command palette, terminal mode, and theming.
 
   **Languages:** <img src='./icons/rust-64.png' alt='Rust icon' title='Rust' height='16'/> Rust
 
@@ -5334,7 +5334,7 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-* <b><code>   112⭐</code></b> <b><code>     1🍴</code></b> [FolderForge](https://github.com/KeplSiv/FolderForge) ⭐ 113 | 🐛 3 | 🌐 Swift | 📅 2026-11-04) - Customize macOS folders with colors, artwork, icons, reusable presets, and rule-based workspace styling.
+* <b><code>   112⭐</code></b> <b><code>     1🍴</code></b> [FolderForge](https://github.com/KeplSiv/FolderForge) ⭐ 114 | 🐛 3 | 🌐 Swift | 📅 2026-11-04) - Customize macOS folders with colors, artwork, icons, reusable presets, and rule-based workspace styling.
 
   **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
 
@@ -5383,7 +5383,7 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-* <b><code>    29⭐</code></b> <b><code>     2🍴</code></b> [Preview3MF](https://github.com/cavoco/Preview3MF) ⭐ 29 | 🐛 0 | 🌐 Swift | 📅 2026-10-12) - Quick Look extension that shows a 3D preview and Finder thumbnails for .3mf 3D-printing files.
+* <b><code>    29⭐</code></b> <b><code>     2🍴</code></b> [Preview3MF](https://github.com/cavoco/Preview3MF) ⭐ 30 | 🐛 0 | 🌐 Swift | 📅 2026-10-12) - Quick Look extension that shows a 3D preview and Finder thumbnails for .3mf 3D-printing files.
 
   **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
 
@@ -5413,7 +5413,7 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-* <b><code> 16551⭐</code></b> <b><code>  1962🍴</code></b> [OpenRCT2](https://github.com/OpenRCT2/OpenRCT2) ⭐ 16,550 | 🐛 1,483 | 🌐 C++ | 📅 2026-11-07) - Re-implementation of RollerCoaster Tycoon 2.
+* <b><code> 16551⭐</code></b> <b><code>  1962🍴</code></b> [OpenRCT2](https://github.com/OpenRCT2/OpenRCT2) ⭐ 16,554 | 🐛 1,486 | 🌐 C++ | 📅 2026-11-07) - Re-implementation of RollerCoaster Tycoon 2.
 
   **Languages:** <img src='./icons/cpp-64.png' alt='C++ icon' title='C++' height='16'/> C++
 
@@ -5426,15 +5426,15 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-* <b><code> 15774⭐</code></b> <b><code>  3383🍴</code></b> [Dolphin](https://github.com/dolphin-emu/dolphin) ⭐ 15,780 | 🐛 483 | 🌐 C++ | 📅 2026-11-08) - Powerful emulator for Nintendo GameCube and Wii games.
+* <b><code> 15774⭐</code></b> <b><code>  3383🍴</code></b> [Dolphin](https://github.com/dolphin-emu/dolphin) ⭐ 15,783 | 🐛 486 | 🌐 C++ | 📅 2026-11-08) - Powerful emulator for Nintendo GameCube and Wii games.
 
   **Languages:** <img src='./icons/cpp-64.png' alt='C++ icon' title='C++' height='16'/> C++
 
-* <b><code>  6981⭐</code></b> <b><code>  1281🍴</code></b> [Battle for Wesnoth](https://github.com/wesnoth/wesnoth) ⭐ 6,985 | 🐛 1,478 | 🌐 C++ | 📅 2026-11-08) - Turn-based tactical strategy game, featuring both single-player and online multiplayer combat.
+* <b><code>  6981⭐</code></b> <b><code>  1281🍴</code></b> [Battle for Wesnoth](https://github.com/wesnoth/wesnoth) ⭐ 6,989 | 🐛 1,473 | 🌐 C++ | 📅 2026-11-09) - Turn-based tactical strategy game, featuring both single-player and online multiplayer combat.
 
   **Languages:** <img src='./icons/cpp-64.png' alt='C++ icon' title='C++' height='16'/> C++
 
-* <b><code>  3121⭐</code></b> <b><code>   224🍴</code></b> [Widelands](https://github.com/widelands/widelands) ⭐ 3,121 | 🐛 567 | 🌐 C++ | 📅 2026-11-05) - Widelands is a free, open source real-time strategy game with singleplayer campaigns and a multiplayer mode. The game was inspired by Settlers II™ (© Bluebyte) but has significantly more variety and depth to it.
+* <b><code>  3121⭐</code></b> <b><code>   224🍴</code></b> [Widelands](https://github.com/widelands/widelands) ⭐ 3,122 | 🐛 567 | 🌐 C++ | 📅 2026-11-05) - Widelands is a free, open source real-time strategy game with singleplayer campaigns and a multiplayer mode. The game was inspired by Settlers II™ (© Bluebyte) but has significantly more variety and depth to it.
 
   **Languages:** <code>c++</code> <img src='./icons/python-64.png' alt='Python icon' title='Python' height='16'/> Python <img src='./icons/Lua-64.png' alt='Lua icon' title='Lua' height='16'/> Lua <img src='./icons/javascript-64.png' alt='JavaScript icon' title='JavaScript' height='16'/> JavaScript
 
@@ -5449,7 +5449,7 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-* <b><code>  2795⭐</code></b> <b><code>   424🍴</code></b> [Sabaki](https://github.com/SabakiHQ/Sabaki) ⭐ 2,795 | 🐛 124 | 🌐 JavaScript | 📅 2026-10-31) - An elegant Go/Baduk/Weiqi board and SGF editor for a more civilized age.
+* <b><code>  2795⭐</code></b> <b><code>   424🍴</code></b> [Sabaki](https://github.com/SabakiHQ/Sabaki) ⭐ 2,796 | 🐛 124 | 🌐 JavaScript | 📅 2026-10-31) - An elegant Go/Baduk/Weiqi board and SGF editor for a more civilized age.
 
   **Languages:** <img src='./icons/javascript-64.png' alt='JavaScript icon' title='JavaScript' height='16'/> JavaScript
 
@@ -5468,11 +5468,11 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-* <b><code>  1056⭐</code></b> <b><code>    71🍴</code></b> [Whisky](https://github.com/frankea/Whisky) ⭐ 1,058 | 🐛 32 | 🌐 Swift | 📅 2026-10-01) - Native SwiftUI Wine wrapper for macOS with D3DMetal/DXVK backends and built-in launcher compatibility (Steam, Epic, EA App, Battle.net). Active community fork of the archived whisky-app/whisky.
+* <b><code>  1056⭐</code></b> <b><code>    71🍴</code></b> [Whisky](https://github.com/frankea/Whisky) ⭐ 1,063 | 🐛 32 | 🌐 Swift | 📅 2026-10-01) - Native SwiftUI Wine wrapper for macOS with D3DMetal/DXVK backends and built-in launcher compatibility (Steam, Epic, EA App, Battle.net). Active community fork of the archived whisky-app/whisky.
 
   **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
 
-  **Website:** <b><code>  1056⭐</code></b> <b><code>    71🍴</code></b> <https://github.com/frankea/Whisky> ⭐ 1,058 | 🐛 32 | 🌐 Swift | 📅 2026-10-01)
+  **Website:** <b><code>  1056⭐</code></b> <b><code>    71🍴</code></b> <https://github.com/frankea/Whisky> ⭐ 1,063 | 🐛 32 | 🌐 Swift | 📅 2026-10-01)
 
   <details>
   <summary>Screenshots</summary>
@@ -5508,11 +5508,11 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-* <b><code>    26⭐</code></b> <b><code>     3🍴</code></b> [Soju](https://github.com/BCD1210/soju) ⭐ 26 | 🐛 4 | 🌐 Python | 📅 2026-11-08) - Run Battle.net, Diablo II: Resurrected and Steam games on Apple Silicon Macs with a fully free Wine stack built from GPL sources; one-line installer.
+* <b><code>    26⭐</code></b> <b><code>     3🍴</code></b> [Soju](https://github.com/BCD1210/soju) ⭐ 26 | 🐛 4 | 🌐 Python | 📅 2026-11-09) - Run Battle.net, Diablo II: Resurrected and Steam games on Apple Silicon Macs with a fully free Wine stack built from GPL sources; one-line installer.
 
   **Languages:** <img src='./icons/python-64.png' alt='Python icon' title='Python' height='16'/> Python <img src='./icons/shell-64.png' alt='Shell icon' title='Shell' height='16'/> Shell
 
-  **Website:** <b><code>    26⭐</code></b> <b><code>     3🍴</code></b> <https://github.com/BCD1210/soju> ⭐ 26 | 🐛 4 | 🌐 Python | 📅 2026-11-08)
+  **Website:** <b><code>    26⭐</code></b> <b><code>     3🍴</code></b> <https://github.com/BCD1210/soju> ⭐ 26 | 🐛 4 | 🌐 Python | 📅 2026-11-09)
 
   <details>
   <summary>Screenshots</summary>
@@ -5593,11 +5593,11 @@ You can see in which language an app is written. Currently there are following l
 
 ### 🎨 Graphics (21)
 
-* <b><code> 40767⭐</code></b> <b><code>  9421🍴</code></b> [Aseprite](https://github.com/aseprite/aseprite) ⭐ 40,776 | 🐛 2,060 | 🌐 C++ | 📅 2026-11-04) - Animated sprite editor & pixel art tool (Windows, macOS, Linux).
+* <b><code> 40767⭐</code></b> <b><code>  9421🍴</code></b> [Aseprite](https://github.com/aseprite/aseprite) ⭐ 40,813 | 🐛 2,060 | 🌐 C++ | 📅 2026-11-04) - Animated sprite editor & pixel art tool (Windows, macOS, Linux).
 
   **Languages:** <img src='./icons/cpp-64.png' alt='C++ icon' title='C++' height='16'/> C++ <img src='./icons/c-64.png' alt='C icon' title='C' height='16'/> C
 
-* <b><code> 35235⭐</code></b> <b><code>  6365🍴</code></b> [FreeCAD](https://github.com/FreeCAD/FreeCAD) ⭐ 35,252 | 🐛 4,049 | 🌐 C++ | 📅 2026-11-08) - FreeCAD is an open-source 3D parametric modeler
+* <b><code> 35235⭐</code></b> <b><code>  6365🍴</code></b> [FreeCAD](https://github.com/FreeCAD/FreeCAD) ⭐ 35,306 | 🐛 4,042 | 🌐 C++ | 📅 2026-11-09) - FreeCAD is an open-source 3D parametric modeler
 
   **Languages:** <code>c++</code> <img src='./icons/python-64.png' alt='Python icon' title='Python' height='16'/> Python
 
@@ -5612,7 +5612,7 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-* <b><code>  8596⭐</code></b> <b><code>   326🍴</code></b> [Gifski](https://github.com/sindresorhus/Gifski) ⭐ 8,597 | 🐛 8 | 🌐 Swift | 📅 2026-09-11) - Convert videos to high-quality GIFs.
+* <b><code>  8596⭐</code></b> <b><code>   326🍴</code></b> [Gifski](https://github.com/sindresorhus/Gifski) ⭐ 8,599 | 🐛 8 | 🌐 Swift | 📅 2026-09-11) - Convert videos to high-quality GIFs.
 
   **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
 
@@ -5631,7 +5631,7 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-* <b><code>  6566⭐</code></b> <b><code>  1408🍴</code></b> [LibreCAD](https://github.com/LibreCAD/LibreCAD) ⭐ 6,568 | 🐛 574 | 🌐 C++ | 📅 2026-11-08) - LibreCAD is a free Open Source CAD application for Windows, Apple and Linux. Support and documentation are free from our large, dedicated community of users, contributors and developers.
+* <b><code>  6566⭐</code></b> <b><code>  1408🍴</code></b> [LibreCAD](https://github.com/LibreCAD/LibreCAD) ⭐ 6,574 | 🐛 574 | 🌐 C++ | 📅 2026-11-09) - LibreCAD is a free Open Source CAD application for Windows, Apple and Linux. Support and documentation are free from our large, dedicated community of users, contributors and developers.
 
   **Languages:** <code>c++</code> <img src='./icons/c-64.png' alt='C icon' title='C' height='16'/> C
 
@@ -5646,13 +5646,13 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-* <b><code>  2287⭐</code></b> <b><code>   243🍴</code></b> [Gaphor](https://github.com/gaphor/gaphor) ⭐ 2,286 | 🐛 212 | 🌐 Python | 📅 2026-11-04) - Gaphor is the simple modeling tool for UML and SysML.
+* <b><code>  2287⭐</code></b> <b><code>   243🍴</code></b> [Gaphor](https://github.com/gaphor/gaphor) ⭐ 2,287 | 🐛 212 | 🌐 Python | 📅 2026-11-09) - Gaphor is the simple modeling tool for UML and SysML.
 
   **Languages:** <img src='./icons/python-64.png' alt='Python icon' title='Python' height='16'/> Python
 
   **Website:** 🌎 [https://gaphor.org](gaphor.org)
 
-* <b><code>  1867⭐</code></b> <b><code>   326🍴</code></b> [Pencil2D Animation](https://github.com/pencil2d/pencil) ⭐ 1,868 | 🐛 213 | 🌐 C++ | 📅 2026-11-05) - Pencil2D is an animation/drawing software for macOS, Windows, and Linux. It lets you create traditional hand-drawn animation (cartoon) using both bitmap and vector graphics.
+* <b><code>  1867⭐</code></b> <b><code>   326🍴</code></b> [Pencil2D Animation](https://github.com/pencil2d/pencil) ⭐ 1,875 | 🐛 211 | 🌐 C++ | 📅 2026-11-09) - Pencil2D is an animation/drawing software for macOS, Windows, and Linux. It lets you create traditional hand-drawn animation (cartoon) using both bitmap and vector graphics.
 
   **Languages:** <img src='./icons/cpp-64.png' alt='C++ icon' title='C++' height='16'/> C++
 
@@ -5703,7 +5703,7 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-* <b><code>   827⭐</code></b> <b><code>    79🍴</code></b> [Nugget](https://github.com/cartesiancs/nugget-app) ⭐ 827 | 🐛 9 | 🌐 TypeScript | 📅 2026-11-07) - Video editing software designed for motion effects and versatility.
+* <b><code>   827⭐</code></b> <b><code>    79🍴</code></b> [Nugget](https://github.com/cartesiancs/nugget-app) ⭐ 828 | 🐛 9 | 🌐 TypeScript | 📅 2026-11-09) - Video editing software designed for motion effects and versatility.
 
   **Languages:** <img src='./icons/typescript-64.png' alt='TypeScript icon' title='TypeScript' height='16'/> TypeScript
 
@@ -5770,7 +5770,7 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-* <b><code>    73⭐</code></b> <b><code>     6🍴</code></b> [ItsPaint](https://github.com/joshlin2201/itspaint) ⭐ 73 | 🐛 11 | 🌐 Swift | 📅 2026-11-06) - Focused paint and screenshot markup app. Step badges, pixelate redaction, Instant Alpha. No account, no telemetry.
+* <b><code>    73⭐</code></b> <b><code>     6🍴</code></b> [ItsPaint](https://github.com/joshlin2201/itspaint) ⭐ 73 | 🐛 12 | 🌐 Swift | 📅 2026-11-09) - Focused paint and screenshot markup app. Step badges, pixelate redaction, Instant Alpha. No account, no telemetry.
 
   **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
 
@@ -5800,7 +5800,7 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-* <b><code>    21⭐</code></b> <b><code>     2🍴</code></b> [Siliconed](https://github.com/gwenn-ha-dev/Siliconed) ⭐ 22 | 🐛 0 | 🌐 Swift | 📅 2026-11-08) - Local AI image generation and instruction-based image editing on Apple silicon, with Civitai LoRAs.
+* <b><code>    21⭐</code></b> <b><code>     2🍴</code></b> [Siliconed](https://github.com/gwenn-ha-dev/Siliconed) ⭐ 24 | 🐛 1 | 🌐 Swift | 📅 2026-11-08) - Local AI image generation and instruction-based image editing on Apple silicon, with Civitai LoRAs.
 
   **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
 
@@ -5885,7 +5885,7 @@ You can see in which language an app is written. Currently there are following l
 
 ### 💻 IDE (16)
 
-* <b><code>195143⭐</code></b> <b><code> 44438🍴</code></b> [Visual Studio Code](https://github.com/Microsoft/vscode) ⭐ 195,185 | 🐛 21,782 | 🌐 TypeScript | 📅 2026-11-08) - Code editor developed by Microsoft.
+* <b><code>195143⭐</code></b> <b><code> 44438🍴</code></b> [Visual Studio Code](https://github.com/Microsoft/vscode) ⭐ 195,233 | 🐛 21,911 | 🌐 TypeScript | 📅 2026-11-09) - Code editor developed by Microsoft.
 
   **Languages:** <img src='./icons/typescript-64.png' alt='TypeScript icon' title='TypeScript' height='16'/> TypeScript
 
@@ -5898,13 +5898,13 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-* <b><code> 94312⭐</code></b> <b><code> 11557🍴</code></b> [Zed](https://github.com/zed-industries/zed) ⭐ 94,449 | 🐛 3,066 | 🌐 Rust | 📅 2026-11-08) - Zed is an open source, high-performance, and multiplayer code editor
+* <b><code> 94312⭐</code></b> <b><code> 11557🍴</code></b> [Zed](https://github.com/zed-industries/zed) ⭐ 94,580 | 🐛 3,056 | 🌐 Rust | 📅 2026-11-09) - Zed is an open source, high-performance, and multiplayer code editor
 
   **Languages:** <img src='./icons/rust-64.png' alt='Rust icon' title='Rust' height='16'/> Rust
 
   **Website:** 🌎 [https://zed.dev](zed.dev)
 
-* <b><code> 41193⭐</code></b> <b><code>  6282🍴</code></b> [Vim](https://github.com/vim/vim) ⭐ 41,194 | 🐛 1,774 | 🌐 Vim Script | 📅 2026-11-05) - ubiquitous text editor
+* <b><code> 41193⭐</code></b> <b><code>  6282🍴</code></b> [Vim](https://github.com/vim/vim) ⭐ 41,193 | 🐛 1,778 | 🌐 Vim Script | 📅 2026-11-09) - ubiquitous text editor
 
   **Languages:** <img src='./icons/c-64.png' alt='C icon' title='C' height='16'/> C <code>Vim script</code>
 
@@ -5919,13 +5919,13 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-* <b><code> 34006⭐</code></b> <b><code>  1920🍴</code></b> [VSCodium](https://github.com/VSCodium/vscodium) ⭐ 34,015 | 🐛 150 | 🌐 Shell | 📅 2026-10-31) - VSCodium is a community-driven, freely-licensed binary distribution of Microsoft's VS Code with all telemetry removed.
+* <b><code> 34006⭐</code></b> <b><code>  1920🍴</code></b> [VSCodium](https://github.com/VSCodium/vscodium) ⭐ 34,031 | 🐛 152 | 🌐 Shell | 📅 2026-10-31) - VSCodium is a community-driven, freely-licensed binary distribution of Microsoft's VS Code with all telemetry removed.
 
   **Languages:** <img src='./icons/typescript-64.png' alt='TypeScript icon' title='TypeScript' height='16'/> TypeScript
 
   **Website:** 🌎 [https://vscodium.com/](vscodium.com/)
 
-* <b><code> 23102⭐</code></b> <b><code>  1195🍴</code></b> [CodeEdit](https://github.com/CodeEditApp/CodeEdit) ⭐ 23,103 | 🐛 215 | 🌐 Swift | 📅 2026-10-17) - CodeEdit App for macOS – Elevate your code editing experience. Open source, free forever.
+* <b><code> 23102⭐</code></b> <b><code>  1195🍴</code></b> [CodeEdit](https://github.com/CodeEditApp/CodeEdit) ⭐ 23,104 | 🐛 215 | 🌐 Swift | 📅 2026-10-17) - CodeEdit App for macOS – Elevate your code editing experience. Open source, free forever.
 
   **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
 
@@ -5940,7 +5940,7 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-* <b><code> 20716⭐</code></b> <b><code>  6141🍴</code></b> [IntelliJ IDEA Community Edition](https://github.com/JetBrains/intellij-community) ⭐ 20,718 | 🐛 170 | 🌐 Java | 📅 2026-11-08) - IntelliJ IDEA is an integrated development environment written in Java for developing computer software
+* <b><code> 20716⭐</code></b> <b><code>  6141🍴</code></b> [IntelliJ IDEA Community Edition](https://github.com/JetBrains/intellij-community) ⭐ 20,722 | 🐛 171 | 🌐 Java | 📅 2026-11-09) - IntelliJ IDEA is an integrated development environment written in Java for developing computer software
 
   **Languages:** <img src='./icons/java-64.png' alt='Java icon' title='Java' height='16'/> Java
 
@@ -5959,7 +5959,7 @@ You can see in which language an app is written. Currently there are following l
 
   **Languages:** <img src='./icons/javascript-64.png' alt='JavaScript icon' title='JavaScript' height='16'/> JavaScript <img src='./icons/typescript-64.png' alt='TypeScript icon' title='TypeScript' height='16'/> TypeScript
 
-* <b><code>  3753⭐</code></b> <b><code>   668🍴</code></b> [Geany](https://github.com/geany/geany) ⭐ 3,753 | 🐛 1,288 | 🌐 C | 📅 2026-11-01) - Geany is a powerful, stable and lightweight programmer's text editor that provides tons of useful features without bogging down your workflow.
+* <b><code>  3753⭐</code></b> <b><code>   668🍴</code></b> [Geany](https://github.com/geany/geany) ⭐ 3,754 | 🐛 1,289 | 🌐 C | 📅 2026-11-01) - Geany is a powerful, stable and lightweight programmer's text editor that provides tons of useful features without bogging down your workflow.
 
   **Languages:** <img src='./icons/c-64.png' alt='C icon' title='C' height='16'/> C <code>c++</code>
 
@@ -5974,7 +5974,7 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-* <b><code>  3150⭐</code></b> <b><code>   944🍴</code></b> [Apache Netbeans](https://github.com/apache/netbeans) ⭐ 3,150 | 🐛 1,109 | 🌐 Java | 📅 2026-11-06) - Apache NetBeans is an IDE, Tooling Platform and Application Framework suitable for development in Java, JavaScript, PHP, HTML5, CSS, and more.
+* <b><code>  3150⭐</code></b> <b><code>   944🍴</code></b> [Apache Netbeans](https://github.com/apache/netbeans) ⭐ 3,149 | 🐛 1,109 | 🌐 Java | 📅 2026-11-06) - Apache NetBeans is an IDE, Tooling Platform and Application Framework suitable for development in Java, JavaScript, PHP, HTML5, CSS, and more.
 
   **Languages:** <img src='./icons/java-64.png' alt='Java icon' title='Java' height='16'/> Java
 
@@ -6004,7 +6004,7 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-* <b><code>  2228⭐</code></b> <b><code>   146🍴</code></b> [Cate](https://github.com/0-AI-UG/cate) ⭐ 2,229 | 🐛 4 | 🌐 TypeScript | 📅 2026-11-08) - IDE built on an infinite zoomable canvas. Editor, terminal, browser, and AI agent panels float in a spatial workspace instead of tabs.
+* <b><code>  2228⭐</code></b> <b><code>   146🍴</code></b> [Cate](https://github.com/0-AI-UG/cate) ⭐ 2,231 | 🐛 5 | 🌐 TypeScript | 📅 2026-11-09) - IDE built on an infinite zoomable canvas. Editor, terminal, browser, and AI agent panels float in a spatial workspace instead of tabs.
 
   **Languages:** <img src='./icons/typescript-64.png' alt='TypeScript icon' title='TypeScript' height='16'/> TypeScript
 
@@ -6046,13 +6046,13 @@ You can see in which language an app is written. Currently there are following l
 
   **Website:** 🌎 [https://livecode.org/](livecode.org/)
 
-* <b><code>   172⭐</code></b> <b><code>   181🍴</code></b> [Eclipse](https://github.com/eclipse-platform/eclipse.platform) ⭐ 172 | 🐛 264 | 🌐 Java | 📅 2026-11-08) - Eclipse is an open-source integrated development environment (IDE) used in computer programming, featuring a base workspace and an extensible plug-in system for customizing the environment.
+* <b><code>   172⭐</code></b> <b><code>   181🍴</code></b> [Eclipse](https://github.com/eclipse-platform/eclipse.platform) ⭐ 172 | 🐛 264 | 🌐 Java | 📅 2026-11-09) - Eclipse is an open-source integrated development environment (IDE) used in computer programming, featuring a base workspace and an extensible plug-in system for customizing the environment.
 
   **Languages:** <img src='./icons/java-64.png' alt='Java icon' title='Java' height='16'/> Java
 
   **Website:** 🌎 [https://www.eclipse.org](www.eclipse.org)
 
-* <b><code>    26⭐</code></b> <b><code>     4🍴</code></b> [Volt](https://github.com/LeulAria/VOLT) ⭐ 26 | 🐛 5 | 🌐 TypeScript | 📅 2026-11-08) - Open-source AI code editor built on VS Code (Code - OSS) that runs Claude Code, Codex, OpenCode and Kimi over ACP, with hunk-level keep/undo of agent edits.
+* <b><code>    26⭐</code></b> <b><code>     4🍴</code></b> [Volt](https://github.com/LeulAria/VOLT) ⭐ 27 | 🐛 4 | 🌐 TypeScript | 📅 2026-11-09) - Open-source AI code editor built on VS Code (Code - OSS) that runs Claude Code, Codex, OpenCode and Kimi over ACP, with hunk-level keep/undo of agent edits.
 
   **Languages:** <img src='./icons/typescript-64.png' alt='TypeScript icon' title='TypeScript' height='16'/> TypeScript
 
@@ -6069,7 +6069,7 @@ You can see in which language an app is written. Currently there are following l
 
 ### 🖼️ Images (23)
 
-* <b><code> 31449⭐</code></b> <b><code>  2094🍴</code></b> [Flameshot](https://github.com/flameshot-org/flameshot) ⭐ 31,455 | 🐛 740 | 🌐 C++ | 📅 2026-11-06) - Powerful yet simple to use screenshot software.
+* <b><code> 31449⭐</code></b> <b><code>  2094🍴</code></b> [Flameshot](https://github.com/flameshot-org/flameshot) ⭐ 31,475 | 🐛 743 | 🌐 C++ | 📅 2026-11-06) - Powerful yet simple to use screenshot software.
 
   **Languages:** <img src='./icons/cpp-64.png' alt='C++ icon' title='C++' height='16'/> C++
 
@@ -6084,7 +6084,7 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-* <b><code>  6569⭐</code></b> <b><code>   922🍴</code></b> [Gimp](https://github.com/GNOME/gimp) ⭐ 6,572 | 🐛 0 | 🌐 C | 📅 2026-11-08) - Gimp is GNU Image Manipulation Program.
+* <b><code>  6569⭐</code></b> <b><code>   922🍴</code></b> [Gimp](https://github.com/GNOME/gimp) ⭐ 6,573 | 🐛 0 | 🌐 C | 📅 2026-11-09) - Gimp is GNU Image Manipulation Program.
 
   **Languages:** <img src='./icons/c-64.png' alt='C icon' title='C' height='16'/> C
 
@@ -6096,7 +6096,7 @@ You can see in which language an app is written. Currently there are following l
 
   **Languages:** <img src='./icons/python-64.png' alt='Python icon' title='Python' height='16'/> Python
 
-* <b><code>  2872⭐</code></b> <b><code>   170🍴</code></b> [ExifCleaner](https://github.com/szTheory/exifcleaner) ⭐ 2,872 | 🐛 32 | 🌐 TypeScript | 📅 2026-11-02) - Remove image metadata with drag and drop, multi-core batch processing, and dark mode.
+* <b><code>  2872⭐</code></b> <b><code>   170🍴</code></b> [ExifCleaner](https://github.com/szTheory/exifcleaner) ⭐ 2,876 | 🐛 36 | 🌐 TypeScript | 📅 2026-11-09) - Remove image metadata with drag and drop, multi-core batch processing, and dark mode.
 
   **Languages:** <img src='./icons/javascript-64.png' alt='JavaScript icon' title='JavaScript' height='16'/> JavaScript
 
@@ -6115,7 +6115,7 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-* <b><code>     ?⭐</code></b> <b><code>     ?🍴</code></b> [InVesalius](https://github.com/invesalius/invesalius3/) ⭐ 815 | 🐛 295 | 🌐 Python | 📅 2026-11-08) - 3D medical imaging reconstruction software
+* <b><code>     ?⭐</code></b> <b><code>     ?🍴</code></b> [InVesalius](https://github.com/invesalius/invesalius3/) ⭐ 815 | 🐛 295 | 🌐 Python | 📅 2026-11-09) - 3D medical imaging reconstruction software
 
   **Languages:** <img src='./icons/python-64.png' alt='Python icon' title='Python' height='16'/> Python
 
@@ -6200,7 +6200,7 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-* <b><code>   130⭐</code></b> <b><code>     8🍴</code></b> [Shotnix](https://github.com/OMARVII/Shotnix) ⭐ 130 | 🐛 7 | 🌐 Swift | 📅 2026-11-07) - Screenshot and screen recording app for the menu bar with annotation, pinned screenshots, scrolling capture, OCR, and a video editor.
+* <b><code>   130⭐</code></b> <b><code>     8🍴</code></b> [Shotnix](https://github.com/OMARVII/Shotnix) ⭐ 133 | 🐛 7 | 🌐 Swift | 📅 2026-11-07) - Screenshot and screen recording app for the menu bar with annotation, pinned screenshots, scrolling capture, OCR, and a video editor.
 
   **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
 
@@ -6258,22 +6258,7 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-* <b><code>    23⭐</code></b> <b><code>     1🍴</code></b> [TetherShot](https://github.com/apoorvdarshan/TetherShot) ⭐ 23 | 🐛 3 | 🌐 Swift | 📅 2026-11-04) - Capture pixel-perfect iPhone screenshots from the macOS menu bar over USB or Wi-Fi.
-
-  **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
-
-  **Website:** 🌎 [https://tethershot.apoorvdarshan.com](tethershot.apoorvdarshan.com)
-
-  <details>
-  <summary>Screenshots</summary>
-  <p>
-
-  <img src='https://tethershot.apoorvdarshan.com/assets/og-v106.jpg' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
-
-  </p>
-  </details>
-
-* <b><code>    21⭐</code></b> <b><code>     2🍴</code></b> [Siliconed](https://github.com/gwenn-ha-dev/Siliconed) ⭐ 22 | 🐛 0 | 🌐 Swift | 📅 2026-11-08) - Local AI image generation and instruction-based image editing on Apple silicon, with Civitai LoRAs.
+* <b><code>    21⭐</code></b> <b><code>     2🍴</code></b> [Siliconed](https://github.com/gwenn-ha-dev/Siliconed) ⭐ 24 | 🐛 1 | 🌐 Swift | 📅 2026-11-08) - Local AI image generation and instruction-based image editing on Apple silicon, with Civitai LoRAs.
 
   **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
 
@@ -6286,6 +6271,21 @@ You can see in which language an app is written. Currently there are following l
   <img src='https://raw.githubusercontent.com/gwenn-ha-dev/Siliconed/main/docs/images/window.jpg' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
 
   <img src='https://raw.githubusercontent.com/gwenn-ha-dev/Siliconed/main/docs/images/edit.jpg' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
+
+  </p>
+  </details>
+
+* <b><code>    23⭐</code></b> <b><code>     1🍴</code></b> [TetherShot](https://github.com/apoorvdarshan/TetherShot) ⭐ 23 | 🐛 3 | 🌐 Swift | 📅 2026-11-04) - Capture pixel-perfect iPhone screenshots from the macOS menu bar over USB or Wi-Fi.
+
+  **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
+
+  **Website:** 🌎 [https://tethershot.apoorvdarshan.com](tethershot.apoorvdarshan.com)
+
+  <details>
+  <summary>Screenshots</summary>
+  <p>
+
+  <img src='https://tethershot.apoorvdarshan.com/assets/og-v106.jpg' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
 
   </p>
   </details>
@@ -6358,11 +6358,11 @@ You can see in which language an app is written. Currently there are following l
 
 ### ⌨️ Keyboard (19)
 
-* <b><code> 23069⭐</code></b> <b><code>   957🍴</code></b> [Karabiner-Elements](https://github.com/pqrs-org/Karabiner-Elements) ⭐ 23,072 | 🐛 29 | 🌐 C++ | 📅 2026-11-08) - Karabiner-Elements is a powerful utility for keyboard customization on macOS Sierra (10.12) or later.
+* <b><code> 23069⭐</code></b> <b><code>   957🍴</code></b> [Karabiner-Elements](https://github.com/pqrs-org/Karabiner-Elements) ⭐ 23,079 | 🐛 26 | 🌐 C++ | 📅 2026-11-09) - Karabiner-Elements is a powerful utility for keyboard customization on macOS Sierra (10.12) or later.
 
   **Languages:** <img src='./icons/cpp-64.png' alt='C++ icon' title='C++' height='16'/> C++ <img src='./icons/objective-c-64.png' alt='Objective-C icon' title='Objective-C' height='16'/> Objective-C
 
-* <b><code> 15197⭐</code></b> <b><code>   583🍴</code></b> [Keycastr](https://github.com/keycastr/keycastr) ⭐ 15,200 | 🐛 94 | 🌐 Objective-C | 📅 2026-09-07) - Keystroke visualizer.
+* <b><code> 15197⭐</code></b> <b><code>   583🍴</code></b> [Keycastr](https://github.com/keycastr/keycastr) ⭐ 15,201 | 🐛 94 | 🌐 Objective-C | 📅 2026-09-07) - Keystroke visualizer.
 
   **Languages:** <code>Objective-C</code>
 
@@ -6379,7 +6379,7 @@ You can see in which language an app is written. Currently there are following l
 
   **Languages:** <img src='./icons/cpp-64.png' alt='C++ icon' title='C++' height='16'/> C++ <img src='./icons/objective-c-64.png' alt='Objective-C icon' title='Objective-C' height='16'/> Objective-C
 
-* <b><code>     ?⭐</code></b> <b><code>     ?🍴</code></b> [Input Source Pro](https://github.com/runjuu/InputSourcePro/) ⭐ 3,692 | 🐛 68 | 🌐 Swift | 📅 2026-11-07) - Input Source Pro is macOS utility designed for multilingual users who frequently switch input sources.
+* <b><code>     ?⭐</code></b> <b><code>     ?🍴</code></b> [Input Source Pro](https://github.com/runjuu/InputSourcePro/) ⭐ 3,694 | 🐛 69 | 🌐 Swift | 📅 2026-11-07) - Input Source Pro is macOS utility designed for multilingual users who frequently switch input sources.
 
   **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
 
@@ -6406,7 +6406,7 @@ You can see in which language an app is written. Currently there are following l
 
   **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
 
-* <b><code>  1542⭐</code></b> <b><code>   114🍴</code></b> [Kawa](https://github.com/hatashiro/kawa) ⭐ 1,542 | 🐛 7 | 🌐 Swift | 📅 2022-08-20) - Better input source switcher for macOS.
+* <b><code>  1542⭐</code></b> <b><code>   114🍴</code></b> [Kawa](https://github.com/hatashiro/kawa) ⭐ 1,541 | 🐛 7 | 🌐 Swift | 📅 2022-08-20) - Better input source switcher for macOS.
 
   **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
 
@@ -6425,7 +6425,7 @@ You can see in which language an app is written. Currently there are following l
 
   **Languages:** <img src='./icons/clojure-64.png' alt='Clojure icon' title='Clojure' height='16'/> Clojure
 
-* <b><code>  1331⭐</code></b> <b><code>    82🍴</code></b> [Thor](https://github.com/gbammc/Thor) ⭐ 1,331 | 🐛 26 | 🌐 Swift | 📅 2024-09-21) - Switch the right application ASAP.
+* <b><code>  1331⭐</code></b> <b><code>    82🍴</code></b> [Thor](https://github.com/gbammc/Thor) ⭐ 1,332 | 🐛 26 | 🌐 Swift | 📅 2024-09-21) - Switch the right application ASAP.
 
   **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
 
@@ -6455,11 +6455,11 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-* <b><code>   452⭐</code></b> <b><code>    23🍴</code></b> [CrossMacro](https://github.com/alper-han/CrossMacro) ⭐ 453 | 🐛 8 | 🌐 C# | 📅 2026-11-06) - A cross-platform macro recorder, player, editor, and text expansion tool.
+* <b><code>   452⭐</code></b> <b><code>    23🍴</code></b> [CrossMacro](https://github.com/alper-han/CrossMacro) ⭐ 456 | 🐛 8 | 🌐 C# | 📅 2026-11-06) - A cross-platform macro recorder, player, editor, and text expansion tool.
 
   **Languages:** <img src='./icons/csharp-64.png' alt='C# icon' title='C#' height='16'/> C#
 
-  **Website:** <b><code>   452⭐</code></b> <b><code>    23🍴</code></b> <https://github.com/alper-han/CrossMacro> ⭐ 453 | 🐛 8 | 🌐 C# | 📅 2026-11-06)
+  **Website:** <b><code>   452⭐</code></b> <b><code>    23🍴</code></b> <https://github.com/alper-han/CrossMacro> ⭐ 456 | 🐛 8 | 🌐 C# | 📅 2026-11-06)
 
   <details>
   <summary>Screenshots</summary>
@@ -6561,7 +6561,7 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-* <b><code>     2⭐</code></b> <b><code>     3🍴</code></b> [AURA Switcher](https://github.com/klbk/aura-switcher-app) ⭐ 2 | 🐛 1 | 🌐 C++ | 📅 2026-11-07) - Fixes text typed in the wrong keyboard layout right after Space; double Shift converts the last word. A Punto Switcher alternative.
+* <b><code>     2⭐</code></b> <b><code>     3🍴</code></b> [AURA Switcher](https://github.com/klbk/aura-switcher-app) ⭐ 2 | 🐛 1 | 🌐 C++ | 📅 2026-11-09) - Fixes text typed in the wrong keyboard layout right after Space; double Shift converts the last word. A Punto Switcher alternative.
 
   **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
 
@@ -6582,7 +6582,7 @@ You can see in which language an app is written. Currently there are following l
 
 ### 📧 Mail (8)
 
-* <b><code> 17998⭐</code></b> <b><code>  1065🍴</code></b> [Mailspring](https://github.com/Foundry376/Mailspring) ⭐ 17,998 | 🐛 22 | 🌐 TypeScript | 📅 2026-11-06) - 💌 A beautiful, fast and maintained fork of @nylas Mail by one of the original authors
+* <b><code> 17998⭐</code></b> <b><code>  1065🍴</code></b> [Mailspring](https://github.com/Foundry376/Mailspring) ⭐ 17,999 | 🐛 24 | 🌐 TypeScript | 📅 2026-11-09) - 💌 A beautiful, fast and maintained fork of @nylas Mail by one of the original authors
 
   **Languages:** <img src='./icons/javascript-64.png' alt='JavaScript icon' title='JavaScript' height='16'/> JavaScript
 
@@ -6655,7 +6655,7 @@ You can see in which language an app is written. Currently there are following l
 
 ### 🏥 Medical (1)
 
-* <b><code>     ?⭐</code></b> <b><code>     ?🍴</code></b> [InVesalius](https://github.com/invesalius/invesalius3/) ⭐ 815 | 🐛 295 | 🌐 Python | 📅 2026-11-08) - 3D medical imaging reconstruction software
+* <b><code>     ?⭐</code></b> <b><code>     ?🍴</code></b> [InVesalius](https://github.com/invesalius/invesalius3/) ⭐ 815 | 🐛 295 | 🌐 Python | 📅 2026-11-09) - 3D medical imaging reconstruction software
 
   **Languages:** <img src='./icons/python-64.png' alt='Python icon' title='Python' height='16'/> Python
 
@@ -6674,7 +6674,7 @@ You can see in which language an app is written. Currently there are following l
 
 ### 📊 Menubar (177)
 
-* <b><code> 43215⭐</code></b> <b><code>  1620🍴</code></b> [Stats](https://github.com/exelban/stats) ⭐ 43,226 | 🐛 18 | 🌐 Swift | 📅 2026-11-08) - macOS system monitor in your menu bar
+* <b><code> 43215⭐</code></b> <b><code>  1620🍴</code></b> [Stats](https://github.com/exelban/stats) ⭐ 43,259 | 🐛 20 | 🌐 Swift | 📅 2026-11-09) - macOS system monitor in your menu bar
 
   **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
 
@@ -6687,7 +6687,7 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-* <b><code> 29982⭐</code></b> <b><code>  1042🍴</code></b> [Ice](https://github.com/jordanbaird/Ice) ⭐ 29,989 | 🐛 454 | 🌐 Swift | 📅 2026-10-06) - Powerful menu bar manager for macOS
+* <b><code> 29982⭐</code></b> <b><code>  1042🍴</code></b> [Ice](https://github.com/jordanbaird/Ice) ⭐ 29,995 | 🐛 454 | 🌐 Swift | 📅 2026-10-06) - Powerful menu bar manager for macOS
 
   **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
 
@@ -6706,7 +6706,7 @@ You can see in which language an app is written. Currently there are following l
 
   **Languages:** <img src='./icons/objective-c-64.png' alt='Objective-C icon' title='Objective-C' height='16'/> Objective-C
 
-* <b><code> 15349⭐</code></b> <b><code>   532🍴</code></b> [Hidden Bar](https://github.com/dwarvesf/hidden) ⭐ 15,359 | 🐛 141 | 🌐 Swift | 📅 2026-10-31) - An ultra-light MacOS utility that helps hide menu bar icons
+* <b><code> 15349⭐</code></b> <b><code>   532🍴</code></b> [Hidden Bar](https://github.com/dwarvesf/hidden) ⭐ 15,370 | 🐛 141 | 🌐 Swift | 📅 2026-10-31) - An ultra-light MacOS utility that helps hide menu bar icons
 
   **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
 
@@ -6719,7 +6719,7 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-* <b><code> 12606⭐</code></b> <b><code>   338🍴</code></b> [Thaw](https://github.com/thaw-app/Thaw) ⭐ 12,618 | 🐛 43 | 🌐 Swift | 📅 2026-11-08) - Actively maintained menu bar manager for macOS 26+: hide and show items, search, hotkeys, profiles, and appearance controls.
+* <b><code> 12606⭐</code></b> <b><code>   338🍴</code></b> [Thaw](https://github.com/thaw-app/Thaw) ⭐ 12,639 | 🐛 48 | 🌐 Swift | 📅 2026-11-09) - Actively maintained menu bar manager for macOS 26+: hide and show items, search, hotkeys, profiles, and appearance controls.
 
   **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
 
@@ -6736,7 +6736,7 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-* <b><code> 11724⭐</code></b> <b><code>   908🍴</code></b> [CodeBurn](https://github.com/getagentseal/codeburn) ⭐ 11,731 | 🐛 27 | 🌐 TypeScript | 📅 2026-11-08) - Menu bar app that shows what your AI coding tools cost, by project, model and task, across Claude Code, Codex, Cursor and 38 more.
+* <b><code> 11724⭐</code></b> <b><code>   908🍴</code></b> [CodeBurn](https://github.com/getagentseal/codeburn) ⭐ 11,745 | 🐛 27 | 🌐 TypeScript | 📅 2026-11-09) - Menu bar app that shows what your AI coding tools cost, by project, model and task, across Claude Code, Codex, Cursor and 38 more.
 
   **Languages:** <img src='./icons/typescript-64.png' alt='TypeScript icon' title='TypeScript' height='16'/> TypeScript
 
@@ -6764,7 +6764,7 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-* <b><code>  9091⭐</code></b> <b><code>   278🍴</code></b> [WhatCable](https://github.com/darrylmorley/whatcable) ⭐ 9,094 | 🐛 43 | 🌐 Swift | 📅 2026-10-13) - Tells you, in plain English, what each USB-C cable plugged into your Mac can do — speed, power, and e-marker info — from the menu bar.
+* <b><code>  9091⭐</code></b> <b><code>   278🍴</code></b> [WhatCable](https://github.com/darrylmorley/whatcable) ⭐ 9,101 | 🐛 44 | 🌐 Swift | 📅 2026-10-13) - Tells you, in plain English, what each USB-C cable plugged into your Mac can do — speed, power, and e-marker info — from the menu bar.
 
   **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
 
@@ -6792,7 +6792,7 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-* <b><code>  6043⭐</code></b> <b><code>   246🍴</code></b> [OnlySwitch](https://github.com/jacklandrin/OnlySwitch) ⭐ 6,043 | 🐛 25 | 🌐 Swift | 📅 2026-11-06) - All-in-One status bar button, hide MacBook Pro's notch, dark mode, AirPods, Shortcuts
+* <b><code>  6043⭐</code></b> <b><code>   246🍴</code></b> [OnlySwitch](https://github.com/jacklandrin/OnlySwitch) ⭐ 6,043 | 🐛 25 | 🌐 Swift | 📅 2026-11-09) - All-in-One status bar button, hide MacBook Pro's notch, dark mode, AirPods, Shortcuts
 
   **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
 
@@ -6811,7 +6811,7 @@ You can see in which language an app is written. Currently there are following l
 
   **Languages:** <img src='./icons/objective-c-64.png' alt='Objective-C icon' title='Objective-C' height='16'/> Objective-C
 
-* <b><code>  5398⭐</code></b> <b><code>   304🍴</code></b> [MeetingBar](https://github.com/leits/MeetingBar) ⭐ 5,397 | 🐛 124 | 🌐 Swift | 📅 2026-11-04) - Menu bar app for your calendar meetings
+* <b><code>  5398⭐</code></b> <b><code>   304🍴</code></b> [MeetingBar](https://github.com/leits/MeetingBar) ⭐ 5,399 | 🐛 125 | 🌐 Swift | 📅 2026-11-04) - Menu bar app for your calendar meetings
 
   **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
 
@@ -6824,13 +6824,13 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-* <b><code>  4759⭐</code></b> <b><code>   141🍴</code></b> [SwiftBar](https://github.com/swiftbar/SwiftBar) ⭐ 4,760 | 🐛 10 | 🌐 Swift | 📅 2026-11-08) - Powerful macOS menu bar customization tool.
+* <b><code>  4759⭐</code></b> <b><code>   141🍴</code></b> [SwiftBar](https://github.com/swiftbar/SwiftBar) ⭐ 4,766 | 🐛 7 | 🌐 Swift | 📅 2026-11-08) - Powerful macOS menu bar customization tool.
 
   **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
 
   **Website:** 🌎 [https://swiftbar.app](swiftbar.app)
 
-* <b><code>  4046⭐</code></b> <b><code>   276🍴</code></b> [Itsycal](https://github.com/sfsam/Itsycal) ⭐ 4,046 | 🐛 77 | 🌐 Objective-C | 📅 2026-11-07) - A tiny calendar for that lives in the Mac menu bar.
+* <b><code>  4046⭐</code></b> <b><code>   276🍴</code></b> [Itsycal](https://github.com/sfsam/Itsycal) ⭐ 4,047 | 🐛 72 | 🌐 Objective-C | 📅 2026-11-09) - A tiny calendar for that lives in the Mac menu bar.
 
   **Languages:** <img src='./icons/objective-c-64.png' alt='Objective-C icon' title='Objective-C' height='16'/> Objective-C
 
@@ -6845,7 +6845,7 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-* <b><code>  3202⭐</code></b> <b><code>   112🍴</code></b> [MiniSim](https://github.com/okwasniewski/MiniSim) ⭐ 3,203 | 🐛 23 | 🌐 Swift | 📅 2026-02-27) - MacOS menu bar app for launching iOS  and Android 🤖 emulators.
+* <b><code>  3202⭐</code></b> <b><code>   112🍴</code></b> [MiniSim](https://github.com/okwasniewski/MiniSim) ⭐ 3,204 | 🐛 23 | 🌐 Swift | 📅 2026-02-27) - MacOS menu bar app for launching iOS  and Android 🤖 emulators.
 
   **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
 
@@ -6860,11 +6860,11 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-* <b><code>  3088⭐</code></b> <b><code>   241🍴</code></b> [MenuMeters](https://github.com/yujitach/MenuMeters) ⭐ 3,088 | 🐛 107 | 🌐 Objective-C | 📅 2026-10-28) - CPU, memory, disk, and network monitoring tools for macOS.
+* <b><code>  3088⭐</code></b> <b><code>   241🍴</code></b> [MenuMeters](https://github.com/yujitach/MenuMeters) ⭐ 3,088 | 🐛 108 | 🌐 Objective-C | 📅 2026-10-28) - CPU, memory, disk, and network monitoring tools for macOS.
 
   **Languages:** <img src='./icons/objective-c-64.png' alt='Objective-C icon' title='Objective-C' height='16'/> Objective-C
 
-* <b><code>  2614⭐</code></b> <b><code>    83🍴</code></b> [Pika](https://github.com/superhighfives/pika) ⭐ 2,614 | 🐛 9 | 🌐 Swift | 📅 2026-11-08) - Is an easy to use, open-source, native colour picker for macOS.
+* <b><code>  2614⭐</code></b> <b><code>    83🍴</code></b> [Pika](https://github.com/superhighfives/pika) ⭐ 2,615 | 🐛 7 | 🌐 Swift | 📅 2026-11-09) - Is an easy to use, open-source, native colour picker for macOS.
 
   **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift <code>metal</code>
 
@@ -6883,7 +6883,7 @@ You can see in which language an app is written. Currently there are following l
 
   **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
 
-* <b><code>  2338⭐</code></b> <b><code>   103🍴</code></b> [Crisp](https://github.com/didriksg/Crisp) ⭐ 2,347 | 🐛 15 | 🌐 Swift | 📅 2026-11-02) - Menu bar app for external displays: HiDPI scaling, DDC brightness and volume, presets and virtual displays.
+* <b><code>  2338⭐</code></b> <b><code>   103🍴</code></b> [Crisp](https://github.com/didriksg/Crisp) ⭐ 2,358 | 🐛 18 | 🌐 Swift | 📅 2026-11-02) - Menu bar app for external displays: HiDPI scaling, DDC brightness and volume, presets and virtual displays.
 
   **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
 
@@ -6898,7 +6898,7 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-* <b><code>  2207⭐</code></b> <b><code>   229🍴</code></b> [TokenTracker](https://github.com/xiufengsun/TokenTracker) ⭐ 2,209 | 🐛 33 | 🌐 JavaScript | 📅 2026-11-08) - Local-first menu bar app and CLI that tracks AI token usage and estimated cost across Claude Code, Codex, Cursor, Gemini, Copilot and more without reading prompts.
+* <b><code>  2207⭐</code></b> <b><code>   229🍴</code></b> [TokenTracker](https://github.com/xiufengsun/TokenTracker) ⭐ 2,212 | 🐛 43 | 🌐 JavaScript | 📅 2026-11-09) - Local-first menu bar app and CLI that tracks AI token usage and estimated cost across Claude Code, Codex, Cursor, Gemini, Copilot and more without reading prompts.
 
   **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift <img src='./icons/typescript-64.png' alt='TypeScript icon' title='TypeScript' height='16'/> TypeScript
 
@@ -6915,7 +6915,7 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-* <b><code>  2131⭐</code></b> <b><code>   157🍴</code></b> [SensibleSideButtons](https://github.com/archagon/sensible-side-buttons) ⭐ 2,132 | 🐛 54 | 🌐 Objective-C | 📅 2026-09-19) - Small menu bar utility that lets you use your third-party mouse's side buttons for navigation across a variety of apps.
+* <b><code>  2131⭐</code></b> <b><code>   157🍴</code></b> [SensibleSideButtons](https://github.com/archagon/sensible-side-buttons) ⭐ 2,133 | 🐛 54 | 🌐 Objective-C | 📅 2026-09-19) - Small menu bar utility that lets you use your third-party mouse's side buttons for navigation across a variety of apps.
 
   **Languages:** <img src='./icons/objective-c-64.png' alt='Objective-C icon' title='Objective-C' height='16'/> Objective-C <img src='./icons/c-64.png' alt='C icon' title='C' height='16'/> C
 
@@ -6947,7 +6947,7 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-* <b><code>  1112⭐</code></b> <b><code>    68🍴</code></b> [RustCast](https://github.com/unsecretised/rustcast) ⭐ 1,112 | 🐛 0 | 🌐 Rust | 📅 2026-11-04) - Blazingly fast, customisable multi tool, application launcher
+* <b><code>  1112⭐</code></b> <b><code>    68🍴</code></b> [RustCast](https://github.com/unsecretised/rustcast) ⭐ 1,113 | 🐛 0 | 🌐 Rust | 📅 2026-11-04) - Blazingly fast, customisable multi tool, application launcher
 
   **Languages:** <img src='./icons/rust-64.png' alt='Rust icon' title='Rust' height='16'/> Rust
 
@@ -6962,49 +6962,7 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-* <b><code>   933⭐</code></b> <b><code>    91🍴</code></b> [TimeScribe](https://github.com/WINBIGFOX/timescribe) ⭐ 933 | 🐛 25 | 🌐 PHP | 📅 2026-11-03) - Simple and free working time recording.
-
-  **Languages:** <img src='./icons/css-64.png' alt='CSS icon' title='CSS' height='16'/> CSS <img src='./icons/javascript-64.png' alt='JavaScript icon' title='JavaScript' height='16'/> JavaScript <img src='./icons/typescript-64.png' alt='TypeScript icon' title='TypeScript' height='16'/> TypeScript
-
-  **Website:** 🌎 [https://timescribe.app](timescribe.app)
-
-  <details>
-  <summary>Screenshots</summary>
-  <p>
-
-  <img src='https://raw.githubusercontent.com/WINBIGFOX/timescribe/refs/heads/main/.github/images/menubar_light.png' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
-
-  <img src='https://raw.githubusercontent.com/WINBIGFOX/timescribe/refs/heads/main/.github/images/dayview_en_light.webp' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
-
-  <img src='https://raw.githubusercontent.com/WINBIGFOX/timescribe/refs/heads/main/.github/images/app_activity_en_light.webp' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
-
-  *(2 more screenshots available in the repository)*
-
-  </p>
-  </details>
-
-* <b><code>   933⭐</code></b> <b><code>    91🍴</code></b> [TimeScribe](https://github.com/WINBIGFOX/timescribe) ⭐ 933 | 🐛 25 | 🌐 PHP | 📅 2026-11-03) - Simple and free working time recording.
-
-  **Languages:** <img src='./icons/css-64.png' alt='CSS icon' title='CSS' height='16'/> CSS <img src='./icons/javascript-64.png' alt='JavaScript icon' title='JavaScript' height='16'/> JavaScript <img src='./icons/typescript-64.png' alt='TypeScript icon' title='TypeScript' height='16'/> TypeScript
-
-  **Website:** 🌎 [https://timescribe.app](timescribe.app)
-
-  <details>
-  <summary>Screenshots</summary>
-  <p>
-
-  <img src='https://raw.githubusercontent.com/WINBIGFOX/timescribe/refs/heads/main/.github/images/menubar_light.png' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
-
-  <img src='https://raw.githubusercontent.com/WINBIGFOX/timescribe/refs/heads/main/.github/images/dayview_en_light.webp' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
-
-  <img src='https://raw.githubusercontent.com/WINBIGFOX/timescribe/refs/heads/main/.github/images/app_activity_en_light.webp' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
-
-  *(2 more screenshots available in the repository)*
-
-  </p>
-  </details>
-
-* <b><code>   929⭐</code></b> <b><code>    33🍴</code></b> [Phosphene](https://github.com/kageroumado/phosphene) ⭐ 931 | 🐛 3 | 🌐 Swift | 📅 2026-11-05) - Use any video as your macOS wallpaper on the desktop and the lock screen, picked directly from System Settings.
+* <b><code>   929⭐</code></b> <b><code>    33🍴</code></b> [Phosphene](https://github.com/kageroumado/phosphene) ⭐ 933 | 🐛 3 | 🌐 Swift | 📅 2026-11-05) - Use any video as your macOS wallpaper on the desktop and the lock screen, picked directly from System Settings.
 
   **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
 
@@ -7017,6 +6975,48 @@ You can see in which language an app is written. Currently there are following l
   <img src='https://raw.githubusercontent.com/kageroumado/phosphene/main/.github/phosphene-library.png' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
 
   <img src='https://raw.githubusercontent.com/kageroumado/phosphene/main/.github/phosphene-popover.png' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
+
+  </p>
+  </details>
+
+* <b><code>   933⭐</code></b> <b><code>    91🍴</code></b> [TimeScribe](https://github.com/WINBIGFOX/timescribe) ⭐ 933 | 🐛 25 | 🌐 PHP | 📅 2026-11-03) - Simple and free working time recording.
+
+  **Languages:** <img src='./icons/css-64.png' alt='CSS icon' title='CSS' height='16'/> CSS <img src='./icons/javascript-64.png' alt='JavaScript icon' title='JavaScript' height='16'/> JavaScript <img src='./icons/typescript-64.png' alt='TypeScript icon' title='TypeScript' height='16'/> TypeScript
+
+  **Website:** 🌎 [https://timescribe.app](timescribe.app)
+
+  <details>
+  <summary>Screenshots</summary>
+  <p>
+
+  <img src='https://raw.githubusercontent.com/WINBIGFOX/timescribe/refs/heads/main/.github/images/menubar_light.png' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
+
+  <img src='https://raw.githubusercontent.com/WINBIGFOX/timescribe/refs/heads/main/.github/images/dayview_en_light.webp' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
+
+  <img src='https://raw.githubusercontent.com/WINBIGFOX/timescribe/refs/heads/main/.github/images/app_activity_en_light.webp' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
+
+  *(2 more screenshots available in the repository)*
+
+  </p>
+  </details>
+
+* <b><code>   933⭐</code></b> <b><code>    91🍴</code></b> [TimeScribe](https://github.com/WINBIGFOX/timescribe) ⭐ 933 | 🐛 25 | 🌐 PHP | 📅 2026-11-03) - Simple and free working time recording.
+
+  **Languages:** <img src='./icons/css-64.png' alt='CSS icon' title='CSS' height='16'/> CSS <img src='./icons/javascript-64.png' alt='JavaScript icon' title='JavaScript' height='16'/> JavaScript <img src='./icons/typescript-64.png' alt='TypeScript icon' title='TypeScript' height='16'/> TypeScript
+
+  **Website:** 🌎 [https://timescribe.app](timescribe.app)
+
+  <details>
+  <summary>Screenshots</summary>
+  <p>
+
+  <img src='https://raw.githubusercontent.com/WINBIGFOX/timescribe/refs/heads/main/.github/images/menubar_light.png' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
+
+  <img src='https://raw.githubusercontent.com/WINBIGFOX/timescribe/refs/heads/main/.github/images/dayview_en_light.webp' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
+
+  <img src='https://raw.githubusercontent.com/WINBIGFOX/timescribe/refs/heads/main/.github/images/app_activity_en_light.webp' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
+
+  *(2 more screenshots available in the repository)*
 
   </p>
   </details>
@@ -7053,7 +7053,7 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-* <b><code>   742⭐</code></b> <b><code>    45🍴</code></b> [OpenClip](https://github.com/ganeshmshetty/openclip) ⭐ 743 | 🐛 24 | 🌐 Swift | 📅 2026-11-08) - Lightweight floating action bar for macOS that turns selected text into instant actions.
+* <b><code>   742⭐</code></b> <b><code>    45🍴</code></b> [OpenClip](https://github.com/ganeshmshetty/openclip) ⭐ 748 | 🐛 25 | 🌐 Swift | 📅 2026-11-09) - Lightweight floating action bar for macOS that turns selected text into instant actions.
 
   **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
 
@@ -7097,7 +7097,7 @@ You can see in which language an app is written. Currently there are following l
 
   **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
 
-* <b><code>   525⭐</code></b> <b><code>    26🍴</code></b> [Adrafinil](https://github.com/kageroumado/adrafinil) ⭐ 525 | 🐛 2 | 🌐 Swift | 📅 2026-11-05) - Keeps your Mac awake only while AI agents are working, then lets it sleep normally.
+* <b><code>   525⭐</code></b> <b><code>    26🍴</code></b> [Adrafinil](https://github.com/kageroumado/adrafinil) ⭐ 526 | 🐛 2 | 🌐 Swift | 📅 2026-11-05) - Keeps your Mac awake only while AI agents are working, then lets it sleep normally.
 
   **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
 
@@ -7114,7 +7114,7 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-* <b><code>   495⭐</code></b> <b><code>    21🍴</code></b> [AirStats](https://github.com/byrencheema/airstats) ⭐ 496 | 🐛 2 | 🌐 Swift | 📅 2026-11-05) - Menu bar system monitor for CPU, memory, GPU, network, disk, battery, temperature, and processes, with a desktop widget.
+* <b><code>   495⭐</code></b> <b><code>    21🍴</code></b> [AirStats](https://github.com/byrencheema/airstats) ⭐ 501 | 🐛 2 | 🌐 Swift | 📅 2026-11-05) - Menu bar system monitor for CPU, memory, GPU, network, disk, battery, temperature, and processes, with a desktop widget.
 
   **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
 
@@ -7129,7 +7129,13 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-* <b><code>   469⭐</code></b> <b><code>    12🍴</code></b> [SlimHUD - Cyanocitta](https://github.com/AlexPerathoner/SlimHUD) ⭐ 469 | 🐛 22 | 🌐 Swift | 📅 2026-06-01) - Replacement for MacOS' volume, brightness and keyboard backlight HUDs.
+* <b><code>   468⭐</code></b> <b><code>    34🍴</code></b> [Yap](https://github.com/FrigadeHQ/yap) ⭐ 471 | 🐛 9 | 🌐 Swift | 📅 2026-11-09) - On-device voice dictation from the menu bar. Set a hotkey, talk, and the text is pasted into whatever field you were typing in. It runs offline in native Swift with no model to download.
+
+  **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
+
+  **Website:** 🌎 [https://frigade.com/yap](frigade.com/yap)
+
+* <b><code>   469⭐</code></b> <b><code>    12🍴</code></b> [SlimHUD - Cyanocitta](https://github.com/AlexPerathoner/SlimHUD) ⭐ 468 | 🐛 22 | 🌐 Swift | 📅 2026-06-01) - Replacement for MacOS' volume, brightness and keyboard backlight HUDs.
 
   **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
 
@@ -7144,13 +7150,7 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-* <b><code>   468⭐</code></b> <b><code>    34🍴</code></b> [Yap](https://github.com/FrigadeHQ/yap) ⭐ 468 | 🐛 11 | 🌐 Swift | 📅 2026-11-04) - On-device voice dictation from the menu bar. Set a hotkey, talk, and the text is pasted into whatever field you were typing in. It runs offline in native Swift with no model to download.
-
-  **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
-
-  **Website:** 🌎 [https://frigade.com/yap](frigade.com/yap)
-
-* <b><code>     ?⭐</code></b> <b><code>     ?🍴</code></b> [Pareto Security](https://github.com/paretoSecurity/pareto-mac/) ⭐ 463 | 🐛 9 | 🌐 Swift | 📅 2026-11-06) - A MenuBar app to automatically audit your Mac for basic security hygiene.
+* <b><code>     ?⭐</code></b> <b><code>     ?🍴</code></b> [Pareto Security](https://github.com/paretoSecurity/pareto-mac/) ⭐ 463 | 🐛 8 | 🌐 Swift | 📅 2026-11-09) - A MenuBar app to automatically audit your Mac for basic security hygiene.
 
   **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
 
@@ -7210,7 +7210,7 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-* <b><code>   342⭐</code></b> <b><code>    19🍴</code></b> [Lyrimuse](https://github.com/Yudaotor/lyrimuse) ⭐ 347 | 🐛 8 | 🌐 Swift | 📅 2026-11-08) - Word-synced desktop lyrics for Apple Music, Spotify, QQ Music, NetEase Cloud Music, Kugou and YouTube Music / Spotify Web in the browser, with translation, romanization and Last.fm scrobbling.
+* <b><code>   342⭐</code></b> <b><code>    19🍴</code></b> [Lyrimuse](https://github.com/Yudaotor/lyrimuse) ⭐ 350 | 🐛 10 | 🌐 Swift | 📅 2026-11-09) - Word-synced desktop lyrics for Apple Music, Spotify, QQ Music, NetEase Cloud Music, Kugou and YouTube Music / Spotify Web in the browser, with translation, romanization and Last.fm scrobbling.
 
   **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift <img src='./icons/golang-64.png' alt='Go icon' title='Go' height='16'/> Go
 
@@ -7229,7 +7229,7 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-* <b><code>   345⭐</code></b> <b><code>    66🍴</code></b> [usage](https://github.com/aqua5230/usage) ⭐ 345 | 🐛 0 | 🌐 Python | 📅 2026-11-07) - macOS menu bar app that pins Claude Code, Codex, and Antigravity CLI quota and burn rate to the screen, read from local session files.
+* <b><code>   345⭐</code></b> <b><code>    66🍴</code></b> [usage](https://github.com/aqua5230/usage) ⭐ 346 | 🐛 0 | 🌐 Python | 📅 2026-11-07) - macOS menu bar app that pins Claude Code, Codex, and Antigravity CLI quota and burn rate to the screen, read from local session files.
 
   **Languages:** <img src='./icons/python-64.png' alt='Python icon' title='Python' height='16'/> Python
 
@@ -7274,7 +7274,7 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-* <b><code>   273⭐</code></b> <b><code>    35🍴</code></b> [Claudoscope](https://github.com/cordwainersmith/claudoscope) ⭐ 273 | 🐛 3 | 🌐 Swift | 📅 2026-11-06) - Menu bar app for Claude Code session analytics with real-time secret detection, config health linting, and token/cost tracking.
+* <b><code>   273⭐</code></b> <b><code>    35🍴</code></b> [Claudoscope](https://github.com/cordwainersmith/claudoscope) ⭐ 274 | 🐛 3 | 🌐 Swift | 📅 2026-11-06) - Menu bar app for Claude Code session analytics with real-time secret detection, config health linting, and token/cost tracking.
 
   **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
 
@@ -7293,11 +7293,11 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-* <b><code>   257⭐</code></b> <b><code>    30🍴</code></b> [Clipbara](https://github.com/mobrava/Clipbara) ⭐ 257 | 🐛 20 | 🌐 Swift | 📅 2026-11-08) - Paste-like clipboard manager with pinboards, Quick Look previews, search, and one-click copying.
+* <b><code>   257⭐</code></b> <b><code>    30🍴</code></b> [Clipbara](https://github.com/mobrava/Clipbara) ⭐ 258 | 🐛 20 | 🌐 Swift | 📅 2026-11-08) - Paste-like clipboard manager with pinboards, Quick Look previews, search, and one-click copying.
 
   **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
 
-  **Website:** <b><code>   257⭐</code></b> <b><code>    30🍴</code></b> <https://github.com/mobrava/Clipbara> ⭐ 257 | 🐛 20 | 🌐 Swift | 📅 2026-11-08)
+  **Website:** <b><code>   257⭐</code></b> <b><code>    30🍴</code></b> <https://github.com/mobrava/Clipbara> ⭐ 258 | 🐛 20 | 🌐 Swift | 📅 2026-11-08)
 
   <details>
   <summary>Screenshots</summary>
@@ -7325,7 +7325,7 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-* <b><code>   198⭐</code></b> <b><code>     8🍴</code></b> [PlayStatus](https://github.com/nbolar/PlayStatus) ⭐ 198 | 🐛 2 | 🌐 Swift | 📅 2026-10-01) - PlayStatus is a macOS app that allows the control of Spotify and iTunes music playback from the menu bar.
+* <b><code>   198⭐</code></b> <b><code>     8🍴</code></b> [PlayStatus](https://github.com/nbolar/PlayStatus) ⭐ 199 | 🐛 2 | 🌐 Swift | 📅 2026-10-01) - PlayStatus is a macOS app that allows the control of Spotify and iTunes music playback from the menu bar.
 
   **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
 
@@ -7338,7 +7338,7 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-* <b><code>   167⭐</code></b> <b><code>    11🍴</code></b> [Hop](https://github.com/antonyshakirov/hop) ⭐ 168 | 🐛 0 | 🌐 Swift | 📅 2026-11-06) - Eighteen everyday tools in one menu bar panel: timer, time tracker, keep-awake, system monitor, clipboard history, file converter, window manager, torrents, archives, text recognition, screenshots with an editor, drawing over the screen, color picker, VPN switcher, app launcher, app uninstaller, keyboard lock and internet speed test. Native, offline, no telemetry.
+* <b><code>   167⭐</code></b> <b><code>    11🍴</code></b> [Hop](https://github.com/antonyshakirov/hop) ⭐ 169 | 🐛 0 | 🌐 Swift | 📅 2026-11-06) - Eighteen everyday tools in one menu bar panel: timer, time tracker, keep-awake, system monitor, clipboard history, file converter, window manager, torrents, archives, text recognition, screenshots with an editor, drawing over the screen, color picker, VPN switcher, app launcher, app uninstaller, keyboard lock and internet speed test. Native, offline, no telemetry.
 
   **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
 
@@ -7368,11 +7368,11 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-* <b><code>   158⭐</code></b> <b><code>    21🍴</code></b> [Pesty](https://github.com/momenbasel/pesty) ⭐ 159 | 🐛 10 | 🌐 Swift | 📅 2026-10-24) - Free, open-source clipboard manager inspired by Paste, with a slide-up color-coded clipboard strip, pinboards, search, and keyboard-driven pasting.
+* <b><code>   158⭐</code></b> <b><code>    21🍴</code></b> [Pesty](https://github.com/momenbasel/pesty) ⭐ 160 | 🐛 10 | 🌐 Swift | 📅 2026-10-24) - Free, open-source clipboard manager inspired by Paste, with a slide-up color-coded clipboard strip, pinboards, search, and keyboard-driven pasting.
 
   **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
 
-  **Website:** <b><code>   158⭐</code></b> <b><code>    21🍴</code></b> <https://github.com/momenbasel/pesty> ⭐ 159 | 🐛 10 | 🌐 Swift | 📅 2026-10-24)
+  **Website:** <b><code>   158⭐</code></b> <b><code>    21🍴</code></b> <https://github.com/momenbasel/pesty> ⭐ 160 | 🐛 10 | 🌐 Swift | 📅 2026-10-24)
 
   <details>
   <summary>Screenshots</summary>
@@ -7383,7 +7383,7 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-* <b><code>   158⭐</code></b> <b><code>    26🍴</code></b> [MakLock](https://github.com/dutkiewiczmaciej/MakLock) ⭐ 158 | 🐛 27 | 🌐 Swift | 📅 2026-04-16) - Free macOS menu bar app that locks applications with Touch ID, Apple Watch proximity, or password using a full-screen blur overlay.
+* <b><code>   158⭐</code></b> <b><code>    26🍴</code></b> [MakLock](https://github.com/dutkiewiczmaciej/MakLock) ⭐ 159 | 🐛 27 | 🌐 Swift | 📅 2026-04-16) - Free macOS menu bar app that locks applications with Touch ID, Apple Watch proximity, or password using a full-screen blur overlay.
 
   **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
 
@@ -7406,7 +7406,7 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-* <b><code>   131⭐</code></b> <b><code>    22🍴</code></b> [Codex Account Switcher](https://github.com/liuzhao1225/codex-account-switcher) ⭐ 131 | 🐛 11 | 🌐 Swift | 📅 2026-11-02) - Native macOS menu bar app for switching multiple Codex Desktop and CLI accounts and monitoring weekly usage.
+* <b><code>   131⭐</code></b> <b><code>    22🍴</code></b> [Codex Account Switcher](https://github.com/liuzhao1225/codex-account-switcher) ⭐ 133 | 🐛 12 | 🌐 Swift | 📅 2026-11-02) - Native macOS menu bar app for switching multiple Codex Desktop and CLI accounts and monitoring weekly usage.
 
   **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
 
@@ -7436,7 +7436,7 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-* <b><code>   126⭐</code></b> <b><code>     9🍴</code></b> [WiFi Lens](https://github.com/ShiinaLabs/wifi-lens) ⭐ 126 | 🐛 1 | 🌐 Swift | 📅 2026-11-08) - Native Wi-Fi analyzer and network diagnostics app with real-time spectrum scanning and BLE device tracking.
+* <b><code>   126⭐</code></b> <b><code>     9🍴</code></b> [WiFi Lens](https://github.com/ShiinaLabs/wifi-lens) ⭐ 126 | 🐛 1 | 🌐 Swift | 📅 2026-11-09) - Native Wi-Fi analyzer and network diagnostics app with real-time spectrum scanning and BLE device tracking.
 
   **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
 
@@ -7457,7 +7457,7 @@ You can see in which language an app is written. Currently there are following l
 
   **Website:** <b><code>   125⭐</code></b> <b><code>     8🍴</code></b> <https://github.com/offyotto/Core-Monitor> ⭐ 125 | 🐛 7 | 🌐 Swift | 📅 2026-11-08)
 
-* <b><code>   124⭐</code></b> <b><code>    20🍴</code></b> [Sleepless](https://github.com/Aboudjem/Sleepless) ⭐ 124 | 🐛 11 | 🌐 Swift | 📅 2026-06-03) - Keep your MacBook awake with the lid closed, on battery, with no external display, with a battery-floor auto-off.
+* <b><code>   124⭐</code></b> <b><code>    20🍴</code></b> [Sleepless](https://github.com/Aboudjem/Sleepless) ⭐ 125 | 🐛 11 | 🌐 Swift | 📅 2026-06-03) - Keep your MacBook awake with the lid closed, on battery, with no external display, with a battery-floor auto-off.
 
   **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
 
@@ -7472,11 +7472,11 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-* <b><code>   119⭐</code></b> <b><code>    24🍴</code></b> [SSH Tunnel Manager](https://github.com/0fuz/ssh-tunnel-manager) ⭐ 120 | 🐛 1 | 🌐 Swift | 📅 2026-10-14) - Menu bar app for managing SSH port forwards (local, remote, SOCKS, jump host) that auto-reconnects when the connection drops.
+* <b><code>   119⭐</code></b> <b><code>    24🍴</code></b> [SSH Tunnel Manager](https://github.com/0fuz/ssh-tunnel-manager) ⭐ 122 | 🐛 0 | 🌐 Swift | 📅 2026-11-09) - Menu bar app for managing SSH port forwards (local, remote, SOCKS, jump host) that auto-reconnects when the connection drops.
 
   **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
 
-  **Website:** <b><code>   119⭐</code></b> <b><code>    24🍴</code></b> <https://github.com/0fuz/ssh-tunnel-manager> ⭐ 120 | 🐛 1 | 🌐 Swift | 📅 2026-10-14)
+  **Website:** <b><code>   119⭐</code></b> <b><code>    24🍴</code></b> <https://github.com/0fuz/ssh-tunnel-manager> ⭐ 122 | 🐛 0 | 🌐 Swift | 📅 2026-11-09)
 
 * <b><code>   111⭐</code></b> <b><code>     0🍴</code></b> [OLIV](https://github.com/chayapats/oliv) ⭐ 111 | 🐛 8 | 🌐 Swift | 📅 2026-11-04) - Push-to-talk dictation for Thai mixed with English that runs Typhoon Whisper and Gemma on-device with MLX and types English tech words in English instead of Thai script.
 
@@ -7529,7 +7529,7 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-* <b><code>   103⭐</code></b> <b><code>    12🍴</code></b> [OATS](https://github.com/ariso-ai/oats) ⭐ 103 | 🐛 19 | 🌐 Rust | 📅 2026-11-08) - Open-source local-first macOS meeting-notes app with live transcription, speaker labels, AI summaries, and an offline on-device mode.
+* <b><code>   103⭐</code></b> <b><code>    12🍴</code></b> [OATS](https://github.com/ariso-ai/oats) ⭐ 103 | 🐛 20 | 🌐 Rust | 📅 2026-11-08) - Open-source local-first macOS meeting-notes app with live transcription, speaker labels, AI summaries, and an offline on-device mode.
 
   **Languages:** <img src='./icons/rust-64.png' alt='Rust icon' title='Rust' height='16'/> Rust <img src='./icons/typescript-64.png' alt='TypeScript icon' title='TypeScript' height='16'/> TypeScript
 
@@ -7544,11 +7544,11 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-* <b><code>   101⭐</code></b> <b><code>    12🍴</code></b> [Vitals](https://github.com/slawek19926/Vitals) ⭐ 101 | 🐛 1 | 🌐 Swift | 📅 2026-10-12) - Native macOS system monitor for Apple Silicon, SMC sensors, processes, disks, network and system health.
+* <b><code>   101⭐</code></b> <b><code>    12🍴</code></b> [Vitals](https://github.com/slawek19926/Vitals) ⭐ 103 | 🐛 1 | 🌐 Swift | 📅 2026-10-12) - Native macOS system monitor for Apple Silicon, SMC sensors, processes, disks, network and system health.
 
   **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift <img src='./icons/cpp-64.png' alt='C++ icon' title='C++' height='16'/> C++
 
-  **Website:** <b><code>   101⭐</code></b> <b><code>    12🍴</code></b> <https://github.com/slawek19926/Vitals> ⭐ 101 | 🐛 1 | 🌐 Swift | 📅 2026-10-12)
+  **Website:** <b><code>   101⭐</code></b> <b><code>    12🍴</code></b> <https://github.com/slawek19926/Vitals> ⭐ 103 | 🐛 1 | 🌐 Swift | 📅 2026-10-12)
 
   <details>
   <summary>Screenshots</summary>
@@ -7593,7 +7593,7 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-* <b><code>    96⭐</code></b> <b><code>     5🍴</code></b> [Nightwatch](https://github.com/rsutcliffe/nightwatch) ⭐ 96 | 🐛 11 | 🌐 Swift | 📅 2026-11-08) - Menu-bar app for amateur astronomers that says when tonight will be clear enough for a long imaging session, and what to point at.
+* <b><code>    96⭐</code></b> <b><code>     5🍴</code></b> [Nightwatch](https://github.com/rsutcliffe/nightwatch) ⭐ 97 | 🐛 11 | 🌐 Swift | 📅 2026-11-08) - Menu-bar app for amateur astronomers that says when tonight will be clear enough for a long imaging session, and what to point at.
 
   **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift <img src='./icons/c-64.png' alt='C icon' title='C' height='16'/> C
 
@@ -7612,11 +7612,11 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-* <b><code>    89⭐</code></b> <b><code>     9🍴</code></b> [Bye-AppQuit](https://github.com/designsbymuzeer/Bye-Mac-App) ⭐ 89 | 🐛 2 | 🌐 Swift | 📅 2025-11-28) - A minimal native macOS app to quickly view and Bulk kill running processes.
+* <b><code>    89⭐</code></b> <b><code>     9🍴</code></b> [Bye-AppQuit](https://github.com/designsbymuzeer/Bye-Mac-App) ⭐ 90 | 🐛 2 | 🌐 Swift | 📅 2025-11-28) - A minimal native macOS app to quickly view and Bulk kill running processes.
 
   **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
 
-  **Website:** <b><code>    89⭐</code></b> <b><code>     9🍴</code></b> <https://github.com/designsbymuzeer/Bye-Mac-App> ⭐ 89 | 🐛 2 | 🌐 Swift | 📅 2025-11-28)
+  **Website:** <b><code>    89⭐</code></b> <b><code>     9🍴</code></b> <https://github.com/designsbymuzeer/Bye-Mac-App> ⭐ 90 | 🐛 2 | 🌐 Swift | 📅 2025-11-28)
 
   <details>
   <summary>Screenshots</summary>
@@ -7710,7 +7710,24 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-* <b><code>    60⭐</code></b> <b><code>     6🍴</code></b> [Better Resource Monitor](https://github.com/alexx855/better-resource-monitor) ⭐ 60 | 🐛 3 | 🌐 Rust | 📅 2026-11-02) - Lightweight macOS menu bar monitor for CPU, memory, storage, GPU, and network usage.
+* <b><code>    33⭐</code></b> <b><code>     2🍴</code></b> [AutoDoc](https://github.com/DuetDisplay/AutoDoc) ⭐ 63 | 🐛 20 | 🌐 TypeScript | 📅 2026-11-05) - Private, local-first meeting notes with on-device transcription and AI summaries.
+
+  **Languages:** <img src='./icons/typescript-64.png' alt='TypeScript icon' title='TypeScript' height='16'/> TypeScript <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
+
+  **Website:** 🌎 [https://getautodoc.com/](getautodoc.com/)
+
+  <details>
+  <summary>Screenshots</summary>
+  <p>
+
+  <img src='https://raw.githubusercontent.com/DuetDisplay/AutoDoc/main/docs/assets/screenshots/notes.png' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
+
+  <img src='https://raw.githubusercontent.com/DuetDisplay/AutoDoc/main/docs/assets/screenshots/transcript.png' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
+
+  </p>
+  </details>
+
+* <b><code>    60⭐</code></b> <b><code>     6🍴</code></b> [Better Resource Monitor](https://github.com/alexx855/better-resource-monitor) ⭐ 60 | 🐛 3 | 🌐 Rust | 📅 2026-11-09) - Lightweight macOS menu bar monitor for CPU, memory, storage, GPU, and network usage.
 
   **Languages:** <img src='./icons/rust-64.png' alt='Rust icon' title='Rust' height='16'/> Rust <img src='./icons/typescript-64.png' alt='TypeScript icon' title='TypeScript' height='16'/> TypeScript
 
@@ -7725,6 +7742,21 @@ You can see in which language an app is written. Currently there are following l
   <img src='https://raw.githubusercontent.com/alexx855/better-resource-monitor/main/images/appstore/en/privacy.png' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
 
   <img src='https://raw.githubusercontent.com/alexx855/better-resource-monitor/main/images/appstore/en/simplicity.png' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
+
+  </p>
+  </details>
+
+* <b><code>    58⭐</code></b> <b><code>     8🍴</code></b> [Notchly](https://github.com/Notchly/Notchly) ⭐ 59 | 🐛 2 | 🌐 Swift | 📅 2026-08-11) - Lightweight native macOS app that turns the MacBook notch into an interactive space for music controls, battery states, gestures, and custom HUDs.
+
+  **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
+
+  **Website:** 🌎 [https://notchly.xyz](notchly.xyz)
+
+  <details>
+  <summary>Screenshots</summary>
+  <p>
+
+  <img src='https://github.com/user-attachments/assets/4a3fb21b-0261-441e-bdf0-afe69f9cb342' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
 
   </p>
   </details>
@@ -7761,26 +7793,11 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-* <b><code>    58⭐</code></b> <b><code>     8🍴</code></b> [Notchly](https://github.com/Notchly/Notchly) ⭐ 58 | 🐛 2 | 🌐 Swift | 📅 2026-08-11) - Lightweight native macOS app that turns the MacBook notch into an interactive space for music controls, battery states, gestures, and custom HUDs.
+* <b><code>    56⭐</code></b> <b><code>     7🍴</code></b> [Bulchimbeon](https://github.com/s3onghyun/bulchimbeon) ⭐ 57 | 🐛 15 | 🌐 Go | 📅 2026-11-09) - Menu bar app that keeps the Mac awake only while AI coding agents are working, with lid-closed mode and heat and battery safeguards.
 
   **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
 
-  **Website:** 🌎 [https://notchly.xyz](notchly.xyz)
-
-  <details>
-  <summary>Screenshots</summary>
-  <p>
-
-  <img src='https://github.com/user-attachments/assets/4a3fb21b-0261-441e-bdf0-afe69f9cb342' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
-
-  </p>
-  </details>
-
-* <b><code>    56⭐</code></b> <b><code>     7🍴</code></b> [Bulchimbeon](https://github.com/s3onghyun/bulchimbeon) ⭐ 56 | 🐛 15 | 🌐 Go | 📅 2026-11-08) - Menu bar app that keeps the Mac awake only while AI coding agents are working, with lid-closed mode and heat and battery safeguards.
-
-  **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
-
-  **Website:** <b><code>    56⭐</code></b> <b><code>     7🍴</code></b> <https://github.com/s3onghyun/bulchimbeon> ⭐ 56 | 🐛 15 | 🌐 Go | 📅 2026-11-08)
+  **Website:** <b><code>    56⭐</code></b> <b><code>     7🍴</code></b> <https://github.com/s3onghyun/bulchimbeon> ⭐ 57 | 🐛 15 | 🌐 Go | 📅 2026-11-09)
 
   <details>
   <summary>Screenshots</summary>
@@ -7818,7 +7835,7 @@ You can see in which language an app is written. Currently there are following l
 
   **Website:** 🌎 [https://commandreopen.com/](commandreopen.com/)
 
-* <b><code>    49⭐</code></b> <b><code>    11🍴</code></b> [AIQuotaBar](https://github.com/yagcioglutoprak/AIQuotaBar) ⭐ 49 | 🐛 13 | 🌐 Python | 📅 2026-10-04) - Menu bar app that shows Claude, ChatGPT, Cursor and GitHub Copilot usage limits with reset countdowns and pace warnings.
+* <b><code>    49⭐</code></b> <b><code>    11🍴</code></b> [AIQuotaBar](https://github.com/yagcioglutoprak/AIQuotaBar) ⭐ 50 | 🐛 13 | 🌐 Python | 📅 2026-10-04) - Menu bar app that shows Claude, ChatGPT, Cursor and GitHub Copilot usage limits with reset countdowns and pace warnings.
 
   **Languages:** <img src='./icons/python-64.png' alt='Python icon' title='Python' height='16'/> Python
 
@@ -7833,15 +7850,11 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-* <b><code>    49⭐</code></b> <b><code>     7🍴</code></b> [DisplayMenu](https://github.com/Kwpolska/DisplayMenu) ⭐ 49 | 🐛 0 | 🌐 Swift | 📅 2019-04-03) - Simple (bare-bones) macOS menubar extra to apply display presets.
+* <b><code>    48⭐</code></b> <b><code>     3🍴</code></b> [Audio Priority Bar](https://github.com/camguillory/Audio-Priority-Bar) ⭐ 50 | 🐛 1 | 🌐 Swift | 📅 2026-11-09) - Native macOS menu bar app that automatically switches to your highest-priority connected headphones, speakers, and microphone.
 
   **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
 
-* <b><code>    48⭐</code></b> <b><code>     3🍴</code></b> [Audio Priority Bar](https://github.com/camguillory/Audio-Priority-Bar) ⭐ 48 | 🐛 1 | 🌐 Swift | 📅 2026-11-03) - Native macOS menu bar app that automatically switches to your highest-priority connected headphones, speakers, and microphone.
-
-  **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
-
-  **Website:** <b><code>    48⭐</code></b> <b><code>     3🍴</code></b> <https://github.com/camguillory/Audio-Priority-Bar> ⭐ 48 | 🐛 1 | 🌐 Swift | 📅 2026-11-03)
+  **Website:** <b><code>    48⭐</code></b> <b><code>     3🍴</code></b> <https://github.com/camguillory/Audio-Priority-Bar> ⭐ 50 | 🐛 1 | 🌐 Swift | 📅 2026-11-09)
 
   <details>
   <summary>Screenshots</summary>
@@ -7854,19 +7867,23 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
+* <b><code>    49⭐</code></b> <b><code>     7🍴</code></b> [DisplayMenu](https://github.com/Kwpolska/DisplayMenu) ⭐ 49 | 🐛 0 | 🌐 Swift | 📅 2019-04-03) - Simple (bare-bones) macOS menubar extra to apply display presets.
+
+  **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
+
 * <b><code>    48⭐</code></b> <b><code>     6🍴</code></b> [Claude Statistics](https://github.com/sj719045032/claude-statistics) ⭐ 48 | 🐛 5 | 🌐 Swift | 📅 2026-09-14) - Native macOS menu bar app for monitoring Claude Code session usage, token costs, and Anthropic subscription limits in real time.
 
   **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
 
   **Website:** 🌎 [https://claudestatistics.vercel.app/](claudestatistics.vercel.app/)
 
-* <b><code>    47⭐</code></b> <b><code>     2🍴</code></b> [Live Translator](https://github.com/umutcetinkaya/live-translator) ⭐ 47 | 🐛 0 | 🌐 Python | 📅 2026-07-28) - Real-time on-screen translation of any system audio (YouTube, podcasts, meetings) using OpenAI or Google Gemini.
+* <b><code>    47⭐</code></b> <b><code>     2🍴</code></b> [Live Translator](https://github.com/umutcetinkaya/live-translator) ⭐ 48 | 🐛 0 | 🌐 Python | 📅 2026-07-28) - Real-time on-screen translation of any system audio (YouTube, podcasts, meetings) using OpenAI or Google Gemini.
 
   **Languages:** <img src='./icons/python-64.png' alt='Python icon' title='Python' height='16'/> Python
 
-  **Website:** <b><code>    47⭐</code></b> <b><code>     2🍴</code></b> <https://github.com/umutcetinkaya/live-translator> ⭐ 47 | 🐛 0 | 🌐 Python | 📅 2026-07-28)
+  **Website:** <b><code>    47⭐</code></b> <b><code>     2🍴</code></b> <https://github.com/umutcetinkaya/live-translator> ⭐ 48 | 🐛 0 | 🌐 Python | 📅 2026-07-28)
 
-* <b><code>    46⭐</code></b> <b><code>     4🍴</code></b> [Candela](https://github.com/Rydersel/Candela) ⭐ 46 | 🐛 8 | 🌐 Swift | 📅 2026-11-06) - Protects your displays from OLED burn-in and wear: panel health history, a checkup for defects, and the everyday brightness, volume, and scaling controls macOS leaves out.
+* <b><code>    46⭐</code></b> <b><code>     4🍴</code></b> [Candela](https://github.com/Rydersel/Candela) ⭐ 47 | 🐛 4 | 🌐 Swift | 📅 2026-11-09) - Protects your displays from OLED burn-in and wear: panel health history, a checkup for defects, and the everyday brightness, volume, and scaling controls macOS leaves out.
 
   **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
 
@@ -7881,7 +7898,7 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-* <b><code>    43⭐</code></b> <b><code>     1🍴</code></b> [HideNotch](https://github.com/niklasravnsborg/HideNotch) ⭐ 43 | 🐛 2 | 🌐 Swift | 📅 2026-10-28) - Paints the menu bar black on MacBooks with a notch, so the notch blends in, and can round the screen corners.
+* <b><code>    43⭐</code></b> <b><code>     1🍴</code></b> [HideNotch](https://github.com/niklasravnsborg/HideNotch) ⭐ 45 | 🐛 0 | 🌐 Swift | 📅 2026-11-08) - Paints the menu bar black on MacBooks with a notch, so the notch blends in, and can round the screen corners.
 
   **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
 
@@ -7932,13 +7949,13 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-* <b><code>    38⭐</code></b> <b><code>     4🍴</code></b> [Conduck](https://github.com/GigaDuckAI/conduck) ⭐ 38 | 🐛 1 | 🌐 Swift | 📅 2026-10-05) - Native voice and text client for your self-hosted or BYO-key AI, with a menu bar companion, global hotkey and Screenshot & Ask. Same conversation on iPhone, iPad, Apple Watch and CarPlay.
+* <b><code>    38⭐</code></b> <b><code>     4🍴</code></b> [Conduck](https://github.com/GigaDuckAI/conduck) ⭐ 39 | 🐛 1 | 🌐 Swift | 📅 2026-10-05) - Native voice and text client for your self-hosted or BYO-key AI, with a menu bar companion, global hotkey and Screenshot & Ask. Same conversation on iPhone, iPad, Apple Watch and CarPlay.
 
   **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
 
   **Website:** 🌎 [https://conduck.com/](conduck.com/)
 
-* <b><code>    35⭐</code></b> <b><code>     1🍴</code></b> [Notchi](https://github.com/cyrus-cai/notchi) ⭐ 35 | 🐛 2 | 🌐 Swift | 📅 2026-11-07) - Turn the MacBook notch into a place to ask AI, save notes, set reminders, or run coding agents.
+* <b><code>    35⭐</code></b> <b><code>     1🍴</code></b> [Notchi](https://github.com/cyrus-cai/notchi) ⭐ 35 | 🐛 2 | 🌐 Swift | 📅 2026-11-09) - Turn the MacBook notch into a place to ask AI, save notes, set reminders, or run coding agents.
 
   **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
 
@@ -7951,23 +7968,6 @@ You can see in which language an app is written. Currently there are following l
   <img src='https://raw.githubusercontent.com/cyrus-cai/notchi/master/.github/shots/verb-ask.jpg' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
 
   <img src='https://raw.githubusercontent.com/cyrus-cai/notchi/master/.github/shots/agent-compose.jpg' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
-
-  </p>
-  </details>
-
-* <b><code>    33⭐</code></b> <b><code>     2🍴</code></b> [AutoDoc](https://github.com/DuetDisplay/AutoDoc) ⭐ 34 | 🐛 20 | 🌐 TypeScript | 📅 2026-11-05) - Private, local-first meeting notes with on-device transcription and AI summaries.
-
-  **Languages:** <img src='./icons/typescript-64.png' alt='TypeScript icon' title='TypeScript' height='16'/> TypeScript <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
-
-  **Website:** 🌎 [https://getautodoc.com/](getautodoc.com/)
-
-  <details>
-  <summary>Screenshots</summary>
-  <p>
-
-  <img src='https://raw.githubusercontent.com/DuetDisplay/AutoDoc/main/docs/assets/screenshots/notes.png' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
-
-  <img src='https://raw.githubusercontent.com/DuetDisplay/AutoDoc/main/docs/assets/screenshots/transcript.png' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
 
   </p>
   </details>
@@ -7987,7 +7987,7 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-* <b><code>    34⭐</code></b> <b><code>     3🍴</code></b> [Presspeech](https://github.com/rcourtman/presspeech) ⭐ 34 | 🐛 4 | 🌐 Python | 📅 2026-11-07) - Push-to-talk dictation for Apple Silicon Macs. Hold a key, speak, release — the transcript pastes at the cursor in about 100 ms, fully on-device.
+* <b><code>    34⭐</code></b> <b><code>     3🍴</code></b> [Presspeech](https://github.com/rcourtman/presspeech) ⭐ 34 | 🐛 4 | 🌐 Python | 📅 2026-11-09) - Push-to-talk dictation for Apple Silicon Macs. Hold a key, speak, release — the transcript pastes at the cursor in about 100 ms, fully on-device.
 
   **Languages:** <img src='./icons/python-64.png' alt='Python icon' title='Python' height='16'/> Python <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
 
@@ -8038,22 +8038,7 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-* <b><code>    31⭐</code></b> <b><code>     3🍴</code></b> [Vercel Deployment Menu Bar](https://github.com/andrewk17/vercel-deployment-menu-bar) ⭐ 31 | 🐛 0 | 🌐 Swift | 📅 2026-10-19) - Open-source macOS menu bar app to monitor Vercel deployment status in real time.
-
-  **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
-
-  **Website:** 🌎 [https://vercel-deployment-menu-bar.vercel.app/](vercel-deployment-menu-bar.vercel.app/)
-
-  <details>
-  <summary>Screenshots</summary>
-  <p>
-
-  <img src='https://raw.githubusercontent.com/andrewk17/vercel-deployment-menu-bar/main/vercel-menu-bar-deployment-status-macos.png' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
-
-  </p>
-  </details>
-
-* <b><code>    29⭐</code></b> <b><code>     5🍴</code></b> [StableBar](https://github.com/Seb-GRAF/StableBar) ⭐ 30 | 🐛 54 | 🌐 Swift | 📅 2026-11-08) - Customizable menu bar replacement with themes, widgets, popups and AeroSpace, yabai or OmniWM workspaces.
+* <b><code>    29⭐</code></b> <b><code>     5🍴</code></b> [StableBar](https://github.com/Seb-GRAF/StableBar) ⭐ 31 | 🐛 51 | 🌐 Swift | 📅 2026-11-09) - Customizable menu bar replacement with themes, widgets, popups and AeroSpace, yabai or OmniWM workspaces.
 
   **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
 
@@ -8072,7 +8057,22 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-* <b><code>    29⭐</code></b> <b><code>     1🍴</code></b> [Abendrot](https://github.com/matthewrball/abendrot) ⭐ 29 | 🐛 2 | 🌐 Swift | 📅 2026-10-19) - Free open-source Mac screen warmer that cuts nighttime blue light and warms every display around local sunset.
+* <b><code>    31⭐</code></b> <b><code>     3🍴</code></b> [Vercel Deployment Menu Bar](https://github.com/andrewk17/vercel-deployment-menu-bar) ⭐ 31 | 🐛 0 | 🌐 Swift | 📅 2026-10-19) - Open-source macOS menu bar app to monitor Vercel deployment status in real time.
+
+  **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
+
+  **Website:** 🌎 [https://vercel-deployment-menu-bar.vercel.app/](vercel-deployment-menu-bar.vercel.app/)
+
+  <details>
+  <summary>Screenshots</summary>
+  <p>
+
+  <img src='https://raw.githubusercontent.com/andrewk17/vercel-deployment-menu-bar/main/vercel-menu-bar-deployment-status-macos.png' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
+
+  </p>
+  </details>
+
+* <b><code>    29⭐</code></b> <b><code>     1🍴</code></b> [Abendrot](https://github.com/matthewrball/abendrot) ⭐ 30 | 🐛 0 | 🌐 Swift | 📅 2026-11-09) - Free open-source Mac screen warmer that cuts nighttime blue light and warms every display around local sunset.
 
   **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
 
@@ -8082,11 +8082,11 @@ You can see in which language an app is written. Currently there are following l
 
   **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
 
-* <b><code>    26⭐</code></b> <b><code>     2🍴</code></b> [LanGuard](https://github.com/roypadina/LanGuard) ⭐ 26 | 🐛 0 | 🌐 Swift | 📅 2026-11-04) - Wi-Fi off when wired LAN active, back on when unplugged. Edge-based, wake-aware, no admin required.
+* <b><code>    26⭐</code></b> <b><code>     2🍴</code></b> [LanGuard](https://github.com/roypadina/LanGuard) ⭐ 27 | 🐛 0 | 🌐 Swift | 📅 2026-11-04) - Wi-Fi off when wired LAN active, back on when unplugged. Edge-based, wake-aware, no admin required.
 
   **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
 
-  **Website:** <b><code>    26⭐</code></b> <b><code>     2🍴</code></b> <https://github.com/roypadina/LanGuard> ⭐ 26 | 🐛 0 | 🌐 Swift | 📅 2026-11-04)
+  **Website:** <b><code>    26⭐</code></b> <b><code>     2🍴</code></b> <https://github.com/roypadina/LanGuard> ⭐ 27 | 🐛 0 | 🌐 Swift | 📅 2026-11-04)
 
 * <b><code>    25⭐</code></b> <b><code>     2🍴</code></b> [PSIBar](https://github.com/nikhilsh/PSIBar) ⭐ 25 | 🐛 3 | 🌐 Swift | 📅 2017-10-07) - Quickly hacked up PSI macOS status bar app.
 
@@ -8153,7 +8153,7 @@ You can see in which language an app is written. Currently there are following l
 
   **Website:** 🌎 [https://perfmon.knhome.nl](perfmon.knhome.nl)
 
-* <b><code>    18⭐</code></b> <b><code>     6🍴</code></b> [ParrotFlow](https://github.com/znat/parrotflow) ⭐ 18 | 🐛 8 | 🌐 Swift | 📅 2026-11-08) - Scriptable local dictation that uses the text on your screen to fix names, and your rules to format numbers, dates, and links.
+* <b><code>    18⭐</code></b> <b><code>     6🍴</code></b> [ParrotFlow](https://github.com/znat/parrotflow) ⭐ 18 | 🐛 1 | 🌐 Swift | 📅 2026-11-09) - Scriptable local dictation that uses the text on your screen to fix names, and your rules to format numbers, dates, and links.
 
   **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift <img src='./icons/python-64.png' alt='Python icon' title='Python' height='16'/> Python
 
@@ -8248,6 +8248,21 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
+* <b><code>    15⭐</code></b> <b><code>     1🍴</code></b> [BannerHither](https://github.com/KJeon10/BannerHither) ⭐ 16 | 🐛 0 | 🌐 Swift | 📅 2026-09-10) - Menu bar app that moves macOS notification banners to the display you are looking at: the screen under the mouse pointer, the screen of the active window, or a fixed display.
+
+  **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
+
+  **Website:** <b><code>    15⭐</code></b> <b><code>     1🍴</code></b> <https://github.com/KJeon10/BannerHither> ⭐ 16 | 🐛 0 | 🌐 Swift | 📅 2026-09-10)
+
+  <details>
+  <summary>Screenshots</summary>
+  <p>
+
+  <img src='https://raw.githubusercontent.com/KJeon10/BannerHither/main/assets/readme-banner.png' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
+
+  </p>
+  </details>
+
 * <b><code>    16⭐</code></b> <b><code>     1🍴</code></b> [MacFanPro](https://github.com/macfanpro/macfanpro) ⭐ 16 | 🐛 0 | 🌐 Swift | 📅 2026-10-30) - Fan control for Apple Silicon Macs with a menu bar app, smart temperature curves and a CLI.
 
   **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
@@ -8259,21 +8274,6 @@ You can see in which language an app is written. Currently there are following l
   <p>
 
   <img src='https://raw.githubusercontent.com/macfanpro/macfanpro/main/docs/images/menu-bar-en.png' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
-
-  </p>
-  </details>
-
-* <b><code>    15⭐</code></b> <b><code>     1🍴</code></b> [BannerHither](https://github.com/KJeon10/BannerHither) ⭐ 15 | 🐛 0 | 🌐 Swift | 📅 2026-09-10) - Menu bar app that moves macOS notification banners to the display you are looking at: the screen under the mouse pointer, the screen of the active window, or a fixed display.
-
-  **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
-
-  **Website:** <b><code>    15⭐</code></b> <b><code>     1🍴</code></b> <https://github.com/KJeon10/BannerHither> ⭐ 15 | 🐛 0 | 🌐 Swift | 📅 2026-09-10)
-
-  <details>
-  <summary>Screenshots</summary>
-  <p>
-
-  <img src='https://raw.githubusercontent.com/KJeon10/BannerHither/main/assets/readme-banner.png' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
 
   </p>
   </details>
@@ -8350,7 +8350,7 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-* <b><code>    13⭐</code></b> <b><code>     1🍴</code></b> [Earshot](https://github.com/Bouliw/earshot) ⭐ 13 | 🐛 0 | 🌐 Swift | 📅 2026-11-03) - Live on-device transcription of any app you pick, with speaker names in Microsoft Teams.
+* <b><code>    13⭐</code></b> <b><code>     1🍴</code></b> [Earshot](https://github.com/Bouliw/earshot) ⭐ 13 | 🐛 0 | 🌐 Swift | 📅 2026-11-09) - Live on-device transcription of any app you pick, with speaker names in Microsoft Teams.
 
   **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
 
@@ -8461,7 +8461,7 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-* <b><code>    11⭐</code></b> <b><code>     2🍴</code></b> [Lurar](https://github.com/lsjoberg/lurar) ⭐ 11 | 🐛 3 | 🌐 Swift | 📅 2026-11-02) - Menu-bar parametric EQ for headphones. Loads the AutoEq catalog and applies it system-wide via Apple's Core Audio Process Tap — no virtual audio driver.
+* <b><code>    11⭐</code></b> <b><code>     2🍴</code></b> [Lurar](https://github.com/lsjoberg/lurar) ⭐ 11 | 🐛 3 | 🌐 Swift | 📅 2026-11-09) - Menu-bar parametric EQ for headphones. Loads the AutoEq catalog and applies it system-wide via Apple's Core Audio Process Tap — no virtual audio driver.
 
   **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
 
@@ -8520,17 +8520,32 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
+* <b><code>    10⭐</code></b> <b><code>     1🍴</code></b> [Çentik](https://github.com/YusufEmreYazici/Centik) ⭐ 11 | 🐛 1 | 🌐 Swift | 📅 2026-10-28) - Turns the MacBook notch into a live island for music, system stats, an AI chat with your own Claude, Gemini or Ollama, clipboard history, a file shelf and meeting alerts.
+
+  **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
+
+  **Website:** <b><code>    10⭐</code></b> <b><code>     1🍴</code></b> <https://github.com/YusufEmreYazici/Centik> ⭐ 11 | 🐛 1 | 🌐 Swift | 📅 2026-10-28)
+
+  <details>
+  <summary>Screenshots</summary>
+  <p>
+
+  <img src='https://raw.githubusercontent.com/YusufEmreYazici/Centik/main/docs/assets/hero.gif' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
+
+  </p>
+  </details>
+
 * <b><code>    10⭐</code></b> <b><code>     4🍴</code></b> [Dictámelo](https://github.com/sarrazola/dictamelo) ⭐ 10 | 🐛 1 | 🌐 Rust | 📅 2026-10-23) - Voice dictation with downloadable local speech models, optional cloud providers and a configurable push-to-talk shortcut.
 
   **Languages:** <img src='./icons/rust-64.png' alt='Rust icon' title='Rust' height='16'/> Rust <img src='./icons/javascript-64.png' alt='JavaScript icon' title='JavaScript' height='16'/> JavaScript
 
   **Website:** 🌎 [https://www.dictamelo.com/en](www.dictamelo.com/en)
 
-* <b><code>    10⭐</code></b> <b><code>     0🍴</code></b> [Hangar](https://github.com/0fuz/hangar) ⭐ 10 | 🐛 0 | 🌐 Swift | 📅 2026-07-16) - Menu bar launcher for one-click, toggleable terminal and app snippets.
+* <b><code>    10⭐</code></b> <b><code>     0🍴</code></b> [Hangar](https://github.com/0fuz/hangar) ⭐ 10 | 🐛 0 | 🌐 Swift | 📅 2026-11-09) - Menu bar launcher for one-click, toggleable terminal and app snippets.
 
   **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
 
-  **Website:** <b><code>    10⭐</code></b> <b><code>     0🍴</code></b> <https://github.com/0fuz/hangar> ⭐ 10 | 🐛 0 | 🌐 Swift | 📅 2026-07-16)
+  **Website:** <b><code>    10⭐</code></b> <b><code>     0🍴</code></b> <https://github.com/0fuz/hangar> ⭐ 10 | 🐛 0 | 🌐 Swift | 📅 2026-11-09)
 
 * <b><code>    10⭐</code></b> <b><code>     0🍴</code></b> [mysa](https://github.com/alishansnsn/mysa) ⭐ 10 | 🐛 1 | 🌐 Swift | 📅 2026-06-22) - A macOS menu bar app for quick breathing breaks, with a frosted screen overlay and handwritten quotes.
 
@@ -8600,21 +8615,6 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-* <b><code>    10⭐</code></b> <b><code>     1🍴</code></b> [Çentik](https://github.com/YusufEmreYazici/Centik) ⭐ 10 | 🐛 0 | 🌐 Swift | 📅 2026-10-28) - Turns the MacBook notch into a live island for music, system stats, an AI chat with your own Claude, Gemini or Ollama, clipboard history, a file shelf and meeting alerts.
-
-  **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
-
-  **Website:** <b><code>    10⭐</code></b> <b><code>     1🍴</code></b> <https://github.com/YusufEmreYazici/Centik> ⭐ 10 | 🐛 0 | 🌐 Swift | 📅 2026-10-28)
-
-  <details>
-  <summary>Screenshots</summary>
-  <p>
-
-  <img src='https://raw.githubusercontent.com/YusufEmreYazici/Centik/main/docs/assets/hero.gif' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
-
-  </p>
-  </details>
-
 * <b><code>     9⭐</code></b> <b><code>     3🍴</code></b> [Bolo](https://github.com/a692570/bolo) ⭐ 9 | 🐛 0 | 🌐 Rust | 📅 2026-11-04) - Voice dictation menubar app using Telnyx STT and LLM APIs.
 
   **Languages:** <img src='./icons/python-64.png' alt='Python icon' title='Python' height='16'/> Python
@@ -8660,21 +8660,6 @@ You can see in which language an app is written. Currently there are following l
   <img src='https://raw.githubusercontent.com/simonsruggi/MRRDock/main/screenshots/overview.png' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
 
   <img src='https://raw.githubusercontent.com/simonsruggi/MRRDock/main/screenshots/by-source.png' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
-
-  </p>
-  </details>
-
-* <b><code>     8⭐</code></b> <b><code>     1🍴</code></b> [TuckBar](https://github.com/lelanddutcher/TuckBar) ⭐ 8 | 🐛 7 | 🌐 Swift | 📅 2026-11-03) - Hides the menu bar on the displays you choose, covering it with your live wallpaper to reduce OLED burn-in.
-
-  **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
-
-  **Website:** 🌎 [https://tuckbar.com](tuckbar.com)
-
-  <details>
-  <summary>Screenshots</summary>
-  <p>
-
-  <img src='https://raw.githubusercontent.com/lelanddutcher/TuckBar/main/design/tuckbar-social.png' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
 
   </p>
   </details>
@@ -8803,6 +8788,21 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
+* <b><code>     8⭐</code></b> <b><code>     1🍴</code></b> [TuckBar](https://github.com/lelanddutcher/TuckBar) ⭐ 7 | 🐛 7 | 🌐 Swift | 📅 2026-11-03) - Hides the menu bar on the displays you choose, covering it with your live wallpaper to reduce OLED burn-in.
+
+  **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
+
+  **Website:** 🌎 [https://tuckbar.com](tuckbar.com)
+
+  <details>
+  <summary>Screenshots</summary>
+  <p>
+
+  <img src='https://raw.githubusercontent.com/lelanddutcher/TuckBar/main/design/tuckbar-social.png' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
+
+  </p>
+  </details>
+
 * <b><code>     6⭐</code></b> <b><code>     0🍴</code></b> [horita](https://github.com/cordwainersmith/horita) ⭐ 6 | 🐛 0 | 🌐 Swift | 📅 2026-10-05) - Menu bar app that counts down to your next meeting and joins Zoom, Meet and Teams calls in one click.
 
   **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
@@ -8816,6 +8816,23 @@ You can see in which language an app is written. Currently there are following l
   <img src='https://raw.githubusercontent.com/cordwainersmith/horita/main/.github/screenshots/dropdown.png' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
 
   <img src='https://raw.githubusercontent.com/cordwainersmith/horita/main/.github/screenshots/meeting-details.png' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
+
+  </p>
+  </details>
+
+* <b><code>     5⭐</code></b> <b><code>     0🍴</code></b> [Lumilo](https://github.com/kotuke/lumilo) ⭐ 6 | 🐛 1 | 🌐 Go | 📅 2026-11-09) - Menu bar app that runs Splash or llama.cpp servers, shows memory and token speed, and downloads models from Hugging Face.
+
+  **Languages:** <img src='./icons/golang-64.png' alt='Go icon' title='Go' height='16'/> Go
+
+  **Website:** <b><code>     5⭐</code></b> <b><code>     0🍴</code></b> <https://github.com/kotuke/lumilo> ⭐ 6 | 🐛 1 | 🌐 Go | 📅 2026-11-09)
+
+  <details>
+  <summary>Screenshots</summary>
+  <p>
+
+  <img src='https://raw.githubusercontent.com/kotuke/lumilo/main/docs/images/hero-light.png' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
+
+  <img src='https://raw.githubusercontent.com/kotuke/lumilo/main/docs/images/demo-light.gif' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
 
   </p>
   </details>
@@ -8860,23 +8877,6 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-* <b><code>     5⭐</code></b> <b><code>     0🍴</code></b> [Lumilo](https://github.com/kotuke/lumilo) ⭐ 5 | 🐛 1 | 🌐 Go | 📅 2026-10-31) - Menu bar app that runs Splash or llama.cpp servers, shows memory and token speed, and downloads models from Hugging Face.
-
-  **Languages:** <img src='./icons/golang-64.png' alt='Go icon' title='Go' height='16'/> Go
-
-  **Website:** <b><code>     5⭐</code></b> <b><code>     0🍴</code></b> <https://github.com/kotuke/lumilo> ⭐ 5 | 🐛 1 | 🌐 Go | 📅 2026-10-31)
-
-  <details>
-  <summary>Screenshots</summary>
-  <p>
-
-  <img src='https://raw.githubusercontent.com/kotuke/lumilo/main/docs/images/hero-light.png' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
-
-  <img src='https://raw.githubusercontent.com/kotuke/lumilo/main/docs/images/demo-light.gif' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
-
-  </p>
-  </details>
-
 * <b><code>     5⭐</code></b> <b><code>     1🍴</code></b> [Pullo](https://github.com/jordan-cod/pullo) ⭐ 5 | 🐛 2 | 🌐 Swift | 📅 2026-11-03) - Your GitHub pull requests and Actions runs in the MacBook notch, with alerts when CI fails, a PR is approved or a review is requested.
 
   **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
@@ -8896,7 +8896,7 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-* <b><code>     5⭐</code></b> <b><code>     1🍴</code></b> [QuotaBar](https://github.com/RoketrP/QuotaBar) ⭐ 5 | 🐛 0 | 🌐 Swift | 📅 2026-08-02) - Local-first macOS menu bar app for tracking OpenAI Codex usage limits, reset countdowns, and optional alerts.
+* <b><code>     5⭐</code></b> <b><code>     1🍴</code></b> [QuotaBar](https://github.com/RoketrP/QuotaBar) ⭐ 5 | 🐛 0 | 🌐 Swift | 📅 2026-11-09) - Local-first macOS menu bar app for tracking OpenAI Codex usage limits, reset countdowns, and optional alerts.
 
   **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
 
@@ -8921,7 +8921,7 @@ You can see in which language an app is written. Currently there are following l
 
   **Website:** 🌎 [https://r2drop.com](r2drop.com)
 
-* <b><code>     5⭐</code></b> <b><code>     1🍴</code></b> [Reprise](https://github.com/nikiomori/reprise) ⭐ 5 | 🐛 0 | 🌐 Swift | 📅 2026-11-06) - Call recorder that notices calls in Zoom, Meet, Teams, FaceTime and more, and records both sides, and the screen if you want, to plain files.
+* <b><code>     5⭐</code></b> <b><code>     1🍴</code></b> [Reprise](https://github.com/nikiomori/reprise) ⭐ 5 | 🐛 1 | 🌐 Swift | 📅 2026-11-06) - Call recorder that notices calls in Zoom, Meet, Teams, FaceTime and more, and records both sides, and the screen if you want, to plain files.
 
   **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
 
@@ -8989,7 +8989,7 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-* <b><code>     4⭐</code></b> <b><code>     0🍴</code></b> [PullBull](https://github.com/rustycamper/pullbull) ⭐ 4 | 🐛 0 | 🌐 Swift | 📅 2026-11-08) - GitHub pull requests, issues and Projects boards in the menu bar.
+* <b><code>     4⭐</code></b> <b><code>     0🍴</code></b> [PullBull](https://github.com/rustycamper/pullbull) ⭐ 4 | 🐛 0 | 🌐 Swift | 📅 2026-11-09) - GitHub pull requests, issues and Projects boards in the menu bar.
 
   **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
 
@@ -9002,7 +9002,7 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-* <b><code>     2⭐</code></b> <b><code>     3🍴</code></b> [AURA Switcher](https://github.com/klbk/aura-switcher-app) ⭐ 2 | 🐛 1 | 🌐 C++ | 📅 2026-11-07) - Fixes text typed in the wrong keyboard layout right after Space; double Shift converts the last word. A Punto Switcher alternative.
+* <b><code>     2⭐</code></b> <b><code>     3🍴</code></b> [AURA Switcher](https://github.com/klbk/aura-switcher-app) ⭐ 2 | 🐛 1 | 🌐 C++ | 📅 2026-11-09) - Fixes text typed in the wrong keyboard layout right after Space; double Shift converts the last word. A Punto Switcher alternative.
 
   **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
 
@@ -9038,7 +9038,7 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-* <b><code>     0⭐</code></b> <b><code>     0🍴</code></b> [QuietSpeech](https://github.com/harshtomar6/quietspeech) ⭐ 0 | 🐛 0 | 🌐 Swift | 📅 2026-10-28) - Push-to-talk dictation for Apple silicon that types into any app using Apple's on-device speech recognition and Apple Intelligence, with no API key. Paid app; source under GPLv3 (macOS 26+).
+* <b><code>     0⭐</code></b> <b><code>     0🍴</code></b> [QuietSpeech](https://github.com/harshtomar6/quietspeech) ⭐ 0 | 🐛 0 | 🌐 Swift | 📅 2026-11-09) - Push-to-talk dictation for Apple silicon that types into any app using Apple's on-device speech recognition and Apple Intelligence, with no API key. Paid app; source under GPLv3 (macOS 26+).
 
   **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
 
@@ -9046,7 +9046,7 @@ You can see in which language an app is written. Currently there are following l
 
 ### 🎧 Music (21)
 
-* <b><code> 37983⭐</code></b> <b><code>  3641🍴</code></b> [MPV](https://github.com/mpv-player/mpv) ⭐ 37,996 | 🐛 1,162 | 🌐 C | 📅 2026-11-08) - Lightweight, highly configurable media player.
+* <b><code> 37983⭐</code></b> <b><code>  3641🍴</code></b> [MPV](https://github.com/mpv-player/mpv) ⭐ 38,023 | 🐛 1,165 | 🌐 C | 📅 2026-11-09) - Lightweight, highly configurable media player.
 
   **Languages:** <img src='./icons/c-64.png' alt='C icon' title='C' height='16'/> C
 
@@ -9061,7 +9061,7 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-* <b><code> 25412⭐</code></b> <b><code>  1003🍴</code></b> [spicetify-cli](https://github.com/spicetify/spicetify-cli) ⭐ 25,420 | 🐛 16 | 🌐 JavaScript | 📅 2026-11-07) - Command-line tool to customize the official Spotify client. Supports Windows, MacOS and Linux.
+* <b><code> 25412⭐</code></b> <b><code>  1003🍴</code></b> [spicetify-cli](https://github.com/spicetify/spicetify-cli) ⭐ 25,442 | 🐛 15 | 🌐 JavaScript | 📅 2026-11-09) - Command-line tool to customize the official Spotify client. Supports Windows, MacOS and Linux.
 
   **Languages:** <img src='./icons/javascript-64.png' alt='JavaScript icon' title='JavaScript' height='16'/> JavaScript
 
@@ -9095,11 +9095,11 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-* <b><code>  2521⭐</code></b> <b><code>   186🍴</code></b> [Kaset](https://github.com/sozercan/kaset) ⭐ 2,525 | 🐛 136 | 🌐 Swift | 📅 2026-10-31) - Native macOS client for YouTube Music and YouTube, built with Swift and SwiftUI.
+* <b><code>  2521⭐</code></b> <b><code>   186🍴</code></b> [Kaset](https://github.com/sozercan/kaset) ⭐ 2,532 | 🐛 138 | 🌐 Swift | 📅 2026-10-31) - Native macOS client for YouTube Music and YouTube, built with Swift and SwiftUI.
 
   **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
 
-  **Website:** <b><code>  2521⭐</code></b> <b><code>   186🍴</code></b> <https://github.com/sozercan/kaset> ⭐ 2,525 | 🐛 136 | 🌐 Swift | 📅 2026-10-31)
+  **Website:** <b><code>  2521⭐</code></b> <b><code>   186🍴</code></b> <https://github.com/sozercan/kaset> ⭐ 2,532 | 🐛 138 | 🌐 Swift | 📅 2026-10-31)
 
   <details>
   <summary>Screenshots</summary>
@@ -9112,7 +9112,7 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-* <b><code>  1760⭐</code></b> <b><code>    77🍴</code></b> [Petrichor](https://github.com/kushalpandya/Petrichor) ⭐ 1,761 | 🐛 31 | 🌐 Swift | 📅 2026-11-01) - Offline music player for macOS with library management, smart playlists, synced lyrics and an equalizer.
+* <b><code>  1760⭐</code></b> <b><code>    77🍴</code></b> [Petrichor](https://github.com/kushalpandya/Petrichor) ⭐ 1,765 | 🐛 32 | 🌐 Swift | 📅 2026-11-09) - Offline music player for macOS with library management, smart playlists, synced lyrics and an equalizer.
 
   **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
 
@@ -9180,7 +9180,7 @@ You can see in which language an app is written. Currently there are following l
 
   **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
 
-* <b><code>   342⭐</code></b> <b><code>    19🍴</code></b> [Lyrimuse](https://github.com/Yudaotor/lyrimuse) ⭐ 347 | 🐛 8 | 🌐 Swift | 📅 2026-11-08) - Word-synced desktop lyrics for Apple Music, Spotify, QQ Music, NetEase Cloud Music, Kugou and YouTube Music / Spotify Web in the browser, with translation, romanization and Last.fm scrobbling.
+* <b><code>   342⭐</code></b> <b><code>    19🍴</code></b> [Lyrimuse](https://github.com/Yudaotor/lyrimuse) ⭐ 350 | 🐛 10 | 🌐 Swift | 📅 2026-11-09) - Word-synced desktop lyrics for Apple Music, Spotify, QQ Music, NetEase Cloud Music, Kugou and YouTube Music / Spotify Web in the browser, with translation, romanization and Last.fm scrobbling.
 
   **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift <img src='./icons/golang-64.png' alt='Go icon' title='Go' height='16'/> Go
 
@@ -9214,7 +9214,7 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-* <b><code>   198⭐</code></b> <b><code>     8🍴</code></b> [PlayStatus](https://github.com/nbolar/PlayStatus) ⭐ 198 | 🐛 2 | 🌐 Swift | 📅 2026-10-01) - PlayStatus is a macOS app that allows the control of Spotify and iTunes music playback from the menu bar.
+* <b><code>   198⭐</code></b> <b><code>     8🍴</code></b> [PlayStatus](https://github.com/nbolar/PlayStatus) ⭐ 199 | 🐛 2 | 🌐 Swift | 📅 2026-10-01) - PlayStatus is a macOS app that allows the control of Spotify and iTunes music playback from the menu bar.
 
   **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
 
@@ -9310,7 +9310,7 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-* <b><code>    12⭐</code></b> <b><code>     1🍴</code></b> [Vespertine](https://github.com/szeremeta1/Vespertine) ⭐ 12 | 🐛 1 | 🌐 Swift | 📅 2026-11-08) - Bit-perfect music player that switches the DAC to each track's native format, plays DSD, Dolby Atmos, TrueHD and DTS, and detects fake hi-res files.
+* <b><code>    12⭐</code></b> <b><code>     1🍴</code></b> [Vespertine](https://github.com/szeremeta1/Vespertine) ⭐ 13 | 🐛 4 | 🌐 Swift | 📅 2026-11-09) - Bit-perfect music player that switches the DAC to each track's native format, plays DSD, Dolby Atmos, TrueHD and DTS, and detects fake hi-res files.
 
   **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift <img src='./icons/c-64.png' alt='C icon' title='C' height='16'/> C
 
@@ -9331,7 +9331,7 @@ You can see in which language an app is written. Currently there are following l
 
 ### 📰 News (6)
 
-* <b><code> 10510⭐</code></b> <b><code>   787🍴</code></b> [NetNewsWire](https://github.com/Ranchero-Software/NetNewsWire) ⭐ 10,512 | 🐛 622 | 🌐 Swift | 📅 2026-11-08) - Feed reader for macOS.
+* <b><code> 10510⭐</code></b> <b><code>   787🍴</code></b> [NetNewsWire](https://github.com/Ranchero-Software/NetNewsWire) ⭐ 10,514 | 🐛 616 | 🌐 Swift | 📅 2026-11-09) - Feed reader for macOS.
 
   **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
 
@@ -9356,7 +9356,7 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-* <b><code>  1982⭐</code></b> <b><code>   235🍴</code></b> [Vienna](https://github.com/ViennaRSS/vienna-rss) ⭐ 1,982 | 🐛 55 | 🌐 Objective-C | 📅 2026-11-07) - Vienna is a RSS/Atom newsreader for macOS.
+* <b><code>  1982⭐</code></b> <b><code>   235🍴</code></b> [Vienna](https://github.com/ViennaRSS/vienna-rss) ⭐ 1,982 | 🐛 56 | 🌐 Objective-C | 📅 2026-11-07) - Vienna is a RSS/Atom newsreader for macOS.
 
   **Languages:** <img src='./icons/objective-c-64.png' alt='Objective-C icon' title='Objective-C' height='16'/> Objective-C
 
@@ -9401,7 +9401,7 @@ You can see in which language an app is written. Currently there are following l
 
 ### 📔 Notes (26)
 
-* <b><code> 57072⭐</code></b> <b><code>  6404🍴</code></b> [joplin](https://github.com/laurent22/joplin) ⭐ 57,087 | 🐛 662 | 🌐 TypeScript | 📅 2026-11-08) - Note taking and to-do application with synchronization capabilities for Windows, macOS, Linux, Android and iOS.
+* <b><code> 57072⭐</code></b> <b><code>  6404🍴</code></b> [joplin](https://github.com/laurent22/joplin) ⭐ 57,114 | 🐛 674 | 🌐 TypeScript | 📅 2026-11-09) - Note taking and to-do application with synchronization capabilities for Windows, macOS, Linux, Android and iOS.
 
   **Languages:** <img src='./icons/javascript-64.png' alt='JavaScript icon' title='JavaScript' height='16'/> JavaScript
 
@@ -9418,7 +9418,7 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-* <b><code> 14899⭐</code></b> <b><code>  1049🍴</code></b> [Notesnook](https://github.com/streetwriters/notesnook) ⭐ 14,898 | 🐛 1,146 | 🌐 TypeScript | 📅 2026-11-06) - A fully open source and end-to-end encrypted note taking alternative to Evernote.
+* <b><code> 14899⭐</code></b> <b><code>  1049🍴</code></b> [Notesnook](https://github.com/streetwriters/notesnook) ⭐ 14,907 | 🐛 1,146 | 🌐 TypeScript | 📅 2026-11-09) - A fully open source and end-to-end encrypted note taking alternative to Evernote.
 
   **Languages:** <img src='./icons/javascript-64.png' alt='JavaScript icon' title='JavaScript' height='16'/> JavaScript <img src='./icons/typescript-64.png' alt='TypeScript icon' title='TypeScript' height='16'/> TypeScript
 
@@ -9433,7 +9433,7 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-* <b><code> 12990⭐</code></b> <b><code>   984🍴</code></b> [NoteGen](https://github.com/codexu/note-gen) ⭐ 12,990 | 🐛 84 | 🌐 TypeScript | 📅 2026-11-04) - Local-first Markdown note-taking app that captures scattered information and organizes it into structured notes with AI.
+* <b><code> 12990⭐</code></b> <b><code>   984🍴</code></b> [NoteGen](https://github.com/codexu/note-gen) ⭐ 12,995 | 🐛 84 | 🌐 TypeScript | 📅 2026-11-04) - Local-first Markdown note-taking app that captures scattered information and organizes it into structured notes with AI.
 
   **Languages:** <img src='./icons/typescript-64.png' alt='TypeScript icon' title='TypeScript' height='16'/> TypeScript <img src='./icons/rust-64.png' alt='Rust icon' title='Rust' height='16'/> Rust
 
@@ -9454,11 +9454,11 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-* <b><code>  6706⭐</code></b> <b><code>   564🍴</code></b> [Standard Notes](https://github.com/standardnotes/app) ⭐ 6,708 | 🐛 95 | 🌐 TypeScript | 📅 2026-11-04) - Safe place for your notes, thoughts, and life's work.
+* <b><code>  6706⭐</code></b> <b><code>   564🍴</code></b> [Standard Notes](https://github.com/standardnotes/app) ⭐ 6,709 | 🐛 95 | 🌐 TypeScript | 📅 2026-11-04) - Safe place for your notes, thoughts, and life's work.
 
   **Languages:** <img src='./icons/javascript-64.png' alt='JavaScript icon' title='JavaScript' height='16'/> JavaScript <img src='./icons/css-64.png' alt='CSS icon' title='CSS' height='16'/> CSS
 
-* <b><code>  5946⭐</code></b> <b><code>   499🍴</code></b> [QOwnNotes](https://github.com/pbek/QOwnNotes) ⭐ 5,948 | 🐛 68 | 🌐 C++ | 📅 2026-11-07) - Plain-text file notepad and todo-list manager with markdown support and ownCloud / Nextcloud integration.
+* <b><code>  5946⭐</code></b> <b><code>   499🍴</code></b> [QOwnNotes](https://github.com/pbek/QOwnNotes) ⭐ 5,952 | 🐛 69 | 🌐 C++ | 📅 2026-11-07) - Plain-text file notepad and todo-list manager with markdown support and ownCloud / Nextcloud integration.
 
   **Languages:** <img src='./icons/cpp-64.png' alt='C++ icon' title='C++' height='16'/> C++
 
@@ -9477,7 +9477,7 @@ You can see in which language an app is written. Currently there are following l
 
   **Languages:** <img src='./icons/javascript-64.png' alt='JavaScript icon' title='JavaScript' height='16'/> JavaScript <img src='./icons/css-64.png' alt='CSS icon' title='CSS' height='16'/> CSS
 
-* <b><code>  3092⭐</code></b> <b><code>   123🍴</code></b> [Dnote](https://github.com/dnote/dnote) ⭐ 3,092 | 🐛 38 | 🌐 Go | 📅 2026-10-17) - A simple command line notebook with multi-device sync and web interface.
+* <b><code>  3092⭐</code></b> <b><code>   123🍴</code></b> [Dnote](https://github.com/dnote/dnote) ⭐ 3,093 | 🐛 38 | 🌐 Go | 📅 2026-10-17) - A simple command line notebook with multi-device sync and web interface.
 
   **Languages:** <img src='./icons/golang-64.png' alt='Go icon' title='Go' height='16'/> Go <img src='./icons/typescript-64.png' alt='TypeScript icon' title='TypeScript' height='16'/> TypeScript
 
@@ -9492,7 +9492,7 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-* <b><code>  1557⭐</code></b> <b><code>   173🍴</code></b> [Simplenote](https://github.com/Automattic/simplenote-macos) ⭐ 1,557 | 🐛 179 | 🌐 Swift | 📅 2026-11-05) - Simplest way to keep notes.
+* <b><code>  1557⭐</code></b> <b><code>   173🍴</code></b> [Simplenote](https://github.com/Automattic/simplenote-macos) ⭐ 1,557 | 🐛 180 | 🌐 Swift | 📅 2026-11-09) - Simplest way to keep notes.
 
   **Languages:** <img src='./icons/objective-c-64.png' alt='Objective-C icon' title='Objective-C' height='16'/> Objective-C
 
@@ -9530,7 +9530,7 @@ You can see in which language an app is written. Currently there are following l
 
   **Languages:** <img src='./icons/javascript-64.png' alt='JavaScript icon' title='JavaScript' height='16'/> JavaScript <img src='./icons/css-64.png' alt='CSS icon' title='CSS' height='16'/> CSS
 
-* <b><code>   308⭐</code></b> <b><code>    27🍴</code></b> [OpenHabitTracker](https://github.com/Jinjinov/OpenHabitTracker) ⭐ 308 | 🐛 7 | 🌐 C# | 📅 2026-11-08) - Take notes, plan tasks, track habits. Free, open source, all data stays on your device.
+* <b><code>   308⭐</code></b> <b><code>    27🍴</code></b> [OpenHabitTracker](https://github.com/Jinjinov/OpenHabitTracker) ⭐ 309 | 🐛 7 | 🌐 C# | 📅 2026-11-09) - Take notes, plan tasks, track habits. Free, open source, all data stays on your device.
 
   **Languages:** <img src='./icons/csharp-64.png' alt='C# icon' title='C#' height='16'/> C#
 
@@ -9547,7 +9547,7 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-* <b><code>   267⭐</code></b> <b><code>    19🍴</code></b> [Stik](https://github.com/0xMassi/stik_app) ⭐ 267 | 🐛 17 | 🌐 TypeScript | 📅 2026-11-02) - Instant thought capture for macOS. Global hotkey summons a post-it note, type and close. Notes stored as plain markdown files.
+* <b><code>   267⭐</code></b> <b><code>    19🍴</code></b> [Stik](https://github.com/0xMassi/stik_app) ⭐ 267 | 🐛 17 | 🌐 TypeScript | 📅 2026-11-09) - Instant thought capture for macOS. Global hotkey summons a post-it note, type and close. Notes stored as plain markdown files.
 
   **Languages:** <img src='./icons/rust-64.png' alt='Rust icon' title='Rust' height='16'/> Rust <img src='./icons/typescript-64.png' alt='TypeScript icon' title='TypeScript' height='16'/> TypeScript
 
@@ -9619,7 +9619,7 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-* <b><code>   103⭐</code></b> <b><code>    12🍴</code></b> [OATS](https://github.com/ariso-ai/oats) ⭐ 103 | 🐛 19 | 🌐 Rust | 📅 2026-11-08) - Open-source local-first macOS meeting-notes app with live transcription, speaker labels, AI summaries, and an offline on-device mode.
+* <b><code>   103⭐</code></b> <b><code>    12🍴</code></b> [OATS](https://github.com/ariso-ai/oats) ⭐ 103 | 🐛 20 | 🌐 Rust | 📅 2026-11-08) - Open-source local-first macOS meeting-notes app with live transcription, speaker labels, AI summaries, and an offline on-device mode.
 
   **Languages:** <img src='./icons/rust-64.png' alt='Rust icon' title='Rust' height='16'/> Rust <img src='./icons/typescript-64.png' alt='TypeScript icon' title='TypeScript' height='16'/> TypeScript
 
@@ -9647,24 +9647,7 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-* <b><code>    35⭐</code></b> <b><code>     1🍴</code></b> [Notchi](https://github.com/cyrus-cai/notchi) ⭐ 35 | 🐛 2 | 🌐 Swift | 📅 2026-11-07) - Turn the MacBook notch into a place to ask AI, save notes, set reminders, or run coding agents.
-
-  **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
-
-  **Website:** 🌎 [https://www.notch.website/](www.notch.website/)
-
-  <details>
-  <summary>Screenshots</summary>
-  <p>
-
-  <img src='https://raw.githubusercontent.com/cyrus-cai/notchi/master/.github/shots/verb-ask.jpg' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
-
-  <img src='https://raw.githubusercontent.com/cyrus-cai/notchi/master/.github/shots/agent-compose.jpg' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
-
-  </p>
-  </details>
-
-* <b><code>    33⭐</code></b> <b><code>     2🍴</code></b> [AutoDoc](https://github.com/DuetDisplay/AutoDoc) ⭐ 34 | 🐛 20 | 🌐 TypeScript | 📅 2026-11-05) - Private, local-first meeting notes with on-device transcription and AI summaries.
+* <b><code>    33⭐</code></b> <b><code>     2🍴</code></b> [AutoDoc](https://github.com/DuetDisplay/AutoDoc) ⭐ 63 | 🐛 20 | 🌐 TypeScript | 📅 2026-11-05) - Private, local-first meeting notes with on-device transcription and AI summaries.
 
   **Languages:** <img src='./icons/typescript-64.png' alt='TypeScript icon' title='TypeScript' height='16'/> TypeScript <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
 
@@ -9677,6 +9660,23 @@ You can see in which language an app is written. Currently there are following l
   <img src='https://raw.githubusercontent.com/DuetDisplay/AutoDoc/main/docs/assets/screenshots/notes.png' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
 
   <img src='https://raw.githubusercontent.com/DuetDisplay/AutoDoc/main/docs/assets/screenshots/transcript.png' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
+
+  </p>
+  </details>
+
+* <b><code>    35⭐</code></b> <b><code>     1🍴</code></b> [Notchi](https://github.com/cyrus-cai/notchi) ⭐ 35 | 🐛 2 | 🌐 Swift | 📅 2026-11-09) - Turn the MacBook notch into a place to ask AI, save notes, set reminders, or run coding agents.
+
+  **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
+
+  **Website:** 🌎 [https://www.notch.website/](www.notch.website/)
+
+  <details>
+  <summary>Screenshots</summary>
+  <p>
+
+  <img src='https://raw.githubusercontent.com/cyrus-cai/notchi/master/.github/shots/verb-ask.jpg' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
+
+  <img src='https://raw.githubusercontent.com/cyrus-cai/notchi/master/.github/shots/agent-compose.jpg' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
 
   </p>
   </details>
@@ -9721,11 +9721,11 @@ You can see in which language an app is written. Currently there are following l
 
 ### 📦 Other (27)
 
-* <b><code> 15596⭐</code></b> <b><code>   967🍴</code></b> [Reactotron](https://github.com/infinitered/reactotron) ⭐ 15,596 | 🐛 155 | 🌐 TypeScript | 📅 2026-08-13) - Desktop app for inspecting your React JS and React Native projects. macOS, Linux, and Windows.
+* <b><code> 15596⭐</code></b> <b><code>   967🍴</code></b> [Reactotron](https://github.com/infinitered/reactotron) ⭐ 15,597 | 🐛 155 | 🌐 TypeScript | 📅 2026-08-13) - Desktop app for inspecting your React JS and React Native projects. macOS, Linux, and Windows.
 
   **Languages:** <img src='./icons/javascript-64.png' alt='JavaScript icon' title='JavaScript' height='16'/> JavaScript
 
-* <b><code> 10433⭐</code></b> <b><code>   806🍴</code></b> [React Native Debugger](https://github.com/jhen0409/react-native-debugger) ⭐ 10,433 | 🐛 182 | 🌐 JavaScript | 📅 2023-10-21) - Desktop app for inspecting your React Native projects. macOS, Linux, and Windows.
+* <b><code> 10433⭐</code></b> <b><code>   806🍴</code></b> [React Native Debugger](https://github.com/jhen0409/react-native-debugger) ⭐ 10,435 | 🐛 182 | 🌐 JavaScript | 📅 2023-10-21) - Desktop app for inspecting your React Native projects. macOS, Linux, and Windows.
 
   **Languages:** <img src='./icons/javascript-64.png' alt='JavaScript icon' title='JavaScript' height='16'/> JavaScript
 
@@ -9738,15 +9738,15 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-* <b><code> 10347⭐</code></b> <b><code>   478🍴</code></b> [Lepton](https://github.com/hackjutsu/Lepton) ⭐ 10,346 | 🐛 30 | 🌐 JavaScript | 📅 2026-11-02) - Democratizing Code Snippets Management (macOS/Win/Linux).
+* <b><code> 10347⭐</code></b> <b><code>   478🍴</code></b> [Lepton](https://github.com/hackjutsu/Lepton) ⭐ 10,346 | 🐛 31 | 🌐 JavaScript | 📅 2026-11-09) - Democratizing Code Snippets Management (macOS/Win/Linux).
 
   **Languages:** <img src='./icons/javascript-64.png' alt='JavaScript icon' title='JavaScript' height='16'/> JavaScript
 
-* <b><code> 10031⭐</code></b> <b><code>   484🍴</code></b> [ImageOptim](https://github.com/ImageOptim/ImageOptim) ⭐ 10,032 | 🐛 213 | 🌐 HTML | 📅 2026-07-13) - GUI image optimizer for Mac.
+* <b><code> 10031⭐</code></b> <b><code>   484🍴</code></b> [ImageOptim](https://github.com/ImageOptim/ImageOptim) ⭐ 10,033 | 🐛 213 | 🌐 HTML | 📅 2026-07-13) - GUI image optimizer for Mac.
 
   **Languages:** <img src='./icons/objective-c-64.png' alt='Objective-C icon' title='Objective-C' height='16'/> Objective-C
 
-* <b><code>  6534⭐</code></b> <b><code>   259🍴</code></b> [Numi](https://github.com/nikolaeu/numi) ⭐ 6,534 | 🐛 135 | 🌐 JavaScript | 📅 2026-07-19) - Beautiful calculator app for macOS
+* <b><code>  6534⭐</code></b> <b><code>   259🍴</code></b> [Numi](https://github.com/nikolaeu/numi) ⭐ 6,535 | 🐛 135 | 🌐 JavaScript | 📅 2026-07-19) - Beautiful calculator app for macOS
 
   **Languages:** <img src='./icons/javascript-64.png' alt='JavaScript icon' title='JavaScript' height='16'/> JavaScript
 
@@ -9791,7 +9791,7 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-* <b><code>  4008⭐</code></b> <b><code>   206🍴</code></b> [syncthing-macosx](https://github.com/syncthing/syncthing-macos) ⭐ 4,010 | 🐛 48 | 🌐 Objective-C | 📅 2026-10-22) - Frugal nativemacOS macOS Syncthing application bundle.
+* <b><code>  4008⭐</code></b> <b><code>   206🍴</code></b> [syncthing-macosx](https://github.com/syncthing/syncthing-macos) ⭐ 4,011 | 🐛 48 | 🌐 Objective-C | 📅 2026-10-22) - Frugal nativemacOS macOS Syncthing application bundle.
 
   **Languages:** <img src='./icons/objective-c-64.png' alt='Objective-C icon' title='Objective-C' height='16'/> Objective-C
 
@@ -9812,7 +9812,7 @@ You can see in which language an app is written. Currently there are following l
 
   **Languages:** <img src='./icons/objective-c-64.png' alt='Objective-C icon' title='Objective-C' height='16'/> Objective-C
 
-* <b><code>  3350⭐</code></b> <b><code>  1160🍴</code></b> [Betaflight Configurator](https://github.com/betaflight/betaflight-configurator) ⭐ 3,351 | 🐛 68 | 🌐 TypeScript | 📅 2026-11-06) - Cross platform configuration tool for the Betaflight firmware.
+* <b><code>  3350⭐</code></b> <b><code>  1160🍴</code></b> [Betaflight Configurator](https://github.com/betaflight/betaflight-configurator) ⭐ 3,352 | 🐛 69 | 🌐 TypeScript | 📅 2026-11-09) - Cross platform configuration tool for the Betaflight firmware.
 
   **Languages:** <img src='./icons/javascript-64.png' alt='JavaScript icon' title='JavaScript' height='16'/> JavaScript
 
@@ -9827,7 +9827,7 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-* <b><code>  3179⭐</code></b> <b><code>   557🍴</code></b> [Gramps](https://github.com/gramps-project/gramps) ⭐ 3,179 | 🐛 212 | 🌐 Python | 📅 2026-10-27) - A genealogy program that is both intuitive for hobbyists and feature-complete for professional genealogists.
+* <b><code>  3179⭐</code></b> <b><code>   557🍴</code></b> [Gramps](https://github.com/gramps-project/gramps) ⭐ 3,180 | 🐛 211 | 🌐 Python | 📅 2026-10-27) - A genealogy program that is both intuitive for hobbyists and feature-complete for professional genealogists.
 
   **Languages:** <img src='./icons/python-64.png' alt='Python icon' title='Python' height='16'/> Python
 
@@ -9943,7 +9943,7 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-* <b><code>    16⭐</code></b> <b><code>    28🍴</code></b> [Posnic](https://github.com/Posnic/POS) ⭐ 16 | 🐛 414 | 🌐 JavaScript | 📅 2026-11-08) - Offline-first open source POS and billing software for retail shops and restaurants.
+* <b><code>    16⭐</code></b> <b><code>    28🍴</code></b> [Posnic](https://github.com/Posnic/POS) ⭐ 16 | 🐛 415 | 🌐 JavaScript | 📅 2026-11-09) - Offline-first open source POS and billing software for retail shops and restaurants.
 
   **Languages:** <img src='./icons/javascript-64.png' alt='JavaScript icon' title='JavaScript' height='16'/> JavaScript
 
@@ -9979,13 +9979,13 @@ You can see in which language an app is written. Currently there are following l
 
 ### ▶️ Player (10)
 
-* <b><code> 47042⭐</code></b> <b><code>  2989🍴</code></b> [IINA](https://github.com/iina/iina) ⭐ 47,047 | 🐛 1,988 | 🌐 Swift | 📅 2026-11-08) - The modern video player for macOS.
+* <b><code> 47042⭐</code></b> <b><code>  2989🍴</code></b> [IINA](https://github.com/iina/iina) ⭐ 47,068 | 🐛 1,992 | 🌐 Swift | 📅 2026-11-08) - The modern video player for macOS.
 
   **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
 
   **Website:** 🌎 [https://iina.io](iina.io)
 
-* <b><code> 37983⭐</code></b> <b><code>  3641🍴</code></b> [MPV](https://github.com/mpv-player/mpv) ⭐ 37,996 | 🐛 1,162 | 🌐 C | 📅 2026-11-08) - Lightweight, highly configurable media player.
+* <b><code> 37983⭐</code></b> <b><code>  3641🍴</code></b> [MPV](https://github.com/mpv-player/mpv) ⭐ 38,023 | 🐛 1,165 | 🌐 C | 📅 2026-11-09) - Lightweight, highly configurable media player.
 
   **Languages:** <img src='./icons/c-64.png' alt='C icon' title='C' height='16'/> C
 
@@ -10047,7 +10047,7 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-* <b><code>    60⭐</code></b> <b><code>     2🍴</code></b> [Frame Player](https://github.com/risenxxx/frame-player) ⭐ 60 | 🐛 9 | 🌐 TypeScript | 📅 2026-11-08) - Video player built on libmpv with seekbar previews, subtitle search matched to the release, torrent streaming, casting to Chromecast and DLNA televisions, and watching together in sync.
+* <b><code>    60⭐</code></b> <b><code>     2🍴</code></b> [Frame Player](https://github.com/risenxxx/frame-player) ⭐ 61 | 🐛 12 | 🌐 TypeScript | 📅 2026-11-08) - Video player built on libmpv with seekbar previews, subtitle search matched to the release, torrent streaming, casting to Chromecast and DLNA televisions, and watching together in sync.
 
   **Languages:** <img src='./icons/rust-64.png' alt='Rust icon' title='Rust' height='16'/> Rust <img src='./icons/typescript-64.png' alt='TypeScript icon' title='TypeScript' height='16'/> TypeScript
 
@@ -10091,7 +10091,7 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-* <b><code>    12⭐</code></b> <b><code>     1🍴</code></b> [Vespertine](https://github.com/szeremeta1/Vespertine) ⭐ 12 | 🐛 1 | 🌐 Swift | 📅 2026-11-08) - Bit-perfect music player that switches the DAC to each track's native format, plays DSD, Dolby Atmos, TrueHD and DTS, and detects fake hi-res files.
+* <b><code>    12⭐</code></b> <b><code>     1🍴</code></b> [Vespertine](https://github.com/szeremeta1/Vespertine) ⭐ 13 | 🐛 4 | 🌐 Swift | 📅 2026-11-09) - Bit-perfect music player that switches the DAC to each track's native format, plays DSD, Dolby Atmos, TrueHD and DTS, and detects fake hi-res files.
 
   **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift <img src='./icons/c-64.png' alt='C icon' title='C' height='16'/> C
 
@@ -10137,7 +10137,7 @@ You can see in which language an app is written. Currently there are following l
 
   **Languages:** <img src='./icons/python-64.png' alt='Python icon' title='Python' height='16'/> Python
 
-* <b><code>  1455⭐</code></b> <b><code>   224🍴</code></b> [gPodder](https://github.com/gpodder/gpodder) ⭐ 1,455 | 🐛 349 | 🌐 Python | 📅 2026-11-03) - gPodder is a simple, open source podcast client.
+* <b><code>  1455⭐</code></b> <b><code>   224🍴</code></b> [gPodder](https://github.com/gpodder/gpodder) ⭐ 1,456 | 🐛 349 | 🌐 Python | 📅 2026-11-03) - gPodder is a simple, open source podcast client.
 
   **Languages:** <img src='./icons/python-64.png' alt='Python icon' title='Python' height='16'/> Python
 
@@ -10197,7 +10197,7 @@ You can see in which language an app is written. Currently there are following l
 
 ### ⏱️ Productivity (165)
 
-* <b><code> 29982⭐</code></b> <b><code>  1042🍴</code></b> [Ice](https://github.com/jordanbaird/Ice) ⭐ 29,989 | 🐛 454 | 🌐 Swift | 📅 2026-10-06) - Ice is a versatile menu bar manager that goes beyond hiding and showing items to offer a rich set of productivity features.
+* <b><code> 29982⭐</code></b> <b><code>  1042🍴</code></b> [Ice](https://github.com/jordanbaird/Ice) ⭐ 29,995 | 🐛 454 | 🌐 Swift | 📅 2026-10-06) - Ice is a versatile menu bar manager that goes beyond hiding and showing items to offer a rich set of productivity features.
 
   **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
 
@@ -10214,7 +10214,7 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-* <b><code> 26049⭐</code></b> <b><code>  1841🍴</code></b> [Readest](https://github.com/readest/readest) ⭐ 26,073 | 🐛 139 | 🌐 TypeScript | 📅 2026-11-08) - Readest is a modern, feature-rich ebook reader designed for avid readers.
+* <b><code> 26049⭐</code></b> <b><code>  1841🍴</code></b> [Readest](https://github.com/readest/readest) ⭐ 26,126 | 🐛 148 | 🌐 TypeScript | 📅 2026-11-09) - Readest is a modern, feature-rich ebook reader designed for avid readers.
 
   **Languages:** <img src='./icons/typescript-64.png' alt='TypeScript icon' title='TypeScript' height='16'/> TypeScript
 
@@ -10235,7 +10235,7 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-* <b><code> 23493⭐</code></b> <b><code>  2262🍴</code></b> [Super Productivity](https://github.com/johannesjo/super-productivity) ⭐ 23,507 | 🐛 1,176 | 🌐 TypeScript | 📅 2026-11-08) - Free to do list & time tracker for programmers & designers with Jira integration.
+* <b><code> 23493⭐</code></b> <b><code>  2262🍴</code></b> [Super Productivity](https://github.com/johannesjo/super-productivity) ⭐ 23,547 | 🐛 1,200 | 🌐 TypeScript | 📅 2026-11-09) - Free to do list & time tracker for programmers & designers with Jira integration.
 
   **Languages:** <img src='./icons/typescript-64.png' alt='TypeScript icon' title='TypeScript' height='16'/> TypeScript <img src='./icons/javascript-64.png' alt='JavaScript icon' title='JavaScript' height='16'/> JavaScript
 
@@ -10250,7 +10250,7 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-* <b><code> 22262⭐</code></b> <b><code>  2275🍴</code></b> [Screenpipe](https://github.com/screenpipe/screenpipe) ⭐ 22,270 | 🐛 26 | 🌐 Rust | 📅 2026-11-07) - 24/7 screen and audio recording with AI-powered search. Local-first, privacy-focused rewind alternative.
+* <b><code> 22262⭐</code></b> <b><code>  2275🍴</code></b> [Screenpipe](https://github.com/screenpipe/screenpipe) ⭐ 22,293 | 🐛 27 | 🌐 Rust | 📅 2026-11-09) - 24/7 screen and audio recording with AI-powered search. Local-first, privacy-focused rewind alternative.
 
   **Languages:** <img src='./icons/rust-64.png' alt='Rust icon' title='Rust' height='16'/> Rust <img src='./icons/typescript-64.png' alt='TypeScript icon' title='TypeScript' height='16'/> TypeScript
 
@@ -10265,7 +10265,7 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-* <b><code> 22234⭐</code></b> <b><code>  1277🍴</code></b> [Maccy](https://github.com/p0deje/Maccy) ⭐ 22,240 | 🐛 221 | 🌐 Swift | 📅 2026-10-26) - Lightweight search-as-you-type clipboard manager.
+* <b><code> 22234⭐</code></b> <b><code>  1277🍴</code></b> [Maccy](https://github.com/p0deje/Maccy) ⭐ 22,255 | 🐛 223 | 🌐 Swift | 📅 2026-10-26) - Lightweight search-as-you-type clipboard manager.
 
   **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
 
@@ -10278,17 +10278,17 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-* <b><code> 19550⭐</code></b> <b><code>  1076🍴</code></b> [ActivityWatch](https://github.com/ActivityWatch/activitywatch) ⭐ 19,559 | 🐛 137 | 🌐 Python | 📅 2026-11-06) - Open-source automated time tracker that tracks how you spend time on your devices.
+* <b><code> 19550⭐</code></b> <b><code>  1076🍴</code></b> [ActivityWatch](https://github.com/ActivityWatch/activitywatch) ⭐ 19,573 | 🐛 136 | 🌐 Python | 📅 2026-11-09) - Open-source automated time tracker that tracks how you spend time on your devices.
 
   **Languages:** <img src='./icons/python-64.png' alt='Python icon' title='Python' height='16'/> Python <img src='./icons/typescript-64.png' alt='TypeScript icon' title='TypeScript' height='16'/> TypeScript
 
   **Website:** 🌎 [https://activitywatch.net](activitywatch.net)
 
-* <b><code>     ?⭐</code></b> <b><code>     ?🍴</code></b> [Xournal++](https://github.com/xournalpp/xournalpp/) ⭐ 15,647 | 🐛 1,266 | 🌐 C++ | 📅 2026-11-08) - Take handwritten notes with ease
+* <b><code>     ?⭐</code></b> <b><code>     ?🍴</code></b> [Xournal++](https://github.com/xournalpp/xournalpp/) ⭐ 15,653 | 🐛 1,259 | 🌐 C++ | 📅 2026-11-09) - Take handwritten notes with ease
 
   **Languages:** <img src='./icons/cpp-64.png' alt='C++ icon' title='C++' height='16'/> C++ <img src='./icons/Lua-64.png' alt='Lua icon' title='Lua' height='16'/> Lua <img src='./icons/c-64.png' alt='C icon' title='C' height='16'/> C <img src='./icons/python-64.png' alt='Python icon' title='Python' height='16'/> Python
 
-* <b><code> 14741⭐</code></b> <b><code>   490🍴</code></b> [espanso](https://github.com/espanso/espanso) ⭐ 14,746 | 🐛 592 | 🌐 Rust | 📅 2026-11-08) - Cross-platform Text Expander, a powerful replacement for Alfred Snippets
+* <b><code> 14741⭐</code></b> <b><code>   490🍴</code></b> [espanso](https://github.com/espanso/espanso) ⭐ 14,755 | 🐛 590 | 🌐 Rust | 📅 2026-11-08) - Cross-platform Text Expander, a powerful replacement for Alfred Snippets
 
   **Languages:** <img src='./icons/rust-64.png' alt='Rust icon' title='Rust' height='16'/> Rust
 
@@ -10303,13 +10303,13 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-* <b><code> 12990⭐</code></b> <b><code>   984🍴</code></b> [NoteGen](https://github.com/codexu/note-gen) ⭐ 12,990 | 🐛 84 | 🌐 TypeScript | 📅 2026-11-04) - Local-first Markdown note-taking app that captures scattered information and organizes it into structured notes with AI.
+* <b><code> 12990⭐</code></b> <b><code>   984🍴</code></b> [NoteGen](https://github.com/codexu/note-gen) ⭐ 12,995 | 🐛 84 | 🌐 TypeScript | 📅 2026-11-04) - Local-first Markdown note-taking app that captures scattered information and organizes it into structured notes with AI.
 
   **Languages:** <img src='./icons/typescript-64.png' alt='TypeScript icon' title='TypeScript' height='16'/> TypeScript <img src='./icons/rust-64.png' alt='Rust icon' title='Rust' height='16'/> Rust
 
   **Website:** 🌎 [https://notegen.top/](notegen.top/)
 
-* <b><code>  9094⭐</code></b> <b><code>   525🍴</code></b> [Orkas](https://github.com/Orkas-AI/Orkas) ⭐ 9,105 | 🐛 16 | 🌐 JavaScript | 📅 2026-11-08) - Local-first multi-agent desktop application where a Commander coordinates specialist agents for research, coding, data analysis, documents, and media.
+* <b><code>  9094⭐</code></b> <b><code>   525🍴</code></b> [Orkas](https://github.com/Orkas-AI/Orkas) ⭐ 9,142 | 🐛 16 | 🌐 JavaScript | 📅 2026-11-09) - Local-first multi-agent desktop application where a Commander coordinates specialist agents for research, coding, data analysis, documents, and media.
 
   **Languages:** <img src='./icons/typescript-64.png' alt='TypeScript icon' title='TypeScript' height='16'/> TypeScript <img src='./icons/javascript-64.png' alt='JavaScript icon' title='JavaScript' height='16'/> JavaScript <img src='./icons/css-64.png' alt='CSS icon' title='CSS' height='16'/> CSS <img src='./icons/python-64.png' alt='Python icon' title='Python' height='16'/> Python
 
@@ -10330,11 +10330,11 @@ You can see in which language an app is written. Currently there are following l
 
   **Languages:** <img src='./icons/javascript-64.png' alt='JavaScript icon' title='JavaScript' height='16'/> JavaScript
 
-* <b><code>  6642⭐</code></b> <b><code>   587🍴</code></b> [stretchly](https://github.com/hovancik/stretchly) ⭐ 6,641 | 🐛 126 | 🌐 JavaScript | 📅 2026-11-05) - Cross-platform electron app that reminds you to take breaks when working with computer.
+* <b><code>  6642⭐</code></b> <b><code>   587🍴</code></b> [stretchly](https://github.com/hovancik/stretchly) ⭐ 6,639 | 🐛 124 | 🌐 JavaScript | 📅 2026-11-09) - Cross-platform electron app that reminds you to take breaks when working with computer.
 
   **Languages:** <img src='./icons/javascript-64.png' alt='JavaScript icon' title='JavaScript' height='16'/> JavaScript
 
-* <b><code>  6534⭐</code></b> <b><code>   259🍴</code></b> [Numi](https://github.com/nikolaeu/numi) ⭐ 6,534 | 🐛 135 | 🌐 JavaScript | 📅 2026-07-19) - Beautiful calculator app for macOS
+* <b><code>  6534⭐</code></b> <b><code>   259🍴</code></b> [Numi](https://github.com/nikolaeu/numi) ⭐ 6,535 | 🐛 135 | 🌐 JavaScript | 📅 2026-07-19) - Beautiful calculator app for macOS
 
   **Languages:** <img src='./icons/javascript-64.png' alt='JavaScript icon' title='JavaScript' height='16'/> JavaScript
 
@@ -10349,7 +10349,7 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-* <b><code>  5946⭐</code></b> <b><code>   499🍴</code></b> [QOwnNotes](https://github.com/pbek/QOwnNotes) ⭐ 5,948 | 🐛 68 | 🌐 C++ | 📅 2026-11-07) - Plain-text file notepad and todo-list manager with markdown support and ownCloud / Nextcloud integration.
+* <b><code>  5946⭐</code></b> <b><code>   499🍴</code></b> [QOwnNotes](https://github.com/pbek/QOwnNotes) ⭐ 5,952 | 🐛 69 | 🌐 C++ | 📅 2026-11-07) - Plain-text file notepad and todo-list manager with markdown support and ownCloud / Nextcloud integration.
 
   **Languages:** <img src='./icons/cpp-64.png' alt='C++ icon' title='C++' height='16'/> C++
 
@@ -10364,7 +10364,7 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-* <b><code>  5944⭐</code></b> <b><code>   179🍴</code></b> [Clipboard](https://github.com/Slackadays/Clipboard) ⭐ 5,944 | 🐛 27 | 🌐 C++ | 📅 2026-05-06) - An easy-to-use clipboard manager with time saving features that work across all terminals.
+* <b><code>  5944⭐</code></b> <b><code>   179🍴</code></b> [Clipboard](https://github.com/Slackadays/Clipboard) ⭐ 5,945 | 🐛 27 | 🌐 C++ | 📅 2026-05-06) - An easy-to-use clipboard manager with time saving features that work across all terminals.
 
   **Languages:** <img src='./icons/cpp-64.png' alt='C++ icon' title='C++' height='16'/> C++
 
@@ -10385,7 +10385,7 @@ You can see in which language an app is written. Currently there are following l
 
   **Languages:** <img src='./icons/javascript-64.png' alt='JavaScript icon' title='JavaScript' height='16'/> JavaScript
 
-* <b><code>  5398⭐</code></b> <b><code>   304🍴</code></b> [MeetingBar](https://github.com/leits/MeetingBar) ⭐ 5,397 | 🐛 124 | 🌐 Swift | 📅 2026-11-04) - Menu bar app for your calendar meetings
+* <b><code>  5398⭐</code></b> <b><code>   304🍴</code></b> [MeetingBar](https://github.com/leits/MeetingBar) ⭐ 5,399 | 🐛 125 | 🌐 Swift | 📅 2026-11-04) - Menu bar app for your calendar meetings
 
   **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
 
@@ -10432,7 +10432,7 @@ You can see in which language an app is written. Currently there are following l
 
   **Languages:** <img src='./icons/objective-c-64.png' alt='Objective-C icon' title='Objective-C' height='16'/> Objective-C
 
-* <b><code>  4046⭐</code></b> <b><code>   276🍴</code></b> [Itsycal](https://github.com/sfsam/Itsycal) ⭐ 4,046 | 🐛 77 | 🌐 Objective-C | 📅 2026-11-07) - A tiny calendar for that lives in the Mac menu bar.
+* <b><code>  4046⭐</code></b> <b><code>   276🍴</code></b> [Itsycal](https://github.com/sfsam/Itsycal) ⭐ 4,047 | 🐛 72 | 🌐 Objective-C | 📅 2026-11-09) - A tiny calendar for that lives in the Mac menu bar.
 
   **Languages:** <img src='./icons/objective-c-64.png' alt='Objective-C icon' title='Objective-C' height='16'/> Objective-C
 
@@ -10447,7 +10447,7 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-* <b><code>  3867⭐</code></b> <b><code>   225🍴</code></b> [Pennywise](https://github.com/kamranahmedse/pennywise) ⭐ 3,867 | 🐛 56 | 🌐 JavaScript | 📅 2025-12-22) - Pennywise opens any website or media in a small floating window that remains on top of all other applications. It's a great alternative to Helium.
+* <b><code>  3867⭐</code></b> <b><code>   225🍴</code></b> [Pennywise](https://github.com/kamranahmedse/pennywise) ⭐ 3,868 | 🐛 56 | 🌐 JavaScript | 📅 2025-12-22) - Pennywise opens any website or media in a small floating window that remains on top of all other applications. It's a great alternative to Helium.
 
   **Languages:** <img src='./icons/javascript-64.png' alt='JavaScript icon' title='JavaScript' height='16'/> JavaScript
 
@@ -10466,11 +10466,11 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-* <b><code>  3586⭐</code></b> <b><code>   222🍴</code></b> [TomatoBar](https://github.com/ivoronin/TomatoBar) ⭐ 3,587 | 🐛 48 | 🌐 Swift | 📅 2026-05-29) - Pomodoro Technique Timer for macOS with Touch Bar support.
+* <b><code>  3586⭐</code></b> <b><code>   222🍴</code></b> [TomatoBar](https://github.com/ivoronin/TomatoBar) ⭐ 3,589 | 🐛 48 | 🌐 Swift | 📅 2026-05-29) - Pomodoro Technique Timer for macOS with Touch Bar support.
 
   **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
 
-* <b><code>  2952⭐</code></b> <b><code>   129🍴</code></b> [Middleclick](https://github.com/artginzburg/MiddleClick-Ventura) ⭐ 2,952 | 🐛 33 | 🌐 Swift | 📅 2026-09-02) - Emulate a scroll wheel click with three finger Click or Tap on MacBook trackpad and Magic Mouse
+* <b><code>  2952⭐</code></b> <b><code>   129🍴</code></b> [Middleclick](https://github.com/artginzburg/MiddleClick-Ventura) ⭐ 2,953 | 🐛 33 | 🌐 Swift | 📅 2026-09-02) - Emulate a scroll wheel click with three finger Click or Tap on MacBook trackpad and Magic Mouse
 
   **Languages:** <img src='./icons/c-64.png' alt='C icon' title='C' height='16'/> C
 
@@ -10502,7 +10502,7 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-* <b><code>  2719⭐</code></b> <b><code>   204🍴</code></b> [Timer](https://github.com/michaelvillar/timer-app) ⭐ 2,719 | 🐛 6 | 🌐 Swift | 📅 2026-05-04) - Simple Timer app for Mac.
+* <b><code>  2719⭐</code></b> <b><code>   204🍴</code></b> [Timer](https://github.com/michaelvillar/timer-app) ⭐ 2,720 | 🐛 6 | 🌐 Swift | 📅 2026-05-04) - Simple Timer app for Mac.
 
   **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
 
@@ -10536,7 +10536,7 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-* <b><code>  2438⭐</code></b> <b><code>   397🍴</code></b> [Agent Teams AI](https://github.com/777genius/agent-teams-ai) ⭐ 2,447 | 🐛 51 | 🌐 TypeScript | 📅 2026-11-08) - Desktop control center for coordinating autonomous AI coding agent teams across multiple providers.
+* <b><code>  2438⭐</code></b> <b><code>   397🍴</code></b> [Agent Teams AI](https://github.com/777genius/agent-teams-ai) ⭐ 2,450 | 🐛 53 | 🌐 TypeScript | 📅 2026-11-09) - Desktop control center for coordinating autonomous AI coding agent teams across multiple providers.
 
   **Languages:** <img src='./icons/typescript-64.png' alt='TypeScript icon' title='TypeScript' height='16'/> TypeScript
 
@@ -10567,7 +10567,7 @@ You can see in which language an app is written. Currently there are following l
 
   **Languages:** <img src='./icons/objective-c-64.png' alt='Objective-C icon' title='Objective-C' height='16'/> Objective-C
 
-* <b><code>  1463⭐</code></b> <b><code>   123🍴</code></b> [PuppyOne](https://github.com/puppyone-ai/puppyone-desktop) ⭐ 1,479 | 🐛 7 | 🌐 TypeScript | 📅 2026-11-08) - A local-first workspace where you and your AI work on the same files.
+* <b><code>  1463⭐</code></b> <b><code>   123🍴</code></b> [PuppyOne](https://github.com/puppyone-ai/puppyone-desktop) ⭐ 1,493 | 🐛 7 | 🌐 TypeScript | 📅 2026-11-09) - A local-first workspace where you and your AI work on the same files.
 
   **Languages:** <img src='./icons/typescript-64.png' alt='TypeScript icon' title='TypeScript' height='16'/> TypeScript
 
@@ -10582,7 +10582,7 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-* <b><code>  1112⭐</code></b> <b><code>    68🍴</code></b> [RustCast](https://github.com/unsecretised/rustcast) ⭐ 1,112 | 🐛 0 | 🌐 Rust | 📅 2026-11-04) - Blazingly fast, customisable multi tool, application launcher
+* <b><code>  1112⭐</code></b> <b><code>    68🍴</code></b> [RustCast](https://github.com/unsecretised/rustcast) ⭐ 1,113 | 🐛 0 | 🌐 Rust | 📅 2026-11-04) - Blazingly fast, customisable multi tool, application launcher
 
   **Languages:** <img src='./icons/rust-64.png' alt='Rust icon' title='Rust' height='16'/> Rust
 
@@ -10612,7 +10612,7 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-* <b><code>  1032⭐</code></b> <b><code>    68🍴</code></b> [Freeter](https://github.com/FreeterApp/Freeter) ⭐ 1,032 | 🐛 14 | 🌐 TypeScript | 📅 2026-05-27) - App that allows you to gather everything you need for work in one place, organized by projects and workflows, and have a quick access to them.
+* <b><code>  1032⭐</code></b> <b><code>    68🍴</code></b> [Freeter](https://github.com/FreeterApp/Freeter) ⭐ 1,030 | 🐛 14 | 🌐 TypeScript | 📅 2026-05-27) - App that allows you to gather everything you need for work in one place, organized by projects and workflows, and have a quick access to them.
 
   **Languages:** <img src='./icons/typescript-64.png' alt='TypeScript icon' title='TypeScript' height='16'/> TypeScript
 
@@ -10714,11 +10714,11 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-* <b><code>   812⭐</code></b> <b><code>   115🍴</code></b> [Kiwix](https://github.com/kiwix/apple) ⭐ 813 | 🐛 62 | 🌐 Swift | 📅 2026-11-08) - Kiwix for iOS and macOS, build on Swift.
+* <b><code>   812⭐</code></b> <b><code>   115🍴</code></b> [Kiwix](https://github.com/kiwix/apple) ⭐ 813 | 🐛 64 | 🌐 Swift | 📅 2026-11-09) - Kiwix for iOS and macOS, build on Swift.
 
   **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
 
-* <b><code>   742⭐</code></b> <b><code>    45🍴</code></b> [OpenClip](https://github.com/ganeshmshetty/openclip) ⭐ 743 | 🐛 24 | 🌐 Swift | 📅 2026-11-08) - Lightweight floating action bar for macOS that turns selected text into instant actions.
+* <b><code>   742⭐</code></b> <b><code>    45🍴</code></b> [OpenClip](https://github.com/ganeshmshetty/openclip) ⭐ 748 | 🐛 25 | 🌐 Swift | 📅 2026-11-09) - Lightweight floating action bar for macOS that turns selected text into instant actions.
 
   **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
 
@@ -10758,7 +10758,7 @@ You can see in which language an app is written. Currently there are following l
 
   **Languages:** <img src='./icons/typescript-64.png' alt='TypeScript icon' title='TypeScript' height='16'/> TypeScript <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
 
-* <b><code>   647⭐</code></b> <b><code>    31🍴</code></b> [Tungsten Edge](https://github.com/moonbai-studio/tungsten-edge) ⭐ 648 | 🐛 20 | 🌐 Swift | 📅 2026-11-04) - Per-window taskbar and Dock replacement: every open window gets its own place on the bar, one click away.
+* <b><code>   647⭐</code></b> <b><code>    31🍴</code></b> [Tungsten Edge](https://github.com/moonbai-studio/tungsten-edge) ⭐ 650 | 🐛 20 | 🌐 Swift | 📅 2026-11-04) - Per-window taskbar and Dock replacement: every open window gets its own place on the bar, one click away.
 
   **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
 
@@ -10811,17 +10811,17 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-* <b><code>   468⭐</code></b> <b><code>    34🍴</code></b> [Yap](https://github.com/FrigadeHQ/yap) ⭐ 468 | 🐛 11 | 🌐 Swift | 📅 2026-11-04) - On-device voice dictation from the menu bar. Set a hotkey, talk, and the text is pasted into whatever field you were typing in. It runs offline in native Swift with no model to download.
+* <b><code>   468⭐</code></b> <b><code>    34🍴</code></b> [Yap](https://github.com/FrigadeHQ/yap) ⭐ 471 | 🐛 9 | 🌐 Swift | 📅 2026-11-09) - On-device voice dictation from the menu bar. Set a hotkey, talk, and the text is pasted into whatever field you were typing in. It runs offline in native Swift with no model to download.
 
   **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
 
   **Website:** 🌎 [https://frigade.com/yap](frigade.com/yap)
 
-* <b><code>   452⭐</code></b> <b><code>    23🍴</code></b> [CrossMacro](https://github.com/alper-han/CrossMacro) ⭐ 453 | 🐛 8 | 🌐 C# | 📅 2026-11-06) - A cross-platform macro recorder, player, editor, and text expansion tool.
+* <b><code>   452⭐</code></b> <b><code>    23🍴</code></b> [CrossMacro](https://github.com/alper-han/CrossMacro) ⭐ 456 | 🐛 8 | 🌐 C# | 📅 2026-11-06) - A cross-platform macro recorder, player, editor, and text expansion tool.
 
   **Languages:** <img src='./icons/csharp-64.png' alt='C# icon' title='C#' height='16'/> C#
 
-  **Website:** <b><code>   452⭐</code></b> <b><code>    23🍴</code></b> <https://github.com/alper-han/CrossMacro> ⭐ 453 | 🐛 8 | 🌐 C# | 📅 2026-11-06)
+  **Website:** <b><code>   452⭐</code></b> <b><code>    23🍴</code></b> <https://github.com/alper-han/CrossMacro> ⭐ 456 | 🐛 8 | 🌐 C# | 📅 2026-11-06)
 
   <details>
   <summary>Screenshots</summary>
@@ -10893,11 +10893,11 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-* <b><code>   346⭐</code></b> <b><code>    26🍴</code></b> [PDF Archiver](https://github.com/PDF-Archiver/PDF-Archiver) ⭐ 346 | 🐛 6 | 🌐 Swift | 📅 2026-11-07) - Nice tool for tagging and archiving tasks.
+* <b><code>   346⭐</code></b> <b><code>    26🍴</code></b> [PDF Archiver](https://github.com/PDF-Archiver/PDF-Archiver) ⭐ 346 | 🐛 6 | 🌐 Swift | 📅 2026-11-08) - Nice tool for tagging and archiving tasks.
 
   **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
 
-* <b><code>   308⭐</code></b> <b><code>    27🍴</code></b> [OpenHabitTracker](https://github.com/Jinjinov/OpenHabitTracker) ⭐ 308 | 🐛 7 | 🌐 C# | 📅 2026-11-08) - Take notes, plan tasks, track habits. Free, open source, all data stays on your device.
+* <b><code>   308⭐</code></b> <b><code>    27🍴</code></b> [OpenHabitTracker](https://github.com/Jinjinov/OpenHabitTracker) ⭐ 309 | 🐛 7 | 🌐 C# | 📅 2026-11-09) - Take notes, plan tasks, track habits. Free, open source, all data stays on your device.
 
   **Languages:** <img src='./icons/csharp-64.png' alt='C# icon' title='C#' height='16'/> C#
 
@@ -10955,7 +10955,7 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-* <b><code>   263⭐</code></b> <b><code>    19🍴</code></b> [Blink Eye](https://github.com/nomandhoni-cs/blink-eye) ⭐ 263 | 🐛 18 | 🌐 TypeScript | 📅 2026-11-07) - An Open-Source minimalist Eye Care reminder & Break Timer app for Windows, macOS, and Linux.
+* <b><code>   263⭐</code></b> <b><code>    19🍴</code></b> [Blink Eye](https://github.com/nomandhoni-cs/blink-eye) ⭐ 262 | 🐛 18 | 🌐 TypeScript | 📅 2026-11-07) - An Open-Source minimalist Eye Care reminder & Break Timer app for Windows, macOS, and Linux.
 
   **Languages:** <img src='./icons/typescript-64.png' alt='TypeScript icon' title='TypeScript' height='16'/> TypeScript <img src='./icons/rust-64.png' alt='Rust icon' title='Rust' height='16'/> Rust
 
@@ -10976,11 +10976,11 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-* <b><code>   257⭐</code></b> <b><code>    30🍴</code></b> [Clipbara](https://github.com/mobrava/Clipbara) ⭐ 257 | 🐛 20 | 🌐 Swift | 📅 2026-11-08) - Paste-like clipboard manager with pinboards, Quick Look previews, search, and one-click copying.
+* <b><code>   257⭐</code></b> <b><code>    30🍴</code></b> [Clipbara](https://github.com/mobrava/Clipbara) ⭐ 258 | 🐛 20 | 🌐 Swift | 📅 2026-11-08) - Paste-like clipboard manager with pinboards, Quick Look previews, search, and one-click copying.
 
   **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
 
-  **Website:** <b><code>   257⭐</code></b> <b><code>    30🍴</code></b> <https://github.com/mobrava/Clipbara> ⭐ 257 | 🐛 20 | 🌐 Swift | 📅 2026-11-08)
+  **Website:** <b><code>   257⭐</code></b> <b><code>    30🍴</code></b> <https://github.com/mobrava/Clipbara> ⭐ 258 | 🐛 20 | 🌐 Swift | 📅 2026-11-08)
 
   <details>
   <summary>Screenshots</summary>
@@ -11008,7 +11008,7 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-* <b><code>   215⭐</code></b> <b><code>    18🍴</code></b> [Starcat](https://github.com/starcat-app/Starcat) ⭐ 216 | 🐛 30 | 🌐 Swift | 📅 2026-11-08) - Native, local-first GitHub Stars manager that turns saved repositories into a searchable, AI-assisted knowledge base.
+* <b><code>   215⭐</code></b> <b><code>    18🍴</code></b> [Starcat](https://github.com/starcat-app/Starcat) ⭐ 216 | 🐛 27 | 🌐 Swift | 📅 2026-11-09) - Native, local-first GitHub Stars manager that turns saved repositories into a searchable, AI-assisted knowledge base.
 
   **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
 
@@ -11048,7 +11048,7 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-* <b><code>   167⭐</code></b> <b><code>    11🍴</code></b> [Hop](https://github.com/antonyshakirov/hop) ⭐ 168 | 🐛 0 | 🌐 Swift | 📅 2026-11-06) - Eighteen everyday tools in one menu bar panel: timer, time tracker, keep-awake, system monitor, clipboard history, file converter, window manager, torrents, archives, text recognition, screenshots with an editor, drawing over the screen, color picker, VPN switcher, app launcher, app uninstaller, keyboard lock and internet speed test. Native, offline, no telemetry.
+* <b><code>   167⭐</code></b> <b><code>    11🍴</code></b> [Hop](https://github.com/antonyshakirov/hop) ⭐ 169 | 🐛 0 | 🌐 Swift | 📅 2026-11-06) - Eighteen everyday tools in one menu bar panel: timer, time tracker, keep-awake, system monitor, clipboard history, file converter, window manager, torrents, archives, text recognition, screenshots with an editor, drawing over the screen, color picker, VPN switcher, app launcher, app uninstaller, keyboard lock and internet speed test. Native, offline, no telemetry.
 
   **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
 
@@ -11078,11 +11078,11 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-* <b><code>   158⭐</code></b> <b><code>    21🍴</code></b> [Pesty](https://github.com/momenbasel/pesty) ⭐ 159 | 🐛 10 | 🌐 Swift | 📅 2026-10-24) - Free, open-source clipboard manager inspired by Paste, with a slide-up color-coded clipboard strip, pinboards, search, and keyboard-driven pasting.
+* <b><code>   158⭐</code></b> <b><code>    21🍴</code></b> [Pesty](https://github.com/momenbasel/pesty) ⭐ 160 | 🐛 10 | 🌐 Swift | 📅 2026-10-24) - Free, open-source clipboard manager inspired by Paste, with a slide-up color-coded clipboard strip, pinboards, search, and keyboard-driven pasting.
 
   **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
 
-  **Website:** <b><code>   158⭐</code></b> <b><code>    21🍴</code></b> <https://github.com/momenbasel/pesty> ⭐ 159 | 🐛 10 | 🌐 Swift | 📅 2026-10-24)
+  **Website:** <b><code>   158⭐</code></b> <b><code>    21🍴</code></b> <https://github.com/momenbasel/pesty> ⭐ 160 | 🐛 10 | 🌐 Swift | 📅 2026-10-24)
 
   <details>
   <summary>Screenshots</summary>
@@ -11108,7 +11108,7 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-* <b><code>   144⭐</code></b> <b><code>    28🍴</code></b> [Off Grid AI Desktop](https://github.com/off-grid-ai/OGAD) ⭐ 144 | 🐛 17 | 🌐 TypeScript | 📅 2026-11-08) - Private on-device AI suite for Apple Silicon Macs: local LLM chat via llama.cpp, RAG search over your own data, MCP connectors, and Stable Diffusion image generation, with no account, no telemetry, and no cloud.
+* <b><code>   144⭐</code></b> <b><code>    28🍴</code></b> [Off Grid AI Desktop](https://github.com/off-grid-ai/OGAD) ⭐ 144 | 🐛 18 | 🌐 TypeScript | 📅 2026-11-09) - Private on-device AI suite for Apple Silicon Macs: local LLM chat via llama.cpp, RAG search over your own data, MCP connectors, and Stable Diffusion image generation, with no account, no telemetry, and no cloud.
 
   **Languages:** <img src='./icons/typescript-64.png' alt='TypeScript icon' title='TypeScript' height='16'/> TypeScript
 
@@ -11123,7 +11123,7 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-* <b><code>   131⭐</code></b> <b><code>    22🍴</code></b> [Codex Account Switcher](https://github.com/liuzhao1225/codex-account-switcher) ⭐ 131 | 🐛 11 | 🌐 Swift | 📅 2026-11-02) - Native macOS menu bar app for switching multiple Codex Desktop and CLI accounts and monitoring weekly usage.
+* <b><code>   131⭐</code></b> <b><code>    22🍴</code></b> [Codex Account Switcher](https://github.com/liuzhao1225/codex-account-switcher) ⭐ 133 | 🐛 12 | 🌐 Swift | 📅 2026-11-02) - Native macOS menu bar app for switching multiple Codex Desktop and CLI accounts and monitoring weekly usage.
 
   **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
 
@@ -11142,7 +11142,7 @@ You can see in which language an app is written. Currently there are following l
 
   **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
 
-* <b><code>   124⭐</code></b> <b><code>     6🍴</code></b> [Anki Miner](https://github.com/0xzerolight/anki_miner) ⭐ 124 | 🐛 2 | 🌐 Python | 📅 2026-11-08) - Desktop app for automated Anki language vocabulary card creation from video, audio, manga and books, in 32 languages.
+* <b><code>   124⭐</code></b> <b><code>     6🍴</code></b> [Anki Miner](https://github.com/0xzerolight/anki_miner) ⭐ 124 | 🐛 0 | 🌐 Python | 📅 2026-11-09) - Desktop app for automated Anki language vocabulary card creation from video, audio, manga and books, in 32 languages.
 
   **Languages:** <img src='./icons/python-64.png' alt='Python icon' title='Python' height='16'/> Python
 
@@ -11168,7 +11168,7 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-* <b><code>   115⭐</code></b> <b><code>    13🍴</code></b> [FutureOS](https://github.com/futuregene/future-os) ⭐ 115 | 🐛 0 | 🌐 Rust | 📅 2026-11-08) - One AI agent everywhere you work - terminal, desktop, mobile, and IM bots driven by a single Rust backend.
+* <b><code>   115⭐</code></b> <b><code>    13🍴</code></b> [FutureOS](https://github.com/futuregene/future-os) ⭐ 115 | 🐛 1 | 🌐 Rust | 📅 2026-11-09) - One AI agent everywhere you work - terminal, desktop, mobile, and IM bots driven by a single Rust backend.
 
   **Languages:** <img src='./icons/rust-64.png' alt='Rust icon' title='Rust' height='16'/> Rust <img src='./icons/typescript-64.png' alt='TypeScript icon' title='TypeScript' height='16'/> TypeScript
 
@@ -11183,7 +11183,7 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-* <b><code>   112⭐</code></b> <b><code>     1🍴</code></b> [FolderForge](https://github.com/KeplSiv/FolderForge) ⭐ 113 | 🐛 3 | 🌐 Swift | 📅 2026-11-04) - Customize macOS folders with colors, artwork, icons, reusable presets, and rule-based workspace styling.
+* <b><code>   112⭐</code></b> <b><code>     1🍴</code></b> [FolderForge](https://github.com/KeplSiv/FolderForge) ⭐ 114 | 🐛 3 | 🌐 Swift | 📅 2026-11-04) - Customize macOS folders with colors, artwork, icons, reusable presets, and rule-based workspace styling.
 
   **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
 
@@ -11230,7 +11230,7 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-* <b><code>   103⭐</code></b> <b><code>    12🍴</code></b> [OATS](https://github.com/ariso-ai/oats) ⭐ 103 | 🐛 19 | 🌐 Rust | 📅 2026-11-08) - Open-source local-first macOS meeting-notes app with live transcription, speaker labels, AI summaries, and an offline on-device mode.
+* <b><code>   103⭐</code></b> <b><code>    12🍴</code></b> [OATS](https://github.com/ariso-ai/oats) ⭐ 103 | 🐛 20 | 🌐 Rust | 📅 2026-11-08) - Open-source local-first macOS meeting-notes app with live transcription, speaker labels, AI summaries, and an offline on-device mode.
 
   **Languages:** <img src='./icons/rust-64.png' alt='Rust icon' title='Rust' height='16'/> Rust <img src='./icons/typescript-64.png' alt='TypeScript icon' title='TypeScript' height='16'/> TypeScript
 
@@ -11275,7 +11275,7 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-* <b><code>    94⭐</code></b> <b><code>    15🍴</code></b> [JoeBro](https://github.com/joexk1/JoeBro) ⭐ 94 | 🐛 0 | 🌐 Python | 📅 2026-11-03) - Native AI workspace with a local Python backend. Chat, documents, memory, MCP tools and deep research, using local models or any API.
+* <b><code>    94⭐</code></b> <b><code>    15🍴</code></b> [JoeBro](https://github.com/joexk1/JoeBro) ⭐ 94 | 🐛 0 | 🌐 Python | 📅 2026-11-08) - Native AI workspace with a local Python backend. Chat, documents, memory, MCP tools and deep research, using local models or any API.
 
   **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift <img src='./icons/python-64.png' alt='Python icon' title='Python' height='16'/> Python
 
@@ -11307,11 +11307,11 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-* <b><code>    89⭐</code></b> <b><code>     9🍴</code></b> [Bye-AppQuit](https://github.com/designsbymuzeer/Bye-Mac-App) ⭐ 89 | 🐛 2 | 🌐 Swift | 📅 2025-11-28) - A minimal native macOS app to quickly view and Bulk kill running processes.
+* <b><code>    89⭐</code></b> <b><code>     9🍴</code></b> [Bye-AppQuit](https://github.com/designsbymuzeer/Bye-Mac-App) ⭐ 90 | 🐛 2 | 🌐 Swift | 📅 2025-11-28) - A minimal native macOS app to quickly view and Bulk kill running processes.
 
   **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
 
-  **Website:** <b><code>    89⭐</code></b> <b><code>     9🍴</code></b> <https://github.com/designsbymuzeer/Bye-Mac-App> ⭐ 89 | 🐛 2 | 🌐 Swift | 📅 2025-11-28)
+  **Website:** <b><code>    89⭐</code></b> <b><code>     9🍴</code></b> <https://github.com/designsbymuzeer/Bye-Mac-App> ⭐ 90 | 🐛 2 | 🌐 Swift | 📅 2025-11-28)
 
   <details>
   <summary>Screenshots</summary>
@@ -11373,7 +11373,7 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-* <b><code>    69⭐</code></b> <b><code>    11🍴</code></b> [Blurt](https://github.com/AssemblyAI/blurt) ⭐ 69 | 🐛 11 | 🌐 Swift | 📅 2026-11-06) - Free, open-source dictation for macOS: hold a key, talk, and polished text lands in whatever app you're typing in. Powered by AssemblyAI speech-to-text (bring your own API key).
+* <b><code>    69⭐</code></b> <b><code>    11🍴</code></b> [Blurt](https://github.com/AssemblyAI/blurt) ⭐ 70 | 🐛 12 | 🌐 Swift | 📅 2026-11-09) - Free, open-source dictation for macOS: hold a key, talk, and polished text lands in whatever app you're typing in. Powered by AssemblyAI speech-to-text (bring your own API key).
 
   **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
 
@@ -11422,6 +11422,23 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
+* <b><code>    33⭐</code></b> <b><code>     2🍴</code></b> [AutoDoc](https://github.com/DuetDisplay/AutoDoc) ⭐ 63 | 🐛 20 | 🌐 TypeScript | 📅 2026-11-05) - Private, local-first meeting notes with on-device transcription and AI summaries.
+
+  **Languages:** <img src='./icons/typescript-64.png' alt='TypeScript icon' title='TypeScript' height='16'/> TypeScript <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
+
+  **Website:** 🌎 [https://getautodoc.com/](getautodoc.com/)
+
+  <details>
+  <summary>Screenshots</summary>
+  <p>
+
+  <img src='https://raw.githubusercontent.com/DuetDisplay/AutoDoc/main/docs/assets/screenshots/notes.png' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
+
+  <img src='https://raw.githubusercontent.com/DuetDisplay/AutoDoc/main/docs/assets/screenshots/transcript.png' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
+
+  </p>
+  </details>
+
 * <b><code>    52⭐</code></b> <b><code>     3🍴</code></b> [Command Reopen](https://github.com/Feng6611/mac-command-reopen) ⭐ 52 | 🐛 2 | 🌐 Swift | 📅 2026-10-25) - Makes Cmd+Tab restore minimized and closed windows with zero permissions.
 
   **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
@@ -11449,7 +11466,7 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-* <b><code>    47⭐</code></b> <b><code>     6🍴</code></b> [gadak](https://github.com/midagedev/gadak) ⭐ 47 | 🐛 1 | 🌐 Go | 📅 2026-11-03) - Keeps Jira, Linear and Confluence in one local SQLite file you query with SQL, and is a tracker of its own with no account.
+* <b><code>    47⭐</code></b> <b><code>     6🍴</code></b> [gadak](https://github.com/midagedev/gadak) ⭐ 47 | 🐛 1 | 🌐 Go | 📅 2026-11-09) - Keeps Jira, Linear and Confluence in one local SQLite file you query with SQL, and is a tracker of its own with no account.
 
   **Languages:** <img src='./icons/golang-64.png' alt='Go icon' title='Go' height='16'/> Go <img src='./icons/typescript-64.png' alt='TypeScript icon' title='TypeScript' height='16'/> TypeScript
 
@@ -11494,7 +11511,7 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-* <b><code>    35⭐</code></b> <b><code>     1🍴</code></b> [Notchi](https://github.com/cyrus-cai/notchi) ⭐ 35 | 🐛 2 | 🌐 Swift | 📅 2026-11-07) - Turn the MacBook notch into a place to ask AI, save notes, set reminders, or run coding agents.
+* <b><code>    35⭐</code></b> <b><code>     1🍴</code></b> [Notchi](https://github.com/cyrus-cai/notchi) ⭐ 35 | 🐛 2 | 🌐 Swift | 📅 2026-11-09) - Turn the MacBook notch into a place to ask AI, save notes, set reminders, or run coding agents.
 
   **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
 
@@ -11524,23 +11541,6 @@ You can see in which language an app is written. Currently there are following l
   <img src='https://raw.githubusercontent.com/fikrikarim/repose/main/assets/break-overlay.png' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
 
   <img src='https://raw.githubusercontent.com/fikrikarim/repose/main/assets/menu.png' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
-
-  </p>
-  </details>
-
-* <b><code>    33⭐</code></b> <b><code>     2🍴</code></b> [AutoDoc](https://github.com/DuetDisplay/AutoDoc) ⭐ 34 | 🐛 20 | 🌐 TypeScript | 📅 2026-11-05) - Private, local-first meeting notes with on-device transcription and AI summaries.
-
-  **Languages:** <img src='./icons/typescript-64.png' alt='TypeScript icon' title='TypeScript' height='16'/> TypeScript <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
-
-  **Website:** 🌎 [https://getautodoc.com/](getautodoc.com/)
-
-  <details>
-  <summary>Screenshots</summary>
-  <p>
-
-  <img src='https://raw.githubusercontent.com/DuetDisplay/AutoDoc/main/docs/assets/screenshots/notes.png' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
-
-  <img src='https://raw.githubusercontent.com/DuetDisplay/AutoDoc/main/docs/assets/screenshots/transcript.png' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
 
   </p>
   </details>
@@ -11613,7 +11613,7 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-* <b><code>    23⭐</code></b> <b><code>     3🍴</code></b> [AI Monitor](https://github.com/tobymarks/esp32-ai-monitor) ⭐ 23 | 🐛 7 | 🌐 Swift | 📅 2026-11-04) - Companion app that shows Claude, ChatGPT, Gemini, Copilot, and Cursor usage limits on a USB-connected ESP32 desk display.
+* <b><code>    23⭐</code></b> <b><code>     3🍴</code></b> [AI Monitor](https://github.com/tobymarks/esp32-ai-monitor) ⭐ 24 | 🐛 7 | 🌐 Swift | 📅 2026-11-04) - Companion app that shows Claude, ChatGPT, Gemini, Copilot, and Cursor usage limits on a USB-connected ESP32 desk display.
 
   **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift <img src='./icons/cpp-64.png' alt='C++ icon' title='C++' height='16'/> C++
 
@@ -11634,7 +11634,7 @@ You can see in which language an app is written. Currently there are following l
 
   **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
 
-* <b><code>    22⭐</code></b> <b><code>     1🍴</code></b> [OpenVoiceFlow](https://github.com/shimoverse/openvoiceflow) ⭐ 22 | 🐛 1 | 🌐 Swift | 📅 2026-11-06) - On-device voice dictation for macOS with local transcription and optional text cleanup.
+* <b><code>    22⭐</code></b> <b><code>     1🍴</code></b> [OpenVoiceFlow](https://github.com/shimoverse/openvoiceflow) ⭐ 22 | 🐛 1 | 🌐 Swift | 📅 2026-11-09) - On-device voice dictation for macOS with local transcription and optional text cleanup.
 
   **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift <img src='./icons/objective-c-64.png' alt='Objective-C icon' title='Objective-C' height='16'/> Objective-C <img src='./icons/python-64.png' alt='Python icon' title='Python' height='16'/> Python <img src='./icons/shell-64.png' alt='Shell icon' title='Shell' height='16'/> Shell
 
@@ -11719,7 +11719,7 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-* <b><code>    18⭐</code></b> <b><code>     6🍴</code></b> [ParrotFlow](https://github.com/znat/parrotflow) ⭐ 18 | 🐛 8 | 🌐 Swift | 📅 2026-11-08) - Scriptable local dictation that uses the text on your screen to fix names, and your rules to format numbers, dates, and links.
+* <b><code>    18⭐</code></b> <b><code>     6🍴</code></b> [ParrotFlow](https://github.com/znat/parrotflow) ⭐ 18 | 🐛 1 | 🌐 Swift | 📅 2026-11-09) - Scriptable local dictation that uses the text on your screen to fix names, and your rules to format numbers, dates, and links.
 
   **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift <img src='./icons/python-64.png' alt='Python icon' title='Python' height='16'/> Python
 
@@ -11774,7 +11774,7 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-* <b><code>    16⭐</code></b> <b><code>    28🍴</code></b> [Posnic](https://github.com/Posnic/POS) ⭐ 16 | 🐛 414 | 🌐 JavaScript | 📅 2026-11-08) - Offline-first open source POS and billing software for retail shops and restaurants.
+* <b><code>    16⭐</code></b> <b><code>    28🍴</code></b> [Posnic](https://github.com/Posnic/POS) ⭐ 16 | 🐛 415 | 🌐 JavaScript | 📅 2026-11-09) - Offline-first open source POS and billing software for retail shops and restaurants.
 
   **Languages:** <img src='./icons/javascript-64.png' alt='JavaScript icon' title='JavaScript' height='16'/> JavaScript
 
@@ -11836,7 +11836,7 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-* <b><code>    13⭐</code></b> <b><code>     1🍴</code></b> [Earshot](https://github.com/Bouliw/earshot) ⭐ 13 | 🐛 0 | 🌐 Swift | 📅 2026-11-03) - Live on-device transcription of any app you pick, with speaker names in Microsoft Teams.
+* <b><code>    13⭐</code></b> <b><code>     1🍴</code></b> [Earshot](https://github.com/Bouliw/earshot) ⭐ 13 | 🐛 0 | 🌐 Swift | 📅 2026-11-09) - Live on-device transcription of any app you pick, with speaker names in Microsoft Teams.
 
   **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
 
@@ -11849,7 +11849,7 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-* <b><code>    13⭐</code></b> <b><code>     3🍴</code></b> [KinetAios](https://github.com/phinn/KinetAios) ⭐ 13 | 🐛 5 | 🌐 TypeScript | 📅 2026-11-08) - Local-first multi-engine AI agent dashboard: run Claude Code, Codex, and a built-in ReAct engine side by side with shared cross-engine memory, MCP, and 40+ tools.
+* <b><code>    13⭐</code></b> <b><code>     3🍴</code></b> [KinetAios](https://github.com/phinn/KinetAios) ⭐ 13 | 🐛 5 | 🌐 TypeScript | 📅 2026-11-09) - Local-first multi-engine AI agent dashboard: run Claude Code, Codex, and a built-in ReAct engine side by side with shared cross-engine memory, MCP, and 40+ tools.
 
   **Languages:** <img src='./icons/typescript-64.png' alt='TypeScript icon' title='TypeScript' height='16'/> TypeScript
 
@@ -11861,11 +11861,11 @@ You can see in which language an app is written. Currently there are following l
 
   **Website:** 🌎 [https://omniprompt.app/](omniprompt.app/)
 
-* <b><code>    12⭐</code></b> <b><code>     0🍴</code></b> [Orchestrator](https://github.com/zachealy1/orchestrator) ⭐ 12 | 🐛 0 | 🌐 TypeScript | 📅 2026-11-08) - macOS workspace for Codex with repository browsing, Kanban tasks, subagent inspection and local code review.
+* <b><code>    12⭐</code></b> <b><code>     0🍴</code></b> [Orchestrator](https://github.com/zachealy1/orchestrator) ⭐ 12 | 🐛 0 | 🌐 TypeScript | 📅 2026-11-09) - macOS workspace for Codex with repository browsing, Kanban tasks, subagent inspection and local code review.
 
   **Languages:** <img src='./icons/typescript-64.png' alt='TypeScript icon' title='TypeScript' height='16'/> TypeScript <img src='./icons/rust-64.png' alt='Rust icon' title='Rust' height='16'/> Rust
 
-  **Website:** <b><code>    12⭐</code></b> <b><code>     0🍴</code></b> <https://github.com/zachealy1/orchestrator> ⭐ 12 | 🐛 0 | 🌐 TypeScript | 📅 2026-11-08)
+  **Website:** <b><code>    12⭐</code></b> <b><code>     0🍴</code></b> <https://github.com/zachealy1/orchestrator> ⭐ 12 | 🐛 0 | 🌐 TypeScript | 📅 2026-11-09)
 
   <details>
   <summary>Screenshots</summary>
@@ -11952,6 +11952,21 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
+* <b><code>    10⭐</code></b> <b><code>     1🍴</code></b> [Çentik](https://github.com/YusufEmreYazici/Centik) ⭐ 11 | 🐛 1 | 🌐 Swift | 📅 2026-10-28) - Turns the MacBook notch into a live island for music, system stats, an AI chat with your own Claude, Gemini or Ollama, clipboard history, a file shelf and meeting alerts.
+
+  **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
+
+  **Website:** <b><code>    10⭐</code></b> <b><code>     1🍴</code></b> <https://github.com/YusufEmreYazici/Centik> ⭐ 11 | 🐛 1 | 🌐 Swift | 📅 2026-10-28)
+
+  <details>
+  <summary>Screenshots</summary>
+  <p>
+
+  <img src='https://raw.githubusercontent.com/YusufEmreYazici/Centik/main/docs/assets/hero.gif' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
+
+  </p>
+  </details>
+
 * <b><code>    10⭐</code></b> <b><code>     3🍴</code></b> [Bzz](https://github.com/zlopixatel/bzz) ⭐ 10 | 🐛 1 | 🌐 Go | 📅 2026-06-11) - Automatic keyboard layout switcher (RU↔EN). Detects mistyped words like "ghbdtn" and replaces with "привет" on the fly. Open-source replacement for the abandoned Punto Switcher.
 
   **Languages:** <img src='./icons/golang-64.png' alt='Go icon' title='Go' height='16'/> Go
@@ -12014,21 +12029,6 @@ You can see in which language an app is written. Currently there are following l
   <p>
 
   <img src='https://raw.githubusercontent.com/cnazk/recall-mac/main/docs/demo.gif' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
-
-  </p>
-  </details>
-
-* <b><code>    10⭐</code></b> <b><code>     1🍴</code></b> [Çentik](https://github.com/YusufEmreYazici/Centik) ⭐ 10 | 🐛 0 | 🌐 Swift | 📅 2026-10-28) - Turns the MacBook notch into a live island for music, system stats, an AI chat with your own Claude, Gemini or Ollama, clipboard history, a file shelf and meeting alerts.
-
-  **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
-
-  **Website:** <b><code>    10⭐</code></b> <b><code>     1🍴</code></b> <https://github.com/YusufEmreYazici/Centik> ⭐ 10 | 🐛 0 | 🌐 Swift | 📅 2026-10-28)
-
-  <details>
-  <summary>Screenshots</summary>
-  <p>
-
-  <img src='https://raw.githubusercontent.com/YusufEmreYazici/Centik/main/docs/assets/hero.gif' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
 
   </p>
   </details>
@@ -12097,6 +12097,23 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
+* <b><code>     7⭐</code></b> <b><code>     1🍴</code></b> [Vauta](https://github.com/MaquinaTech/Vauta) ⭐ 8 | 🐛 1 | 🌐 Swift | 📅 2026-11-05) - Meeting notes that stay on your Mac: transcribes any call on device and writes cited minutes, decisions and tasks.
+
+  **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
+
+  **Website:** 🌎 [https://vauta.vercel.app/](vauta.vercel.app/)
+
+  <details>
+  <summary>Screenshots</summary>
+  <p>
+
+  <img src='https://raw.githubusercontent.com/MaquinaTech/Vauta/main/docs/assets/screenshots/meetings-minutes-en-dark.png' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
+
+  <img src='https://raw.githubusercontent.com/MaquinaTech/Vauta/main/docs/assets/screenshots/menubar-panel-recording-en-dark.png' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
+
+  </p>
+  </details>
+
 * <b><code>     8⭐</code></b> <b><code>     1🍴</code></b> [WolfClip](https://github.com/RakushkaTOP/wolfclip) ⭐ 8 | 🐛 0 | 🌐 Swift | 📅 2026-10-13) - Win+V style clipboard history with search, filters, pins and instant paste into the app you were typing in.
 
   **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
@@ -12146,7 +12163,7 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-* <b><code>     7⭐</code></b> <b><code>     0🍴</code></b> [KIAgent](https://github.com/edjafarov/kiagent-core) ⭐ 7 | 🐛 80 | 🌐 TypeScript | 📅 2026-11-08) - Personal digital memory: indexes your mail, chats and documents into a local SQLite database and serves them to AI assistants over MCP.
+* <b><code>     7⭐</code></b> <b><code>     0🍴</code></b> [KIAgent](https://github.com/edjafarov/kiagent-core) ⭐ 7 | 🐛 80 | 🌐 TypeScript | 📅 2026-11-09) - Personal digital memory: indexes your mail, chats and documents into a local SQLite database and serves them to AI assistants over MCP.
 
   **Languages:** <img src='./icons/typescript-64.png' alt='TypeScript icon' title='TypeScript' height='16'/> TypeScript
 
@@ -12210,23 +12227,6 @@ You can see in which language an app is written. Currently there are following l
   <p>
 
   <img src='https://raw.githubusercontent.com/migsilva89/unbury/main/.github/assets/unbury-search.png' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
-
-  </p>
-  </details>
-
-* <b><code>     7⭐</code></b> <b><code>     1🍴</code></b> [Vauta](https://github.com/MaquinaTech/Vauta) ⭐ 7 | 🐛 1 | 🌐 Swift | 📅 2026-11-05) - Meeting notes that stay on your Mac: transcribes any call on device and writes cited minutes, decisions and tasks.
-
-  **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
-
-  **Website:** 🌎 [https://vauta.vercel.app/](vauta.vercel.app/)
-
-  <details>
-  <summary>Screenshots</summary>
-  <p>
-
-  <img src='https://raw.githubusercontent.com/MaquinaTech/Vauta/main/docs/assets/screenshots/meetings-minutes-en-dark.png' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
-
-  <img src='https://raw.githubusercontent.com/MaquinaTech/Vauta/main/docs/assets/screenshots/menubar-panel-recording-en-dark.png' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
 
   </p>
   </details>
@@ -12351,7 +12351,7 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-* <b><code>     0⭐</code></b> <b><code>     0🍴</code></b> [QuietSpeech](https://github.com/harshtomar6/quietspeech) ⭐ 0 | 🐛 0 | 🌐 Swift | 📅 2026-10-28) - Push-to-talk dictation for Apple silicon that types into any app using Apple's on-device speech recognition and Apple Intelligence, with no API key. Paid app; source under GPLv3 (macOS 26+).
+* <b><code>     0⭐</code></b> <b><code>     0🍴</code></b> [QuietSpeech](https://github.com/harshtomar6/quietspeech) ⭐ 0 | 🐛 0 | 🌐 Swift | 📅 2026-11-09) - Push-to-talk dictation for Apple silicon that types into any app using Apple's on-device speech recognition and Apple Intelligence, with no API key. Paid app; source under GPLv3 (macOS 26+).
 
   **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
 
@@ -12395,7 +12395,7 @@ You can see in which language an app is written. Currently there are following l
 
 ### 🌙 Screensaver (12)
 
-* <b><code> 21235⭐</code></b> <b><code>  1054🍴</code></b> [Aerial](https://github.com/JohnCoates/Aerial) ⭐ 21,242 | 🐛 18 | 🌐 Swift | 📅 2026-05-16) - Apple TV Aerial Screensaver for macOS.
+* <b><code> 21235⭐</code></b> <b><code>  1054🍴</code></b> [Aerial](https://github.com/JohnCoates/Aerial) ⭐ 21,246 | 🐛 18 | 🌐 Swift | 📅 2026-05-16) - Apple TV Aerial Screensaver for macOS.
 
   **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
 
@@ -12414,7 +12414,7 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-* <b><code>  5611⭐</code></b> <b><code>   276🍴</code></b> [Brooklyn](https://github.com/pedrommcarrasco/Brooklyn) ⭐ 5,611 | 🐛 31 | 🌐 Swift | 📅 2024-10-09) - Screensaver inspired by Apple's Event on October 30, 2018.
+* <b><code>  5611⭐</code></b> <b><code>   276🍴</code></b> [Brooklyn](https://github.com/pedrommcarrasco/Brooklyn) ⭐ 5,613 | 🐛 31 | 🌐 Swift | 📅 2024-10-09) - Screensaver inspired by Apple's Event on October 30, 2018.
 
   **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
 
@@ -12572,23 +12572,23 @@ You can see in which language an app is written. Currently there are following l
 
 ### 🔒 Security (21)
 
-* <b><code> 16461⭐</code></b> <b><code>  1502🍴</code></b> [Cryptomator](https://github.com/cryptomator/cryptomator) ⭐ 16,466 | 🐛 268 | 🌐 Java | 📅 2026-11-06) - Multi-platform transparent client-side encryption of your files in the cloud.
+* <b><code> 16461⭐</code></b> <b><code>  1502🍴</code></b> [Cryptomator](https://github.com/cryptomator/cryptomator) ⭐ 16,474 | 🐛 269 | 🌐 Java | 📅 2026-11-06) - Multi-platform transparent client-side encryption of your files in the cloud.
 
   **Languages:** <img src='./icons/java-64.png' alt='Java icon' title='Java' height='16'/> Java
 
   **Website:** 🌎 [https://cryptomator.org/](cryptomator.org/)
 
-* <b><code> 13524⭐</code></b> <b><code>   621🍴</code></b> [LuLu](https://github.com/objective-see/LuLu) ⭐ 13,527 | 🐛 540 | 🌐 Objective-C | 📅 2026-11-02) - LuLu is macOS firewall application that aims to block unauthorized (outgoing) network traffic.
+* <b><code> 13524⭐</code></b> <b><code>   621🍴</code></b> [LuLu](https://github.com/objective-see/LuLu) ⭐ 13,535 | 🐛 541 | 🌐 Objective-C | 📅 2026-11-02) - LuLu is macOS firewall application that aims to block unauthorized (outgoing) network traffic.
 
   **Languages:** <img src='./icons/objective-c-64.png' alt='Objective-C icon' title='Objective-C' height='16'/> Objective-C
 
-* <b><code> 12081⭐</code></b> <b><code>  1385🍴</code></b> [VeraCrypt](https://github.com/veracrypt/VeraCrypt) ⭐ 12,086 | 🐛 506 | 🌐 C | 📅 2026-11-08) - Disk encryption with strong security based on TrueCrypt.
+* <b><code> 12081⭐</code></b> <b><code>  1385🍴</code></b> [VeraCrypt](https://github.com/veracrypt/VeraCrypt) ⭐ 12,092 | 🐛 507 | 🌐 C | 📅 2026-11-08) - Disk encryption with strong security based on TrueCrypt.
 
   **Languages:** <img src='./icons/c-64.png' alt='C icon' title='C' height='16'/> C <img src='./icons/cpp-64.png' alt='C++ icon' title='C++' height='16'/> C++
 
   **Website:** 🌎 [https://www.veracrypt.fr](www.veracrypt.fr)
 
-* <b><code>  7216⭐</code></b> <b><code>   740🍴</code></b> [OnionShare](https://github.com/onionshare/onionshare) ⭐ 7,216 | 🐛 58 | 🌐 Python | 📅 2026-11-07) - Securely and anonymously share files, host websites, and chat with friends using the Tor network.
+* <b><code>  7216⭐</code></b> <b><code>   740🍴</code></b> [OnionShare](https://github.com/onionshare/onionshare) ⭐ 7,218 | 🐛 58 | 🌐 Python | 📅 2026-11-07) - Securely and anonymously share files, host websites, and chat with friends using the Tor network.
 
   **Languages:** <img src='./icons/python-64.png' alt='Python icon' title='Python' height='16'/> Python <img src='./icons/javascript-64.png' alt='JavaScript icon' title='JavaScript' height='16'/> JavaScript
 
@@ -12609,7 +12609,7 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-* <b><code>   964⭐</code></b> <b><code>    81🍴</code></b> [Swifty](https://github.com/swiftyapp/swifty) ⭐ 964 | 🐛 10 | 🌐 Rust | 📅 2026-11-07) - Free and offline password manager.
+* <b><code>   964⭐</code></b> <b><code>    81🍴</code></b> [Swifty](https://github.com/swiftyapp/swifty) ⭐ 964 | 🐛 9 | 🌐 Rust | 📅 2026-11-09) - Free and offline password manager.
 
   **Languages:** <img src='./icons/javascript-64.png' alt='JavaScript icon' title='JavaScript' height='16'/> JavaScript
 
@@ -12626,7 +12626,7 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-* <b><code>     ?⭐</code></b> <b><code>     ?🍴</code></b> [Pareto Security](https://github.com/paretoSecurity/pareto-mac/) ⭐ 463 | 🐛 9 | 🌐 Swift | 📅 2026-11-06) - A MenuBar app to automatically audit your Mac for basic security hygiene.
+* <b><code>     ?⭐</code></b> <b><code>     ?🍴</code></b> [Pareto Security](https://github.com/paretoSecurity/pareto-mac/) ⭐ 463 | 🐛 8 | 🌐 Swift | 📅 2026-11-09) - A MenuBar app to automatically audit your Mac for basic security hygiene.
 
   **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
 
@@ -12662,7 +12662,7 @@ You can see in which language an app is written. Currently there are following l
 
   **Website:** <b><code>   341⭐</code></b> <b><code>    18🍴</code></b> <https://github.com/HMAKT99/UnTouchID> ⭐ 341 | 🐛 5 | 🌐 Swift | 📅 2026-11-01)
 
-* <b><code>   269⭐</code></b> <b><code>    32🍴</code></b> [macOS GateKeeper Helper](https://github.com/wynioux/macOS-GateKeeper-Helper) ⭐ 269 | 🐛 0 | 🌐 Shell | 📅 2020-07-16) - Simple macOS GateKeeper script. It helps you to control your GateKeeper.
+* <b><code>   269⭐</code></b> <b><code>    32🍴</code></b> [macOS GateKeeper Helper](https://github.com/wynioux/macOS-GateKeeper-Helper) ⭐ 268 | 🐛 0 | 🌐 Shell | 📅 2020-07-16) - Simple macOS GateKeeper script. It helps you to control your GateKeeper.
 
   **Languages:** <img src='./icons/shell-64.png' alt='Shell icon' title='Shell' height='16'/> Shell
 
@@ -12679,7 +12679,7 @@ You can see in which language an app is written. Currently there are following l
 
   **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
 
-* <b><code>   158⭐</code></b> <b><code>    26🍴</code></b> [MakLock](https://github.com/dutkiewiczmaciej/MakLock) ⭐ 158 | 🐛 27 | 🌐 Swift | 📅 2026-04-16) - Free macOS menu bar app that locks applications with Touch ID, Apple Watch proximity, or password using a full-screen blur overlay.
+* <b><code>   158⭐</code></b> <b><code>    26🍴</code></b> [MakLock](https://github.com/dutkiewiczmaciej/MakLock) ⭐ 159 | 🐛 27 | 🌐 Swift | 📅 2026-04-16) - Free macOS menu bar app that locks applications with Touch ID, Apple Watch proximity, or password using a full-screen blur overlay.
 
   **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
 
@@ -12742,6 +12742,21 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
+* <b><code>    15⭐</code></b> <b><code>     1🍴</code></b> [Ravenpass](https://github.com/dortanes/ravenpass) ⭐ 16 | 🐛 6 | 🌐 Go | 📅 2026-11-08) - Local-first password manager with native autofill, passkeys, and two-factor codes, with no account required.
+
+  **Languages:** <img src='./icons/golang-64.png' alt='Go icon' title='Go' height='16'/> Go <img src='./icons/typescript-64.png' alt='TypeScript icon' title='TypeScript' height='16'/> TypeScript <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
+
+  **Website:** 🌎 [https://ravenpass.org](ravenpass.org)
+
+  <details>
+  <summary>Screenshots</summary>
+  <p>
+
+  <img src='https://raw.githubusercontent.com/dortanes/ravenpass/main/.github/assets/screenshot.png' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
+
+  </p>
+  </details>
+
 * <b><code>    15⭐</code></b> <b><code>     5🍴</code></b> [Copy 2FA](https://github.com/stanczykwyatt/copy-2fa) ⭐ 15 | 🐛 8 | 🌐 C# | 📅 2026-11-03) - Copies the newest 2FA code from Mail or Messages with one shortcut, and includes a Touch ID authenticator for TOTP and HOTP codes.
 
   **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
@@ -12755,21 +12770,6 @@ You can see in which language an app is written. Currently there are following l
   <img src='https://raw.githubusercontent.com/stanczykwyatt/copy-2fa/main/docs/screenshots/notice-light.png' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
 
   <img src='https://raw.githubusercontent.com/stanczykwyatt/copy-2fa/main/docs/screenshots/picker-light.png' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
-
-  </p>
-  </details>
-
-* <b><code>    15⭐</code></b> <b><code>     1🍴</code></b> [Ravenpass](https://github.com/dortanes/ravenpass) ⭐ 15 | 🐛 5 | 🌐 Go | 📅 2026-11-08) - Local-first password manager with native autofill, passkeys, and two-factor codes, with no account required.
-
-  **Languages:** <img src='./icons/golang-64.png' alt='Go icon' title='Go' height='16'/> Go <img src='./icons/typescript-64.png' alt='TypeScript icon' title='TypeScript' height='16'/> TypeScript <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
-
-  **Website:** 🌎 [https://ravenpass.org](ravenpass.org)
-
-  <details>
-  <summary>Screenshots</summary>
-  <p>
-
-  <img src='https://raw.githubusercontent.com/dortanes/ravenpass/main/.github/assets/screenshot.png' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
 
   </p>
   </details>
@@ -12827,25 +12827,25 @@ You can see in which language an app is written. Currently there are following l
 
 ### 📤 Sharing Files (14)
 
-* <b><code> 41432⭐</code></b> <b><code>  4983🍴</code></b> [qBittorrent](https://github.com/qbittorrent/qBittorrent) ⭐ 41,449 | 🐛 2,731 | 🌐 C++ | 📅 2026-11-07) - BitTorrent client in Qt.
+* <b><code> 41432⭐</code></b> <b><code>  4983🍴</code></b> [qBittorrent](https://github.com/qbittorrent/qBittorrent) ⭐ 41,474 | 🐛 2,728 | 🌐 C++ | 📅 2026-11-09) - BitTorrent client in Qt.
 
   **Languages:** <img src='./icons/cpp-64.png' alt='C++ icon' title='C++' height='16'/> C++
 
-* <b><code> 15393⭐</code></b> <b><code>  1483🍴</code></b> [Transmission](https://github.com/transmission/transmission) ⭐ 15,395 | 🐛 903 | 🌐 C++ | 📅 2026-11-07) - Official Transmission BitTorrent client repository.
+* <b><code> 15393⭐</code></b> <b><code>  1483🍴</code></b> [Transmission](https://github.com/transmission/transmission) ⭐ 15,401 | 🐛 908 | 🌐 C++ | 📅 2026-11-09) - Official Transmission BitTorrent client repository.
 
   **Languages:** <img src='./icons/objective-c-64.png' alt='Objective-C icon' title='Objective-C' height='16'/> Objective-C <img src='./icons/c-64.png' alt='C icon' title='C' height='16'/> C
 
-* <b><code>  7216⭐</code></b> <b><code>   740🍴</code></b> [OnionShare](https://github.com/onionshare/onionshare) ⭐ 7,216 | 🐛 58 | 🌐 Python | 📅 2026-11-07) - Securely and anonymously share files, host websites, and chat with friends using the Tor network.
+* <b><code>  7216⭐</code></b> <b><code>   740🍴</code></b> [OnionShare](https://github.com/onionshare/onionshare) ⭐ 7,218 | 🐛 58 | 🌐 Python | 📅 2026-11-07) - Securely and anonymously share files, host websites, and chat with friends using the Tor network.
 
   **Languages:** <img src='./icons/python-64.png' alt='Python icon' title='Python' height='16'/> Python <img src='./icons/javascript-64.png' alt='JavaScript icon' title='JavaScript' height='16'/> JavaScript
 
   **Website:** 🌎 [https://onionshare.org/](onionshare.org/)
 
-* <b><code>  5346⭐</code></b> <b><code>   472🍴</code></b> [Tribler](https://github.com/Tribler/tribler) ⭐ 5,345 | 🐛 55 | 🌐 Python | 📅 2026-11-04) - Privacy enhanced BitTorrent client with P2P content discovery.
+* <b><code>  5346⭐</code></b> <b><code>   472🍴</code></b> [Tribler](https://github.com/Tribler/tribler) ⭐ 5,347 | 🐛 53 | 🌐 Python | 📅 2026-11-04) - Privacy enhanced BitTorrent client with P2P content discovery.
 
   **Languages:** <img src='./icons/python-64.png' alt='Python icon' title='Python' height='16'/> Python
 
-* <b><code>  4901⭐</code></b> <b><code>   389🍴</code></b> [Cyberduck](https://github.com/iterate-ch/cyberduck) ⭐ 4,904 | 🐛 500 | 🌐 Java | 📅 2026-11-08) - Cyberduck is a libre server and cloud storage browser for Mac and Windows with support for FTP, SFTP, WebDAV, Amazon S3, OpenStack Swift, Backblaze B2, Microsoft Azure & OneDrive, Google Drive and Dropbox.
+* <b><code>  4901⭐</code></b> <b><code>   389🍴</code></b> [Cyberduck](https://github.com/iterate-ch/cyberduck) ⭐ 4,904 | 🐛 500 | 🌐 Java | 📅 2026-11-09) - Cyberduck is a libre server and cloud storage browser for Mac and Windows with support for FTP, SFTP, WebDAV, Amazon S3, OpenStack Swift, Backblaze B2, Microsoft Azure & OneDrive, Google Drive and Dropbox.
 
   **Languages:** <img src='./icons/java-64.png' alt='Java icon' title='Java' height='16'/> Java
 
@@ -12862,7 +12862,7 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-* <b><code>  1801⭐</code></b> <b><code>   368🍴</code></b> [Deluge](https://github.com/deluge-torrent/deluge) ⭐ 1,801 | 🐛 3,281 | 🌐 Python | 📅 2026-03-07) - Lightweight cross-platform BitTorrent client.
+* <b><code>  1801⭐</code></b> <b><code>   368🍴</code></b> [Deluge](https://github.com/deluge-torrent/deluge) ⭐ 1,802 | 🐛 65 | 🌐 Python | 📅 2026-03-07) - Lightweight cross-platform BitTorrent client.
 
   **Languages:** <img src='./icons/python-64.png' alt='Python icon' title='Python' height='16'/> Python
 
@@ -12876,7 +12876,7 @@ You can see in which language an app is written. Currently there are following l
 
   **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
 
-* <b><code>   430⭐</code></b> <b><code>    62🍴</code></b> [Soduto](https://github.com/soduto/Soduto) ⭐ 430 | 🐛 21 | 🌐 Swift | 📅 2026-02-27) - Soduto is a KDEConnect compatible application for macOS. It gives AirDrop like integration and allows file and clipboard sharing between your phones, desktops and tablets.
+* <b><code>   430⭐</code></b> <b><code>    62🍴</code></b> [Soduto](https://github.com/soduto/Soduto) ⭐ 431 | 🐛 21 | 🌐 Swift | 📅 2026-02-27) - Soduto is a KDEConnect compatible application for macOS. It gives AirDrop like integration and allows file and clipboard sharing between your phones, desktops and tablets.
 
   **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift <img src='./icons/objective-c-64.png' alt='Objective-C icon' title='Objective-C' height='16'/> Objective-C
 
@@ -12932,7 +12932,7 @@ You can see in which language an app is written. Currently there are following l
 
 ### 👥 Social Networking (10)
 
-* <b><code>  7411⭐</code></b> <b><code>   617🍴</code></b> [Caprine](https://github.com/sindresorhus/caprine#features) ⭐ 7,411 | 🐛 295 | 🌐 TypeScript | 📅 2026-01-02) - Elegant Facebook Messenger desktop app.
+* <b><code>  7411⭐</code></b> <b><code>   617🍴</code></b> [Caprine](https://github.com/sindresorhus/caprine#features) ⭐ 7,412 | 🐛 295 | 🌐 TypeScript | 📅 2026-01-02) - Elegant Facebook Messenger desktop app.
 
   **Languages:** <img src='./icons/javascript-64.png' alt='JavaScript icon' title='JavaScript' height='16'/> JavaScript <img src='./icons/css-64.png' alt='CSS icon' title='CSS' height='16'/> CSS
 
@@ -13027,7 +13027,7 @@ You can see in which language an app is written. Currently there are following l
 
 ### 📡 Streaming (3)
 
-* <b><code> 79136⭐</code></b> <b><code> 11109🍴</code></b> [OBS Studio](https://github.com/obsproject/obs-studio) ⭐ 79,175 | 🐛 1,216 | 🌐 C | 📅 2026-11-06) - Free and open source software for live streaming and screen recording.
+* <b><code> 79136⭐</code></b> <b><code> 11109🍴</code></b> [OBS Studio](https://github.com/obsproject/obs-studio) ⭐ 79,226 | 🐛 1,218 | 🌐 C | 📅 2026-11-06) - Free and open source software for live streaming and screen recording.
 
   **Languages:** <img src='./icons/cpp-64.png' alt='C++ icon' title='C++' height='16'/> C++
 
@@ -13054,13 +13054,13 @@ You can see in which language an app is written. Currently there are following l
 
 ### ⚙️ System (49)
 
-* <b><code> 74213⭐</code></b> <b><code>  2657🍴</code></b> [Mole](https://github.com/tw93/Mole) ⭐ 74,258 | 🐛 0 | 🌐 Shell | 📅 2026-11-08) - Clean, uninstall, analyze, optimize, and monitor your Mac from the terminal.
+* <b><code> 74213⭐</code></b> <b><code>  2657🍴</code></b> [Mole](https://github.com/tw93/Mole) ⭐ 74,390 | 🐛 2 | 🌐 Shell | 📅 2026-11-09) - Clean, uninstall, analyze, optimize, and monitor your Mac from the terminal.
 
   **Languages:** <img src='./icons/shell-64.png' alt='Shell icon' title='Shell' height='16'/> Shell
 
   **Website:** 🌎 [https://mole.fit](mole.fit)
 
-* <b><code> 43216⭐</code></b> <b><code>  1620🍴</code></b> [Stats](https://github.com/exelban/stats) ⭐ 43,226 | 🐛 18 | 🌐 Swift | 📅 2026-11-08) - macOS system monitor in your menu bar
+* <b><code> 43216⭐</code></b> <b><code>  1620🍴</code></b> [Stats](https://github.com/exelban/stats) ⭐ 43,259 | 🐛 20 | 🌐 Swift | 📅 2026-11-09) - macOS system monitor in your menu bar
 
   **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
 
@@ -13086,7 +13086,7 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-* <b><code>  8992⭐</code></b> <b><code>   178🍴</code></b> [Sloth](https://github.com/sveinbjornt/Sloth) ⭐ 8,991 | 🐛 2 | 🌐 Objective-C | 📅 2026-10-15) - Sloth is an macOS application that displays a list of all open files and sockets in use by all running applications on your system.
+* <b><code>  8992⭐</code></b> <b><code>   178🍴</code></b> [Sloth](https://github.com/sveinbjornt/Sloth) ⭐ 8,992 | 🐛 2 | 🌐 Objective-C | 📅 2026-10-15) - Sloth is an macOS application that displays a list of all open files and sockets in use by all running applications on your system.
 
   **Languages:** <img src='./icons/objective-c-64.png' alt='Objective-C icon' title='Objective-C' height='16'/> Objective-C
 
@@ -13103,11 +13103,11 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-* <b><code>  7686⭐</code></b> <b><code>   448🍴</code></b> [PureMac](https://github.com/momenbasel/PureMac) ⭐ 7,690 | 🐛 13 | 🌐 Swift | 📅 2026-11-08) - Free macOS cleaner with zero telemetry. Cleans system caches, Xcode junk, Homebrew cache, mail attachments, and finds large or old files. Supports scheduled auto-cleaning.
+* <b><code>  7686⭐</code></b> <b><code>   448🍴</code></b> [PureMac](https://github.com/momenbasel/PureMac) ⭐ 7,710 | 🐛 14 | 🌐 Swift | 📅 2026-11-09) - Free macOS cleaner with zero telemetry. Cleans system caches, Xcode junk, Homebrew cache, mail attachments, and finds large or old files. Supports scheduled auto-cleaning.
 
   **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
 
-  **Website:** <b><code>  7686⭐</code></b> <b><code>   448🍴</code></b> <https://github.com/momenbasel/PureMac> ⭐ 7,690 | 🐛 13 | 🌐 Swift | 📅 2026-11-08)
+  **Website:** <b><code>  7686⭐</code></b> <b><code>   448🍴</code></b> <https://github.com/momenbasel/PureMac> ⭐ 7,710 | 🐛 14 | 🌐 Swift | 📅 2026-11-09)
 
   <details>
   <summary>Screenshots</summary>
@@ -13122,7 +13122,7 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-* <b><code>  7038⭐</code></b> <b><code>   278🍴</code></b> [KeepingYouAwake](https://github.com/newmarcel/KeepingYouAwake) ⭐ 7,039 | 🐛 35 | 🌐 Objective-C | 📅 2026-08-15) - Prevents your Mac from going to sleep.
+* <b><code>  7038⭐</code></b> <b><code>   278🍴</code></b> [KeepingYouAwake](https://github.com/newmarcel/KeepingYouAwake) ⭐ 7,042 | 🐛 35 | 🌐 Objective-C | 📅 2026-08-15) - Prevents your Mac from going to sleep.
 
   **Languages:** <img src='./icons/objective-c-64.png' alt='Objective-C icon' title='Objective-C' height='16'/> Objective-C
 
@@ -13135,7 +13135,7 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-* <b><code>  5395⭐</code></b> <b><code>   374🍴</code></b> [MangoDisk](https://github.com/harry0703/MangoDisk) ⭐ 5,411 | 🐛 5 | 🌐 Rust | 📅 2026-11-06) - Safety-first disk cleaner and space analyzer with local scanning and review before deletion.
+* <b><code>  5395⭐</code></b> <b><code>   374🍴</code></b> [MangoDisk](https://github.com/harry0703/MangoDisk) ⭐ 5,448 | 🐛 5 | 🌐 Rust | 📅 2026-11-06) - Safety-first disk cleaner and space analyzer with local scanning and review before deletion.
 
   **Languages:** <img src='./icons/rust-64.png' alt='Rust icon' title='Rust' height='16'/> Rust <img src='./icons/typescript-64.png' alt='TypeScript icon' title='TypeScript' height='16'/> TypeScript
 
@@ -13152,7 +13152,7 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-* <b><code>  4849⭐</code></b> <b><code>   153🍴</code></b> [Latest](https://github.com/mangerlahn/Latest) ⭐ 4,849 | 🐛 159 | 🌐 Swift | 📅 2026-07-18) - Small utility app for macOS that makes sure you know about all the latest updates to the apps you use.
+* <b><code>  4849⭐</code></b> <b><code>   153🍴</code></b> [Latest](https://github.com/mangerlahn/Latest) ⭐ 4,851 | 🐛 159 | 🌐 Swift | 📅 2026-07-18) - Small utility app for macOS that makes sure you know about all the latest updates to the apps you use.
 
   **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
 
@@ -13169,11 +13169,11 @@ You can see in which language an app is written. Currently there are following l
 
   **Languages:** <img src='./icons/cpp-64.png' alt='C++ icon' title='C++' height='16'/> C++
 
-* <b><code>  2119⭐</code></b> <b><code>   132🍴</code></b> [Mac Sai](https://github.com/iliyami/MacSai) ⭐ 2,120 | 🐛 15 | 🌐 Swift | 📅 2026-11-07) - Free, open-source CleanMyMac alternative built with Swift 6 and SwiftUI. Smart Scan, junk cleanup, malware scanner, uninstaller with leftover detection, Space Lens treemap, duplicates, and a live menu bar monitor.
+* <b><code>  2119⭐</code></b> <b><code>   132🍴</code></b> [Mac Sai](https://github.com/iliyami/MacSai) ⭐ 2,131 | 🐛 14 | 🌐 Swift | 📅 2026-11-09) - Free, open-source CleanMyMac alternative built with Swift 6 and SwiftUI. Smart Scan, junk cleanup, malware scanner, uninstaller with leftover detection, Space Lens treemap, duplicates, and a live menu bar monitor.
 
   **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
 
-  **Website:** <b><code>  2119⭐</code></b> <b><code>   132🍴</code></b> <https://github.com/iliyami/MacSai> ⭐ 2,120 | 🐛 15 | 🌐 Swift | 📅 2026-11-07)
+  **Website:** <b><code>  2119⭐</code></b> <b><code>   132🍴</code></b> <https://github.com/iliyami/MacSai> ⭐ 2,131 | 🐛 14 | 🌐 Swift | 📅 2026-11-09)
 
   <details>
   <summary>Screenshots</summary>
@@ -13216,7 +13216,7 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-* <b><code>  1389⭐</code></b> <b><code>   104🍴</code></b> [Fanny](https://github.com/DanielStormApps/Fanny) ⭐ 1,389 | 🐛 37 | 🌐 Swift | 📅 2020-05-02) - Monitor your Mac's fan speed and CPU temperature from your Notification Center.
+* <b><code>  1389⭐</code></b> <b><code>   104🍴</code></b> [Fanny](https://github.com/DanielStormApps/Fanny) ⭐ 1,389 | 🐛 38 | 🌐 Swift | 📅 2020-05-02) - Monitor your Mac's fan speed and CPU temperature from your Notification Center.
 
   **Languages:** <img src='./icons/objective-c-64.png' alt='Objective-C icon' title='Objective-C' height='16'/> Objective-C
 
@@ -13320,7 +13320,7 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-* <b><code>   495⭐</code></b> <b><code>    21🍴</code></b> [AirStats](https://github.com/byrencheema/airstats) ⭐ 496 | 🐛 2 | 🌐 Swift | 📅 2026-11-05) - Menu bar system monitor for CPU, memory, GPU, network, disk, battery, temperature, and processes, with a desktop widget.
+* <b><code>   495⭐</code></b> <b><code>    21🍴</code></b> [AirStats](https://github.com/byrencheema/airstats) ⭐ 501 | 🐛 2 | 🌐 Swift | 📅 2026-11-05) - Menu bar system monitor for CPU, memory, GPU, network, disk, battery, temperature, and processes, with a desktop widget.
 
   **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
 
@@ -13335,7 +13335,7 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-* <b><code>   469⭐</code></b> <b><code>    12🍴</code></b> [SlimHUD - Cyanocitta](https://github.com/AlexPerathoner/SlimHUD) ⭐ 469 | 🐛 22 | 🌐 Swift | 📅 2026-06-01) - Replacement for MacOS' volume, brightness and keyboard backlight HUDs.
+* <b><code>   469⭐</code></b> <b><code>    12🍴</code></b> [SlimHUD - Cyanocitta](https://github.com/AlexPerathoner/SlimHUD) ⭐ 468 | 🐛 22 | 🌐 Swift | 📅 2026-06-01) - Replacement for MacOS' volume, brightness and keyboard backlight HUDs.
 
   **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
 
@@ -13367,7 +13367,7 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-* <b><code>   269⭐</code></b> <b><code>    32🍴</code></b> [macOS GateKeeper Helper](https://github.com/wynioux/macOS-GateKeeper-Helper) ⭐ 269 | 🐛 0 | 🌐 Shell | 📅 2020-07-16) - Simple macOS GateKeeper script. It helps you to control your GateKeeper.
+* <b><code>   269⭐</code></b> <b><code>    32🍴</code></b> [macOS GateKeeper Helper](https://github.com/wynioux/macOS-GateKeeper-Helper) ⭐ 268 | 🐛 0 | 🌐 Shell | 📅 2020-07-16) - Simple macOS GateKeeper script. It helps you to control your GateKeeper.
 
   **Languages:** <img src='./icons/shell-64.png' alt='Shell icon' title='Shell' height='16'/> Shell
 
@@ -13395,7 +13395,7 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-* <b><code>   236⭐</code></b> <b><code>     6🍴</code></b> [Tracexy](https://github.com/RockxyApp/Tracexy) ⭐ 236 | 🐛 34 | 🌐 Swift | 📅 2026-11-06) - Native, local-first network intelligence for macOS that turns live traffic and saved PCAP or PCAPNG captures into app-aware sessions.
+* <b><code>   236⭐</code></b> <b><code>     6🍴</code></b> [Tracexy](https://github.com/RockxyApp/Tracexy) ⭐ 238 | 🐛 34 | 🌐 Swift | 📅 2026-11-09) - Native, local-first network intelligence for macOS that turns live traffic and saved PCAP or PCAPNG captures into app-aware sessions.
 
   **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
 
@@ -13438,7 +13438,7 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-* <b><code>   187⭐</code></b> <b><code>    11🍴</code></b> [HardwareVisualizer](https://github.com/shm11C3/HardwareVisualizer) ⭐ 187 | 🐛 61 | 🌐 Rust | 📅 2026-11-08) - A cross-platform hardware monitor with real-time metrics, historical insights, and a customizable dashboard.
+* <b><code>   187⭐</code></b> <b><code>    11🍴</code></b> [HardwareVisualizer](https://github.com/shm11C3/HardwareVisualizer) ⭐ 187 | 🐛 86 | 🌐 Rust | 📅 2026-11-09) - A cross-platform hardware monitor with real-time metrics, historical insights, and a customizable dashboard.
 
   **Languages:** <img src='./icons/rust-64.png' alt='Rust icon' title='Rust' height='16'/> Rust <img src='./icons/typescript-64.png' alt='TypeScript icon' title='TypeScript' height='16'/> TypeScript
 
@@ -13453,7 +13453,7 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-* <b><code>   178⭐</code></b> <b><code>    11🍴</code></b> [MaCursor](https://github.com/writronic/MaCursor) ⭐ 178 | 🐛 2 | 🌐 Swift | 📅 2026-11-02) - Custom cursor themes for macOS. Replace any system cursor with custom artwork, with 75+ ready-to-apply themes and Windows .cur/.ani import.
+* <b><code>   178⭐</code></b> <b><code>    11🍴</code></b> [MaCursor](https://github.com/writronic/MaCursor) ⭐ 181 | 🐛 3 | 🌐 Swift | 📅 2026-11-02) - Custom cursor themes for macOS. Replace any system cursor with custom artwork, with 75+ ready-to-apply themes and Windows .cur/.ani import.
 
   **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift <img src='./icons/objective-c-64.png' alt='Objective-C icon' title='Objective-C' height='16'/> Objective-C
 
@@ -13474,11 +13474,11 @@ You can see in which language an app is written. Currently there are following l
 
   **Website:** <b><code>   125⭐</code></b> <b><code>     8🍴</code></b> <https://github.com/offyotto/Core-Monitor> ⭐ 125 | 🐛 7 | 🌐 Swift | 📅 2026-11-08)
 
-* <b><code>   101⭐</code></b> <b><code>    12🍴</code></b> [Vitals](https://github.com/slawek19926/Vitals) ⭐ 101 | 🐛 1 | 🌐 Swift | 📅 2026-10-12) - Native macOS system monitor for Apple Silicon, SMC sensors, processes, disks, network and system health.
+* <b><code>   101⭐</code></b> <b><code>    12🍴</code></b> [Vitals](https://github.com/slawek19926/Vitals) ⭐ 103 | 🐛 1 | 🌐 Swift | 📅 2026-10-12) - Native macOS system monitor for Apple Silicon, SMC sensors, processes, disks, network and system health.
 
   **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift <img src='./icons/cpp-64.png' alt='C++ icon' title='C++' height='16'/> C++
 
-  **Website:** <b><code>   101⭐</code></b> <b><code>    12🍴</code></b> <https://github.com/slawek19926/Vitals> ⭐ 101 | 🐛 1 | 🌐 Swift | 📅 2026-10-12)
+  **Website:** <b><code>   101⭐</code></b> <b><code>    12🍴</code></b> <https://github.com/slawek19926/Vitals> ⭐ 103 | 🐛 1 | 🌐 Swift | 📅 2026-10-12)
 
   <details>
   <summary>Screenshots</summary>
@@ -13508,7 +13508,7 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-* <b><code>    76⭐</code></b> <b><code>     8🍴</code></b> [Aman Check](https://github.com/MidZai/aman_check) ⭐ 76 | 🐛 9 | 🌐 Swift | 📅 2026-10-20) - Dated, honest condition report for a used Mac: locks, battery, SSD and guided hardware tests.
+* <b><code>    76⭐</code></b> <b><code>     8🍴</code></b> [Aman Check](https://github.com/MidZai/aman_check) ⭐ 80 | 🐛 9 | 🌐 Swift | 📅 2026-10-20) - Dated, honest condition report for a used Mac: locks, battery, SSD and guided hardware tests.
 
   **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
 
@@ -13527,7 +13527,7 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-* <b><code>    60⭐</code></b> <b><code>     6🍴</code></b> [Better Resource Monitor](https://github.com/alexx855/better-resource-monitor) ⭐ 60 | 🐛 3 | 🌐 Rust | 📅 2026-11-02) - Lightweight macOS menu bar monitor for CPU, memory, storage, GPU, and network usage.
+* <b><code>    60⭐</code></b> <b><code>     6🍴</code></b> [Better Resource Monitor](https://github.com/alexx855/better-resource-monitor) ⭐ 60 | 🐛 3 | 🌐 Rust | 📅 2026-11-09) - Lightweight macOS menu bar monitor for CPU, memory, storage, GPU, and network usage.
 
   **Languages:** <img src='./icons/rust-64.png' alt='Rust icon' title='Rust' height='16'/> Rust <img src='./icons/typescript-64.png' alt='TypeScript icon' title='TypeScript' height='16'/> TypeScript
 
@@ -13578,6 +13578,12 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
+* <b><code>    29⭐</code></b> <b><code>     1🍴</code></b> [Abendrot](https://github.com/matthewrball/abendrot) ⭐ 30 | 🐛 0 | 🌐 Swift | 📅 2026-11-09) - Free open-source Mac screen warmer that cuts nighttime blue light and warms every display around local sunset.
+
+  **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
+
+  **Website:** 🌎 [https://abendrot.app](abendrot.app)
+
 * <b><code>    30⭐</code></b> <b><code>     2🍴</code></b> [Depflush](https://github.com/cypriennkeneng/depflush) ⭐ 30 | 🐛 0 | 🌐 Swift | 📅 2026-10-04) - Finds what Docker, node\_modules, old IDEs and duplicate files leave behind, with a preview and the Trash by default.
 
   **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
@@ -13596,12 +13602,6 @@ You can see in which language an app is written. Currently there are following l
 
   </p>
   </details>
-
-* <b><code>    29⭐</code></b> <b><code>     1🍴</code></b> [Abendrot](https://github.com/matthewrball/abendrot) ⭐ 29 | 🐛 2 | 🌐 Swift | 📅 2026-10-19) - Free open-source Mac screen warmer that cuts nighttime blue light and warms every display around local sunset.
-
-  **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
-
-  **Website:** 🌎 [https://abendrot.app](abendrot.app)
 
 * <b><code>    19⭐</code></b> <b><code>     4🍴</code></b> [Performance Monitor](https://github.com/inequitas/performancemonitor) ⭐ 19 | 🐛 3 | 🌐 Swift | 📅 2026-10-02) - Lightweight menu bar system monitor: CPU, memory, network, disk, GPU, per-sensor temperatures, SSD wear, and battery health. No telemetry.
 
@@ -13689,7 +13689,7 @@ You can see in which language an app is written. Currently there are following l
 
 ### 📺 Terminal (30)
 
-* <b><code> 75330⭐</code></b> <b><code>  4332🍴</code></b> [Tabby](https://github.com/Eugeny/tabby) ⭐ 75,335 | 🐛 2,892 | 🌐 TypeScript | 📅 2026-11-06) - Powerful cross-platform terminal emulator, featuring a modern GUI, and offering SSH, serial, Telnet, and SCP client support.
+* <b><code> 75330⭐</code></b> <b><code>  4332🍴</code></b> [Tabby](https://github.com/Eugeny/tabby) ⭐ 75,349 | 🐛 2,895 | 🌐 TypeScript | 📅 2026-11-06) - Powerful cross-platform terminal emulator, featuring a modern GUI, and offering SSH, serial, Telnet, and SCP client support.
 
   **Languages:** <img src='./icons/typescript-64.png' alt='TypeScript icon' title='TypeScript' height='16'/> TypeScript
 
@@ -13704,13 +13704,13 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-* <b><code> 74214⭐</code></b> <b><code>  2657🍴</code></b> [Mole](https://github.com/tw93/Mole) ⭐ 74,258 | 🐛 0 | 🌐 Shell | 📅 2026-11-08) - Clean, uninstall, analyze, optimize, and monitor your Mac from the terminal.
+* <b><code> 74214⭐</code></b> <b><code>  2657🍴</code></b> [Mole](https://github.com/tw93/Mole) ⭐ 74,390 | 🐛 2 | 🌐 Shell | 📅 2026-11-09) - Clean, uninstall, analyze, optimize, and monitor your Mac from the terminal.
 
   **Languages:** <img src='./icons/shell-64.png' alt='Shell icon' title='Shell' height='16'/> Shell
 
   **Website:** 🌎 [https://mole.fit](mole.fit)
 
-* <b><code> 66130⭐</code></b> <b><code>  3706🍴</code></b> [Alacritty](https://github.com/alacritty/alacritty) ⭐ 66,132 | 🐛 346 | 🌐 Rust | 📅 2026-11-06) - Cross-platform, GPU-accelerated terminal emulator.
+* <b><code> 66130⭐</code></b> <b><code>  3706🍴</code></b> [Alacritty](https://github.com/alacritty/alacritty) ⭐ 66,145 | 🐛 346 | 🌐 Rust | 📅 2026-11-06) - Cross-platform, GPU-accelerated terminal emulator.
 
   **Languages:** <img src='./icons/rust-64.png' alt='Rust icon' title='Rust' height='16'/> Rust
 
@@ -13736,7 +13736,7 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-* <b><code> 40501⭐</code></b> <b><code>   942🍴</code></b> [zoxide](https://github.com/ajeetdsouza/zoxide) ⭐ 40,510 | 🐛 156 | 🌐 Rust | 📅 2026-11-08) - zoxide is a smarter cd command for your terminal.
+* <b><code> 40501⭐</code></b> <b><code>   942🍴</code></b> [zoxide](https://github.com/ajeetdsouza/zoxide) ⭐ 40,532 | 🐛 156 | 🌐 Rust | 📅 2026-11-08) - zoxide is a smarter cd command for your terminal.
 
   **Languages:** <img src='./icons/rust-64.png' alt='Rust icon' title='Rust' height='16'/> Rust
 
@@ -13749,15 +13749,15 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-* <b><code> 35592⭐</code></b> <b><code>  1587🍴</code></b> [Kitty](https://github.com/kovidgoyal/kitty) ⭐ 35,599 | 🐛 12 | 🌐 Python | 📅 2026-11-07) - Cross-platform, fast, feature full, GPU based terminal emulator.
+* <b><code> 35592⭐</code></b> <b><code>  1587🍴</code></b> [Kitty](https://github.com/kovidgoyal/kitty) ⭐ 35,608 | 🐛 13 | 🌐 Python | 📅 2026-11-09) - Cross-platform, fast, feature full, GPU based terminal emulator.
 
   **Languages:** <img src='./icons/python-64.png' alt='Python icon' title='Python' height='16'/> Python <img src='./icons/c-64.png' alt='C icon' title='C' height='16'/> C
 
-* <b><code> 18263⭐</code></b> <b><code>  1552🍴</code></b> [iTerm 2](https://github.com/gnachman/iTerm2) ⭐ 18,265 | 🐛 75 | 🌐 Swift | 📅 2026-11-08) - Terminal emulator for macOS that does amazing things.
+* <b><code> 18263⭐</code></b> <b><code>  1552🍴</code></b> [iTerm 2](https://github.com/gnachman/iTerm2) ⭐ 18,264 | 🐛 75 | 🌐 Swift | 📅 2026-11-09) - Terminal emulator for macOS that does amazing things.
 
   **Languages:** <img src='./icons/objective-c-64.png' alt='Objective-C icon' title='Objective-C' height='16'/> Objective-C
 
-* <b><code>  7048⭐</code></b> <b><code>   316🍴</code></b> [OpenInTerminal](https://github.com/Ji4n1ng/OpenInTerminal) ⭐ 7,048 | 🐛 40 | 🌐 Swift | 📅 2026-10-25) - Finder Toolbar app for macOS to open the current directory in Terminal, iTerm, Hyper or Alacritty.
+* <b><code>  7048⭐</code></b> <b><code>   316🍴</code></b> [OpenInTerminal](https://github.com/Ji4n1ng/OpenInTerminal) ⭐ 7,049 | 🐛 40 | 🌐 Swift | 📅 2026-10-25) - Finder Toolbar app for macOS to open the current directory in Terminal, iTerm, Hyper or Alacritty.
 
   **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
 
@@ -13772,7 +13772,7 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-* <b><code>  5944⭐</code></b> <b><code>   179🍴</code></b> [Clipboard](https://github.com/Slackadays/Clipboard) ⭐ 5,944 | 🐛 27 | 🌐 C++ | 📅 2026-05-06) - An easy-to-use clipboard manager with time saving features that work across all terminals.
+* <b><code>  5944⭐</code></b> <b><code>   179🍴</code></b> [Clipboard](https://github.com/Slackadays/Clipboard) ⭐ 5,945 | 🐛 27 | 🌐 C++ | 📅 2026-05-06) - An easy-to-use clipboard manager with time saving features that work across all terminals.
 
   **Languages:** <img src='./icons/cpp-64.png' alt='C++ icon' title='C++' height='16'/> C++
 
@@ -13793,7 +13793,7 @@ You can see in which language an app is written. Currently there are following l
 
   **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
 
-* <b><code>  2697⭐</code></b> <b><code>   338🍴</code></b> [Terminator](https://github.com/gnome-terminator/terminator) ⭐ 2,697 | 🐛 189 | 🌐 Python | 📅 2026-10-19) - Terminal emulator that lets you open multiple GNOME terminals in one window.
+* <b><code>  2697⭐</code></b> <b><code>   338🍴</code></b> [Terminator](https://github.com/gnome-terminator/terminator) ⭐ 2,698 | 🐛 191 | 🌐 Python | 📅 2026-10-19) - Terminal emulator that lets you open multiple GNOME terminals in one window.
 
   **Languages:** <img src='./icons/python-64.png' alt='Python icon' title='Python' height='16'/> Python
 
@@ -13803,7 +13803,7 @@ You can see in which language an app is written. Currently there are following l
 
   **Languages:** <img src='./icons/objective-c-64.png' alt='Objective-C icon' title='Objective-C' height='16'/> Objective-C
 
-* <b><code>  1470⭐</code></b> <b><code>   132🍴</code></b> [tty7](https://github.com/l0ng-ai/tty7) ⭐ 1,473 | 🐛 84 | 🌐 Rust | 📅 2026-11-02) - A GPU-rendered, daemon-backed terminal in pure Rust; sessions survive quitting the app without tmux.
+* <b><code>  1470⭐</code></b> <b><code>   132🍴</code></b> [tty7](https://github.com/l0ng-ai/tty7) ⭐ 1,476 | 🐛 83 | 🌐 Rust | 📅 2026-11-09) - A GPU-rendered, daemon-backed terminal in pure Rust; sessions survive quitting the app without tmux.
 
   **Languages:** <img src='./icons/rust-64.png' alt='Rust icon' title='Rust' height='16'/> Rust
 
@@ -13822,11 +13822,11 @@ You can see in which language an app is written. Currently there are following l
 
   **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
 
-* <b><code>   754⭐</code></b> <b><code>    35🍴</code></b> [Vortix](https://github.com/Harry-kp/vortix) ⭐ 757 | 🐛 6 | 🌐 Rust | 📅 2026-11-03) - Terminal UI for WireGuard and OpenVPN with multi-tunnel control, real-time telemetry, and leak guarding.
+* <b><code>   754⭐</code></b> <b><code>    35🍴</code></b> [Vortix](https://github.com/Harry-kp/vortix) ⭐ 760 | 🐛 7 | 🌐 Rust | 📅 2026-11-09) - Terminal UI for WireGuard and OpenVPN with multi-tunnel control, real-time telemetry, and leak guarding.
 
   **Languages:** <img src='./icons/rust-64.png' alt='Rust icon' title='Rust' height='16'/> Rust
 
-  **Website:** <b><code>   754⭐</code></b> <b><code>    35🍴</code></b> <https://github.com/Harry-kp/vortix> ⭐ 757 | 🐛 6 | 🌐 Rust | 📅 2026-11-03)
+  **Website:** <b><code>   754⭐</code></b> <b><code>    35🍴</code></b> <https://github.com/Harry-kp/vortix> ⭐ 760 | 🐛 7 | 🌐 Rust | 📅 2026-11-09)
 
 * <b><code>   427⭐</code></b> <b><code>    29🍴</code></b> [Console](https://github.com/macmade/Console) ⭐ 427 | 🐛 2 | 🌐 Swift | 📅 2021-08-02) - macOS console application.
 
@@ -13841,7 +13841,7 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-* <b><code>   308⭐</code></b> <b><code>    12🍴</code></b> [reminal](https://github.com/harshalgajjar/Reminal) ⭐ 308 | 🐛 7 | 🌐 Go | 📅 2026-11-08) - Streams every window and terminal to any browser with input; software closed-lid mode keeps the Mac awake headlessly.
+* <b><code>   308⭐</code></b> <b><code>    12🍴</code></b> [reminal](https://github.com/harshalgajjar/Reminal) ⭐ 300 | 🐛 10 | 🌐 Go | 📅 2026-11-09) - Streams every window and terminal to any browser with input; software closed-lid mode keeps the Mac awake headlessly.
 
   **Languages:** <img src='./icons/golang-64.png' alt='Go icon' title='Go' height='16'/> Go <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
 
@@ -13856,7 +13856,7 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-* <b><code>   269⭐</code></b> <b><code>    32🍴</code></b> [macOS GateKeeper Helper](https://github.com/wynioux/macOS-GateKeeper-Helper) ⭐ 269 | 🐛 0 | 🌐 Shell | 📅 2020-07-16) - Simple macOS GateKeeper script. It helps you to control your GateKeeper.
+* <b><code>   269⭐</code></b> <b><code>    32🍴</code></b> [macOS GateKeeper Helper](https://github.com/wynioux/macOS-GateKeeper-Helper) ⭐ 268 | 🐛 0 | 🌐 Shell | 📅 2020-07-16) - Simple macOS GateKeeper script. It helps you to control your GateKeeper.
 
   **Languages:** <img src='./icons/shell-64.png' alt='Shell icon' title='Shell' height='16'/> Shell
 
@@ -13869,7 +13869,7 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-* <b><code>   112⭐</code></b> <b><code>     2🍴</code></b> [ghostty-designer](https://github.com/reemus-dev/ghostty-designer) ⭐ 112 | 🐛 0 | 🌐 TypeScript | 📅 2026-10-28) - Visual editor for Ghostty terminal themes, colours, fonts and window settings, with every change previewed live in your open terminals.
+* <b><code>   112⭐</code></b> <b><code>     2🍴</code></b> [ghostty-designer](https://github.com/reemus-dev/ghostty-designer) ⭐ 115 | 🐛 0 | 🌐 TypeScript | 📅 2026-10-28) - Visual editor for Ghostty terminal themes, colours, fonts and window settings, with every change previewed live in your open terminals.
 
   **Languages:** <img src='./icons/rust-64.png' alt='Rust icon' title='Rust' height='16'/> Rust <img src='./icons/typescript-64.png' alt='TypeScript icon' title='TypeScript' height='16'/> TypeScript
 
@@ -13968,7 +13968,7 @@ You can see in which language an app is written. Currently there are following l
 
   **Website:** 🌎 [https://tintpad.com](tintpad.com)
 
-* <b><code>     8⭐</code></b> <b><code>     0🍴</code></b> [crterm](https://github.com/mbcltd/CRTerminal) ⭐ 8 | 🐛 0 | 🌐 Swift | 📅 2026-11-06) - Beautifully opinionated terminal emulator, with advanced session navigation and GPU-accelerated retro presets.
+* <b><code>     8⭐</code></b> <b><code>     0🍴</code></b> [crterm](https://github.com/mbcltd/CRTerminal) ⭐ 9 | 🐛 0 | 🌐 Swift | 📅 2026-11-09) - Beautifully opinionated terminal emulator, with advanced session navigation and GPU-accelerated retro presets.
 
   **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
 
@@ -14017,7 +14017,7 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-* <b><code>  4351⭐</code></b> <b><code>   240🍴</code></b> [MyTouchbarMyRules](https://github.com/toxblh/MTMR) ⭐ 4,351 | 🐛 207 | 🌐 Swift | 📅 2026-05-14) - App to customize your Touch Bar as you want.
+* <b><code>  4351⭐</code></b> <b><code>   240🍴</code></b> [MyTouchbarMyRules](https://github.com/toxblh/MTMR) ⭐ 4,349 | 🐛 204 | 🌐 Swift | 📅 2026-11-09) - App to customize your Touch Bar as you want.
 
   **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
 
@@ -14065,7 +14065,7 @@ You can see in which language an app is written. Currently there are following l
 
 ### 🛠️ Utilities (235)
 
-* <b><code>152612⭐</code></b> <b><code> 10031🍴</code></b> [CC Switch](https://github.com/farion1231/cc-switch) ⭐ 152,722 | 🐛 942 | 🌐 Rust | 📅 2026-11-08) - Cross-platform desktop assistant for switching API providers in one click and managing MCP servers, skills and prompts for Claude Code, Codex, Gemini CLI, OpenCode and other AI coding agents.
+* <b><code>152612⭐</code></b> <b><code> 10031🍴</code></b> [CC Switch](https://github.com/farion1231/cc-switch) ⭐ 153,048 | 🐛 952 | 🌐 Rust | 📅 2026-11-09) - Cross-platform desktop assistant for switching API providers in one click and managing MCP servers, skills and prompts for Claude Code, Codex, Gemini CLI, OpenCode and other AI coding agents.
 
   **Languages:** <img src='./icons/rust-64.png' alt='Rust icon' title='Rust' height='16'/> Rust <img src='./icons/typescript-64.png' alt='TypeScript icon' title='TypeScript' height='16'/> TypeScript
 
@@ -14082,27 +14082,27 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-* <b><code> 95968⭐</code></b> <b><code> 10012🍴</code></b> [Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) ⭐ 96,030 | 🐛 532 | 🌐 TypeScript | 📅 2026-11-08) - Locally hosted web application that allows you to perform various operations on PDF files
+* <b><code> 95968⭐</code></b> <b><code> 10012🍴</code></b> [Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) ⭐ 96,146 | 🐛 527 | 🌐 TypeScript | 📅 2026-11-09) - Locally hosted web application that allows you to perform various operations on PDF files
 
   **Languages:** <img src='./icons/java-64.png' alt='Java icon' title='Java' height='16'/> Java <code>html</code> <img src='./icons/javascript-64.png' alt='JavaScript icon' title='JavaScript' height='16'/> JavaScript <code>html</code>
 
   **Website:** [stirlingpdf.com](stirlingpdf.com)
 
-* <b><code> 95763⭐</code></b> <b><code> 10720🍴</code></b> [NVM](https://github.com/nvm-sh/nvm) ⭐ 95,767 | 🐛 374 | 🌐 Shell | 📅 2026-11-04) - Node Version Manager.
+* <b><code> 95763⭐</code></b> <b><code> 10720🍴</code></b> [NVM](https://github.com/nvm-sh/nvm) ⭐ 95,776 | 🐛 374 | 🌐 Shell | 📅 2026-11-04) - Node Version Manager.
 
   **Languages:** <img src='./icons/shell-64.png' alt='Shell icon' title='Shell' height='16'/> Shell
 
-* <b><code> 74214⭐</code></b> <b><code>  2657🍴</code></b> [Mole](https://github.com/tw93/Mole) ⭐ 74,258 | 🐛 0 | 🌐 Shell | 📅 2026-11-08) - Clean, uninstall, analyze, optimize, and monitor your Mac from the terminal.
+* <b><code> 74214⭐</code></b> <b><code>  2657🍴</code></b> [Mole](https://github.com/tw93/Mole) ⭐ 74,390 | 🐛 2 | 🌐 Shell | 📅 2026-11-09) - Clean, uninstall, analyze, optimize, and monitor your Mac from the terminal.
 
   **Languages:** <img src='./icons/shell-64.png' alt='Shell icon' title='Shell' height='16'/> Shell
 
   **Website:** 🌎 [https://mole.fit](mole.fit)
 
-* <b><code> 56048⭐</code></b> <b><code>  8530🍴</code></b> [PowerShell](https://github.com/powershell/powershell) ⭐ 56,059 | 🐛 1,618 | 🌐 C# | 📅 2026-11-06) - PowerShell is a cross-platform automation and configuration tool/framework that works well with your existing tools.
+* <b><code> 56048⭐</code></b> <b><code>  8530🍴</code></b> [PowerShell](https://github.com/powershell/powershell) ⭐ 56,073 | 🐛 1,620 | 🌐 C# | 📅 2026-11-09) - PowerShell is a cross-platform automation and configuration tool/framework that works well with your existing tools.
 
   **Languages:** <img src='./icons/csharp-64.png' alt='C# icon' title='C#' height='16'/> C#
 
-* <b><code> 43216⭐</code></b> <b><code>  1620🍴</code></b> [Stats](https://github.com/exelban/stats) ⭐ 43,226 | 🐛 18 | 🌐 Swift | 📅 2026-11-08) - macOS system monitor in your menu bar
+* <b><code> 43216⭐</code></b> <b><code>  1620🍴</code></b> [Stats](https://github.com/exelban/stats) ⭐ 43,259 | 🐛 20 | 🌐 Swift | 📅 2026-11-09) - macOS system monitor in your menu bar
 
   **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
 
@@ -14115,7 +14115,7 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-* <b><code> 40501⭐</code></b> <b><code>   942🍴</code></b> [zoxide](https://github.com/ajeetdsouza/zoxide) ⭐ 40,510 | 🐛 156 | 🌐 Rust | 📅 2026-11-08) - zoxide is a smarter cd command for your terminal.
+* <b><code> 40501⭐</code></b> <b><code>   942🍴</code></b> [zoxide](https://github.com/ajeetdsouza/zoxide) ⭐ 40,532 | 🐛 156 | 🌐 Rust | 📅 2026-11-08) - zoxide is a smarter cd command for your terminal.
 
   **Languages:** <img src='./icons/rust-64.png' alt='Rust icon' title='Rust' height='16'/> Rust
 
@@ -14128,13 +14128,13 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-* <b><code> 34671⭐</code></b> <b><code>  2438🍴</code></b> [Balena Etcher](https://github.com/balena-io/etcher) ⭐ 34,672 | 🐛 703 | 🌐 TypeScript | 📅 2026-10-23) - Flash OS images to SD cards & USB drives, safely and easily.
+* <b><code> 34671⭐</code></b> <b><code>  2438🍴</code></b> [Balena Etcher](https://github.com/balena-io/etcher) ⭐ 34,676 | 🐛 703 | 🌐 TypeScript | 📅 2026-10-23) - Flash OS images to SD cards & USB drives, safely and easily.
 
   **Languages:** <img src='./icons/typescript-64.png' alt='TypeScript icon' title='TypeScript' height='16'/> TypeScript
 
   **Website:** 🌎 [https://www.balena.io/etcher](www.balena.io/etcher)
 
-* <b><code> 34663⭐</code></b> <b><code>  1038🍴</code></b> [MonitorControl](https://github.com/MonitorControl/MonitorControl) ⭐ 34,666 | 🐛 30 | 🌐 Swift | 📅 2026-10-14) - Control your external monitor brightness, contrast or volume directly from a menulet or with keyboard native keys.
+* <b><code> 34663⭐</code></b> <b><code>  1038🍴</code></b> [MonitorControl](https://github.com/MonitorControl/MonitorControl) ⭐ 34,673 | 🐛 30 | 🌐 Swift | 📅 2026-10-14) - Control your external monitor brightness, contrast or volume directly from a menulet or with keyboard native keys.
 
   **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift <img src='./icons/objective-c-64.png' alt='Objective-C icon' title='Objective-C' height='16'/> Objective-C
 
@@ -14147,7 +14147,7 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-* <b><code> 29982⭐</code></b> <b><code>  1042🍴</code></b> [Ice](https://github.com/jordanbaird/Ice) ⭐ 29,989 | 🐛 454 | 🌐 Swift | 📅 2026-10-06) - Ice is a versatile menu bar manager that goes beyond hiding and showing items to offer a rich set of productivity features.
+* <b><code> 29982⭐</code></b> <b><code>  1042🍴</code></b> [Ice](https://github.com/jordanbaird/Ice) ⭐ 29,995 | 🐛 454 | 🌐 Swift | 📅 2026-10-06) - Ice is a versatile menu bar manager that goes beyond hiding and showing items to offer a rich set of productivity features.
 
   **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
 
@@ -14164,17 +14164,17 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-* <b><code> 29842⭐</code></b> <b><code>  2015🍴</code></b> [KeePassXC](https://github.com/keepassxreboot/keepassxc) ⭐ 29,856 | 🐛 1,007 | 🌐 C++ | 📅 2026-11-08) - Cross-platform community-driven port of the Windows application "Keepass Password Safe"
+* <b><code> 29842⭐</code></b> <b><code>  2015🍴</code></b> [KeePassXC](https://github.com/keepassxreboot/keepassxc) ⭐ 29,886 | 🐛 998 | 🌐 C++ | 📅 2026-11-08) - Cross-platform community-driven port of the Windows application "Keepass Password Safe"
 
   **Languages:** <img src='./icons/cpp-64.png' alt='C++ icon' title='C++' height='16'/> C++
 
-* <b><code> 26379⭐</code></b> <b><code>  2749🍴</code></b> [calibre](https://github.com/kovidgoyal/calibre) ⭐ 26,386 | 🐛 7 | 🌐 Python | 📅 2026-11-08) - cross platform e-book manager.
+* <b><code> 26379⭐</code></b> <b><code>  2749🍴</code></b> [calibre](https://github.com/kovidgoyal/calibre) ⭐ 26,396 | 🐛 6 | 🌐 Python | 📅 2026-11-09) - cross platform e-book manager.
 
   **Languages:** <img src='./icons/python-64.png' alt='Python icon' title='Python' height='16'/> Python
 
   **Website:** 🌎 [https://calibre-ebook.com](calibre-ebook.com)
 
-* <b><code> 23493⭐</code></b> <b><code>  2262🍴</code></b> [Super Productivity](https://github.com/johannesjo/super-productivity) ⭐ 23,507 | 🐛 1,176 | 🌐 TypeScript | 📅 2026-11-08) - Free to do list & time tracker for programmers & designers with Jira integration.
+* <b><code> 23493⭐</code></b> <b><code>  2262🍴</code></b> [Super Productivity](https://github.com/johannesjo/super-productivity) ⭐ 23,547 | 🐛 1,200 | 🌐 TypeScript | 📅 2026-11-09) - Free to do list & time tracker for programmers & designers with Jira integration.
 
   **Languages:** <img src='./icons/typescript-64.png' alt='TypeScript icon' title='TypeScript' height='16'/> TypeScript <img src='./icons/javascript-64.png' alt='JavaScript icon' title='JavaScript' height='16'/> JavaScript
 
@@ -14189,22 +14189,7 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-* <b><code> 22286⭐</code></b> <b><code> 12079🍴</code></b> [homebrew-cask](https://github.com/Homebrew/homebrew-cask) ⭐ 22,287 | 🐛 38 | 🌐 Ruby | 📅 2026-11-08) - A CLI workflow for the administration of macOS applications distributed as binaries
-
-  **Languages:** <img src='./icons/ruby-64.png' alt='Ruby icon' title='Ruby' height='16'/> Ruby
-
-  **Website:** 🌎 [https://brew.sh/](brew.sh/)
-
-  <details>
-  <summary>Screenshots</summary>
-  <p>
-
-  <img src='https://camo.githubusercontent.com/e0232f054269f4da8df572c3dea4f08def189df3/68747470733a2f2f692e696d6775722e636f6d2f626a723855785a2e676966' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
-
-  </p>
-  </details>
-
-* <b><code> 22262⭐</code></b> <b><code>  2275🍴</code></b> [Screenpipe](https://github.com/screenpipe/screenpipe) ⭐ 22,270 | 🐛 26 | 🌐 Rust | 📅 2026-11-07) - 24/7 screen and audio recording with AI-powered search. Local-first, privacy-focused rewind alternative.
+* <b><code> 22262⭐</code></b> <b><code>  2275🍴</code></b> [Screenpipe](https://github.com/screenpipe/screenpipe) ⭐ 22,293 | 🐛 27 | 🌐 Rust | 📅 2026-11-09) - 24/7 screen and audio recording with AI-powered search. Local-first, privacy-focused rewind alternative.
 
   **Languages:** <img src='./icons/rust-64.png' alt='Rust icon' title='Rust' height='16'/> Rust <img src='./icons/typescript-64.png' alt='TypeScript icon' title='TypeScript' height='16'/> TypeScript
 
@@ -14219,11 +14204,26 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-* <b><code> 21847⭐</code></b> <b><code>   705🍴</code></b> [Mos](https://github.com/Caldis/Mos) ⭐ 21,851 | 🐛 430 | 🌐 Swift | 📅 2026-10-25) - Smooth your mouse's scrolling and reverse the mouse scroll direction
+* <b><code> 22286⭐</code></b> <b><code> 12079🍴</code></b> [homebrew-cask](https://github.com/Homebrew/homebrew-cask) ⭐ 22,286 | 🐛 32 | 🌐 Ruby | 📅 2026-11-09) - A CLI workflow for the administration of macOS applications distributed as binaries
+
+  **Languages:** <img src='./icons/ruby-64.png' alt='Ruby icon' title='Ruby' height='16'/> Ruby
+
+  **Website:** 🌎 [https://brew.sh/](brew.sh/)
+
+  <details>
+  <summary>Screenshots</summary>
+  <p>
+
+  <img src='https://camo.githubusercontent.com/e0232f054269f4da8df572c3dea4f08def189df3/68747470733a2f2f692e696d6775722e636f6d2f626a723855785a2e676966' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
+
+  </p>
+  </details>
+
+* <b><code> 21847⭐</code></b> <b><code>   705🍴</code></b> [Mos](https://github.com/Caldis/Mos) ⭐ 21,864 | 🐛 429 | 🌐 Swift | 📅 2026-10-25) - Smooth your mouse's scrolling and reverse the mouse scroll direction
 
   **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
 
-* <b><code> 19550⭐</code></b> <b><code>  1076🍴</code></b> [ActivityWatch](https://github.com/ActivityWatch/activitywatch) ⭐ 19,559 | 🐛 137 | 🌐 Python | 📅 2026-11-06) - Open-source automated time tracker that tracks how you spend time on your devices.
+* <b><code> 19550⭐</code></b> <b><code>  1076🍴</code></b> [ActivityWatch](https://github.com/ActivityWatch/activitywatch) ⭐ 19,573 | 🐛 136 | 🌐 Python | 📅 2026-11-09) - Open-source automated time tracker that tracks how you spend time on your devices.
 
   **Languages:** <img src='./icons/python-64.png' alt='Python icon' title='Python' height='16'/> Python <img src='./icons/typescript-64.png' alt='TypeScript icon' title='TypeScript' height='16'/> TypeScript
 
@@ -14233,33 +14233,33 @@ You can see in which language an app is written. Currently there are following l
 
   **Languages:** <img src='./icons/javascript-64.png' alt='JavaScript icon' title='JavaScript' height='16'/> JavaScript
 
-* <b><code> 18894⭐</code></b> <b><code>  2073🍴</code></b> [OpenCore Legacy Patcher](https://github.com/dortania/OpenCore-Legacy-Patcher) ⭐ 18,905 | 🐛 20 | 🌐 Python | 📅 2026-11-08) - OpenCore Legacy Patcher is a tool for installing new MacOS versions on legacy macs.
+* <b><code> 18894⭐</code></b> <b><code>  2073🍴</code></b> [OpenCore Legacy Patcher](https://github.com/dortania/OpenCore-Legacy-Patcher) ⭐ 18,921 | 🐛 21 | 🌐 Python | 📅 2026-11-08) - OpenCore Legacy Patcher is a tool for installing new MacOS versions on legacy macs.
 
   **Languages:** <img src='./icons/python-64.png' alt='Python icon' title='Python' height='16'/> Python
 
   **Website:** 🌎 [https://dortania.github.io/OpenCore-Legacy-Patcher/](dortania.github.io/OpenCore-Legacy-Patcher/)
 
-* <b><code> 17982⭐</code></b> <b><code>  2065🍴</code></b> [nix-package-manager](https://github.com/NixOS/nix) ⭐ 17,984 | 🐛 3,038 | 🌐 C++ | 📅 2026-11-08) - Nix is a reproducible package manager alternative to Homebrew, with over 80,000 packages.
+* <b><code> 17982⭐</code></b> <b><code>  2065🍴</code></b> [nix-package-manager](https://github.com/NixOS/nix) ⭐ 17,993 | 🐛 3,039 | 🌐 C++ | 📅 2026-11-09) - Nix is a reproducible package manager alternative to Homebrew, with over 80,000 packages.
 
   **Languages:** <code>c++</code> <img src='./icons/shell-64.png' alt='Shell icon' title='Shell' height='16'/> Shell <code>nix</code>
 
   **Website:** 🌎 [https://nixos.org/explore.html](nixos.org/explore.html)
 
-* <b><code>     ?⭐</code></b> <b><code>     ?🍴</code></b> [Xournal++](https://github.com/xournalpp/xournalpp/) ⭐ 15,647 | 🐛 1,266 | 🌐 C++ | 📅 2026-11-08) - Take handwritten notes with ease
+* <b><code>     ?⭐</code></b> <b><code>     ?🍴</code></b> [Xournal++](https://github.com/xournalpp/xournalpp/) ⭐ 15,653 | 🐛 1,259 | 🌐 C++ | 📅 2026-11-09) - Take handwritten notes with ease
 
   **Languages:** <img src='./icons/cpp-64.png' alt='C++ icon' title='C++' height='16'/> C++ <img src='./icons/Lua-64.png' alt='Lua icon' title='Lua' height='16'/> Lua <img src='./icons/c-64.png' alt='C icon' title='C' height='16'/> C <img src='./icons/python-64.png' alt='Python icon' title='Python' height='16'/> Python
 
-* <b><code> 13948⭐</code></b> <b><code>  2970🍴</code></b> [Nmap](https://github.com/nmap/nmap) ⭐ 13,952 | 🐛 725 | 🌐 C | 📅 2026-11-05) - Nmap - the Network Mapper.
+* <b><code> 13948⭐</code></b> <b><code>  2970🍴</code></b> [Nmap](https://github.com/nmap/nmap) ⭐ 13,959 | 🐛 726 | 🌐 C | 📅 2026-11-09) - Nmap - the Network Mapper.
 
   **Languages:** <img src='./icons/cpp-64.png' alt='C++ icon' title='C++' height='16'/> C++
 
   **Website:** 🌎 [https://nmap.org](nmap.org)
 
-* <b><code> 13034⭐</code></b> <b><code>  1167🍴</code></b> [KeeWeb](https://github.com/keeweb/keeweb) ⭐ 13,034 | 🐛 441 | 🌐 HTML | 📅 2026-05-08) - Cross-platform password manager compatible with KeePass.
+* <b><code> 13034⭐</code></b> <b><code>  1167🍴</code></b> [KeeWeb](https://github.com/keeweb/keeweb) ⭐ 13,036 | 🐛 441 | 🌐 HTML | 📅 2026-05-08) - Cross-platform password manager compatible with KeePass.
 
   **Languages:** <img src='./icons/javascript-64.png' alt='JavaScript icon' title='JavaScript' height='16'/> JavaScript
 
-* <b><code> 12606⭐</code></b> <b><code>   338🍴</code></b> [Thaw](https://github.com/thaw-app/Thaw) ⭐ 12,618 | 🐛 43 | 🌐 Swift | 📅 2026-11-08) - Actively maintained menu bar manager for macOS 26+: hide and show items, search, hotkeys, profiles, and appearance controls.
+* <b><code> 12606⭐</code></b> <b><code>   338🍴</code></b> [Thaw](https://github.com/thaw-app/Thaw) ⭐ 12,639 | 🐛 48 | 🌐 Swift | 📅 2026-11-09) - Actively maintained menu bar manager for macOS 26+: hide and show items, search, hotkeys, profiles, and appearance controls.
 
   **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
 
@@ -14276,7 +14276,7 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-* <b><code> 10173⭐</code></b> <b><code>  2255🍴</code></b> [Wireshark](https://github.com/wireshark/wireshark) ⭐ 10,178 | 🐛 2 | 🌐 C | 📅 2026-11-08) - Wireshark is the world’s foremost and widely-used network protocol analyzer. It lets you see what’s happening on your network at a microscopic level and is the de facto (and often de jure) standard across many commercial and non-profit enterprises, government agencies, and educational institutions.
+* <b><code> 10173⭐</code></b> <b><code>  2255🍴</code></b> [Wireshark](https://github.com/wireshark/wireshark) ⭐ 10,184 | 🐛 2 | 🌐 C | 📅 2026-11-09) - Wireshark is the world’s foremost and widely-used network protocol analyzer. It lets you see what’s happening on your network at a microscopic level and is the de facto (and often de jure) standard across many commercial and non-profit enterprises, government agencies, and educational institutions.
 
   **Languages:** <img src='./icons/cpp-64.png' alt='C++ icon' title='C++' height='16'/> C++
 
@@ -14295,7 +14295,7 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-* <b><code>  9091⭐</code></b> <b><code>   278🍴</code></b> [WhatCable](https://github.com/darrylmorley/whatcable) ⭐ 9,094 | 🐛 43 | 🌐 Swift | 📅 2026-10-13) - Tells you, in plain English, what each USB-C cable plugged into your Mac can do — speed, power, and e-marker info — from the menu bar.
+* <b><code>  9091⭐</code></b> <b><code>   278🍴</code></b> [WhatCable](https://github.com/darrylmorley/whatcable) ⭐ 9,101 | 🐛 44 | 🌐 Swift | 📅 2026-10-13) - Tells you, in plain English, what each USB-C cable plugged into your Mac can do — speed, power, and e-marker info — from the menu bar.
 
   **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
 
@@ -14310,23 +14310,23 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-* <b><code>  8095⭐</code></b> <b><code>   425🍴</code></b> [PeaZip](https://github.com/peazip/PeaZip) ⭐ 8,100 | 🐛 17 | 🌐 Pascal | 📅 2026-11-04) - Free file archiver utility and open source file compression and encryption tool supporting 200+ formats.
+* <b><code>  8095⭐</code></b> <b><code>   425🍴</code></b> [PeaZip](https://github.com/peazip/PeaZip) ⭐ 8,105 | 🐛 17 | 🌐 Pascal | 📅 2026-11-04) - Free file archiver utility and open source file compression and encryption tool supporting 200+ formats.
 
   **Languages:** <code>pascal</code>
 
   **Website:** 🌎 [https://peazip.github.io/](peazip.github.io/)
 
-* <b><code>     ?⭐</code></b> <b><code>     ?🍴</code></b> [dupeGuru](https://github.com/arsenetar/dupeguru/) ⭐ 7,952 | 🐛 568 | 🌐 Python | 📅 2026-09-07) - dupeGuru is a tool to find duplicate files on your computer. It can scan using file names and file contents.
+* <b><code>     ?⭐</code></b> <b><code>     ?🍴</code></b> [dupeGuru](https://github.com/arsenetar/dupeguru/) ⭐ 7,954 | 🐛 568 | 🌐 Python | 📅 2026-09-07) - dupeGuru is a tool to find duplicate files on your computer. It can scan using file names and file contents.
 
   **Languages:** <img src='./icons/objective-c-64.png' alt='Objective-C icon' title='Objective-C' height='16'/> Objective-C
 
   **Website:** 🌎 [https://dupeguru.voltaicideas.net/](dupeguru.voltaicideas.net/)
 
-* <b><code>  7686⭐</code></b> <b><code>   448🍴</code></b> [PureMac](https://github.com/momenbasel/PureMac) ⭐ 7,690 | 🐛 13 | 🌐 Swift | 📅 2026-11-08) - Free macOS cleaner with zero telemetry. Cleans system caches, Xcode junk, Homebrew cache, mail attachments, and finds large or old files. Supports scheduled auto-cleaning.
+* <b><code>  7686⭐</code></b> <b><code>   448🍴</code></b> [PureMac](https://github.com/momenbasel/PureMac) ⭐ 7,710 | 🐛 14 | 🌐 Swift | 📅 2026-11-09) - Free macOS cleaner with zero telemetry. Cleans system caches, Xcode junk, Homebrew cache, mail attachments, and finds large or old files. Supports scheduled auto-cleaning.
 
   **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
 
-  **Website:** <b><code>  7686⭐</code></b> <b><code>   448🍴</code></b> <https://github.com/momenbasel/PureMac> ⭐ 7,690 | 🐛 13 | 🌐 Swift | 📅 2026-11-08)
+  **Website:** <b><code>  7686⭐</code></b> <b><code>   448🍴</code></b> <https://github.com/momenbasel/PureMac> ⭐ 7,710 | 🐛 14 | 🌐 Swift | 📅 2026-11-09)
 
   <details>
   <summary>Screenshots</summary>
@@ -14341,7 +14341,7 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-* <b><code>  7629⭐</code></b> <b><code>   306🍴</code></b> [Keka](https://github.com/aonez/Keka) ⭐ 7,631 | 🐛 270 | 🌐 PHP | 📅 2026-10-19) - Keka is a full featured file archiver, as easy as it can be.
+* <b><code>  7629⭐</code></b> <b><code>   306🍴</code></b> [Keka](https://github.com/aonez/Keka) ⭐ 7,637 | 🐛 271 | 🌐 PHP | 📅 2026-10-19) - Keka is a full featured file archiver, as easy as it can be.
 
   **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
 
@@ -14356,7 +14356,7 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-* <b><code>  6898⭐</code></b> <b><code>   476🍴</code></b> [MacPass](https://github.com/MacPass/MacPass) ⭐ 6,898 | 🐛 296 | 🌐 Objective-C | 📅 2026-10-29) - Native macOS KeePass client.
+* <b><code>  6898⭐</code></b> <b><code>   476🍴</code></b> [MacPass](https://github.com/MacPass/MacPass) ⭐ 6,900 | 🐛 297 | 🌐 Objective-C | 📅 2026-10-29) - Native macOS KeePass client.
 
   **Languages:** <img src='./icons/objective-c-64.png' alt='Objective-C icon' title='Objective-C' height='16'/> Objective-C
 
@@ -14369,7 +14369,7 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-* <b><code>  6534⭐</code></b> <b><code>   259🍴</code></b> [Numi](https://github.com/nikolaeu/numi) ⭐ 6,534 | 🐛 135 | 🌐 JavaScript | 📅 2026-07-19) - Beautiful calculator app for macOS
+* <b><code>  6534⭐</code></b> <b><code>   259🍴</code></b> [Numi](https://github.com/nikolaeu/numi) ⭐ 6,535 | 🐛 135 | 🌐 JavaScript | 📅 2026-07-19) - Beautiful calculator app for macOS
 
   **Languages:** <img src='./icons/javascript-64.png' alt='JavaScript icon' title='JavaScript' height='16'/> JavaScript
 
@@ -14384,7 +14384,7 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-* <b><code>  6043⭐</code></b> <b><code>   246🍴</code></b> [OnlySwitch](https://github.com/jacklandrin/OnlySwitch) ⭐ 6,043 | 🐛 25 | 🌐 Swift | 📅 2026-11-06) - All-in-One status bar button, hide MacBook Pro's notch, dark mode, AirPods, Shortcuts
+* <b><code>  6043⭐</code></b> <b><code>   246🍴</code></b> [OnlySwitch](https://github.com/jacklandrin/OnlySwitch) ⭐ 6,043 | 🐛 25 | 🌐 Swift | 📅 2026-11-09) - All-in-One status bar button, hide MacBook Pro's notch, dark mode, AirPods, Shortcuts
 
   **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
 
@@ -14399,9 +14399,26 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-* <b><code>  5736⭐</code></b> <b><code>   150🍴</code></b> [Lunar](https://github.com/alin23/lunar) ⭐ 5,736 | 🐛 5 | 🌐 Swift | 📅 2026-10-25) - Intelligent adaptive brightness for your external displays.
+* <b><code>  5736⭐</code></b> <b><code>   150🍴</code></b> [Lunar](https://github.com/alin23/lunar) ⭐ 5,734 | 🐛 5 | 🌐 Swift | 📅 2026-10-25) - Intelligent adaptive brightness for your external displays.
 
   **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
+
+* <b><code>  5395⭐</code></b> <b><code>   374🍴</code></b> [MangoDisk](https://github.com/harry0703/MangoDisk) ⭐ 5,448 | 🐛 5 | 🌐 Rust | 📅 2026-11-06) - Safety-first disk cleaner and space analyzer with local scanning and review before deletion.
+
+  **Languages:** <img src='./icons/rust-64.png' alt='Rust icon' title='Rust' height='16'/> Rust <img src='./icons/typescript-64.png' alt='TypeScript icon' title='TypeScript' height='16'/> TypeScript
+
+  **Website:** 🌎 [https://mangodisk.app/](mangodisk.app/)
+
+  <details>
+  <summary>Screenshots</summary>
+  <p>
+
+  <img src='https://assets.mangodisk.app/images/screenshots/en/light-01-deep-cleanup.jpg' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
+
+  <img src='https://assets.mangodisk.app/images/screenshots/en/light-05-disk-space-analysis.jpg' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
+
+  </p>
+  </details>
 
 * <b><code>  5414⭐</code></b> <b><code>   315🍴</code></b> [Android tool for Mac](https://github.com/mortenjust/androidtool-mac) ⭐ 5,414 | 🐛 67 | 🌐 Swift | 📅 2023-03-16) - One-click screenshots, video recordings, app installation for iOS and Android
 
@@ -14422,24 +14439,7 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-* <b><code>  5395⭐</code></b> <b><code>   374🍴</code></b> [MangoDisk](https://github.com/harry0703/MangoDisk) ⭐ 5,411 | 🐛 5 | 🌐 Rust | 📅 2026-11-06) - Safety-first disk cleaner and space analyzer with local scanning and review before deletion.
-
-  **Languages:** <img src='./icons/rust-64.png' alt='Rust icon' title='Rust' height='16'/> Rust <img src='./icons/typescript-64.png' alt='TypeScript icon' title='TypeScript' height='16'/> TypeScript
-
-  **Website:** 🌎 [https://mangodisk.app/](mangodisk.app/)
-
-  <details>
-  <summary>Screenshots</summary>
-  <p>
-
-  <img src='https://assets.mangodisk.app/images/screenshots/en/light-01-deep-cleanup.jpg' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
-
-  <img src='https://assets.mangodisk.app/images/screenshots/en/light-05-disk-space-analysis.jpg' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
-
-  </p>
-  </details>
-
-* <b><code>  5398⭐</code></b> <b><code>   304🍴</code></b> [MeetingBar](https://github.com/leits/MeetingBar) ⭐ 5,397 | 🐛 124 | 🌐 Swift | 📅 2026-11-04) - Menu bar app for your calendar meetings
+* <b><code>  5398⭐</code></b> <b><code>   304🍴</code></b> [MeetingBar](https://github.com/leits/MeetingBar) ⭐ 5,399 | 🐛 125 | 🌐 Swift | 📅 2026-11-04) - Menu bar app for your calendar meetings
 
   **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
 
@@ -14452,7 +14452,7 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-* <b><code>  5376⭐</code></b> <b><code>   258🍴</code></b> [Flying Carpet](https://github.com/spieglt/flyingcarpet) ⭐ 5,376 | 🐛 15 | 🌐 Rust | 📅 2026-10-24) - cross-platform file transfer over ad-hoc wifi, like AirDrop but for Mac/Windows/Linux.
+* <b><code>  5376⭐</code></b> <b><code>   258🍴</code></b> [Flying Carpet](https://github.com/spieglt/flyingcarpet) ⭐ 5,377 | 🐛 15 | 🌐 Rust | 📅 2026-10-24) - cross-platform file transfer over ad-hoc wifi, like AirDrop but for Mac/Windows/Linux.
 
   **Languages:** <img src='./icons/golang-64.png' alt='Go icon' title='Go' height='16'/> Go
 
@@ -14467,7 +14467,7 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-* <b><code>  5095⭐</code></b> <b><code>   556🍴</code></b> [MQTTX](https://github.com/emqx/MQTTX) ⭐ 5,095 | 🐛 100 | 🌐 TypeScript | 📅 2026-11-08) - An elegant Cross-platform MQTT 5.0 desktop client.
+* <b><code>  5095⭐</code></b> <b><code>   556🍴</code></b> [MQTTX](https://github.com/emqx/MQTTX) ⭐ 5,096 | 🐛 100 | 🌐 TypeScript | 📅 2026-11-09) - An elegant Cross-platform MQTT 5.0 desktop client.
 
   **Languages:** <img src='./icons/javascript-64.png' alt='JavaScript icon' title='JavaScript' height='16'/> JavaScript <img src='./icons/typescript-64.png' alt='TypeScript icon' title='TypeScript' height='16'/> TypeScript
 
@@ -14482,11 +14482,11 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-* <b><code>  5015⭐</code></b> <b><code>   189🍴</code></b> [Übersicht](https://github.com/felixhageloh/uebersicht) ⭐ 5,016 | 🐛 173 | 🌐 Objective-C | 📅 2025-06-28) - Keep an eye on what's happening on your machine and in the world.
+* <b><code>  5015⭐</code></b> <b><code>   189🍴</code></b> [Übersicht](https://github.com/felixhageloh/uebersicht) ⭐ 5,015 | 🐛 173 | 🌐 Objective-C | 📅 2025-06-28) - Keep an eye on what's happening on your machine and in the world.
 
   **Languages:** <img src='./icons/objective-c-64.png' alt='Objective-C icon' title='Objective-C' height='16'/> Objective-C
 
-* <b><code>  4474⭐</code></b> <b><code>    87🍴</code></b> [fselect](https://github.com/jhspetersson/fselect) ⭐ 4,474 | 🐛 6 | 🌐 Rust | 📅 2026-11-06) - Command-line tool to search files with SQL syntax.
+* <b><code>  4474⭐</code></b> <b><code>    87🍴</code></b> [fselect](https://github.com/jhspetersson/fselect) ⭐ 4,474 | 🐛 6 | 🌐 Rust | 📅 2026-11-09) - Command-line tool to search files with SQL syntax.
 
   **Languages:** <img src='./icons/rust-64.png' alt='Rust icon' title='Rust' height='16'/> Rust
 
@@ -14518,7 +14518,7 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-* <b><code>     ?⭐</code></b> <b><code>     ?🍴</code></b> [Input Source Pro](https://github.com/runjuu/InputSourcePro/) ⭐ 3,692 | 🐛 68 | 🌐 Swift | 📅 2026-11-07) - Input Source Pro is macOS utility designed for multilingual users who frequently switch input sources.
+* <b><code>     ?⭐</code></b> <b><code>     ?🍴</code></b> [Input Source Pro](https://github.com/runjuu/InputSourcePro/) ⭐ 3,694 | 🐛 69 | 🌐 Swift | 📅 2026-11-07) - Input Source Pro is macOS utility designed for multilingual users who frequently switch input sources.
 
   **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
 
@@ -14543,7 +14543,7 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-* <b><code>  3350⭐</code></b> <b><code>  1160🍴</code></b> [Betaflight Configurator](https://github.com/betaflight/betaflight-configurator) ⭐ 3,351 | 🐛 68 | 🌐 TypeScript | 📅 2026-11-06) - Cross platform configuration tool for the Betaflight firmware.
+* <b><code>  3350⭐</code></b> <b><code>  1160🍴</code></b> [Betaflight Configurator](https://github.com/betaflight/betaflight-configurator) ⭐ 3,352 | 🐛 69 | 🌐 TypeScript | 📅 2026-11-09) - Cross platform configuration tool for the Betaflight firmware.
 
   **Languages:** <img src='./icons/javascript-64.png' alt='JavaScript icon' title='JavaScript' height='16'/> JavaScript
 
@@ -14558,13 +14558,13 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-* <b><code>  3219⭐</code></b> <b><code>   714🍴</code></b> [OpenRocket](https://github.com/openrocket/openrocket) ⭐ 3,218 | 🐛 289 | 🌐 Java | 📅 2026-11-05) - OpenRocket is a cross-platform utility tool to model and simulate model rockets and their flight characteristics.
+* <b><code>  3219⭐</code></b> <b><code>   714🍴</code></b> [OpenRocket](https://github.com/openrocket/openrocket) ⭐ 3,220 | 🐛 289 | 🌐 Java | 📅 2026-11-05) - OpenRocket is a cross-platform utility tool to model and simulate model rockets and their flight characteristics.
 
   **Languages:** <img src='./icons/java-64.png' alt='Java icon' title='Java' height='16'/> Java
 
   **Website:** 🌎 [https://openrocket.info/](openrocket.info/)
 
-* <b><code>  3170⭐</code></b> <b><code>   245🍴</code></b> [LocationSimulator](https://github.com/Schlaubischlump/LocationSimulator) ⭐ 3,170 | 🐛 16 | 🌐 Swift | 📅 2026-11-05) - Application to spoof your iOS or iPhoneSimulator location.
+* <b><code>  3170⭐</code></b> <b><code>   245🍴</code></b> [LocationSimulator](https://github.com/Schlaubischlump/LocationSimulator) ⭐ 3,171 | 🐛 16 | 🌐 Swift | 📅 2026-11-05) - Application to spoof your iOS or iPhoneSimulator location.
 
   **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
 
@@ -14583,7 +14583,7 @@ You can see in which language an app is written. Currently there are following l
 
   **Languages:** <img src='./icons/javascript-64.png' alt='JavaScript icon' title='JavaScript' height='16'/> JavaScript <img src='./icons/css-64.png' alt='CSS icon' title='CSS' height='16'/> CSS
 
-* <b><code>  2952⭐</code></b> <b><code>   129🍴</code></b> [Middleclick](https://github.com/artginzburg/MiddleClick-Ventura) ⭐ 2,952 | 🐛 33 | 🌐 Swift | 📅 2026-09-02) - Emulate a scroll wheel click with three finger Click or Tap on MacBook trackpad and Magic Mouse
+* <b><code>  2952⭐</code></b> <b><code>   129🍴</code></b> [Middleclick](https://github.com/artginzburg/MiddleClick-Ventura) ⭐ 2,953 | 🐛 33 | 🌐 Swift | 📅 2026-09-02) - Emulate a scroll wheel click with three finger Click or Tap on MacBook trackpad and Magic Mouse
 
   **Languages:** <img src='./icons/c-64.png' alt='C icon' title='C' height='16'/> C
 
@@ -14619,13 +14619,13 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-* <b><code>  2697⭐</code></b> <b><code>   338🍴</code></b> [Terminator](https://github.com/gnome-terminator/terminator) ⭐ 2,697 | 🐛 189 | 🌐 Python | 📅 2026-10-19) - Terminal emulator that lets you open multiple GNOME terminals in one window.
+* <b><code>  2697⭐</code></b> <b><code>   338🍴</code></b> [Terminator](https://github.com/gnome-terminator/terminator) ⭐ 2,698 | 🐛 191 | 🌐 Python | 📅 2026-10-19) - Terminal emulator that lets you open multiple GNOME terminals in one window.
 
   **Languages:** <img src='./icons/python-64.png' alt='Python icon' title='Python' height='16'/> Python
 
   **Website:** 🌎 [https://gnome-terminator.org](gnome-terminator.org)
 
-* <b><code>  2614⭐</code></b> <b><code>    83🍴</code></b> [Pika](https://github.com/superhighfives/pika) ⭐ 2,614 | 🐛 9 | 🌐 Swift | 📅 2026-11-08) - Is an easy to use, open-source, native colour picker for macOS.
+* <b><code>  2614⭐</code></b> <b><code>    83🍴</code></b> [Pika](https://github.com/superhighfives/pika) ⭐ 2,615 | 🐛 7 | 🌐 Swift | 📅 2026-11-09) - Is an easy to use, open-source, native colour picker for macOS.
 
   **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift <code>metal</code>
 
@@ -14640,7 +14640,7 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-* <b><code>  2338⭐</code></b> <b><code>   103🍴</code></b> [Crisp](https://github.com/didriksg/Crisp) ⭐ 2,347 | 🐛 15 | 🌐 Swift | 📅 2026-11-02) - Menu bar app for external displays: HiDPI scaling, DDC brightness and volume, presets and virtual displays.
+* <b><code>  2338⭐</code></b> <b><code>   103🍴</code></b> [Crisp](https://github.com/didriksg/Crisp) ⭐ 2,358 | 🐛 18 | 🌐 Swift | 📅 2026-11-02) - Menu bar app for external displays: HiDPI scaling, DDC brightness and volume, presets and virtual displays.
 
   **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
 
@@ -14659,7 +14659,7 @@ You can see in which language an app is written. Currently there are following l
 
   **Languages:** <img src='./icons/c-64.png' alt='C icon' title='C' height='16'/> C <img src='./icons/cpp-64.png' alt='C++ icon' title='C++' height='16'/> C++
 
-* <b><code>  2181⭐</code></b> <b><code>   108🍴</code></b> [SquirrelDisk](https://github.com/adileo/squirreldisk) ⭐ 2,187 | 🐛 29 | 🌐 Rust | 📅 2026-10-18) - Disk usage analyzer with animated sunburst and treemap views that can also scan SSH servers and cloud storage via rclone.
+* <b><code>  2181⭐</code></b> <b><code>   108🍴</code></b> [SquirrelDisk](https://github.com/adileo/squirreldisk) ⭐ 2,213 | 🐛 30 | 🌐 Rust | 📅 2026-10-18) - Disk usage analyzer with animated sunburst and treemap views that can also scan SSH servers and cloud storage via rclone.
 
   **Languages:** <img src='./icons/rust-64.png' alt='Rust icon' title='Rust' height='16'/> Rust
 
@@ -14676,11 +14676,11 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-* <b><code>  2119⭐</code></b> <b><code>   132🍴</code></b> [Mac Sai](https://github.com/iliyami/MacSai) ⭐ 2,120 | 🐛 15 | 🌐 Swift | 📅 2026-11-07) - Free, open-source CleanMyMac alternative built with Swift 6 and SwiftUI. Smart Scan, junk cleanup, malware scanner, uninstaller with leftover detection, Space Lens treemap, duplicates, and a live menu bar monitor.
+* <b><code>  2119⭐</code></b> <b><code>   132🍴</code></b> [Mac Sai](https://github.com/iliyami/MacSai) ⭐ 2,131 | 🐛 14 | 🌐 Swift | 📅 2026-11-09) - Free, open-source CleanMyMac alternative built with Swift 6 and SwiftUI. Smart Scan, junk cleanup, malware scanner, uninstaller with leftover detection, Space Lens treemap, duplicates, and a live menu bar monitor.
 
   **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
 
-  **Website:** <b><code>  2119⭐</code></b> <b><code>   132🍴</code></b> <https://github.com/iliyami/MacSai> ⭐ 2,120 | 🐛 15 | 🌐 Swift | 📅 2026-11-07)
+  **Website:** <b><code>  2119⭐</code></b> <b><code>   132🍴</code></b> <https://github.com/iliyami/MacSai> ⭐ 2,131 | 🐛 14 | 🌐 Swift | 📅 2026-11-09)
 
   <details>
   <summary>Screenshots</summary>
@@ -14691,7 +14691,7 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-* <b><code>  1951⭐</code></b> <b><code>    70🍴</code></b> [TRex](https://github.com/amebalabs/TRex) ⭐ 1,951 | 🐛 2 | 🌐 Swift | 📅 2026-11-08) - TRex is the easiest way to copy the uncopyable text from images, YouTube videos, Zoom calls and more. If you can see it - you can copy it. TRex captures any text right into your Clipboard with magic of OCR.
+* <b><code>  1951⭐</code></b> <b><code>    70🍴</code></b> [TRex](https://github.com/amebalabs/TRex) ⭐ 1,951 | 🐛 3 | 🌐 Swift | 📅 2026-11-08) - TRex is the easiest way to copy the uncopyable text from images, YouTube videos, Zoom calls and more. If you can see it - you can copy it. TRex captures any text right into your Clipboard with magic of OCR.
 
   **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
 
@@ -14708,7 +14708,7 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-* <b><code>     ?⭐</code></b> <b><code>     ?🍴</code></b> [MacPacker](https://github.com/sarensw/MacPacker/) ⭐ 1,467 | 🐛 77 | 🌐 Swift | 📅 2026-11-07) - Archive manager for macOS. Preview (nested) archives without extracting them. Extract single files.
+* <b><code>     ?⭐</code></b> <b><code>     ?🍴</code></b> [MacPacker](https://github.com/sarensw/MacPacker/) ⭐ 1,472 | 🐛 76 | 🌐 Swift | 📅 2026-11-09) - Archive manager for macOS. Preview (nested) archives without extracting them. Extract single files.
 
   **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
 
@@ -14731,11 +14731,11 @@ You can see in which language an app is written. Currently there are following l
 
   **Languages:** <img src='./icons/objective-c-64.png' alt='Objective-C icon' title='Objective-C' height='16'/> Objective-C
 
-* <b><code>  1179⭐</code></b> <b><code>   241🍴</code></b> [Telephone](https://github.com/64characters/Telephone) ⭐ 1,179 | 🐛 132 | 🌐 Swift | 📅 2026-10-13) - SIP softphone for macOS.
+* <b><code>  1179⭐</code></b> <b><code>   241🍴</code></b> [Telephone](https://github.com/64characters/Telephone) ⭐ 1,180 | 🐛 132 | 🌐 Swift | 📅 2026-10-13) - SIP softphone for macOS.
 
   **Languages:** <img src='./icons/objective-c-64.png' alt='Objective-C icon' title='Objective-C' height='16'/> Objective-C <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
 
-* <b><code>  1112⭐</code></b> <b><code>    68🍴</code></b> [RustCast](https://github.com/unsecretised/rustcast) ⭐ 1,112 | 🐛 0 | 🌐 Rust | 📅 2026-11-04) - Blazingly fast, customisable multi tool, application launcher
+* <b><code>  1112⭐</code></b> <b><code>    68🍴</code></b> [RustCast](https://github.com/unsecretised/rustcast) ⭐ 1,113 | 🐛 0 | 🌐 Rust | 📅 2026-11-04) - Blazingly fast, customisable multi tool, application launcher
 
   **Languages:** <img src='./icons/rust-64.png' alt='Rust icon' title='Rust' height='16'/> Rust
 
@@ -14754,11 +14754,11 @@ You can see in which language an app is written. Currently there are following l
 
   **Languages:** <img src='./icons/javascript-64.png' alt='JavaScript icon' title='JavaScript' height='16'/> JavaScript
 
-* <b><code>  1056⭐</code></b> <b><code>    71🍴</code></b> [Whisky](https://github.com/frankea/Whisky) ⭐ 1,058 | 🐛 32 | 🌐 Swift | 📅 2026-10-01) - Native SwiftUI Wine wrapper for macOS with D3DMetal/DXVK backends and built-in launcher compatibility (Steam, Epic, EA App, Battle.net). Active community fork of the archived whisky-app/whisky.
+* <b><code>  1056⭐</code></b> <b><code>    71🍴</code></b> [Whisky](https://github.com/frankea/Whisky) ⭐ 1,063 | 🐛 32 | 🌐 Swift | 📅 2026-10-01) - Native SwiftUI Wine wrapper for macOS with D3DMetal/DXVK backends and built-in launcher compatibility (Steam, Epic, EA App, Battle.net). Active community fork of the archived whisky-app/whisky.
 
   **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
 
-  **Website:** <b><code>  1056⭐</code></b> <b><code>    71🍴</code></b> <https://github.com/frankea/Whisky> ⭐ 1,058 | 🐛 32 | 🌐 Swift | 📅 2026-10-01)
+  **Website:** <b><code>  1056⭐</code></b> <b><code>    71🍴</code></b> <https://github.com/frankea/Whisky> ⭐ 1,063 | 🐛 32 | 🌐 Swift | 📅 2026-10-01)
 
   <details>
   <summary>Screenshots</summary>
@@ -14805,7 +14805,7 @@ You can see in which language an app is written. Currently there are following l
 
   **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
 
-* <b><code>   742⭐</code></b> <b><code>    45🍴</code></b> [OpenClip](https://github.com/ganeshmshetty/openclip) ⭐ 743 | 🐛 24 | 🌐 Swift | 📅 2026-11-08) - Lightweight floating action bar for macOS that turns selected text into instant actions.
+* <b><code>   742⭐</code></b> <b><code>    45🍴</code></b> [OpenClip](https://github.com/ganeshmshetty/openclip) ⭐ 748 | 🐛 25 | 🌐 Swift | 📅 2026-11-09) - Lightweight floating action bar for macOS that turns selected text into instant actions.
 
   **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
 
@@ -14851,7 +14851,7 @@ You can see in which language an app is written. Currently there are following l
 
   **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
 
-* <b><code>   574⭐</code></b> <b><code>    31🍴</code></b> [Monolingual](https://github.com/IngmarStein/Monolingual) ⭐ 574 | 🐛 4 | 🌐 Swift | 📅 2026-11-06) - Remove unnecessary language resources from macOS
+* <b><code>   574⭐</code></b> <b><code>    31🍴</code></b> [Monolingual](https://github.com/IngmarStein/Monolingual) ⭐ 574 | 🐛 4 | 🌐 Swift | 📅 2026-11-09) - Remove unnecessary language resources from macOS
 
   **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
 
@@ -14864,7 +14864,7 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-* <b><code>   525⭐</code></b> <b><code>    26🍴</code></b> [Adrafinil](https://github.com/kageroumado/adrafinil) ⭐ 525 | 🐛 2 | 🌐 Swift | 📅 2026-11-05) - Keeps your Mac awake only while AI agents are working, then lets it sleep normally.
+* <b><code>   525⭐</code></b> <b><code>    26🍴</code></b> [Adrafinil](https://github.com/kageroumado/adrafinil) ⭐ 526 | 🐛 2 | 🌐 Swift | 📅 2026-11-05) - Keeps your Mac awake only while AI agents are working, then lets it sleep normally.
 
   **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
 
@@ -14900,7 +14900,7 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-* <b><code>   495⭐</code></b> <b><code>    21🍴</code></b> [AirStats](https://github.com/byrencheema/airstats) ⭐ 496 | 🐛 2 | 🌐 Swift | 📅 2026-11-05) - Menu bar system monitor for CPU, memory, GPU, network, disk, battery, temperature, and processes, with a desktop widget.
+* <b><code>   495⭐</code></b> <b><code>    21🍴</code></b> [AirStats](https://github.com/byrencheema/airstats) ⭐ 501 | 🐛 2 | 🌐 Swift | 📅 2026-11-05) - Menu bar system monitor for CPU, memory, GPU, network, disk, battery, temperature, and processes, with a desktop widget.
 
   **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
 
@@ -14911,21 +14911,6 @@ You can see in which language an app is written. Currently there are following l
   <p>
 
   <img src='https://raw.githubusercontent.com/byrencheema/airstats/main/docs/panel-light.png' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
-
-  </p>
-  </details>
-
-* <b><code>   469⭐</code></b> <b><code>    12🍴</code></b> [SlimHUD - Cyanocitta](https://github.com/AlexPerathoner/SlimHUD) ⭐ 469 | 🐛 22 | 🌐 Swift | 📅 2026-06-01) - Replacement for MacOS' volume, brightness and keyboard backlight HUDs.
-
-  **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
-
-  <details>
-  <summary>Screenshots</summary>
-  <p>
-
-  <img src='https://raw.githubusercontent.com/AlexPerathoner/SlimHUD/master/Screens/Animations/animations.gif' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
-
-  <img src='https://raw.githubusercontent.com/AlexPerathoner/SlimHUD/master/Screens/settingsWindow.png' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
 
   </p>
   </details>
@@ -14949,11 +14934,26 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-* <b><code>   452⭐</code></b> <b><code>    23🍴</code></b> [CrossMacro](https://github.com/alper-han/CrossMacro) ⭐ 453 | 🐛 8 | 🌐 C# | 📅 2026-11-06) - A cross-platform macro recorder, player, editor, and text expansion tool.
+* <b><code>   469⭐</code></b> <b><code>    12🍴</code></b> [SlimHUD - Cyanocitta](https://github.com/AlexPerathoner/SlimHUD) ⭐ 468 | 🐛 22 | 🌐 Swift | 📅 2026-06-01) - Replacement for MacOS' volume, brightness and keyboard backlight HUDs.
+
+  **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
+
+  <details>
+  <summary>Screenshots</summary>
+  <p>
+
+  <img src='https://raw.githubusercontent.com/AlexPerathoner/SlimHUD/master/Screens/Animations/animations.gif' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
+
+  <img src='https://raw.githubusercontent.com/AlexPerathoner/SlimHUD/master/Screens/settingsWindow.png' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
+
+  </p>
+  </details>
+
+* <b><code>   452⭐</code></b> <b><code>    23🍴</code></b> [CrossMacro](https://github.com/alper-han/CrossMacro) ⭐ 456 | 🐛 8 | 🌐 C# | 📅 2026-11-06) - A cross-platform macro recorder, player, editor, and text expansion tool.
 
   **Languages:** <img src='./icons/csharp-64.png' alt='C# icon' title='C#' height='16'/> C#
 
-  **Website:** <b><code>   452⭐</code></b> <b><code>    23🍴</code></b> <https://github.com/alper-han/CrossMacro> ⭐ 453 | 🐛 8 | 🌐 C# | 📅 2026-11-06)
+  **Website:** <b><code>   452⭐</code></b> <b><code>    23🍴</code></b> <https://github.com/alper-han/CrossMacro> ⭐ 456 | 🐛 8 | 🌐 C# | 📅 2026-11-06)
 
   <details>
   <summary>Screenshots</summary>
@@ -15041,7 +15041,7 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-* <b><code>   308⭐</code></b> <b><code>    12🍴</code></b> [reminal](https://github.com/harshalgajjar/Reminal) ⭐ 308 | 🐛 7 | 🌐 Go | 📅 2026-11-08) - Streams every window and terminal to any browser with input; software closed-lid mode keeps the Mac awake headlessly.
+* <b><code>   308⭐</code></b> <b><code>    12🍴</code></b> [reminal](https://github.com/harshalgajjar/Reminal) ⭐ 300 | 🐛 10 | 🌐 Go | 📅 2026-11-09) - Streams every window and terminal to any browser with input; software closed-lid mode keeps the Mac awake headlessly.
 
   **Languages:** <img src='./icons/golang-64.png' alt='Go icon' title='Go' height='16'/> Go <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
 
@@ -15069,7 +15069,26 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-* <b><code>   273⭐</code></b> <b><code>    35🍴</code></b> [Claudoscope](https://github.com/cordwainersmith/claudoscope) ⭐ 273 | 🐛 3 | 🌐 Swift | 📅 2026-11-06) - Menu bar app for Claude Code session analytics with real-time secret detection, config health linting, and token/cost tracking.
+* <b><code>   237⭐</code></b> <b><code>    18🍴</code></b> [Strata Files](https://github.com/cristipufu/strata-files) ⭐ 275 | 🐛 16 | 🌐 Swift | 📅 2026-11-09) - Fast, keyboard-first file manager and Finder alternative with instant search, live folder sizes, a disk usage map and dual pane.
+
+  **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
+
+  **Website:** 🌎 [https://stratafiles.app](stratafiles.app)
+
+  <details>
+  <summary>Screenshots</summary>
+  <p>
+
+  <img src='https://raw.githubusercontent.com/cristipufu/strata-files/main/docs/screenshots/hero.png' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
+
+  <img src='https://raw.githubusercontent.com/cristipufu/strata-files/main/docs/screenshots/dual.png' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
+
+  <img src='https://raw.githubusercontent.com/cristipufu/strata-files/main/docs/screenshots/treemap.png' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
+
+  </p>
+  </details>
+
+* <b><code>   273⭐</code></b> <b><code>    35🍴</code></b> [Claudoscope](https://github.com/cordwainersmith/claudoscope) ⭐ 274 | 🐛 3 | 🌐 Swift | 📅 2026-11-06) - Menu bar app for Claude Code session analytics with real-time secret detection, config health linting, and token/cost tracking.
 
   **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
 
@@ -15101,7 +15120,7 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-* <b><code>   269⭐</code></b> <b><code>    32🍴</code></b> [macOS GateKeeper Helper](https://github.com/wynioux/macOS-GateKeeper-Helper) ⭐ 269 | 🐛 0 | 🌐 Shell | 📅 2020-07-16) - Simple macOS GateKeeper script. It helps you to control your GateKeeper.
+* <b><code>   269⭐</code></b> <b><code>    32🍴</code></b> [macOS GateKeeper Helper](https://github.com/wynioux/macOS-GateKeeper-Helper) ⭐ 268 | 🐛 0 | 🌐 Shell | 📅 2020-07-16) - Simple macOS GateKeeper script. It helps you to control your GateKeeper.
 
   **Languages:** <img src='./icons/shell-64.png' alt='Shell icon' title='Shell' height='16'/> Shell
 
@@ -15114,7 +15133,7 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-* <b><code>   263⭐</code></b> <b><code>    19🍴</code></b> [Blink Eye](https://github.com/nomandhoni-cs/blink-eye) ⭐ 263 | 🐛 18 | 🌐 TypeScript | 📅 2026-11-07) - An Open-Source minimalist Eye Care reminder & Break Timer app for Windows, macOS, and Linux.
+* <b><code>   263⭐</code></b> <b><code>    19🍴</code></b> [Blink Eye](https://github.com/nomandhoni-cs/blink-eye) ⭐ 262 | 🐛 18 | 🌐 TypeScript | 📅 2026-11-07) - An Open-Source minimalist Eye Care reminder & Break Timer app for Windows, macOS, and Linux.
 
   **Languages:** <img src='./icons/typescript-64.png' alt='TypeScript icon' title='TypeScript' height='16'/> TypeScript <img src='./icons/rust-64.png' alt='Rust icon' title='Rust' height='16'/> Rust
 
@@ -15135,11 +15154,11 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-* <b><code>   257⭐</code></b> <b><code>    30🍴</code></b> [Clipbara](https://github.com/mobrava/Clipbara) ⭐ 257 | 🐛 20 | 🌐 Swift | 📅 2026-11-08) - Paste-like clipboard manager with pinboards, Quick Look previews, search, and one-click copying.
+* <b><code>   257⭐</code></b> <b><code>    30🍴</code></b> [Clipbara](https://github.com/mobrava/Clipbara) ⭐ 258 | 🐛 20 | 🌐 Swift | 📅 2026-11-08) - Paste-like clipboard manager with pinboards, Quick Look previews, search, and one-click copying.
 
   **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
 
-  **Website:** <b><code>   257⭐</code></b> <b><code>    30🍴</code></b> <https://github.com/mobrava/Clipbara> ⭐ 257 | 🐛 20 | 🌐 Swift | 📅 2026-11-08)
+  **Website:** <b><code>   257⭐</code></b> <b><code>    30🍴</code></b> <https://github.com/mobrava/Clipbara> ⭐ 258 | 🐛 20 | 🌐 Swift | 📅 2026-11-08)
 
   <details>
   <summary>Screenshots</summary>
@@ -15163,21 +15182,19 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-* <b><code>   237⭐</code></b> <b><code>    18🍴</code></b> [Strata Files](https://github.com/cristipufu/strata-files) ⭐ 238 | 🐛 12 | 🌐 Swift | 📅 2026-11-08) - Fast, keyboard-first file manager and Finder alternative with instant search, live folder sizes, a disk usage map and dual pane.
+* <b><code>   236⭐</code></b> <b><code>     6🍴</code></b> [Tracexy](https://github.com/RockxyApp/Tracexy) ⭐ 238 | 🐛 34 | 🌐 Swift | 📅 2026-11-09) - Native, local-first network intelligence for macOS that turns live traffic and saved PCAP or PCAPNG captures into app-aware sessions.
 
   **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
 
-  **Website:** 🌎 [https://stratafiles.app](stratafiles.app)
+  **Website:** 🌎 [https://rockxy.io/tracexy](rockxy.io/tracexy)
 
   <details>
   <summary>Screenshots</summary>
   <p>
 
-  <img src='https://raw.githubusercontent.com/cristipufu/strata-files/main/docs/screenshots/hero.png' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
+  <img src='https://raw.githubusercontent.com/RockxyApp/Tracexy/main/docs/media/Tracexy-Light-050.png' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
 
-  <img src='https://raw.githubusercontent.com/cristipufu/strata-files/main/docs/screenshots/dual.png' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
-
-  <img src='https://raw.githubusercontent.com/cristipufu/strata-files/main/docs/screenshots/treemap.png' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
+  <img src='https://raw.githubusercontent.com/RockxyApp/Tracexy/main/docs/media/Tracexy-Capturing-Option-050.png' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
 
   </p>
   </details>
@@ -15191,23 +15208,6 @@ You can see in which language an app is written. Currently there are following l
   <p>
 
   <img src='https://raw.githubusercontent.com/ekreutz/CornerCal/master/screenshot-01.png' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
-
-  </p>
-  </details>
-
-* <b><code>   236⭐</code></b> <b><code>     6🍴</code></b> [Tracexy](https://github.com/RockxyApp/Tracexy) ⭐ 236 | 🐛 34 | 🌐 Swift | 📅 2026-11-06) - Native, local-first network intelligence for macOS that turns live traffic and saved PCAP or PCAPNG captures into app-aware sessions.
-
-  **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
-
-  **Website:** 🌎 [https://rockxy.io/tracexy](rockxy.io/tracexy)
-
-  <details>
-  <summary>Screenshots</summary>
-  <p>
-
-  <img src='https://raw.githubusercontent.com/RockxyApp/Tracexy/main/docs/media/Tracexy-Light-050.png' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
-
-  <img src='https://raw.githubusercontent.com/RockxyApp/Tracexy/main/docs/media/Tracexy-Capturing-Option-050.png' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
 
   </p>
   </details>
@@ -15229,7 +15229,7 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-* <b><code>   198⭐</code></b> <b><code>     8🍴</code></b> [PlayStatus](https://github.com/nbolar/PlayStatus) ⭐ 198 | 🐛 2 | 🌐 Swift | 📅 2026-10-01) - PlayStatus is a macOS app that allows the control of Spotify and iTunes music playback from the menu bar.
+* <b><code>   198⭐</code></b> <b><code>     8🍴</code></b> [PlayStatus](https://github.com/nbolar/PlayStatus) ⭐ 199 | 🐛 2 | 🌐 Swift | 📅 2026-10-01) - PlayStatus is a macOS app that allows the control of Spotify and iTunes music playback from the menu bar.
 
   **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
 
@@ -15242,7 +15242,7 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-* <b><code>   187⭐</code></b> <b><code>    11🍴</code></b> [HardwareVisualizer](https://github.com/shm11C3/HardwareVisualizer) ⭐ 187 | 🐛 61 | 🌐 Rust | 📅 2026-11-08) - A cross-platform hardware monitor with real-time metrics, historical insights, and a customizable dashboard.
+* <b><code>   187⭐</code></b> <b><code>    11🍴</code></b> [HardwareVisualizer](https://github.com/shm11C3/HardwareVisualizer) ⭐ 187 | 🐛 86 | 🌐 Rust | 📅 2026-11-09) - A cross-platform hardware monitor with real-time metrics, historical insights, and a customizable dashboard.
 
   **Languages:** <img src='./icons/rust-64.png' alt='Rust icon' title='Rust' height='16'/> Rust <img src='./icons/typescript-64.png' alt='TypeScript icon' title='TypeScript' height='16'/> TypeScript
 
@@ -15257,7 +15257,7 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-* <b><code>   178⭐</code></b> <b><code>    11🍴</code></b> [MaCursor](https://github.com/writronic/MaCursor) ⭐ 178 | 🐛 2 | 🌐 Swift | 📅 2026-11-02) - Custom cursor themes for macOS. Replace any system cursor with custom artwork, with 75+ ready-to-apply themes and Windows .cur/.ani import.
+* <b><code>   178⭐</code></b> <b><code>    11🍴</code></b> [MaCursor](https://github.com/writronic/MaCursor) ⭐ 181 | 🐛 3 | 🌐 Swift | 📅 2026-11-02) - Custom cursor themes for macOS. Replace any system cursor with custom artwork, with 75+ ready-to-apply themes and Windows .cur/.ani import.
 
   **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift <img src='./icons/objective-c-64.png' alt='Objective-C icon' title='Objective-C' height='16'/> Objective-C
 
@@ -15272,11 +15272,11 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-* <b><code>   171⭐</code></b> <b><code>    17🍴</code></b> [Device Hub Pro](https://github.com/gitemre/device-hub-pro) ⭐ 171 | 🐛 0 | 🌐 Swift | 📅 2026-10-22) - Mirror, control and test Android emulators and phones, iOS simulators and iPhones side by side.
+* <b><code>   171⭐</code></b> <b><code>    17🍴</code></b> [Device Hub Pro](https://github.com/gitemre/device-hub-pro) ⭐ 172 | 🐛 0 | 🌐 Swift | 📅 2026-10-22) - Mirror, control and test Android emulators and phones, iOS simulators and iPhones side by side.
 
   **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
 
-  **Website:** <b><code>   171⭐</code></b> <b><code>    17🍴</code></b> <https://github.com/gitemre/device-hub-pro> ⭐ 171 | 🐛 0 | 🌐 Swift | 📅 2026-10-22)
+  **Website:** <b><code>   171⭐</code></b> <b><code>    17🍴</code></b> <https://github.com/gitemre/device-hub-pro> ⭐ 172 | 🐛 0 | 🌐 Swift | 📅 2026-10-22)
 
   <details>
   <summary>Screenshots</summary>
@@ -15287,7 +15287,13 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-* <b><code>   167⭐</code></b> <b><code>    11🍴</code></b> [Hop](https://github.com/antonyshakirov/hop) ⭐ 168 | 🐛 0 | 🌐 Swift | 📅 2026-11-06) - Eighteen everyday tools in one menu bar panel: timer, time tracker, keep-awake, system monitor, clipboard history, file converter, window manager, torrents, archives, text recognition, screenshots with an editor, drawing over the screen, color picker, VPN switcher, app launcher, app uninstaller, keyboard lock and internet speed test. Native, offline, no telemetry.
+* <b><code>   167⭐</code></b> <b><code>     9🍴</code></b> [Shuffle](https://github.com/WizenPainter/shuffle) ⭐ 170 | 🐛 3 | 🌐 Rust | 📅 2026-10-24) - Fast, GPU-rendered file manager and Finder alternative built in Rust with GPUI, featuring dual panes, tabs, a fuzzy command palette, terminal mode, and theming.
+
+  **Languages:** <img src='./icons/rust-64.png' alt='Rust icon' title='Rust' height='16'/> Rust
+
+  **Website:** 🌎 [https://shuffleapp.co](shuffleapp.co)
+
+* <b><code>   167⭐</code></b> <b><code>    11🍴</code></b> [Hop](https://github.com/antonyshakirov/hop) ⭐ 169 | 🐛 0 | 🌐 Swift | 📅 2026-11-06) - Eighteen everyday tools in one menu bar panel: timer, time tracker, keep-awake, system monitor, clipboard history, file converter, window manager, torrents, archives, text recognition, screenshots with an editor, drawing over the screen, color picker, VPN switcher, app launcher, app uninstaller, keyboard lock and internet speed test. Native, offline, no telemetry.
 
   **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
 
@@ -15303,12 +15309,6 @@ You can see in which language an app is written. Currently there are following l
 
   </p>
   </details>
-
-* <b><code>   167⭐</code></b> <b><code>     9🍴</code></b> [Shuffle](https://github.com/WizenPainter/shuffle) ⭐ 168 | 🐛 3 | 🌐 Rust | 📅 2026-10-24) - Fast, GPU-rendered file manager and Finder alternative built in Rust with GPUI, featuring dual panes, tabs, a fuzzy command palette, terminal mode, and theming.
-
-  **Languages:** <img src='./icons/rust-64.png' alt='Rust icon' title='Rust' height='16'/> Rust
-
-  **Website:** 🌎 [https://shuffleapp.co](shuffleapp.co)
 
 * <b><code>   163⭐</code></b> <b><code>     8🍴</code></b> [Duplicate Finder](https://github.com/powerwolf543/DuplicateFinder) ⭐ 163 | 🐛 0 | 🌐 Swift | 📅 2021-08-08) - It's a useful tool that would help you to find all duplicate files which have the same names in the specific folder.
 
@@ -15336,11 +15336,11 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-* <b><code>   158⭐</code></b> <b><code>    21🍴</code></b> [Pesty](https://github.com/momenbasel/pesty) ⭐ 159 | 🐛 10 | 🌐 Swift | 📅 2026-10-24) - Free, open-source clipboard manager inspired by Paste, with a slide-up color-coded clipboard strip, pinboards, search, and keyboard-driven pasting.
+* <b><code>   158⭐</code></b> <b><code>    21🍴</code></b> [Pesty](https://github.com/momenbasel/pesty) ⭐ 160 | 🐛 10 | 🌐 Swift | 📅 2026-10-24) - Free, open-source clipboard manager inspired by Paste, with a slide-up color-coded clipboard strip, pinboards, search, and keyboard-driven pasting.
 
   **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
 
-  **Website:** <b><code>   158⭐</code></b> <b><code>    21🍴</code></b> <https://github.com/momenbasel/pesty> ⭐ 159 | 🐛 10 | 🌐 Swift | 📅 2026-10-24)
+  **Website:** <b><code>   158⭐</code></b> <b><code>    21🍴</code></b> <https://github.com/momenbasel/pesty> ⭐ 160 | 🐛 10 | 🌐 Swift | 📅 2026-10-24)
 
   <details>
   <summary>Screenshots</summary>
@@ -15372,7 +15372,7 @@ You can see in which language an app is written. Currently there are following l
 
   **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
 
-* <b><code>   126⭐</code></b> <b><code>     9🍴</code></b> [WiFi Lens](https://github.com/ShiinaLabs/wifi-lens) ⭐ 126 | 🐛 1 | 🌐 Swift | 📅 2026-11-08) - Native Wi-Fi analyzer and network diagnostics app with real-time spectrum scanning and BLE device tracking.
+* <b><code>   126⭐</code></b> <b><code>     9🍴</code></b> [WiFi Lens](https://github.com/ShiinaLabs/wifi-lens) ⭐ 126 | 🐛 1 | 🌐 Swift | 📅 2026-11-09) - Native Wi-Fi analyzer and network diagnostics app with real-time spectrum scanning and BLE device tracking.
 
   **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
 
@@ -15387,11 +15387,30 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-* <b><code>   119⭐</code></b> <b><code>    24🍴</code></b> [SSH Tunnel Manager](https://github.com/0fuz/ssh-tunnel-manager) ⭐ 120 | 🐛 1 | 🌐 Swift | 📅 2026-10-14) - Menu bar app for managing SSH port forwards (local, remote, SOCKS, jump host) that auto-reconnects when the connection drops.
+* <b><code>    95⭐</code></b> <b><code>     7🍴</code></b> [Oh My Android](https://github.com/ateymoori/oh-my-android) ⭐ 125 | 🐛 3 | 🌐 Swift | 📅 2026-11-09) - Native control panel for the Android Emulator on macOS with \~48 one-click actions, Layout Inspector in dp, and TalkBack audit.
 
   **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
 
-  **Website:** <b><code>   119⭐</code></b> <b><code>    24🍴</code></b> <https://github.com/0fuz/ssh-tunnel-manager> ⭐ 120 | 🐛 1 | 🌐 Swift | 📅 2026-10-14)
+  **Website:** <b><code>    95⭐</code></b> <b><code>     7🍴</code></b> <https://github.com/ateymoori/oh-my-android> ⭐ 125 | 🐛 3 | 🌐 Swift | 📅 2026-11-09)
+
+  <details>
+  <summary>Screenshots</summary>
+  <p>
+
+  <img src='https://raw.githubusercontent.com/ateymoori/oh-my-android/main/docs/panel.jpg' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
+
+  <img src='https://raw.githubusercontent.com/ateymoori/oh-my-android/main/docs/layout-inspector-talkback.jpg' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
+
+  <img src='https://raw.githubusercontent.com/ateymoori/oh-my-android/main/docs/ai-agents.jpg' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
+
+  </p>
+  </details>
+
+* <b><code>   119⭐</code></b> <b><code>    24🍴</code></b> [SSH Tunnel Manager](https://github.com/0fuz/ssh-tunnel-manager) ⭐ 122 | 🐛 0 | 🌐 Swift | 📅 2026-11-09) - Menu bar app for managing SSH port forwards (local, remote, SOCKS, jump host) that auto-reconnects when the connection drops.
+
+  **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
+
+  **Website:** <b><code>   119⭐</code></b> <b><code>    24🍴</code></b> <https://github.com/0fuz/ssh-tunnel-manager> ⭐ 122 | 🐛 0 | 🌐 Swift | 📅 2026-11-09)
 
 * <b><code>   118⭐</code></b> <b><code>     0🍴</code></b> [Rilmazafone](https://github.com/kageroumado/rilmazafone) ⭐ 118 | 🐛 0 | 🌐 Swift | 📅 2026-10-14) - Design DMG installers on a WYSIWYG canvas and build exactly what you drew.
 
@@ -15410,7 +15429,7 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-* <b><code>   112⭐</code></b> <b><code>     1🍴</code></b> [FolderForge](https://github.com/KeplSiv/FolderForge) ⭐ 113 | 🐛 3 | 🌐 Swift | 📅 2026-11-04) - Customize macOS folders with colors, artwork, icons, reusable presets, and rule-based workspace styling.
+* <b><code>   112⭐</code></b> <b><code>     1🍴</code></b> [FolderForge](https://github.com/KeplSiv/FolderForge) ⭐ 114 | 🐛 3 | 🌐 Swift | 📅 2026-11-04) - Customize macOS folders with colors, artwork, icons, reusable presets, and rule-based workspace styling.
 
   **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
 
@@ -15446,26 +15465,7 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-* <b><code>    95⭐</code></b> <b><code>     7🍴</code></b> [Oh My Android](https://github.com/ateymoori/oh-my-android) ⭐ 108 | 🐛 3 | 🌐 Swift | 📅 2026-11-08) - Native control panel for the Android Emulator on macOS with \~48 one-click actions, Layout Inspector in dp, and TalkBack audit.
-
-  **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
-
-  **Website:** <b><code>    95⭐</code></b> <b><code>     7🍴</code></b> <https://github.com/ateymoori/oh-my-android> ⭐ 108 | 🐛 3 | 🌐 Swift | 📅 2026-11-08)
-
-  <details>
-  <summary>Screenshots</summary>
-  <p>
-
-  <img src='https://raw.githubusercontent.com/ateymoori/oh-my-android/main/docs/panel.jpg' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
-
-  <img src='https://raw.githubusercontent.com/ateymoori/oh-my-android/main/docs/layout-inspector-talkback.jpg' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
-
-  <img src='https://raw.githubusercontent.com/ateymoori/oh-my-android/main/docs/ai-agents.jpg' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
-
-  </p>
-  </details>
-
-* <b><code>   102⭐</code></b> <b><code>    14🍴</code></b> [noswoosh](https://github.com/mmathys/noswoosh) ⭐ 102 | 🐛 8 | 🌐 Swift | 📅 2026-11-01) - Instant, animation-free switching between macOS Spaces with a 3-finger swipe or Ctrl+arrow keys.
+* <b><code>   102⭐</code></b> <b><code>    14🍴</code></b> [noswoosh](https://github.com/mmathys/noswoosh) ⭐ 106 | 🐛 8 | 🌐 Swift | 📅 2026-11-01) - Instant, animation-free switching between macOS Spaces with a 3-finger swipe or Ctrl+arrow keys.
 
   **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
 
@@ -15478,11 +15478,11 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-* <b><code>   101⭐</code></b> <b><code>    12🍴</code></b> [Vitals](https://github.com/slawek19926/Vitals) ⭐ 101 | 🐛 1 | 🌐 Swift | 📅 2026-10-12) - Native macOS system monitor for Apple Silicon, SMC sensors, processes, disks, network and system health.
+* <b><code>   101⭐</code></b> <b><code>    12🍴</code></b> [Vitals](https://github.com/slawek19926/Vitals) ⭐ 103 | 🐛 1 | 🌐 Swift | 📅 2026-10-12) - Native macOS system monitor for Apple Silicon, SMC sensors, processes, disks, network and system health.
 
   **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift <img src='./icons/cpp-64.png' alt='C++ icon' title='C++' height='16'/> C++
 
-  **Website:** <b><code>   101⭐</code></b> <b><code>    12🍴</code></b> <https://github.com/slawek19926/Vitals> ⭐ 101 | 🐛 1 | 🌐 Swift | 📅 2026-10-12)
+  **Website:** <b><code>   101⭐</code></b> <b><code>    12🍴</code></b> <https://github.com/slawek19926/Vitals> ⭐ 103 | 🐛 1 | 🌐 Swift | 📅 2026-10-12)
 
   <details>
   <summary>Screenshots</summary>
@@ -15514,7 +15514,7 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-* <b><code>    96⭐</code></b> <b><code>     5🍴</code></b> [Nightwatch](https://github.com/rsutcliffe/nightwatch) ⭐ 96 | 🐛 11 | 🌐 Swift | 📅 2026-11-08) - Menu-bar app for amateur astronomers that says when tonight will be clear enough for a long imaging session, and what to point at.
+* <b><code>    96⭐</code></b> <b><code>     5🍴</code></b> [Nightwatch](https://github.com/rsutcliffe/nightwatch) ⭐ 97 | 🐛 11 | 🌐 Swift | 📅 2026-11-08) - Menu-bar app for amateur astronomers that says when tonight will be clear enough for a long imaging session, and what to point at.
 
   **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift <img src='./icons/c-64.png' alt='C icon' title='C' height='16'/> C
 
@@ -15533,11 +15533,11 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-* <b><code>    89⭐</code></b> <b><code>     9🍴</code></b> [Bye-AppQuit](https://github.com/designsbymuzeer/Bye-Mac-App) ⭐ 89 | 🐛 2 | 🌐 Swift | 📅 2025-11-28) - A minimal native macOS app to quickly view and Bulk kill running processes.
+* <b><code>    89⭐</code></b> <b><code>     9🍴</code></b> [Bye-AppQuit](https://github.com/designsbymuzeer/Bye-Mac-App) ⭐ 90 | 🐛 2 | 🌐 Swift | 📅 2025-11-28) - A minimal native macOS app to quickly view and Bulk kill running processes.
 
   **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
 
-  **Website:** <b><code>    89⭐</code></b> <b><code>     9🍴</code></b> <https://github.com/designsbymuzeer/Bye-Mac-App> ⭐ 89 | 🐛 2 | 🌐 Swift | 📅 2025-11-28)
+  **Website:** <b><code>    89⭐</code></b> <b><code>     9🍴</code></b> <https://github.com/designsbymuzeer/Bye-Mac-App> ⭐ 90 | 🐛 2 | 🌐 Swift | 📅 2025-11-28)
 
   <details>
   <summary>Screenshots</summary>
@@ -15548,7 +15548,7 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-* <b><code>    88⭐</code></b> <b><code>    12🍴</code></b> [ScreenTranslate](https://github.com/hcmhcs/screenTranslate) ⭐ 88 | 🐛 3 | 🌐 Swift | 📅 2026-11-08) - Capture any area or select text to translate instantly, fully on-device with Apple Vision OCR and Apple Translation.
+* <b><code>    88⭐</code></b> <b><code>    12🍴</code></b> [ScreenTranslate](https://github.com/hcmhcs/screenTranslate) ⭐ 89 | 🐛 3 | 🌐 Swift | 📅 2026-11-09) - Capture any area or select text to translate instantly, fully on-device with Apple Vision OCR and Apple Translation.
 
   **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
 
@@ -15565,6 +15565,25 @@ You can see in which language an app is written. Currently there are following l
   <img src='https://raw.githubusercontent.com/hisaac/PlainPasta/main/docs/without-plain-pasta.gif' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
 
   <img src='https://raw.githubusercontent.com/hisaac/PlainPasta/main/docs/with-plain-pasta.gif' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
+
+  </p>
+  </details>
+
+* <b><code>    76⭐</code></b> <b><code>     8🍴</code></b> [Aman Check](https://github.com/MidZai/aman_check) ⭐ 80 | 🐛 9 | 🌐 Swift | 📅 2026-10-20) - Dated, honest condition report for a used Mac: locks, battery, SSD and guided hardware tests.
+
+  **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
+
+  **Website:** 🌎 [https://midzai.github.io/aman\_check/](midzai.github.io/aman_check/)
+
+  <details>
+  <summary>Screenshots</summary>
+  <p>
+
+  <img src='https://raw.githubusercontent.com/MidZai/aman_check/main/docs/screenshots/overview.png' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
+
+  <img src='https://raw.githubusercontent.com/MidZai/aman_check/main/docs/screenshots/locks.png' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
+
+  <img src='https://raw.githubusercontent.com/MidZai/aman_check/main/docs/screenshots/report.png' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
 
   </p>
   </details>
@@ -15595,25 +15614,6 @@ You can see in which language an app is written. Currently there are following l
   <p>
 
   <img src='https://raw.githubusercontent.com/yagcioglutoprak/dusty/main/docs/screenshots/panel.png' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
-
-  </p>
-  </details>
-
-* <b><code>    76⭐</code></b> <b><code>     8🍴</code></b> [Aman Check](https://github.com/MidZai/aman_check) ⭐ 76 | 🐛 9 | 🌐 Swift | 📅 2026-10-20) - Dated, honest condition report for a used Mac: locks, battery, SSD and guided hardware tests.
-
-  **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
-
-  **Website:** 🌎 [https://midzai.github.io/aman\_check/](midzai.github.io/aman_check/)
-
-  <details>
-  <summary>Screenshots</summary>
-  <p>
-
-  <img src='https://raw.githubusercontent.com/MidZai/aman_check/main/docs/screenshots/overview.png' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
-
-  <img src='https://raw.githubusercontent.com/MidZai/aman_check/main/docs/screenshots/locks.png' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
-
-  <img src='https://raw.githubusercontent.com/MidZai/aman_check/main/docs/screenshots/report.png' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
 
   </p>
   </details>
@@ -15707,7 +15707,7 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-* <b><code>    60⭐</code></b> <b><code>     6🍴</code></b> [Better Resource Monitor](https://github.com/alexx855/better-resource-monitor) ⭐ 60 | 🐛 3 | 🌐 Rust | 📅 2026-11-02) - Lightweight macOS menu bar monitor for CPU, memory, storage, GPU, and network usage.
+* <b><code>    60⭐</code></b> <b><code>     6🍴</code></b> [Better Resource Monitor](https://github.com/alexx855/better-resource-monitor) ⭐ 60 | 🐛 3 | 🌐 Rust | 📅 2026-11-09) - Lightweight macOS menu bar monitor for CPU, memory, storage, GPU, and network usage.
 
   **Languages:** <img src='./icons/rust-64.png' alt='Rust icon' title='Rust' height='16'/> Rust <img src='./icons/typescript-64.png' alt='TypeScript icon' title='TypeScript' height='16'/> TypeScript
 
@@ -15726,7 +15726,7 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-* <b><code>    58⭐</code></b> <b><code>     8🍴</code></b> [Notchly](https://github.com/Notchly/Notchly) ⭐ 58 | 🐛 2 | 🌐 Swift | 📅 2026-08-11) - Lightweight native macOS app that turns the MacBook notch into an interactive space for music controls, battery states, gestures, and custom HUDs.
+* <b><code>    58⭐</code></b> <b><code>     8🍴</code></b> [Notchly](https://github.com/Notchly/Notchly) ⭐ 59 | 🐛 2 | 🌐 Swift | 📅 2026-08-11) - Lightweight native macOS app that turns the MacBook notch into an interactive space for music controls, battery states, gestures, and custom HUDs.
 
   **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
 
@@ -15741,11 +15741,11 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-* <b><code>    56⭐</code></b> <b><code>     7🍴</code></b> [Bulchimbeon](https://github.com/s3onghyun/bulchimbeon) ⭐ 56 | 🐛 15 | 🌐 Go | 📅 2026-11-08) - Menu bar app that keeps the Mac awake only while AI coding agents are working, with lid-closed mode and heat and battery safeguards.
+* <b><code>    56⭐</code></b> <b><code>     7🍴</code></b> [Bulchimbeon](https://github.com/s3onghyun/bulchimbeon) ⭐ 57 | 🐛 15 | 🌐 Go | 📅 2026-11-09) - Menu bar app that keeps the Mac awake only while AI coding agents are working, with lid-closed mode and heat and battery safeguards.
 
   **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
 
-  **Website:** <b><code>    56⭐</code></b> <b><code>     7🍴</code></b> <https://github.com/s3onghyun/bulchimbeon> ⭐ 56 | 🐛 15 | 🌐 Go | 📅 2026-11-08)
+  **Website:** <b><code>    56⭐</code></b> <b><code>     7🍴</code></b> <https://github.com/s3onghyun/bulchimbeon> ⭐ 57 | 🐛 15 | 🌐 Go | 📅 2026-11-09)
 
   <details>
   <summary>Screenshots</summary>
@@ -15777,7 +15777,7 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-* <b><code>    49⭐</code></b> <b><code>    11🍴</code></b> [AIQuotaBar](https://github.com/yagcioglutoprak/AIQuotaBar) ⭐ 49 | 🐛 13 | 🌐 Python | 📅 2026-10-04) - Menu bar app that shows Claude, ChatGPT, Cursor and GitHub Copilot usage limits with reset countdowns and pace warnings.
+* <b><code>    49⭐</code></b> <b><code>    11🍴</code></b> [AIQuotaBar](https://github.com/yagcioglutoprak/AIQuotaBar) ⭐ 50 | 🐛 13 | 🌐 Python | 📅 2026-10-04) - Menu bar app that shows Claude, ChatGPT, Cursor and GitHub Copilot usage limits with reset countdowns and pace warnings.
 
   **Languages:** <img src='./icons/python-64.png' alt='Python icon' title='Python' height='16'/> Python
 
@@ -15792,11 +15792,11 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-* <b><code>    48⭐</code></b> <b><code>     3🍴</code></b> [Audio Priority Bar](https://github.com/camguillory/Audio-Priority-Bar) ⭐ 48 | 🐛 1 | 🌐 Swift | 📅 2026-11-03) - Native macOS menu bar app that automatically switches to your highest-priority connected headphones, speakers, and microphone.
+* <b><code>    48⭐</code></b> <b><code>     3🍴</code></b> [Audio Priority Bar](https://github.com/camguillory/Audio-Priority-Bar) ⭐ 50 | 🐛 1 | 🌐 Swift | 📅 2026-11-09) - Native macOS menu bar app that automatically switches to your highest-priority connected headphones, speakers, and microphone.
 
   **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
 
-  **Website:** <b><code>    48⭐</code></b> <b><code>     3🍴</code></b> <https://github.com/camguillory/Audio-Priority-Bar> ⭐ 48 | 🐛 1 | 🌐 Swift | 📅 2026-11-03)
+  **Website:** <b><code>    48⭐</code></b> <b><code>     3🍴</code></b> <https://github.com/camguillory/Audio-Priority-Bar> ⭐ 50 | 🐛 1 | 🌐 Swift | 📅 2026-11-09)
 
   <details>
   <summary>Screenshots</summary>
@@ -15814,6 +15814,12 @@ You can see in which language an app is written. Currently there are following l
   **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
 
   **Website:** 🌎 [https://claudestatistics.vercel.app/](claudestatistics.vercel.app/)
+
+* <b><code>    47⭐</code></b> <b><code>     2🍴</code></b> [Live Translator](https://github.com/umutcetinkaya/live-translator) ⭐ 48 | 🐛 0 | 🌐 Python | 📅 2026-07-28) - Real-time on-screen translation of any system audio (YouTube, podcasts, meetings) using OpenAI or Google Gemini.
+
+  **Languages:** <img src='./icons/python-64.png' alt='Python icon' title='Python' height='16'/> Python
+
+  **Website:** <b><code>    47⭐</code></b> <b><code>     2🍴</code></b> <https://github.com/umutcetinkaya/live-translator> ⭐ 48 | 🐛 0 | 🌐 Python | 📅 2026-07-28)
 
 * <b><code>    47⭐</code></b> <b><code>    16🍴</code></b> [OffPDF](https://github.com/McanKul/offpdf) ⭐ 48 | 🐛 16 | 🌐 Rust | 📅 2026-11-06) - An offline PDF toolkit with 23 tools for editing, converting, organizing, OCR, and more.
 
@@ -15845,11 +15851,20 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-* <b><code>    47⭐</code></b> <b><code>     2🍴</code></b> [Live Translator](https://github.com/umutcetinkaya/live-translator) ⭐ 47 | 🐛 0 | 🌐 Python | 📅 2026-07-28) - Real-time on-screen translation of any system audio (YouTube, podcasts, meetings) using OpenAI or Google Gemini.
+* <b><code>    46⭐</code></b> <b><code>     4🍴</code></b> [Candela](https://github.com/Rydersel/Candela) ⭐ 47 | 🐛 4 | 🌐 Swift | 📅 2026-11-09) - Protects your displays from OLED burn-in and wear: panel health history, a checkup for defects, and the everyday brightness, volume, and scaling controls macOS leaves out.
 
-  **Languages:** <img src='./icons/python-64.png' alt='Python icon' title='Python' height='16'/> Python
+  **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
 
-  **Website:** <b><code>    47⭐</code></b> <b><code>     2🍴</code></b> <https://github.com/umutcetinkaya/live-translator> ⭐ 47 | 🐛 0 | 🌐 Python | 📅 2026-07-28)
+  **Website:** 🌎 [https://candela.fyi](candela.fyi)
+
+  <details>
+  <summary>Screenshots</summary>
+  <p>
+
+  <img src='https://raw.githubusercontent.com/Rydersel/Candela/main/.github/assets/hero.webp' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
+
+  </p>
+  </details>
 
 * <b><code>    47⭐</code></b> <b><code>     3🍴</code></b> [Slime](https://github.com/Mas0nSun/Slime) ⚠️ Archived) - App icon assets generator written in SwiftUI
 
@@ -15864,17 +15879,17 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-* <b><code>    46⭐</code></b> <b><code>     4🍴</code></b> [Candela](https://github.com/Rydersel/Candela) ⭐ 46 | 🐛 8 | 🌐 Swift | 📅 2026-11-06) - Protects your displays from OLED burn-in and wear: panel health history, a checkup for defects, and the everyday brightness, volume, and scaling controls macOS leaves out.
+* <b><code>    43⭐</code></b> <b><code>     1🍴</code></b> [HideNotch](https://github.com/niklasravnsborg/HideNotch) ⭐ 45 | 🐛 0 | 🌐 Swift | 📅 2026-11-08) - Paints the menu bar black on MacBooks with a notch, so the notch blends in, and can round the screen corners.
 
   **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
 
-  **Website:** 🌎 [https://candela.fyi](candela.fyi)
+  **Website:** 🌎 [https://hidenotch.app](hidenotch.app)
 
   <details>
   <summary>Screenshots</summary>
   <p>
 
-  <img src='https://raw.githubusercontent.com/Rydersel/Candela/main/.github/assets/hero.webp' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
+  <img src='https://raw.githubusercontent.com/niklasravnsborg/HideNotch/main/.github/readme.png' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
 
   </p>
   </details>
@@ -15890,21 +15905,6 @@ You can see in which language an app is written. Currently there are following l
   <p>
 
   <img src='https://leoanimesh.github.io/OpenClean/assets/smart-scan-results.webp' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
-
-  </p>
-  </details>
-
-* <b><code>    43⭐</code></b> <b><code>     1🍴</code></b> [HideNotch](https://github.com/niklasravnsborg/HideNotch) ⭐ 43 | 🐛 2 | 🌐 Swift | 📅 2026-10-28) - Paints the menu bar black on MacBooks with a notch, so the notch blends in, and can round the screen corners.
-
-  **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
-
-  **Website:** 🌎 [https://hidenotch.app](hidenotch.app)
-
-  <details>
-  <summary>Screenshots</summary>
-  <p>
-
-  <img src='https://raw.githubusercontent.com/niklasravnsborg/HideNotch/main/.github/readme.png' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
 
   </p>
   </details>
@@ -16004,7 +16004,7 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-* <b><code>    35⭐</code></b> <b><code>     1🍴</code></b> [Notchi](https://github.com/cyrus-cai/notchi) ⭐ 35 | 🐛 2 | 🌐 Swift | 📅 2026-11-07) - Turn the MacBook notch into a place to ask AI, save notes, set reminders, or run coding agents.
+* <b><code>    35⭐</code></b> <b><code>     1🍴</code></b> [Notchi](https://github.com/cyrus-cai/notchi) ⭐ 35 | 🐛 2 | 🌐 Swift | 📅 2026-11-09) - Turn the MacBook notch into a place to ask AI, save notes, set reminders, or run coding agents.
 
   **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
 
@@ -16038,7 +16038,7 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-* <b><code>    34⭐</code></b> <b><code>     3🍴</code></b> [Presspeech](https://github.com/rcourtman/presspeech) ⭐ 34 | 🐛 4 | 🌐 Python | 📅 2026-11-07) - Push-to-talk dictation for Apple Silicon Macs. Hold a key, speak, release — the transcript pastes at the cursor in about 100 ms, fully on-device.
+* <b><code>    34⭐</code></b> <b><code>     3🍴</code></b> [Presspeech](https://github.com/rcourtman/presspeech) ⭐ 34 | 🐛 4 | 🌐 Python | 📅 2026-11-09) - Push-to-talk dictation for Apple Silicon Macs. Hold a key, speak, release — the transcript pastes at the cursor in about 100 ms, fully on-device.
 
   **Languages:** <img src='./icons/python-64.png' alt='Python icon' title='Python' height='16'/> Python <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
 
@@ -16129,6 +16129,25 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
+* <b><code>    29⭐</code></b> <b><code>     5🍴</code></b> [StableBar](https://github.com/Seb-GRAF/StableBar) ⭐ 31 | 🐛 51 | 🌐 Swift | 📅 2026-11-09) - Customizable menu bar replacement with themes, widgets, popups and AeroSpace, yabai or OmniWM workspaces.
+
+  **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
+
+  **Website:** 🌎 [https://stablebar.app](stablebar.app)
+
+  <details>
+  <summary>Screenshots</summary>
+  <p>
+
+  <img src='https://raw.githubusercontent.com/Seb-GRAF/StableBar/main/site/images/social-card.png' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
+
+  <img src='https://raw.githubusercontent.com/Seb-GRAF/StableBar/main/docs/images/themes-light.webp' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
+
+  <img src='https://raw.githubusercontent.com/Seb-GRAF/StableBar/main/docs/images/popups-dark.webp' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
+
+  </p>
+  </details>
+
 * <b><code>    31⭐</code></b> <b><code>     0🍴</code></b> [Wave Subs](https://github.com/jason-jm/wavesubs) ⭐ 31 | 🐛 7 | 🌐 TypeScript | 📅 2026-09-27) - Generates SRT/ASS subtitles from any video with local AI and auto-translates them, fully offline.
 
   **Languages:** <img src='./icons/typescript-64.png' alt='TypeScript icon' title='TypeScript' height='16'/> TypeScript
@@ -16147,6 +16166,12 @@ You can see in which language an app is written. Currently there are following l
 
   </p>
   </details>
+
+* <b><code>    29⭐</code></b> <b><code>     1🍴</code></b> [Abendrot](https://github.com/matthewrball/abendrot) ⭐ 30 | 🐛 0 | 🌐 Swift | 📅 2026-11-09) - Free open-source Mac screen warmer that cuts nighttime blue light and warms every display around local sunset.
+
+  **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
+
+  **Website:** 🌎 [https://abendrot.app](abendrot.app)
 
 * <b><code>    30⭐</code></b> <b><code>     2🍴</code></b> [Depflush](https://github.com/cypriennkeneng/depflush) ⭐ 30 | 🐛 0 | 🌐 Swift | 📅 2026-10-04) - Finds what Docker, node\_modules, old IDEs and duplicate files leave behind, with a preview and the Trash by default.
 
@@ -16167,40 +16192,15 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-* <b><code>    29⭐</code></b> <b><code>     5🍴</code></b> [StableBar](https://github.com/Seb-GRAF/StableBar) ⭐ 30 | 🐛 54 | 🌐 Swift | 📅 2026-11-08) - Customizable menu bar replacement with themes, widgets, popups and AeroSpace, yabai or OmniWM workspaces.
-
-  **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
-
-  **Website:** 🌎 [https://stablebar.app](stablebar.app)
-
-  <details>
-  <summary>Screenshots</summary>
-  <p>
-
-  <img src='https://raw.githubusercontent.com/Seb-GRAF/StableBar/main/site/images/social-card.png' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
-
-  <img src='https://raw.githubusercontent.com/Seb-GRAF/StableBar/main/docs/images/themes-light.webp' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
-
-  <img src='https://raw.githubusercontent.com/Seb-GRAF/StableBar/main/docs/images/popups-dark.webp' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
-
-  </p>
-  </details>
-
-* <b><code>    29⭐</code></b> <b><code>     1🍴</code></b> [Abendrot](https://github.com/matthewrball/abendrot) ⭐ 29 | 🐛 2 | 🌐 Swift | 📅 2026-10-19) - Free open-source Mac screen warmer that cuts nighttime blue light and warms every display around local sunset.
-
-  **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
-
-  **Website:** 🌎 [https://abendrot.app](abendrot.app)
-
 * <b><code>    29⭐</code></b> <b><code>     6🍴</code></b> [PercentCalculator](https://github.com/cemolcay/PercentCalculator) ⭐ 29 | 🐛 2 | 🌐 Swift | 📅 2023-01-24) - A menu bar application that calculates percents.
 
   **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
 
-* <b><code>    26⭐</code></b> <b><code>     2🍴</code></b> [LanGuard](https://github.com/roypadina/LanGuard) ⭐ 26 | 🐛 0 | 🌐 Swift | 📅 2026-11-04) - Wi-Fi off when wired LAN active, back on when unplugged. Edge-based, wake-aware, no admin required.
+* <b><code>    26⭐</code></b> <b><code>     2🍴</code></b> [LanGuard](https://github.com/roypadina/LanGuard) ⭐ 27 | 🐛 0 | 🌐 Swift | 📅 2026-11-04) - Wi-Fi off when wired LAN active, back on when unplugged. Edge-based, wake-aware, no admin required.
 
   **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
 
-  **Website:** <b><code>    26⭐</code></b> <b><code>     2🍴</code></b> <https://github.com/roypadina/LanGuard> ⭐ 26 | 🐛 0 | 🌐 Swift | 📅 2026-11-04)
+  **Website:** <b><code>    26⭐</code></b> <b><code>     2🍴</code></b> <https://github.com/roypadina/LanGuard> ⭐ 27 | 🐛 0 | 🌐 Swift | 📅 2026-11-04)
 
 * <b><code>    26⭐</code></b> <b><code>     2🍴</code></b> [mac-sound-fix](https://github.com/dragstor/mac-sound-fix) ⭐ 26 | 🐛 0 | 🌐 Swift | 📅 2022-07-20) - Mac Sound Re-Enabler.
 
@@ -16215,7 +16215,7 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-* <b><code>    23⭐</code></b> <b><code>     3🍴</code></b> [AI Monitor](https://github.com/tobymarks/esp32-ai-monitor) ⭐ 23 | 🐛 7 | 🌐 Swift | 📅 2026-11-04) - Companion app that shows Claude, ChatGPT, Gemini, Copilot, and Cursor usage limits on a USB-connected ESP32 desk display.
+* <b><code>    23⭐</code></b> <b><code>     3🍴</code></b> [AI Monitor](https://github.com/tobymarks/esp32-ai-monitor) ⭐ 24 | 🐛 7 | 🌐 Swift | 📅 2026-11-04) - Companion app that shows Claude, ChatGPT, Gemini, Copilot, and Cursor usage limits on a USB-connected ESP32 desk display.
 
   **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift <img src='./icons/cpp-64.png' alt='C++ icon' title='C++' height='16'/> C++
 
@@ -16251,7 +16251,7 @@ You can see in which language an app is written. Currently there are following l
 
   **Languages:** <img src='./icons/objective-c-64.png' alt='Objective-C icon' title='Objective-C' height='16'/> Objective-C
 
-* <b><code>    22⭐</code></b> <b><code>     1🍴</code></b> [OpenVoiceFlow](https://github.com/shimoverse/openvoiceflow) ⭐ 22 | 🐛 1 | 🌐 Swift | 📅 2026-11-06) - On-device voice dictation for macOS with local transcription and optional text cleanup.
+* <b><code>    22⭐</code></b> <b><code>     1🍴</code></b> [OpenVoiceFlow](https://github.com/shimoverse/openvoiceflow) ⭐ 22 | 🐛 1 | 🌐 Swift | 📅 2026-11-09) - On-device voice dictation for macOS with local transcription and optional text cleanup.
 
   **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift <img src='./icons/objective-c-64.png' alt='Objective-C icon' title='Objective-C' height='16'/> Objective-C <img src='./icons/python-64.png' alt='Python icon' title='Python' height='16'/> Python <img src='./icons/shell-64.png' alt='Shell icon' title='Shell' height='16'/> Shell
 
@@ -16326,7 +16326,7 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-* <b><code>    18⭐</code></b> <b><code>     3🍴</code></b> [BrowBro](https://github.com/tiagomoraes/browbro) ⭐ 19 | 🐛 11 | 🌐 Swift | 📅 2026-11-03) - Keyboard-first macOS menu bar app to open clicked links in the right browser or profile.
+* <b><code>    18⭐</code></b> <b><code>     3🍴</code></b> [BrowBro](https://github.com/tiagomoraes/browbro) ⭐ 20 | 🐛 11 | 🌐 Swift | 📅 2026-11-03) - Keyboard-first macOS menu bar app to open clicked links in the right browser or profile.
 
   **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
 
@@ -16419,11 +16419,11 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-* <b><code>    15⭐</code></b> <b><code>     1🍴</code></b> [BannerHither](https://github.com/KJeon10/BannerHither) ⭐ 15 | 🐛 0 | 🌐 Swift | 📅 2026-09-10) - Menu bar app that moves macOS notification banners to the display you are looking at: the screen under the mouse pointer, the screen of the active window, or a fixed display.
+* <b><code>    15⭐</code></b> <b><code>     1🍴</code></b> [BannerHither](https://github.com/KJeon10/BannerHither) ⭐ 16 | 🐛 0 | 🌐 Swift | 📅 2026-09-10) - Menu bar app that moves macOS notification banners to the display you are looking at: the screen under the mouse pointer, the screen of the active window, or a fixed display.
 
   **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
 
-  **Website:** <b><code>    15⭐</code></b> <b><code>     1🍴</code></b> <https://github.com/KJeon10/BannerHither> ⭐ 15 | 🐛 0 | 🌐 Swift | 📅 2026-09-10)
+  **Website:** <b><code>    15⭐</code></b> <b><code>     1🍴</code></b> <https://github.com/KJeon10/BannerHither> ⭐ 16 | 🐛 0 | 🌐 Swift | 📅 2026-09-10)
 
   <details>
   <summary>Screenshots</summary>
@@ -16502,17 +16502,17 @@ You can see in which language an app is written. Currently there are following l
 
   **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
 
+* <b><code>    12⭐</code></b> <b><code>     1🍴</code></b> [markdown-quicklook](https://github.com/ruspg/markdown-quicklook) ⭐ 13 | 🐛 0 | 🌐 Shell | 📅 2026-09-23) - Rendered Markdown Quick Look preview with syntax highlighting, YAML front matter, configurable fonts/colors, and a menu bar toggle.
+
+  **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
+
+  **Website:** <b><code>    12⭐</code></b> <b><code>     1🍴</code></b> <https://github.com/ruspg/markdown-quicklook> ⭐ 13 | 🐛 0 | 🌐 Shell | 📅 2026-09-23)
+
 * <b><code>    13⭐</code></b> <b><code>     1🍴</code></b> [OmniPrompt](https://github.com/nsmet/omniprompt-gpt-mac-app) ⭐ 13 | 🐛 0 | 🌐 Swift | 📅 2023-07-31) - Your ultimate GPT companion for seamless access on your Mac
 
   **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
 
   **Website:** 🌎 [https://omniprompt.app/](omniprompt.app/)
-
-* <b><code>    12⭐</code></b> <b><code>     1🍴</code></b> [markdown-quicklook](https://github.com/ruspg/markdown-quicklook) ⭐ 12 | 🐛 0 | 🌐 Shell | 📅 2026-09-23) - Rendered Markdown Quick Look preview with syntax highlighting, YAML front matter, configurable fonts/colors, and a menu bar toggle.
-
-  **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
-
-  **Website:** <b><code>    12⭐</code></b> <b><code>     1🍴</code></b> <https://github.com/ruspg/markdown-quicklook> ⭐ 12 | 🐛 0 | 🌐 Shell | 📅 2026-09-23)
 
 * <b><code>    12⭐</code></b> <b><code>     0🍴</code></b> [Offsend](https://github.com/Offsend/Offsend) ⭐ 12 | 🐛 0 | 🌐 Swift | 📅 2026-11-08) - Local-first menu bar app that prepares projects, files, and clipboard text for AI tools by detecting and masking sensitive data.
 
@@ -16580,6 +16580,36 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
+* <b><code>    10⭐</code></b> <b><code>     3🍴</code></b> [KyttoMCP](https://github.com/heyitsjakub/KyttoMCP) ⭐ 11 | 🐛 3 | 🌐 C# | 📅 2026-11-07) - Manage MCP servers across Claude Desktop, Claude Code, Cursor, VS Code and Codex in one matrix, with health checks, a tool safety scan and local config backups.
+
+  **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
+
+  **Website:** 🌎 [https://kytto.jakubhecht.sk/](kytto.jakubhecht.sk/)
+
+  <details>
+  <summary>Screenshots</summary>
+  <p>
+
+  <img src='https://raw.githubusercontent.com/heyitsjakub/KyttoMCP/main/docs/screenshot.png' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
+
+  </p>
+  </details>
+
+* <b><code>    10⭐</code></b> <b><code>     1🍴</code></b> [Çentik](https://github.com/YusufEmreYazici/Centik) ⭐ 11 | 🐛 1 | 🌐 Swift | 📅 2026-10-28) - Turns the MacBook notch into a live island for music, system stats, an AI chat with your own Claude, Gemini or Ollama, clipboard history, a file shelf and meeting alerts.
+
+  **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
+
+  **Website:** <b><code>    10⭐</code></b> <b><code>     1🍴</code></b> <https://github.com/YusufEmreYazici/Centik> ⭐ 11 | 🐛 1 | 🌐 Swift | 📅 2026-10-28)
+
+  <details>
+  <summary>Screenshots</summary>
+  <p>
+
+  <img src='https://raw.githubusercontent.com/YusufEmreYazici/Centik/main/docs/assets/hero.gif' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
+
+  </p>
+  </details>
+
 * <b><code>    10⭐</code></b> <b><code>     3🍴</code></b> [Bzz](https://github.com/zlopixatel/bzz) ⭐ 10 | 🐛 1 | 🌐 Go | 📅 2026-06-11) - Automatic keyboard layout switcher (RU↔EN). Detects mistyped words like "ghbdtn" and replaces with "привет" on the fly. Open-source replacement for the abandoned Punto Switcher.
 
   **Languages:** <img src='./icons/golang-64.png' alt='Go icon' title='Go' height='16'/> Go
@@ -16610,26 +16640,11 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-* <b><code>    10⭐</code></b> <b><code>     0🍴</code></b> [Hangar](https://github.com/0fuz/hangar) ⭐ 10 | 🐛 0 | 🌐 Swift | 📅 2026-07-16) - Menu bar launcher for one-click, toggleable terminal and app snippets.
+* <b><code>    10⭐</code></b> <b><code>     0🍴</code></b> [Hangar](https://github.com/0fuz/hangar) ⭐ 10 | 🐛 0 | 🌐 Swift | 📅 2026-11-09) - Menu bar launcher for one-click, toggleable terminal and app snippets.
 
   **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
 
-  **Website:** <b><code>    10⭐</code></b> <b><code>     0🍴</code></b> <https://github.com/0fuz/hangar> ⭐ 10 | 🐛 0 | 🌐 Swift | 📅 2026-07-16)
-
-* <b><code>    10⭐</code></b> <b><code>     3🍴</code></b> [KyttoMCP](https://github.com/heyitsjakub/KyttoMCP) ⭐ 10 | 🐛 3 | 🌐 C# | 📅 2026-11-07) - Manage MCP servers across Claude Desktop, Claude Code, Cursor, VS Code and Codex in one matrix, with health checks, a tool safety scan and local config backups.
-
-  **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
-
-  **Website:** 🌎 [https://kytto.jakubhecht.sk/](kytto.jakubhecht.sk/)
-
-  <details>
-  <summary>Screenshots</summary>
-  <p>
-
-  <img src='https://raw.githubusercontent.com/heyitsjakub/KyttoMCP/main/docs/screenshot.png' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
-
-  </p>
-  </details>
+  **Website:** <b><code>    10⭐</code></b> <b><code>     0🍴</code></b> <https://github.com/0fuz/hangar> ⭐ 10 | 🐛 0 | 🌐 Swift | 📅 2026-11-09)
 
 * <b><code>    10⭐</code></b> <b><code>     0🍴</code></b> [Nocturne](https://github.com/dotcomjack/nocturne) ⭐ 10 | 🐛 1 | 🌐 Swift | 📅 2026-09-30) - Makes the menu bar clock unreadable so it stops telling you how late it is, without hiding anything or asking for permissions.
 
@@ -16651,21 +16666,6 @@ You can see in which language an app is written. Currently there are following l
   **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
 
   **Website:** <b><code>    10⭐</code></b> <b><code>     0🍴</code></b> <https://github.com/deepshal99/notch-so-good> ⭐ 10 | 🐛 0 | 🌐 Swift | 📅 2026-10-31)
-
-* <b><code>    10⭐</code></b> <b><code>     1🍴</code></b> [Çentik](https://github.com/YusufEmreYazici/Centik) ⭐ 10 | 🐛 0 | 🌐 Swift | 📅 2026-10-28) - Turns the MacBook notch into a live island for music, system stats, an AI chat with your own Claude, Gemini or Ollama, clipboard history, a file shelf and meeting alerts.
-
-  **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
-
-  **Website:** <b><code>    10⭐</code></b> <b><code>     1🍴</code></b> <https://github.com/YusufEmreYazici/Centik> ⭐ 10 | 🐛 0 | 🌐 Swift | 📅 2026-10-28)
-
-  <details>
-  <summary>Screenshots</summary>
-  <p>
-
-  <img src='https://raw.githubusercontent.com/YusufEmreYazici/Centik/main/docs/assets/hero.gif' width='400' loading='lazy' decoding='async' fetchpriority='low'/>
-
-  </p>
-  </details>
 
 * <b><code>     9⭐</code></b> <b><code>     3🍴</code></b> [Bolo](https://github.com/a692570/bolo) ⭐ 9 | 🐛 0 | 🌐 Rust | 📅 2026-11-04) - Voice dictation menubar app using Telnyx STT and LLM APIs.
 
@@ -16813,7 +16813,7 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-* <b><code>     7⭐</code></b> <b><code>     0🍴</code></b> [KIAgent](https://github.com/edjafarov/kiagent-core) ⭐ 7 | 🐛 80 | 🌐 TypeScript | 📅 2026-11-08) - Personal digital memory: indexes your mail, chats and documents into a local SQLite database and serves them to AI assistants over MCP.
+* <b><code>     7⭐</code></b> <b><code>     0🍴</code></b> [KIAgent](https://github.com/edjafarov/kiagent-core) ⭐ 7 | 🐛 80 | 🌐 TypeScript | 📅 2026-11-09) - Personal digital memory: indexes your mail, chats and documents into a local SQLite database and serves them to AI assistants over MCP.
 
   **Languages:** <img src='./icons/typescript-64.png' alt='TypeScript icon' title='TypeScript' height='16'/> TypeScript
 
@@ -16896,7 +16896,7 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-* <b><code>     5⭐</code></b> <b><code>     1🍴</code></b> [QuotaBar](https://github.com/RoketrP/QuotaBar) ⭐ 5 | 🐛 0 | 🌐 Swift | 📅 2026-08-02) - Local-first macOS menu bar app for tracking OpenAI Codex usage limits, reset countdowns, and optional alerts.
+* <b><code>     5⭐</code></b> <b><code>     1🍴</code></b> [QuotaBar](https://github.com/RoketrP/QuotaBar) ⭐ 5 | 🐛 0 | 🌐 Swift | 📅 2026-11-09) - Local-first macOS menu bar app for tracking OpenAI Codex usage limits, reset countdowns, and optional alerts.
 
   **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
 
@@ -16974,7 +16974,7 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-* <b><code>     2⭐</code></b> <b><code>     3🍴</code></b> [AURA Switcher](https://github.com/klbk/aura-switcher-app) ⭐ 2 | 🐛 1 | 🌐 C++ | 📅 2026-11-07) - Fixes text typed in the wrong keyboard layout right after Space; double Shift converts the last word. A Punto Switcher alternative.
+* <b><code>     2⭐</code></b> <b><code>     3🍴</code></b> [AURA Switcher](https://github.com/klbk/aura-switcher-app) ⭐ 2 | 🐛 1 | 🌐 C++ | 📅 2026-11-09) - Fixes text typed in the wrong keyboard layout right after Space; double Shift converts the last word. A Punto Switcher alternative.
 
   **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
 
@@ -17024,7 +17024,7 @@ You can see in which language an app is written. Currently there are following l
 
   **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
 
-* <b><code>  3301⭐</code></b> <b><code>   377🍴</code></b> [Tunnelblick](https://github.com/Tunnelblick/Tunnelblick) ⭐ 3,301 | 🐛 59 | 🌐 Objective-C | 📅 2026-11-07) - Tunnelblick is a graphic user interface for OpenVPN on macOS.
+* <b><code>  3301⭐</code></b> <b><code>   377🍴</code></b> [Tunnelblick](https://github.com/Tunnelblick/Tunnelblick) ⭐ 3,301 | 🐛 60 | 🌐 Objective-C | 📅 2026-11-07) - Tunnelblick is a graphic user interface for OpenVPN on macOS.
 
   **Languages:** <img src='./icons/objective-c-64.png' alt='Objective-C icon' title='Objective-C' height='16'/> Objective-C
 
@@ -17032,7 +17032,7 @@ You can see in which language an app is written. Currently there are following l
 
   **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
 
-* <b><code>  1465⭐</code></b> <b><code>    84🍴</code></b> [Rockxy](https://github.com/RockxyApp/Rockxy) ⭐ 1,466 | 🐛 85 | 🌐 Swift | 📅 2026-11-06) - Open-source native macOS debugging proxy for inspecting HTTP, HTTPS, WebSocket, and GraphQL traffic.
+* <b><code>  1465⭐</code></b> <b><code>    84🍴</code></b> [Rockxy](https://github.com/RockxyApp/Rockxy) ⭐ 1,471 | 🐛 85 | 🌐 Swift | 📅 2026-11-09) - Open-source native macOS debugging proxy for inspecting HTTP, HTTPS, WebSocket, and GraphQL traffic.
 
   **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
 
@@ -17060,11 +17060,11 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-* <b><code>   754⭐</code></b> <b><code>    35🍴</code></b> [Vortix](https://github.com/Harry-kp/vortix) ⭐ 757 | 🐛 6 | 🌐 Rust | 📅 2026-11-03) - Terminal UI for WireGuard and OpenVPN with multi-tunnel control, real-time telemetry, and leak guarding.
+* <b><code>   754⭐</code></b> <b><code>    35🍴</code></b> [Vortix](https://github.com/Harry-kp/vortix) ⭐ 760 | 🐛 7 | 🌐 Rust | 📅 2026-11-09) - Terminal UI for WireGuard and OpenVPN with multi-tunnel control, real-time telemetry, and leak guarding.
 
   **Languages:** <img src='./icons/rust-64.png' alt='Rust icon' title='Rust' height='16'/> Rust
 
-  **Website:** <b><code>   754⭐</code></b> <b><code>    35🍴</code></b> <https://github.com/Harry-kp/vortix> ⭐ 757 | 🐛 6 | 🌐 Rust | 📅 2026-11-03)
+  **Website:** <b><code>   754⭐</code></b> <b><code>    35🍴</code></b> <https://github.com/Harry-kp/vortix> ⭐ 760 | 🐛 7 | 🌐 Rust | 📅 2026-11-09)
 
 * <b><code>   135⭐</code></b> <b><code>    12🍴</code></b> [VPN Bypass](https://github.com/GeiserX/VPN-Bypass) ⭐ 135 | 🐛 1 | 🌐 Swift | 📅 2026-11-07) - Route specific domains and services around your corporate VPN while keeping the rest of your traffic protected.
 
@@ -17114,7 +17114,7 @@ You can see in which language an app is written. Currently there are following l
 
 ### 🎬 Video (30)
 
-* <b><code> 45803⭐</code></b> <b><code>  2312🍴</code></b> [LosslessCut](https://github.com/mifi/lossless-cut) ⭐ 45,819 | 🐛 163 | 🌐 TypeScript | 📅 2026-11-03) - The swiss army knife of lossless video/audio editing without re-encoding.
+* <b><code> 45803⭐</code></b> <b><code>  2312🍴</code></b> [LosslessCut](https://github.com/mifi/lossless-cut) ⭐ 45,865 | 🐛 164 | 🌐 TypeScript | 📅 2026-11-09) - The swiss army knife of lossless video/audio editing without re-encoding.
 
   **Languages:** <img src='./icons/javascript-64.png' alt='JavaScript icon' title='JavaScript' height='16'/> JavaScript
 
@@ -17129,7 +17129,7 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-* <b><code> 37983⭐</code></b> <b><code>  3641🍴</code></b> [MPV](https://github.com/mpv-player/mpv) ⭐ 37,996 | 🐛 1,162 | 🌐 C | 📅 2026-11-08) - Lightweight, highly configurable media player.
+* <b><code> 37983⭐</code></b> <b><code>  3641🍴</code></b> [MPV](https://github.com/mpv-player/mpv) ⭐ 38,023 | 🐛 1,165 | 🌐 C | 📅 2026-11-09) - Lightweight, highly configurable media player.
 
   **Languages:** <img src='./icons/c-64.png' alt='C icon' title='C' height='16'/> C
 
@@ -17144,11 +17144,11 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-* <b><code> 24918⭐</code></b> <b><code>  1742🍴</code></b> [HandBrake](https://github.com/HandBrake/HandBrake) ⭐ 24,923 | 🐛 297 | 🌐 C | 📅 2026-11-07) - HandBrake is a video transcoder available for Linux, Mac, and Windows.
+* <b><code> 24918⭐</code></b> <b><code>  1742🍴</code></b> [HandBrake](https://github.com/HandBrake/HandBrake) ⭐ 24,941 | 🐛 293 | 🌐 C | 📅 2026-11-09) - HandBrake is a video transcoder available for Linux, Mac, and Windows.
 
   **Languages:** <img src='./icons/c-64.png' alt='C icon' title='C' height='16'/> C
 
-* <b><code> 20357⭐</code></b> <b><code>  6422🍴</code></b> [VLC](https://github.com/videolan/vlc) ⭐ 20,367 | 🐛 2 | 🌐 C | 📅 2026-11-08) -  VLC is a free and open source cross-platform multimedia player
+* <b><code> 20357⭐</code></b> <b><code>  6422🍴</code></b> [VLC](https://github.com/videolan/vlc) ⭐ 20,384 | 🐛 2 | 🌐 C | 📅 2026-11-09) -  VLC is a free and open source cross-platform multimedia player
 
   **Languages:** <img src='./icons/c-64.png' alt='C icon' title='C' height='16'/> C
 
@@ -17171,19 +17171,19 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-* <b><code>  6752⭐</code></b> <b><code>   835🍴</code></b> [OpenShot](https://github.com/OpenShot/openshot-qt) ⭐ 6,755 | 🐛 354 | 🌐 Python | 📅 2026-11-07) - Easy to use, quick to learn, and surprisingly powerful video editor.
+* <b><code>  6752⭐</code></b> <b><code>   835🍴</code></b> [OpenShot](https://github.com/OpenShot/openshot-qt) ⭐ 6,760 | 🐛 341 | 🌐 Python | 📅 2026-11-08) - Easy to use, quick to learn, and surprisingly powerful video editor.
 
   **Languages:** <img src='./icons/python-64.png' alt='Python icon' title='Python' height='16'/> Python
 
-* <b><code>  3636⭐</code></b> <b><code>   131🍴</code></b> [QuickLook Video](https://github.com/Marginal/QLVideo) ⭐ 3,637 | 🐛 5 | 🌐 Swift | 📅 2026-11-06) - This package allows macOS Finder to display thumbnails, static QuickLook previews, cover art and metadata for most types of video files.
+* <b><code>  3636⭐</code></b> <b><code>   131🍴</code></b> [QuickLook Video](https://github.com/Marginal/QLVideo) ⭐ 3,641 | 🐛 5 | 🌐 Swift | 📅 2026-11-06) - This package allows macOS Finder to display thumbnails, static QuickLook previews, cover art and metadata for most types of video files.
 
   **Languages:** <img src='./icons/objective-c-64.png' alt='Objective-C icon' title='Objective-C' height='16'/> Objective-C
 
-* <b><code>  2522⭐</code></b> <b><code>   186🍴</code></b> [Kaset](https://github.com/sozercan/kaset) ⭐ 2,525 | 🐛 136 | 🌐 Swift | 📅 2026-10-31) - Native macOS client for YouTube Music and YouTube, built with Swift and SwiftUI.
+* <b><code>  2522⭐</code></b> <b><code>   186🍴</code></b> [Kaset](https://github.com/sozercan/kaset) ⭐ 2,532 | 🐛 138 | 🌐 Swift | 📅 2026-10-31) - Native macOS client for YouTube Music and YouTube, built with Swift and SwiftUI.
 
   **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
 
-  **Website:** <b><code>  2522⭐</code></b> <b><code>   186🍴</code></b> <https://github.com/sozercan/kaset> ⭐ 2,525 | 🐛 136 | 🌐 Swift | 📅 2026-10-31)
+  **Website:** <b><code>  2522⭐</code></b> <b><code>   186🍴</code></b> <https://github.com/sozercan/kaset> ⭐ 2,532 | 🐛 138 | 🌐 Swift | 📅 2026-10-31)
 
   <details>
   <summary>Screenshots</summary>
@@ -17217,7 +17217,7 @@ You can see in which language an app is written. Currently there are following l
 
   **Languages:** <img src='./icons/javascript-64.png' alt='JavaScript icon' title='JavaScript' height='16'/> JavaScript
 
-* <b><code>   130⭐</code></b> <b><code>     8🍴</code></b> [Shotnix](https://github.com/OMARVII/Shotnix) ⭐ 130 | 🐛 7 | 🌐 Swift | 📅 2026-11-07) - Screenshot and screen recording app for the menu bar with annotation, pinned screenshots, scrolling capture, OCR, and a video editor.
+* <b><code>   130⭐</code></b> <b><code>     8🍴</code></b> [Shotnix](https://github.com/OMARVII/Shotnix) ⭐ 133 | 🐛 7 | 🌐 Swift | 📅 2026-11-07) - Screenshot and screen recording app for the menu bar with annotation, pinned screenshots, scrolling capture, OCR, and a video editor.
 
   **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
 
@@ -17255,7 +17255,7 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-* <b><code>    91⭐</code></b> <b><code>    26🍴</code></b> [GNU Gatekeeper](https://github.com/willamowius/gnugk) ⭐ 91 | 🐛 0 | 🌐 C++ | 📅 2026-10-20) - Video conferencing server for H.323 terminals.
+* <b><code>    91⭐</code></b> <b><code>    26🍴</code></b> [GNU Gatekeeper](https://github.com/willamowius/gnugk) ⭐ 91 | 🐛 0 | 🌐 C++ | 📅 2026-11-09) - Video conferencing server for H.323 terminals.
 
   **Languages:** <img src='./icons/cpp-64.png' alt='C++ icon' title='C++' height='16'/> C++
 
@@ -17291,7 +17291,7 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-* <b><code>    60⭐</code></b> <b><code>     2🍴</code></b> [Frame Player](https://github.com/risenxxx/frame-player) ⭐ 60 | 🐛 9 | 🌐 TypeScript | 📅 2026-11-08) - Video player built on libmpv with seekbar previews, subtitle search matched to the release, torrent streaming, casting to Chromecast and DLNA televisions, and watching together in sync.
+* <b><code>    60⭐</code></b> <b><code>     2🍴</code></b> [Frame Player](https://github.com/risenxxx/frame-player) ⭐ 61 | 🐛 12 | 🌐 TypeScript | 📅 2026-11-08) - Video player built on libmpv with seekbar previews, subtitle search matched to the release, torrent streaming, casting to Chromecast and DLNA televisions, and watching together in sync.
 
   **Languages:** <img src='./icons/rust-64.png' alt='Rust icon' title='Rust' height='16'/> Rust <img src='./icons/typescript-64.png' alt='TypeScript icon' title='TypeScript' height='16'/> TypeScript
 
@@ -17352,7 +17352,7 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-* <b><code>    15⭐</code></b> <b><code>     4🍴</code></b> [BitMatch](https://github.com/BitmatchApp/Bitmatch) ⭐ 15 | 🐛 1 | 🌐 Swift | 📅 2026-10-22) - Offloads camera cards to several drives and verifies every copy with SHA-256 before the card is erased.
+* <b><code>    15⭐</code></b> <b><code>     4🍴</code></b> [BitMatch](https://github.com/BitmatchApp/Bitmatch) ⭐ 15 | 🐛 1 | 🌐 Swift | 📅 2026-11-09) - Offloads camera cards to several drives and verifies every copy with SHA-256 before the card is erased.
 
   **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
 
@@ -17466,13 +17466,13 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-* <b><code>  1320⭐</code></b> <b><code>    40🍴</code></b> [WallpaperMachine](https://github.com/WallpaperMachine/WallpaperMachine) ⭐ 1,336 | 🐛 1 | 🌐 Swift | 📅 2026-11-08) - Native live wallpaper app that plays Wallpaper Engine scene, video and web wallpapers, with Steam Workshop browsing built in.
+* <b><code>  1320⭐</code></b> <b><code>    40🍴</code></b> [WallpaperMachine](https://github.com/WallpaperMachine/WallpaperMachine) ⭐ 1,381 | 🐛 0 | 🌐 Swift | 📅 2026-11-09) - Native live wallpaper app that plays Wallpaper Engine scene, video and web wallpapers, with Steam Workshop browsing built in.
 
   **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift <img src='./icons/rust-64.png' alt='Rust icon' title='Rust' height='16'/> Rust <img src='./icons/cpp-64.png' alt='C++ icon' title='C++' height='16'/> C++
 
   **Website:** 🌎 [https://www.wallpapermachine.app](www.wallpapermachine.app)
 
-* <b><code>   929⭐</code></b> <b><code>    33🍴</code></b> [Phosphene](https://github.com/kageroumado/phosphene) ⭐ 931 | 🐛 3 | 🌐 Swift | 📅 2026-11-05) - Use any video as your macOS wallpaper on the desktop and the lock screen, picked directly from System Settings.
+* <b><code>   929⭐</code></b> <b><code>    33🍴</code></b> [Phosphene](https://github.com/kageroumado/phosphene) ⭐ 933 | 🐛 3 | 🌐 Swift | 📅 2026-11-05) - Use any video as your macOS wallpaper on the desktop and the lock screen, picked directly from System Settings.
 
   **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
 
@@ -17540,7 +17540,7 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-* <b><code>   110⭐</code></b> <b><code>     9🍴</code></b> [SpreadPaper](https://github.com/spreadpaper/SpreadPaper) ⭐ 110 | 🐛 3 | 🌐 Swift | 📅 2026-10-17) - Spread a single high-resolution wallpaper across multiple monitors, with compensation for the bezel gaps between displays.
+* <b><code>   110⭐</code></b> <b><code>     9🍴</code></b> [SpreadPaper](https://github.com/spreadpaper/SpreadPaper) ⭐ 111 | 🐛 3 | 🌐 Swift | 📅 2026-10-17) - Spread a single high-resolution wallpaper across multiple monitors, with compensation for the bezel gaps between displays.
 
   **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
 
@@ -17609,13 +17609,13 @@ You can see in which language an app is written. Currently there are following l
 
 ### 🪟 Window Management (28)
 
-* <b><code> 30256⭐</code></b> <b><code>  1040🍴</code></b> [Rectangle](https://github.com/rxhanson/Rectangle) ⭐ 30,256 | 🐛 63 | 🌐 Swift | 📅 2026-11-06) - Rectangle is a window manager heavily based on Spectacle, written in Swift.
+* <b><code> 30256⭐</code></b> <b><code>  1040🍴</code></b> [Rectangle](https://github.com/rxhanson/Rectangle) ⭐ 30,263 | 🐛 64 | 🌐 Swift | 📅 2026-11-06) - Rectangle is a window manager heavily based on Spectacle, written in Swift.
 
   **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
 
   **Website:** 🌎 [https://rectangleapp.com](rectangleapp.com)
 
-* <b><code> 29982⭐</code></b> <b><code>  1042🍴</code></b> [Ice](https://github.com/jordanbaird/Ice) ⭐ 29,989 | 🐛 454 | 🌐 Swift | 📅 2026-10-06) - Ice is a versatile menu bar manager that goes beyond hiding and showing items to offer a rich set of productivity features.
+* <b><code> 29982⭐</code></b> <b><code>  1042🍴</code></b> [Ice](https://github.com/jordanbaird/Ice) ⭐ 29,995 | 🐛 454 | 🌐 Swift | 📅 2026-10-06) - Ice is a versatile menu bar manager that goes beyond hiding and showing items to offer a rich set of productivity features.
 
   **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
 
@@ -17632,7 +17632,7 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-* <b><code> 29815⭐</code></b> <b><code>   814🍴</code></b> [Yabai](https://github.com/koekeishiya/yabai) ⭐ 29,816 | 🐛 274 | 🌐 C | 📅 2026-06-14) - A tiling window manager for macOS based on binary space partitioning.
+* <b><code> 29815⭐</code></b> <b><code>   814🍴</code></b> [Yabai](https://github.com/koekeishiya/yabai) ⭐ 29,823 | 🐛 275 | 🌐 C | 📅 2026-06-14) - A tiling window manager for macOS based on binary space partitioning.
 
   **Languages:** <img src='./icons/c-64.png' alt='C icon' title='C' height='16'/> C <img src='./icons/objective-c-64.png' alt='Objective-C icon' title='Objective-C' height='16'/> Objective-C
 
@@ -17645,7 +17645,7 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-* <b><code> 16501⭐</code></b> <b><code>   928🍴</code></b> [AltTab](https://github.com/lwouis/alt-tab-macos) ⭐ 16,502 | 🐛 94 | 🌐 Swift | 📅 2026-11-04) - AltTab brings the power of Windows alt-tab to macOS.
+* <b><code> 16501⭐</code></b> <b><code>   928🍴</code></b> [AltTab](https://github.com/lwouis/alt-tab-macos) ⭐ 16,506 | 🐛 98 | 🌐 Swift | 📅 2026-11-04) - AltTab brings the power of Windows alt-tab to macOS.
 
   **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift <img src='./icons/shell-64.png' alt='Shell icon' title='Shell' height='16'/> Shell
 
@@ -17664,7 +17664,7 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-* <b><code> 16501⭐</code></b> <b><code>   928🍴</code></b> [AltTab](https://github.com/lwouis/alt-tab-macos) ⭐ 16,502 | 🐛 94 | 🌐 Swift | 📅 2026-11-04) - Switch between open applications on macOS with a Windows-like Alt+Tab experience.
+* <b><code> 16501⭐</code></b> <b><code>   928🍴</code></b> [AltTab](https://github.com/lwouis/alt-tab-macos) ⭐ 16,506 | 🐛 98 | 🌐 Swift | 📅 2026-11-04) - Switch between open applications on macOS with a Windows-like Alt+Tab experience.
 
   **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
 
@@ -17679,11 +17679,11 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-* <b><code> 16390⭐</code></b> <b><code>   738🍴</code></b> [Hammerspoon](https://github.com/Hammerspoon/hammerspoon) ⭐ 16,392 | 🐛 708 | 🌐 Objective-C | 📅 2026-07-08) - Staggeringly powerful macOS desktop automation with Lua.
+* <b><code> 16390⭐</code></b> <b><code>   738🍴</code></b> [Hammerspoon](https://github.com/Hammerspoon/hammerspoon) ⭐ 16,400 | 🐛 708 | 🌐 Objective-C | 📅 2026-07-08) - Staggeringly powerful macOS desktop automation with Lua.
 
   **Languages:** <img src='./icons/Lua-64.png' alt='Lua icon' title='Lua' height='16'/> Lua <img src='./icons/objective-c-64.png' alt='Objective-C icon' title='Objective-C' height='16'/> Objective-C
 
-* <b><code> 16315⭐</code></b> <b><code>   541🍴</code></b> [Amethyst](https://github.com/ianyh/Amethyst) ⭐ 16,318 | 🐛 290 | 🌐 Swift | 📅 2026-11-06) - Automatic tiling window manager for macOS.
+* <b><code> 16315⭐</code></b> <b><code>   541🍴</code></b> [Amethyst](https://github.com/ianyh/Amethyst) ⭐ 16,319 | 🐛 290 | 🌐 Swift | 📅 2026-11-06) - Automatic tiling window manager for macOS.
 
   **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
 
@@ -17704,7 +17704,7 @@ You can see in which language an app is written. Currently there are following l
 
   **Languages:** <img src='./icons/objective-c-64.png' alt='Objective-C icon' title='Objective-C' height='16'/> Objective-C
 
-* <b><code> 11942⭐</code></b> <b><code>   285🍴</code></b> [Loop](https://github.com/MrKai77/Loop) ⭐ 11,944 | 🐛 59 | 🌐 Swift | 📅 2026-10-18) - Window management made elegant.
+* <b><code> 11942⭐</code></b> <b><code>   285🍴</code></b> [Loop](https://github.com/MrKai77/Loop) ⭐ 11,945 | 🐛 57 | 🌐 Swift | 📅 2026-11-09) - Window management made elegant.
 
   **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
 
@@ -17738,7 +17738,7 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-* <b><code>  4544⭐</code></b> <b><code>   126🍴</code></b> [Phoenix](https://github.com/kasper/phoenix) ⭐ 4,544 | 🐛 48 | 🌐 Objective-C | 📅 2025-08-31) - Lightweight macOS window and app manager scriptable with JavaScript.
+* <b><code>  4544⭐</code></b> <b><code>   126🍴</code></b> [Phoenix](https://github.com/kasper/phoenix) ⭐ 4,545 | 🐛 48 | 🌐 Objective-C | 📅 2025-08-31) - Lightweight macOS window and app manager scriptable with JavaScript.
 
   **Languages:** <img src='./icons/objective-c-64.png' alt='Objective-C icon' title='Objective-C' height='16'/> Objective-C
 
@@ -17766,7 +17766,7 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-* <b><code>   647⭐</code></b> <b><code>    31🍴</code></b> [Tungsten Edge](https://github.com/moonbai-studio/tungsten-edge) ⭐ 648 | 🐛 20 | 🌐 Swift | 📅 2026-11-04) - Per-window taskbar and Dock replacement: every open window gets its own place on the bar, one click away.
+* <b><code>   647⭐</code></b> <b><code>    31🍴</code></b> [Tungsten Edge](https://github.com/moonbai-studio/tungsten-edge) ⭐ 650 | 🐛 20 | 🌐 Swift | 📅 2026-11-04) - Per-window taskbar and Dock replacement: every open window gets its own place on the bar, one click away.
 
   **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
 
@@ -17824,7 +17824,7 @@ You can see in which language an app is written. Currently there are following l
   </p>
   </details>
 
-* <b><code>   102⭐</code></b> <b><code>    14🍴</code></b> [noswoosh](https://github.com/mmathys/noswoosh) ⭐ 102 | 🐛 8 | 🌐 Swift | 📅 2026-11-01) - Instant, animation-free switching between macOS Spaces with a 3-finger swipe or Ctrl+arrow keys.
+* <b><code>   102⭐</code></b> <b><code>    14🍴</code></b> [noswoosh](https://github.com/mmathys/noswoosh) ⭐ 106 | 🐛 8 | 🌐 Swift | 📅 2026-11-01) - Instant, animation-free switching between macOS Spaces with a 3-finger swipe or Ctrl+arrow keys.
 
   **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
 
@@ -18029,8 +18029,8 @@ Thanks to all the people who contribute:
 
 ## Source
 
-<b><code> 51268⭐</code></b> <b><code>  3273🍴</code></b> [serhii-londar/open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps) ⭐ 51,273 | 🐛 471 | 📅 2026-10-31)
+<b><code> 51268⭐</code></b> <b><code>  3273🍴</code></b> [serhii-londar/open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps) ⭐ 51,291 | 🐛 493 | 📅 2026-10-31)
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-08._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-09._
